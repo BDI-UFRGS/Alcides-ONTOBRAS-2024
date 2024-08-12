@@ -1,0 +1,11 @@
+speech
+event
+voicing
+accomplishment
+particular
+Thing
+information-realization
+perdurant
+action
+physical-realization
+spatio-temporal-particular

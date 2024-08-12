@@ -1,0 +1,87 @@
+motorman;the operator of streetcar
+elevator girl;a girl employed to operate an elevator
+engine driver;the operator of a railway locomotive
+operator;"an agent that operates some apparatus or machine. 'the operator of the switchboard'"
+producer;"something that produces. 'maine is a leading producer of potatoes' or 'this microorganism is a producer of disease'"
+trucker;someone who drives a truck as an occupation
+back;the position of a player on a football team who is stationed behind the line of scrimmage
+telephone operator;someone who helps callers get the person they are calling
+force;"a group of people having the power of effective action. 'he joined forces with a band of adventurers'"
+switchboard operator;someone who helps callers get the person they are calling
+switchman;a man who operates railroad switches
+roadhog;a driver who obstructs others
+elevator operator;an operator of an elevator
+designated driver;the member of a party who is designated to refrain from alcohol and so is sober when it is time to drive home
+telegrapher;someone who transmits messages by telegraph
+center;the position on a hockey team of the player who participates in the face off at the beginning of the game
+first;the fielding position of the player on a baseball team who is stationed at first base
+role;"normal or customary activity. 'what is your role on the team?'"
+plate;the position on a baseball team of the player who is stationed behind home plate and who catches the balls that the pitcher throws. 'a catcher needs a lot of protective equipment'. 'he plays behind the plate'
+mid off;the fielding position in cricket closest to the bowler on the off side
+cleanup spot;(baseball) the fourth position in the batting order (usually filled by the best batter on the team)
+liftman;a man employed to operate and elevator. 'in england they call an elevator man a liftman'
+cabdriver;someone who drives a taxi for a living
+left field;the fielding position of the player on a baseball team who is expected to field balls in the left third of the outfield (looking from home plate)
+chauffeuse;a woman chauffeur
+catcher;the position on a baseball team of the player who is stationed behind home plate and who catches the balls that the pitcher throws. 'a catcher needs a lot of protective equipment'. 'he plays behind the plate'
+second;the fielding position of the player on a baseball team who is stationed near 2nd base
+lineman;the position of a player on a football team who is stationed on the line of scrimmage
+center field;the fielding position of the player on a baseball team who is expected to field balls in the central third of the outfield
+end;a position on the line of scrimmage. 'no one wanted to play end'
+owner driver;a motorist who owns the car that he/she drives
+field general;the position of the football player in the backfield who directs the offensive play of his team. 'quarterback is the most important position on the team'
+right field;the fielding position of the player on a baseball team who is expected to field balls in the right third of the outfield (looking from home plate)
+elevator boy;a man employed to operate and elevator. 'in england they call an elevator man a liftman'
+guard;a position on the line of scrimmage. 'guards must be good blockers'
+first base;the fielding position of the player on a baseball team who is stationed at first base
+cleanup;(baseball) the fourth position in the batting order (usually filled by the best batter on the team)
+driver;the operator of a motor vehicle
+motorist;someone who drives (or travels in) an automobile
+center;a position on a basketball team of the player who participates in the center jump to start the game
+taximan;someone who drives a taxi for a living
+mid on;the fielding position in cricket closest to the bowler on the on side
+quarterback;the position of the football player in the backfield who directs the offensive play of his team. 'quarterback is the most important position on the team'
+guard;a position on a basketball team
+telegraphist;someone who transmits messages by telegraph
+speed demon;a driver who exceeds the safe speed limit
+tackle;a position on the line of scrimmage. 'it takes a big man to play tackle'
+power;"one possessing or exercising power or influence or authority: 'the mysterious presence of an evil power'. 'may the force be with you'. 'the forces of evil'"
+pitcher;the position on a baseball team of the player who throws the ball for a batter to try to hit. 'he has played every position except pitcher'. 'they have a southpaw on the mound'
+short;the fielding position of the player on a baseball team who is stationed between 2nd and 3rd base
+teamster;someone who drives a truck as an occupation
+road hog;a driver who obstructs others
+shortstop;the fielding position of the player on a baseball team who is stationed between 2nd and 3rd base
+telephonist;someone who helps callers get the person they are calling
+automobilist;someone who drives (or travels in) an automobile
+forward;a position on a basketball team
+bus driver;someone who drives a bus
+wingback;the position of the offensive back who lines up behind or outside the end
+deus ex machina;"any active agent who appears unexpectedly to solve and insoluble difficulty"
+mound;the position on a baseball team of the player who throws the ball for a batter to try to hit. 'he has played every position except pitcher'. 'they have a southpaw on the mound'
+chauffeur;a man paid to drive a privately owned car
+manipulator;"an agent that operates some apparatus or machine. 'the operator of the switchboard'"
+center;the position of the player on the line of scrimmage who puts the ball in play. 'it is a center's responsibility to get the football to the quarterback'
+position;(in team sports) the role assigned to an individual player. 'what position does he play?'
+railroad engineer;the operator of a railway locomotive
+telegraph operator;someone who transmits messages by telegraph
+speeder;a driver who exceeds the safe speed limit
+tailback;the position of the offensive back on a football team who lines up farthest from the line of scrimmage
+busman;someone who drives a bus
+company operator;an operator who works for a company
+signal caller;the position of the football player in the backfield who directs the offensive play of his team. 'quarterback is the most important position on the team'
+hackdriver;someone who drives a taxi for a living
+influence;one having power to influence another: 'she was the most important influence in my life'. 'he was a bad influence on the chldren'
+halfback;the position of a back on a football team
+truck driver;someone who drives a truck as an occupation
+second base;the fielding position of the player on a baseball team who is stationed near 2nd base
+cabby;someone who drives a taxi for a living
+engineer;the operator of a railway locomotive
+third;the fielding position of the player on a baseball team who is stationed near 3rd base. 'he is playing third'
+cabman;someone who drives a taxi for a living
+moloch;a tyrannical power to be propitiated by human subservience or sacrifice: 'the great moloch of war'. 'duty has become the moloch of modern life'- norman douglas
+cleanup position;(baseball) the fourth position in the batting order (usually filled by the best batter on the team)
+third base;the fielding position of the player on a baseball team who is stationed near 3rd base. 'he is playing third'
+taxidriver;someone who drives a taxi for a living
+elevator man;a man employed to operate and elevator. 'in england they call an elevator man a liftman'
+force;"one possessing or exercising power or influence or authority: 'the mysterious presence of an evil power'. 'may the force be with you'. 'the forces of evil'"
+juggernaut;a massive inexorable force that seems to crush everything in its way

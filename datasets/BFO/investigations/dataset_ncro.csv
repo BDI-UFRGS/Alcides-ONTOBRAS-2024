@@ -1,0 +1,13 @@
+independent continuant;mirna precursor;an mirna gene product from which a mature mirna is capable of being derived.
+independent continuant;small interfering rna;small interfering rna (sirna) is a class of double-stranded rna molecules, 20-25 base pairs in length. sirna plays many roles, but it is most notable in the rna interference (rnai) pathway, where it interferes with thes expression of specific genes with complementary nucleotide sequences.
+independent continuant;mature mirna;a short (20-24 nt) mirna gene product that is derived from pre-mirna that is exported from the nucleus and is capable of being involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mrnas after being incorporated into a rna-induced silencing complex (risc), which recognizes target mrnas through imperfect base pairing with the mirna.
+independent continuant;mirna gene product;a non-coding rna product initially transcribed from a dna gene, or derived from such rna by post-transcriptional processing to become capable of forming part of a rna silencing complex and participating in gene silencing.
+independent continuant;genetic non-coding rna;a genetic non-coding rna is a non-coding rna that is created by transcription in a cell
+independent continuant;non_mammalian_mirna;mirbase:mi0003592
+independent continuant;non-coding rna;a non-coding rna (ncrna) is an rna molecule that is not translated into a protein.
+independent continuant;long non-coding rna;long non-coding rnas (long ncrnas, lncrna) are non-protein coding transcripts longer than 200 nucleotides.
+independent continuant;pre-mirna;a mirna gene product cleaved from a pri-mirna by drosha ribonuclease iii enzyme to produce an approximately 70-nt stem-loop precursor to mature mirna, which is cleaved from the pre-mirna by cytoplasmic dicer ribonuclease .
+independent continuant;primary mirna;a mirna gene product which is capped, inside the nucleus, with a specially modified nucleotide at the 5 end, polyadenylated with multiple adenosines (a poly(a) tail),[49][53] and spliced, forming an rna stem-loop that in turn is part of this mirna precursor
+specifically dependent continuant;non_mammalian_mirna;mirbase:mi0003592
+generically dependent continuant;non_mammalian_mirna;mirbase:mi0003592
+process;non_mammalian_mirna;mirbase:mi0003592

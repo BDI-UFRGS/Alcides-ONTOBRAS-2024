@@ -1,0 +1,162 @@
+independent continuant;target enrichment kit;an assay kit used for the technique of target enrichment
+independent continuant;specimen collection kit;an assay kit processed material comprises a sterile device for collecting a sample, a collection and dispersing device for depositing and holding the sample, a device for transferring the sample, and a container for storing the sample to be tested. there may also be a labeling system for identifying the sample and for diluting the sample
+independent continuant;insulated shipping container;a container which used to ship temperature sensitive products such as foods, pharmaceuticals, organs, blood, biologic materials, and chemicals. they are used as part of a cold chain to help maintain product freshness and efficacy.
+independent continuant;specimen with potentially infectious materials;a specimen that derives from an organism and might contain infectious materials.
+independent continuant;unstained fixed tissue slide;a fixed tissue slide specimen that is contain unstained tissue section(s)
+independent continuant;remnant specimen;a specimen which represent remaining portion of a specimen obtained for clinical purposes that is no longer needed for its original purpose and that would otherwise be discarded
+independent continuant;dna extraction assay kit;an assay kit used for the technique of isolating dna in a biological sample
+independent continuant;aliquot;a specimen that is divided into separate parts which are typically stored in separate containers as individual samples
+independent continuant;dna library;a process material which contains dna fragments that represent the entire genome of an organism.
+independent continuant;specimen derivative;a specimen which is a recognizable part or product taken from specimen
+independent continuant;assay kit;a processed material which contain a set of articles or equipment needed for a specific purpose.
+independent continuant;dna processed specimen;a processed specimen which is the output of preparing a dna sample for further analysis.
+independent continuant;library construction kit;an assay kit processed material that include a set of articles or equipment needed for library construction
+specifically dependent continuant;specimen shipping temperature;a temperature which represent specimen temperature during shipment.
+specifically dependent continuant;refrigerated specimen temperature;a specimen shipping tempruture which represent a refrigerated temperature (2 to 8 c) - wet ice or gel packs (conditioned at 15 c, designed for refrigerated temperatures, or phase change material rated for refrigerated transport).
+specifically dependent continuant;name of specimen donor;a personal name that designates the human being donated specimen
+specifically dependent continuant;name of data generation assay executor;a personal name that designates the person who executed the sequencing run.
+specifically dependent continuant;name of bioinformatics analysis executor;a personal name that designates the person who executed the bioinformatics analysis.
+generically dependent continuant;ligation objective;an objective specification to determine attaching synthetic oligonucleotides with known sequences to both or either ends of complementary dna (cdna) fragments
+generically dependent continuant;data transfer protocol;a protocol plan specification which describes the process of data transfer between two entities
+generically dependent continuant;availability of other specimen from the same donor;a data item which represent the availability of other specimen from the same donor
+generically dependent continuant;compressed file;a data item that represent sort of archive that contains one or more files that have been reduced in size through file compression process
+generically dependent continuant;software description;information about software includes software description.
+generically dependent continuant;fasta format;a file format which represent represent a text-based format for representing either nucleotide sequences or peptide sequences, in which base pairs or amino acids are represented using single-letter codes
+generically dependent continuant;gene expression profile data;a measured expression level which refers to activity (the expression) of thousands of genes at once, to create a global picture of cellular function.
+generically dependent continuant;bioinformatics pipeline;a software pipeline that is composed of a wide array of software algorithms to process biological raw data.
+generically dependent continuant;16s rna sequence data;rna sequence data which is about the 16s gene of one or more organisms.
+generically dependent continuant;software documentation uri;information about software includes software documentation uri
+generically dependent continuant;shipping and receiving of samples sop;a standard operating procedure for shipping and receiving of sample
+generically dependent continuant;user information;an information content entity about user authentication information.
+generically dependent continuant;training manual;a training manual is a book or booklet of instructions, designed to improve the quality of a performed task.
+generically dependent continuant;axt file format;a file format which represent alignment files are produced from blastz, an alignment tool available from webb miller's lab at penn state university. the axtnet and axtchain alignments are produced by processing the alignment files with additional utilities written by jim kent at ucsc
+generically dependent continuant;clinical variant interpretation;a data item representing a variant s significance in relation to a disease or phenotype.
+generically dependent continuant;paraffin embedding and fixation quality check report;required quality check list for the procedure of paraffin embedding and/or fixation.
+generically dependent continuant;ps3 criteria;well-established in vitro or in vivo functional studies supportive of a damaging effect on the gene or gene product
+generically dependent continuant;pm1 criteria;located in a mutational hot spot and/or critical and well-established functional domain (e.g. active site of an enzyme) without benign variation
+generically dependent continuant;interpretation of clinical variant protocol;a protocol that describe the process of assigning a formal classification to the detected variant
+generically dependent continuant;reference genome version number;a reference genome datum which represent reference genome edition
+generically dependent continuant;pm3 criteria;for recessive disorders, detected in trans with a pathogenic variant
+generically dependent continuant;sequencing quality scores;sequencing quality scores measure the probability that a base is called incorrectly.
+generically dependent continuant;software version number;information about software includes information on software version number.
+generically dependent continuant;copy number alteration;a molecular quality that describe changes in copy number that have arisen in somatic tissues.
+generically dependent continuant;secure file transfer protocol;a data transfer protocol is a network protocol that provides file access, file transfer, and file management over any reliable data stream
+generically dependent continuant;storage unit identifier;each freezer, refrigerator, room temperature stor- age cabinet, or other unit appropriate to the collec- tions should have a unique identifier.
+generically dependent continuant;data file url;a url at which the data file file is stored.
+generically dependent continuant;sift score impact;data item which represents a normalized probability of observing the new amino acid at that position and ranges from 0 to 1.
+generically dependent continuant;adapter ligation protocol;a protocol which describes the process of attaching synthetic oligonucleotides with known sequences to both or either ends of complementary dna (cdna) fragments as a prepration for sequencing
+generically dependent continuant;ps2 criteria;de novo (both maternity and paternity confirmed) in a patient with the disease and no family history
+generically dependent continuant;input data file;a data file which contain the input for data transformation process
+generically dependent continuant;amino acid substitution;a data item which represents the substitution of one or more amino acids.
+generically dependent continuant;measurement datum availability statement;a data item which indicates availability of specimen associated data
+generically dependent continuant;microarray cnv genotypes data;a measured expression level measurement datum which represent copy number variation (cnv) obtained by microarray
+generically dependent continuant;result acceptance or rejection protocol;protocol for acceptence or rejcetion must be based on metrics and quality control parameters established during test optimization and utilized during validation
+generically dependent continuant;pm2 criteria;absent from controls (or at extremely low frequency if recessive) in exome sequencing project, 1000 genomes or exac
+generically dependent continuant;whole transcriptome sequence data;rna sequence data which represent the complete complement of transcripts in a sample, at a given time
+generically dependent continuant;acmg moderate classification criteria;acmg guidelines for classification of variants of moderate classification
+generically dependent continuant;hugo gene nomenclature committee gene name;a biological database that contains genes nomenclature created by the hugo gene nomenclature committee (hgnc) that sets the standards for human gene nomenclature.
+generically dependent continuant;standard operating procedure version number;a version number denotes standard operating procedure
+generically dependent continuant;bioinformatics software parameter name;information about software includes information on software parameter name.
+generically dependent continuant;output data file;a data file which contain the output of data transformation process
+generically dependent continuant;bed format;a file format which represent represent format provides a flexible way to define the data lines that are displayed in an annotation track
+generically dependent continuant;ps4 criteria;the prevalence of the variant in affected individuals is significantly increased compared to the prevalence in controls
+generically dependent continuant;information about local data storage;information about data storage location information content entity which represent any physical hardware such as external hard drives, flash drives, and cd
+generically dependent continuant;expression quantitative trait loci data;a data item that describe expression quantitative trait loci.
+generically dependent continuant;metagenomics sequence data;dna sequence data which represent genomic dna obtained from environmental samples
+generically dependent continuant;reference genome datum;a data item which represent datum related to reference genome used as a standard for comparison in basic research and clinical settings
+generically dependent continuant;pm6 criteria;assumed de novo, but without confirmation of paternity and maternity
+generically dependent continuant;likely benign variant;a clinical variant interpretation that represents a sequence variant that is previously unreported and is probably not causative of disease
+generically dependent continuant;expression quantitative trait loci;a genomic feature location which represent the expression quantitative trait loci are genomic loci that explain all or a fraction of variation in expression levels of mrnas
+generically dependent continuant;whole genome sequence data;a dna sequence data which represent the the complete dna sequence of an organism's genome at a single time
+generically dependent continuant;bioinformatics software name;information about software includes software name
+generically dependent continuant;benign variant;a clinical variant interpretation that represents a sequence variant previously classified or reported as a recognized neutral variant
+generically dependent continuant;bioinformatics analysis software;a software designed to extract meaningful information from the mass of molecular biology data
+generically dependent continuant;software run identifier;an identifier which denotes the bioinformatics analysis id.
+generically dependent continuant;data transfer agreement;a document information content entity established between organisations that governs the transfer of one or more data sets from the owner/provider to a third party
+generically dependent continuant;burrows-wheeler aligner algorithm;an algorithm which perform mapping of low-divergent sequences against a large reference genome, such as the human genome.
+generically dependent continuant;biological database;a database which represent libraries of life sciences information, collected from scientific experiments, published literature, high-throughput experiment technology, and computational analysis.
+generically dependent continuant;data file description;a description of the file that contain raw data generated by a measurement device.
+generically dependent continuant;single molecule real time sequencing data;a single molecule real time sequencing data is dna sequence data generated from parallelized single molecule dna sequencing method.
+generically dependent continuant;detected gene mutation;a conclusion based on data about a permanent change in the dna sequence that makes up a gene
+generically dependent continuant;quality assesment report;a report that represent the process of data collection and analysis through which the degree of conformity to predetermined standards and criteria are exemplified
+generically dependent continuant;information about data storage location;an information content entity that is about the location of data storage
+generically dependent continuant;variant of unknown significance;a clinical variant interpretation that represents a sequence variant that is previously unreported and is of the type which may or may not be causative of the disorder.
+generically dependent continuant;microrna expression data;a measured expression level measurement datum which refers to represent small non-coding rnas of 19-24 nucleotides in length that downregulate gene expression during various crucial cell processes such as apoptosis, differentiation and development.
+generically dependent continuant;command line flag;a symbol that is used to specify options for command line programs.
+generically dependent continuant;data storage datum;a data item that represent information on data storage.
+generically dependent continuant;oligonucleotide probe;a region of short stretches of single-stranded dna or rna used to detect the presence of complementary nucleic acid sequences (target sequences) by hybridization.
+generically dependent continuant;ps1 criteria;same amino acid change as a previously established pathogenic variant regardless of nucleotide change
+generically dependent continuant;likely pathogenic variant;a clinical variant interpretation that represents a sequence variant that is previously unreported and is of the type which is expected to cause the disorder.
+generically dependent continuant;bam format;a file format which represent binary format for storing sequence data.
+generically dependent continuant;data file;any data file as generated by some acquisition computer or console.
+generically dependent continuant;material transfer agreement;a document which represent a contract that governs the transfer of tangible research materials between two organizations, when the recipient intends to use it for his or her own research purposes.
+generically dependent continuant;allele specific pcr protocol;a protocol which describes the process of allele-specific polymerase chain reaction (pcr)
+generically dependent continuant;database;a database is an information content entity that describe a structured set of data held in a computer, especially one that is accessible in various ways.
+generically dependent continuant;messenger rna sequence data;rna sequence data that represent the sequence of single-stranded rna molecule that is complementary to one of the dna strands of a gene. the mrna is an rna version of the gene that leaves the cell nucleus and moves to the cytoplasm where proteins are made.
+generically dependent continuant;bed graph format;a file format which represent a data format allows display of continuous-valued data in track format
+generically dependent continuant;reference genome uri;a reference genome datum which represent a location where reference genome can be accessed online
+generically dependent continuant;specimen shipment identifier;an identifier which denotes number assigned by a shipper of specimen.
+generically dependent continuant;allele-specific expression data;a measured expression level which refers to the characteristic of preferentially expressing a parental allele in the hybrid due to variations in regulatory sequences from the parental genomes.
+generically dependent continuant;library preparation protocol;a protocol plan specification which describes the process of generating a collection of dna fragments for sequencing
+generically dependent continuant;bioinformatics analysis execution date;a time measurement datum of the bioinformatics analysis execution date.
+generically dependent continuant;information about cloud storage bucket;information about data storage location information content entity which represent information about the basic containers that hold your data in cloud storage
+generically dependent continuant;standard operating procedure title;a unique sop name which captures the essence of the practice described.
+generically dependent continuant;specimen tracking protocol;a protocol that ensure that biospecimens can be tracked accurately from the collection site through biospecimen arrival and subsequent
+generically dependent continuant;2bit format;a file format which represent a binary file format designed for storing a genome consists of multiple chromosomal sequences
+generically dependent continuant;acmg supporting classification criteria;acmg guidelines for classification of variants of spporting classification
+generically dependent continuant;pm4 criteria;protein length changes due to in-frame deletions/insertions in a non-repeat region or stop-loss variants
+generically dependent continuant;copy number variation;a molecular quality that represent the number of copies of a particular gene varies from one individual to the next (germline mutation)
+generically dependent continuant;acmg very strong classification criteria;acmg guidelines for classification of variants of very strong classification
+generically dependent continuant;pathogenic variant;a clinical variant interpretation that represents a sequence variant that is previously reported and is a recognized cause of the disorder.
+generically dependent continuant;assay kit version;a version number of assay kit.
+generically dependent continuant;specimen acceptance or rejection protocol;a protocol which describe the criteria for acceptance or rejection of a specimen
+generically dependent continuant;assay execution note;a document part of relevant notes or instructions regarding data generation assay execution
+generically dependent continuant;acmg guidelines for classification of variants;a protocol which describes the guidance for the interpretation of sequence variants suggested by the american college of medical genetics and genomics (acmg).
+generically dependent continuant;acmg strong variants classification;acmg guidelines for classification of variants of strong variants classification
+generically dependent continuant;probe id;an identifier of an oligonucleotide probe.
+generically dependent continuant;validation of known variant protocol;a protocol which describe the process of validation of known variant
+generically dependent continuant;data file format;information content entity that is a standard way that information is encoded for storage in a computer file.
+generically dependent continuant;vcf format;a file format which represent represent the format of a text file used in bioinformatics for storing gene sequence variations
+generically dependent continuant;target sequence information;a data item that which represent information about subset of genes or specific regions of interest of the genome.
+generically dependent continuant;sam format;a file format which represent a text-based format for storing biological sequences aligned to a reference sequence
+generically dependent continuant;whole exome sequence data;a mesurement datum that represent all of the protein-coding regions of genes in a genome (known as the exome)
+generically dependent continuant;information about software;information content entity about bioinformatics software
+generically dependent continuant;data anonymization protocol;a protocol plan specification which describes the process of reducing the likelihood that the data can identify an individual.
+generically dependent continuant;fastq format;a file format which represent text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores
+generically dependent continuant;personally identifiable information;a data item infromation content entity that represent any data that could potentially identify a specific individual. any information that can be used to distinguish one person from another and can be used for de-anonymizing anonymous data can be considered pii.
+generically dependent continuant;target enrichment protocol;a protocol which describes the workflow to capture specific regions of interest after library preparation for ngs and has many advantages over whole genome sequencing (wgs).
+generically dependent continuant;software parameter value;information about software includes information on software parameter value.
+process;sequence clustring;a bioinformatics analysis which attempt to group biological sequences that are somehow related
+process;genetic variantion analysis;a bioinformatics analysis which analyse a genetic variation, for example to annotate its location, alleles, classification, and effects on individual transcripts predicted for a gene model.
+process;raw sequence file editing;a bioinformatics analysis which involves any edit or change to a molecular sequence file.
+process;sequence data quality validation;a data validating whech validate sequencing quality scores and measure the probability that a base is called incorrectly.
+process;adapter ligation process;a material processing process which attaches synthetic oligonucleotides of a known sequence to one or both ends of cdna fragments
+process;sample derivative from specimen creation process;a material processing that has as its input a specimen and as its output a sample derivative.
+process;validation of known variant assay;an assay which represent the process of targeting detected known disease causing genetic variant for validation purposes
+process;variant calling assay;variant calling is the process by which we identify variants from sequence data.
+process;variant prioritisation;a genetic variation analysis which involves identifying biologically interesting variants by prioritizing individual variants, for example, homozygous variants absent in control genomes.
+process;specimen destruction assay;a planned process with the objective to destroy an entire collection or specific specimen.
+process;in-bead tagmentation library prepration;a library preparation material processing which uses bead-linked transposomes for a more uniform tagmentation reaction compared to in-solution tagmentation reactions
+process;data validation;a planned process which ensure data have undergone data cleansing to ensure they have data quality, that is, that they are both correct and useful.
+process;gene expression level analysis;a gene expression level analysis is a bioinformatics analysis that compares the rna expression levels of multiple genes (profiling) and/or multiple samples (screening)
+process;genome indexing;a bioinformatics analysis which referes to the process of compressing to reduze the size of genome file
+process;secure file transfer process;secure file transfer is a planned process that represent data sharing via a secure, reliable delivery method. it is used to safeguard proprietary and personal data in transit and at rest. most secure file sharing methods use standard protocols, including: secure file transfer protocol (sftp)
+process;alignment;a bioinformatics analysis data transformation which two or more things are positioned in a straight line or parallel to each other
+process;genetic variants filtration assay;an assay which attempt to select highly confident variants and remove the ones that are falsely called
+process;pairwise sequence alignment;a sequence alignment bioinformatics analysis which identify regions of similarity that may indicate functional, structural and/or evolutionary relationships between two biological sequences (protein or nucleic acid)
+process;database index;a bioinformatics analysis that produces data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure
+process;functional annotation;functional annotation is a bioinformatics analysis consists of attaching biological information to genomic elements such as: biochemical function, biological function, involved regulation and interactions and expression
+process;protein sequencing;a sequencing assay which involves the determination of the arrangement of the amino acid sequence of a protein.
+process;bwa assembly process;bioinformatics analysis which performs gapped alignment for single-end reads, supports paired-end mapping, generates mapping quality, and gives multiple hits if required
+process;local sequence alignment;a sequence alignment which align dissimilar sequences that are suspected to contain regions of similarity or similar sequence motifs within their larger sequence context
+process;multiple sequence alignment;a multiple sequence alignment (msa) is a sequence alignment of three or more biological sequences, generally protein, dna, or rna.
+process;sequence similarity search;a bioinformatics analysis which attempt to searching sequence databases by using alignment to a query sequence
+process;omics data generation assay;an assay which generate omics data through a wet bench process such as sequencing techniques.
+process;target region enrichment assay;a material processing which capture specific regions of interest after library preparation for next generation sequencing.
+process;global sequence alignment;a sequence alignment which align every residue in every sequence
+process;data transfer agreement document act;a planned process of making the decision of the data transfer.
+process;specimen culling;a specimen culling is the process of reviewing and eliminating specimens in a collection or an entire collection either by destruction or transfer to a new custodian
+process;format validation;a data validation process that checks that the data is in a specified format (template), e.g., dates have to be in the format dd/ mm/yyyy is correct
+process;variant classification assay;a genetic variation analysis which assign a formal classification to a detected genetic variant.
+process;allele specific pcr;a validation of known variant assay which permits the direct detection of any point mutation in human dna by analyzing the pcr products in an ethidium bromide-stained agarose or polyacrylamide gel
+process;bioinformatics analysis;a data transformation which involeves curation, processing and analysis of complex biological data

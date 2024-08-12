@@ -1,0 +1,6 @@
+temporal-location_q
+particular
+temporal-quality
+Thing
+spatio-temporal-particular
+quality

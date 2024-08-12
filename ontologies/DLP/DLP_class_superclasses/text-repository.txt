@@ -1,0 +1,12 @@
+text-repository
+particular
+Thing
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+social-object
+endurant
+non-physical-collection
+spatio-temporal-particular
+information-collection
+collection

@@ -1,0 +1,714 @@
+generically dependent continuant;molecular skeleton insertion objective;a molecular skeleton joining objective that is satisfied by a reaction in which one or more atoms are added to the middle of a chain.
+generically dependent continuant;molecular rearrangement objective;a molecular transformation specification that specifies that the number of rings and number of skeletal atoms should be preserved and that one or more atoms or groups of atoms move from one atom to another.
+generically dependent continuant;molecular skeleton elimination objective;a functional modification objective that is satisfied by a reaction in which two or more groups of atoms are removed from the molecule, resulting in a change of skeletal bond order.
+generically dependent continuant;functional reduction objective;a functional group modification objective that is satisfied by a reaction in which a functional group is reduced.
+generically dependent continuant;fused-ring-system formation objective;a molecular transformation objective that is satisfied by a reaction in which a fused ring system is present in a product that was not present in any of the reactants.
+generically dependent continuant;end-of-chain chain shortening objective;a molecular skeleton transformation objective that is satisfied by a reaction in which a single skeletal atom is removed from the end of a chain.
+generically dependent continuant;functional group modification objective;a molecular skeleton transformation objective that is satisfied by a reaction in which a functional group undergoes a change that does not affect the number of atoms in (or connectivity of) the skeleton of the molecule.
+generically dependent continuant;addition objective;a functional modification objective that is satisfied by a reaction in which two or more groups of atoms are added to the molecule, resulting in a change of skeletal bond order.
+generically dependent continuant;molecular chain lengthening objective;a molecular skeleton joining adjective that is satisfied by a chain part of a molecular skeleton being lengthened.
+generically dependent continuant;molecular ring expansion objective;a molecular transformation objective that is satisfied by a reaction in which an existing skeletal ring is increased in size.
+generically dependent continuant;molecular ring rearrangement objective;a molecular transformation objective that is satisfied by a reaction in which the number of skeletal rings in a molecule stays the same but the connectivity of the atoms in at least one ring changes.
+generically dependent continuant;molecular fragmentation objective;a molecular transformation objective that is satisfied by a reaction in which the parent molecule breaks up into three or more products.
+generically dependent continuant;molecular ring contraction objective;a molecular skeleton transformation objective that is satisfied by a reaction where an existing ring is reduced in size.
+generically dependent continuant;molecular ring formation objective;a molecular transformation specification that specifies that the product should contain a ring that was not in any of the reactants.
+generically dependent continuant;joining with rearrangement objective;a molecular skeleton joining objective that is satisfied by a reaction in which one or more atoms are added to the molecular skeleton and a skeletal rearrangement occurs.
+generically dependent continuant;polymerisation objective;a molecular transformation objective that is satisfied by a reaction in which a large number of monomers react together to product a polymer consisting of repeating units.
+generically dependent continuant;molecular extrusion objective;a molecular transformation objective that is satisfied by a cleaving reaction in which a skeletal atom or group of atoms is removed from the middle of a molecule.
+generically dependent continuant;protection objective;a functional modification objective that is satisfied by protecting some functional group.
+generically dependent continuant;functional oxidation objective;a functional group modification objective that is satisfied by a reaction in which a functional group is oxidised.
+generically dependent continuant;molecular skeleton cleaving objective;a molecular transformation specification that specifies that atoms should be lost from the molecular skeleton.
+generically dependent continuant;molecular skeleton joining objective;a molecular transformation specification that specifies that atoms should be added to the molecular skeleton.
+generically dependent continuant;functional group addition objective;a functional modification objective that is satisfied by a reaction in which a covalent bond is formed between the molecular skeleton and a functional group and where the skeletal bond order is unchanged.
+generically dependent continuant;functional modification objective;a molecular transformation specification that specifies that the substituents of a molecule should be changed but the number of atoms in the skeleton and their connectivity, but not necessarily the bond orders, should remain the same.
+generically dependent continuant;molecular transformation objective;an objective specification that describes how a molecule's skeleton and substituents are to be transformed by a given experiment.
+generically dependent continuant;molecular substitution objective;a molecular transformation objective that is satisfied by a reaction in which one singly-bonded substituent, but not a hydrogen, is replaced by another singly-bonded substituent.
+generically dependent continuant;deprotection objective;a functional modification objective that is satisfied by deprotecting some functional group.
+generically dependent continuant;molecular ring breaking objective;a molecular skeleton transformation objective that is satisfied by a reaction where the product has fewer rings than the reactants.
+process;arens-van dorp synthesis;reaction of a ketone with ethoxyacetylene to form an alkoxyethynyl alcohol.
+process;neber rearrangement;the rearrangement of the sulfonic ester of a ketoxime in base to give an alpha-amino ketone.
+process;schmittel cyclisation;cyclization of a enynyl allene to yield a 1-methyl-5-methylenecyclopenta-1,3-diene biradical with radical centres on the methyl group and methylene group.
+process;buchwald-hartwig amination;a reaction in which an aryl halide or aryl triflate reacts with a primary or secondary amine in the presence of base to give a secondary or tertiary amine. it is catalysed by a palladium catalyst.
+process;johnson-corey-chaykovsky cyclopropane synthesis;reaction of a sulfur ylide with an olefin to produce a cyclopropane.
+process;bernthsen acridine synthesis;reaction of a diarylamine in an organic acid or anhydride in the presence of zinc chloride to yield a 9-substituted acridine.
+process;acetoacetic ester synthesis;a carbon-carbon coupling reaction between a beta-ketoester and an alkyl halide to yield an alpha-alkylated ester.
+process;lemieux-johnson oxidation;a cleaving reaction where an olefin is dihydroxylated with osmium tetroxide and undergoes a malaprade reaction to yield two aldehydes, two ketones, or an aldehyde and a ketone.
+process;sandmeyer diphenylurea isatin synthesis;reaction of diphenylthiourea with lead carbonate and potassium cyanide to form a cyanoformidine followed by ring closure and acid hydrolysis to yield isatin.
+process;iodo sonogashira coupling;namerxn:3.3.4
+process;claisen-schmidt condensation;condensation of an aromatic aldehyde with an aliphatic aldehyde or ketone in the presence of a relatively strong base to from an alpha,beta-unsaturated aldehyde or ketone.
+process;b nary reaction;reaction of a beta-aminovinylketone with a grignard reagent to yield a substituted alpha,beta-unsaturated carbonyl compound.
+process;balz-schiemann reaction;the conversion of an aromatic amine to the corresponding fluoride via the diazonium fluoroborate.
+process;chloro heck reaction;a heck reaction where an organochloride couples to a terminal olefin to produce an internal olefin, catalysed by palladium.
+process;newman-kwart rearrangement;rearrangement of an o-aryl thiocarbamate to an s-aryl thiocarbamate by migration of the aryl group.
+process;extrusion reaction;a cleaving reaction in which a skeletal atom or group of atoms is removed from the middle of a molecule.
+process;strecker degradation;the deamination and decarboxylation of amino acids to imines and then to aldehydes or ketones, in the presence of a carbonyl compound (especially an alpha,beta-dicarbonyl compound or a reducing sugar such as glucose). the reaction is involved in the generation of meat aromas/flavours in cooking.
+process;knoevenagel condensation;a carbon-carbon coupling reaction of an aldehyde and a methylene compound.
+process;doebner reaction;the reaction between an aromatic amine, an aldehyde and pyruvic acid on heating to give a quinoline 4-carboxylic acid (cinchoninic acid).
+process;intramolecular acyloin condensation;a reductive coupling reaction between two ester groups in the same molecule to give an acyloin (an alpha-hydroxyketone).
+process;fukuyama coupling;a cross-coupling reaction where a thioester and an organozinc halide react to form a ketone. it uses a palladium catalyst.
+process;sommelet-hauser rearrangement;the [2,3]-sigmatropic rearrangement of a benzyl quaternary ammonium salt to form an aniline.
+process;michael addition;a conjugate addition reaction where a carbon nucleophile adds to the beta-carbon of an alpha,beta-unsaturated system (or an activated carbon-carbon bond).
+process;wittig methylenation;a carbon-carbon coupling reaction where a carbonyl compound reacts with a phosphonium ylide to give a terminal alkene.
+process;chloride finkelstein reaction;the conversion of an alkyl chloride to an alkyl iodide by sn2 substitution.the reaction relies upon the equilibrium being pushed to completion by precipitation.
+process;bischler-m hlau indole synthesis;reaction of a terminal hydroxyketone or terminal halogenoketone with an aromatic amine to yield a 2-substituted indole.
+process;williamson ether synthesis;the reaction between an alkyl halide or alkyl sulfate and a metal alkoxide to give an ether.
+process;hydrosilylation;the addition of a hydrosilane across the double bond of an alkene or alkyne to give a more substituted silane. addition to an aldehyde or ketone produces a silyl ether.
+process;madelung indole synthesis;reaction of an n-(2-alkylphenyl)alkanamide with strong base to form an indole.
+process;heteroaryl n-arylation;namerxn:1.3
+process;prins reaction;a carbon-carbon coupling between formaldehyde and an alkene to give a 1,3-diol or an allylic alcohol, catalysed by acid.
+process;suzuki-miyaura coupling;the coupling of a boronic acid or boronic ester with an unsaturated halide, triflate or sulfonate catalysed by a palladium(0) complex.
+process;mannich reaction;a carbon-carbon coupling reaction where ammonia or an amine reacts with a non-enolisable aldehyde, often methanal, and an enolisable carbonyl compound to form a beta-amino carbonyl compound.
+process;paal-knorr furan synthesis;the cyclisation of a 1,4-dicarbonyl compound with an acid catalyst to give a furan.
+process;cyclic beckmann rearrangement;namerxn:4.1.6
+process;hunsdiecker reaction;the decarboxylation of silver carboxylates with halogens to give organic halides.
+process;chloro suzuki-type coupling;namerxn:3.1.6
+process;chan-lam coupling;arylation of an amine or an alcohol with an arylboronic acid, stannane or siloxane in air with a copper acetate catalyst.
+process;patern b chi reaction;a photochemical cycloaddition between an aldehyde or ketone and an alkene to give an oxetane.
+process;bromo sonogashira coupling;a sonogashira coupling where the aryl halide is an aryl bromide.
+process;triflyloxy suzuki coupling;a suzuki coupling where the rule of the halide is played by a triflyloxy group.
+process;tamao oxidation;the stereospecific oxidation of a (halosilyl)alkane to the corresponding alcohol using potassium fluoride and hydrogen peroxide.
+process;jones oxidation;an oxidation reaction where an alcohol is oxidized to the corresponding carbonyl compound by a dichromate ion.
+process;alkene reduction to alkane;namerxn:7.6
+process;hiyama coupling;a carbon-carbon coupling reaction where an organosilane reacts with an organic halide or triflate. it is catalysed by a palladium or nickel complex.
+process;iodo suzuki-type coupling;namerxn:3.1.7
+process;pfitzner-moffatt oxidation;the oxidation of a primary or secondary alcohol to the corresponding aldehyde or ketone respectively using dimethyl sulfoxide, 1,3-dicyclohexylcarbodiimide and acid. the reaction proceeds via an alkoxysulfonium ylide.
+process;appel bromination with tetrabromomethane;conversion of an alcohol to an alkyl bromide with triphenylphosphine and tetrabromomethane.
+process;meyer-schuster rearrangement;rearrangement of a propargyl alcohol to an alpha,beta-unsaturated carbonyl compound via an allene intermediate to yield the gamma-substituted product.
+process;bicyclic boulton-katritzky rearrangement;rearrangement of a mancude bicyclo[4.3.0] compound with an unsaturated two-heavy-atom substituent on the six-membered ring alpha to the bridgehead to form a new mancude bicyclo[4.3.0] compound where the five-membered ring has been formed from the two-heavy-atom substituent and the original five-membered ring has been broken.
+process;appel bromination;conversion of an alcohol to an alkyl bromide with triphenylphosphine and tetrabromomethane or bromine.
+process;dakin-west reaction;the reaction of an amino acid with an acid anhydride to give an alpha-acylamido ketone. the reaction proceeds via the mixed anhydride and an oxazolone. the product is always racemic.
+process;carbonyl compound to imine conversion;a functional group modification where a carbonyl compound is converted to an imine.
+process;strecker reaction;an addition reaction between a carbonyl compound, an inorganic cyanide and an ammonium salt, followed by hydrolysis, to give an alpha-amino carboxylic acid.
+process;polonovski reaction;the reaction of a tertiary amine oxide with an anhydride or acyl chloride to give an n,n-disubstituted acetamide and an aldehyde.
+process;pomeranz fritsch reaction;an azacycle synthesis where the product is an isoquinoline and the reactants are a benzaldehyde and a 2,2-dialkoxyethylamine.
+process;krapcho decarboxylation;reaction of an ester with an electron-withdrawing group alpha- to the ester functionality with a metal halide or pseudohalide to yield the shorter homologous system.
+process;hydroboration-oxidation;the formal addition of water across a double bond of an alkene or alkyne by formation of an organoborane and in situ oxidation, typically with basic peroxide. the product is usually the less substituted alcohol.
+process;iodo suzuki coupling;namerxn:3.1.3
+process;grob fragmentation;the fragmentation of a molecule that takes place when an electron-donating fragment (x) and an electron-accepting fragment (x') are situated at positions 1 and 3 on an aliphatic chain, to give a cationic fragment, a neutral fragment (e.g. an alkene) and an anionic fragment.
+process;eschweiler-clarke methylation;n-methylation of a primary or secondary amine with formic acid and formaldehyde to yield a tertiary amine.
+process;molecular skeleton joining reaction;a reaction where the number of atoms in the molecular skeleton increases.
+process;sakurai reaction, acetal or ketal;a carbon-carbon coupling reaction in which an acetal or ketal reacts with allyltrimethylsilane to form a homoallylic ether.
+process;functional group addition step;a planned reaction step in which a covalent bond is formed between the molecular skeleton and a functional group and where the skeletal bond order is unchanged.
+process;olefination;a molecular skeleton joining reaction where the connection formed is a carbon-carbon double bond.
+process;o-acylation to ester;an o-acylation reaction where an oxygen centre is acylated to result in an ester.
+process;appel halogenation;conversion of an alcohol to an alkyl halide with triphenylphosphine and a halide source.
+process;jacobsen epoxidation;chiral (salen)manganese(iii)-catalyzed asymmetric epoxidation of alkenes. in addition to the catalyst, stoichiometric amounts of an oxidant (e.g. sodium hypochlorite) are required.
+process;bischler-napieralski reaction;a cyclodehydration of a beta-phenethylamide to give a 3,4-dihydroisoquinoline.
+process;triflyloxy suzuki-type coupling;namerxn:3.1.8
+process;carbonyl group protection;a protection reaction where the reactive centre is a carbonyl oxygen.
+process;passerini reaction;the reaction between an isonitrile, a carboxylic acid and aldehyde or ketone to give an alpha-acyloxy amide.
+process;carroll rearrangement;an adaptation of the claisen rearrangement that transforms a beta-keto allyl ester into a gamma,delta-allyl ketone. it uses base and high temperature or milder conditions with a ruthenium or palladium complex as catalyst.
+process;wallach degradation;favorskii rearrangement of a cyclic alpha-dibromoketone followed by decarboxylation to yield a ring-contracted cyclic ketone.
+process;dess-martin ketone oxidation;namerxn:8.1.3
+process;sarett primary alcohol oxidation;oxidation of a primary alcohol with a pyridine-chromium trioxide complex to yield an aldehyde.
+process;hydroxy group deprotection;a deprotection reaction where the reactive centre is an oxygen atom.
+process;1,3-dipolar cycloaddition;a ring formation reaction where a 1,3-dipolar compound reacts with an alkene or alkyne to form a five-membered ring compound.
+process;molecular skeleton elimination reaction;a reaction in which two or more groups of atoms are removed from the molecule, resulting in a change of skeletal bond order.
+process;lossen rearrangement;the derivatisation (for example with tosyl chloride) and subsequent rearrangement of a hydroxamic acid to give an isocyanate.
+process;multiple-bond metathesis;a joining reaction in which two carbon-carbon multiple bonds are redistributed among two fragments. the reaction is typically catalysed by a metal carbenoid, and proceeds via two four-membered intermediates (metallacyclobutanes). the reaction is driven by release of a low-mw alkene.
+process;monocyclic boulton-katritzky rearrangement;rearrangement of an azapentacycle containing a -n= system where there is an unsaturated three-heavy-atom substituent xyz on the substituent double-bonded to the nitrogen, to a new azapentacycle where the pivotal nitrogen has broken its single bond and formed a new bond with atom z.
+process;hydrostannylation;the reaction of a organotin hydride with an alkene or alkyne, to give an intermediate tin species that can give various products after work-up.
+process;intermolecular scholl reaction;scholl reaction between two aromatic molecules to form a single molecule.
+process;benzimidazole synthesis;a reaction in which the intended product is a benzimidazole that was not present in any of the reactants.
+process;hofmann-l ffler-freytag pyrrolidine synthesis;a hofmann-l ffler-freytag reaction in which the product is a pyrrolidine.
+process;tsuji-trost reaction;a carbon-carbon coupling reaction in which a nucleophile reacts with an allyl acetate, allyl halide, allyl carbonate, allyl carbamate, allyl phosphate, allyl sulfone or allyl nitro compound to give an allyl compound. the reaction is catalsed by pd(0).
+process;johnson-claisen rearrangement;the coupling and subsequent [3,3]-sigmatropic rearrangement of an allylic alcohol and trimethyl orthoacetate to give a gamma,delta-unsaturated alkyl ester.
+process;sakurai reaction;reaction of allyltrimethylsilane with a carbon electrophile to allylate the carbon electrophile.
+process;oxacycle synthesis;namerxn:4.2
+process;wittig reaction;a carbon-carbon coupling reaction where a carbonyl compound reacts with a phosphonium ylide to give an alkene.
+process;carbon-carbon coupling reaction;a reaction where a bond is formed between two carbon atoms.
+process;chichibabin pyridine synthesis;reaction of carbonyl compounds with ammonia or an amine to yield a pyridine.
+process;grignard reaction;a carbon-carbon coupling reaction where a grignard reagent reacts with a compound containing an electrophilic carbon atom. a grignard reagent is a magnesium-stabilised carbon nucleophile. an aldehyde leads to a secondary alcohol, a ketone leads to a tertiary alcohol, an ester leads to a ketone and a nitrile leads to a ketone.
+process;ibx oxidation;oxidation of alcohols to the corresponding carbonyl product using 2-iodoxybenzoic acid (ibx) as oxidizing agent.
+process;amide reduction to amine;namerxn:7.2
+process;addition reaction step;a reaction in which two or more groups of atoms are added to the molecule, resulting in a change of skeletal bond order.
+process;hydroformylation;the reaction of hydrogen and carbon monoxide with an alkene, to give an aldehyde, catalysed by a rhodium or cobalt catalyst. the process is equivalent to the formal addition of the h-c bond of formaldehyde across the double bond of an alkene.
+process;gattermann halogenation;an aromatic substitution reaction where an aryl diazonium salt reacts with copper powder and hydrochloric acid or hydrobromic acid to form an aromatic chloride or bromide.
+process;kulinkovich-szymoniak reaction;the formation of a substituted primary cyclopropylamine by reaction of a nitrile with a grignard reagent (carrying a hydrogen atom in the beta-position) in the presence of a titanium(iv) alkoxide as catalyst.
+process;baeyer oxindole synthesis;the preparation of oxindole/indolin-2-one from 2-nitrophenylacetic acid by reduction of the nitro group and subsequent dehydration.
+process;appel chlorination;conversion of an alcohol to an alkyl chloride with triphenylphosphine and tetrachloromethane.
+process;1-aza-cope rearrangement;the rearrangement of a delta,epsilon-unsaturated imine to form a 3-aza-1,5-hexadiene.
+process;corey-fuchs terminal dibromoolefination;reaction of an aldehyde with tetrabromomethane and triphenylphosphine to yield a terminal dibromoolefin.
+process;bromo suzuki-type coupling;a suzuki-type coupling where the halide is a bromide.
+process;nicholas reaction, nucleophilic heteroatom centre;the reaction of a propargylic cation (stabilised with dicobalt octacarbonyl) with a hydride or amine or enamine to give a substituted alkyne.
+process;nicholas reaction, nucleophilic carbon centre;the reaction of a propargylic cation (stabilised with dicobalt octacarbonyl) with a nucleophilic carbon centre (on e.g. enolates, allyl silanes, ketones, electron-rich aromatics, beta-dicarbonyl compounds) to give a substituted alkyne.
+process;silyl protection;a hydroxyl group protection where the hydroxyl oxygen atom is protected by formation of a silyl ether.
+process;niementowski quinazoline synthesis;namerxn:4.1.30
+process;seyferth-gilbert-bestmann homologation;seyferth-gilbert aldehyde homologation where the seyferth-gilbert reagent is generated in situ by reaction with methanol and potassium carbonate.
+process;heteroaryl reduction to saturated heterocycle;a hydrogenation reaction where a heteroaryl is reduced to a saturated heterocycle.
+process;alkyne metathesis;a joining reaction in which two carbon-carbon triple bonds are redistributed among two fragments, i.e. two alkynes. it is catalysed by a metal carbenoid, and proceeds via two four-membered intermediates (metallacyclobutenes). the reaction is driven by release of a low-mw alkyne.
+process;myers-saito cyclisation;cyclization of a enynyl allene to yield a toluene biradical with radical centres on the methyl group and at the meta position.
+process;thermal hydrosilylation;the thermally induced addition of a hydrosilane across the double bond of an alkene or alkyne to give a more substituted silane, usually applied to cases where the hydrosilane is part of a silicon surface.
+process;perkin reaction;an aldol condensation where an aryl aldehyde reacts with an acid anhydride to form a cinnamic acid.
+process;aniline n-alkylation;an n-alkylation where the reactive centre is an aniline nitrogen.
+process;b champ reduction;reduction of an aromatic nitro compound to the corresponding arene by iron in some form in aqueous acid.
+process;triflyloxy sonogashira coupling;a sonogashira coupling where the role of the halide is played by a triflyloxy group.
+process;fragmentation reaction;a reaction in which the parent molecule breaks up into three or more products.
+process;thiol-yne reaction;reaction of an thiol with an alkyne to form an alkenyl sulfide.
+process;carboxylic acid to primary alcohol reduction;a carboxylic acid reduction where the product is the corresponding primary alcohol.
+process;stork-wittig olefination;a carbon-carbon coupling reaction where an aldehyde reacts with a phosphonium salt to give a z-iodoalkene. the reaction is mediated by sodium or potassium hexamethyldisilazide.
+process;johnson-corey-chaykovsky aziridine synthesis;reaction of a sulfur ylide with an imine to produce an aziridine.
+process;zemplen transesterification;the reduction of an ester to the corresponding alcohol, using sodium methoxide in dry methanol.
+process;carbazole synthesis;ring formation reaction where the intended product is a carbazole.
+process;thiol-ene reaction;the addition of a thiol across the double bond of an alkene to give a thioether.
+process;pivaloyl protection;protection of a hydroxy group by reaction with pivaloyl chloride, resulting in formation of a pivaloyl ester.
+process;hydrometallation;the reaction of any of a number of metal hydride species with an alkene or alkyne, to give an intermediate organometal species that can give various products after work-up.
+process;asinger reaction;a multicomponent reaction (a-4cr) in which 3-thiazolines (2,5-dihydro-1,3-thiazoles) or mixtures of several 3-thiazolines are synthesized from elemental sulfur, an alpha-substitutable ketone or aldehyde, another carbonyl component and ammonia.
+process;seyferth-gilbert aldehyde homologation;reaction of an aldehyde with a dimethyl diazomethyl phosphonate under basic conditions to yield a terminal alkyne.
+process;palladium-catalysed kumada coupling;a cross-coupling reaction between a grignard reagent and an activated (aryl or vinyl) halide or triflate. the reaction is catalysed by a palladium catalyst.
+process;sandmeyer bromination;an aromatic substitution reaction where an aryl diazonium salt reacts with a copper(i) bromide to form an aromatic bromide.
+process;hell-volhard-zelinsky reaction;an alpha-halogenation reaction where a carboxylic acid reacts with dibromine to form an alpha-bromocarboxylic acid.
+process;leuckart-wallach reaction;the reductive amination of ketones or aldehydes with an amine and formic acid to form amines.
+process;enyne metathesis;a joining reaction in which a carbon-carbon double bond and a carbon-carbon triple bond are redistributed among two fragments, i.e. an alkene and an alkyne. it is typically catalysed by a metal carbenoid, and proceeds via two four-membered intermediates (metallacyclobutenes). as a low-mw alkene is not released, the reaction is usually driven by formation of a ring.
+process;kumada coupling;a cross-coupling reaction between a grignard reagent and an activated (aryl or vinyl) halide or triflate. the reaction is catalysed by a palladium or nickel catalyst.
+process;ester condensation reaction;namerxn:3.6
+process;duff reaction;formylation of a phenol or aromatic amine with hexamethylenetetramine in acidic conditions.
+process;diels-alder reaction;a [4+2] cycloaddition reaction where a diene reacts with a compound containing a double or triple bond (a dienophile) to form an unsaturated six-membered ring compound.
+process;semidine rearrangement;a rearrangement of a p-substituted hydrazobenzene to give a p-aminodiphenylamine.
+process;atherton-todd reaction;the conversion of dialkyl phosphites (dialkyl phosphonates) to dialkyl chlorophosphates using tetrachloromethane and a base (usually a primary, secondary or tertiary amine).
+process;amino group deprotection;a deprotection reaction where the reactive centre is an amino nitrogen atom.
+process;alcohol to halide conversion;namerxn:9.1
+process;stille coupling;namerxn:3.4
+process;wolff-kishner reduction;the reduction of an aldehyde or ketone to the corresponding methylene compound, using hydrazine hydrate and a base.
+process;indazole synthesis;a planned reaction in which one of the products contains an indazole system that was not in any of the reactants.
+process;beckmann fragmentation;the cleavage of an oxime to the corresponding nitrile and an alkyl halide. this reaction is related to the beckmann rearrangement, and occurs when the r group that is anti to the oxime hydroxyl is quaternary.
+process;leuckart aldehyde reaction;reductive amination of an aldehyde with ammonium formate or formamide to form an amine.
+process;katritzky pyrylium-pyridinium method;the substitution of an amine with a nucleophile using a pyrylium salt.
+process;functional group addition step;namerxn:10
+process;heck-type reaction;a carbon-carbon coupling reaction where an organohalide or triflate couples to a terminal olefin to produce an internal olefin.
+process;cadogan carbazole synthesis;the reduction of a 2-nitrobiaryl compound to give a carbazole.
+process;metalla-aza-claisen rearrangement;the rearrangement of a 3-aza-4-metalla-1,5-hexadiene to form a delta,epsilon-unsaturated metallaimine.
+process;chapman rearrangement;rearrangement of an aryl imino ether to yield an n,n-diaryl amide.
+process;alkene reduction to alkane;a hydrogenation reaction where an alkene is reduced to an alkane.
+process;imine reduction to amine;a reduction reaction where an imine function is replaced by an amine.
+process;pomeranz fritsch reaction;namerxn:4.1.65
+process;friedel-crafts alkylation;a carbon-carbon coupling reaction between an arene and an alkyl halide/alkene/alcohol (anything that can form a carbocation) to give a substituted arene. the reaction is catalysed by a lewis acid.
+process;smith indole synthesis;reaction of a n-(2-alkylphenyl)-trimethylsilylamine with two equivalents of organolithium and an ester or carboxylic acid to form an indole.
+process;cross-coupling;a joining reaction where a carbon-carbon bond is formed between unlike moieties.
+process;cope rearrangement;a [3,3]-sigmatropic rearrangement where a 1,5-hexadiene rearranges to form a 1,5-hexadiene.
+process;quinoline synthesis;a reaction in which the intended product is a quinoline that was not present in any of the reactants.
+process;planned synthesis;an experimental procedure with the aim of producing a portion of a given compound or mixture.
+process;corey-bakshi-shibata reduction;enantioselective reduction of a ketone to an alcohol with a chiral oxazaborolidine.
+process;piancatelli rearrangement;a rearrangement of a 2-furylcarbinol to a 4-hydroxycyclopentenone. it is acid-catalysed.
+process;triflyloxy suzuki-type coupling;a suzuki-type coupling where the rule of the halide is played by a triflyloxy group.
+process;biginelli reaction;a three-component coupling of a beta-keto ester, an aldehyde and urea to give a 3,4-dihydropyrimidinone.
+process;triflyloxy sonogashira coupling;namerxn:3.3.5
+process;aza-henry reaction;a carbon-carbon coupling reaction between a nitroalkane and an imine to give a beta-amino nitroalkane.
+process;sandmeyer halogenation;an aromatic substitution reaction where an aryl diazonium salt reacts with a copper(i) halide to form an aromatic halide.
+process;baddeley isomerization;the rearrangement/migration of alkyl groups in polyalkylbenzenes or polynuclear aromatic compounds in the presence of anhydrous aluminum chloride or the mixture of protonic acid and lewis acid.
+process;fukuyama reduction;the reduction of a thioester to an aldehyde by a silyl hydride in the presence of catalytic amounts of palladium.
+process;aza-wittig reaction;reaction of a carbonyl compound with a phosphazene to give an imine.
+process;sugasawa reaction;reaction of an aniline with a nitrile in the presence of boron trichloride and a lewis acid to yield an ortho-acylated aniline.
+process;ring-closing enyne metathesis;a joining reaction in which a carbon-carbon double bond and a carbon-carbon triple bond in the same molecule are redistributed to give a alkene-substituted cycloalkene. it is typically catalysed by a metal carbenoid, and proceeds via two four-membered intermediates (metallacyclobutanes). the reaction is driven by formation of the ring.
+process;julia-kocienski olefination;a carbon-carbon coupling reaction between a tetrazole sulfone and an aldehyde or ketone to give a (typically trans) alkene.
+process;meerwein-ponndorf-verley reduction of a ketone;meerwein-ponndorf-verley reduction of a ketone to the corresponding secondary alcohol.
+process;zweifel diene synthesis;the carbon-carbon homocoupling reaction of a pair of alkyne molecules using a borane and iodine. the reaction proceeds via a borane intermediate.
+process;cadiot-chodkiewicz coupling;a coupling reaction between a terminal alkyne and an alkynyl halide catalysed by cu(i) salts.
+process;pictet-spengler reaction;a condensation-cyclisation of a beta-phenethylamine with an aldehyde to give a tetrahydroisoquinoline.
+process;payne rearrangement;a base-catalysed isomerisation of a 2,3-epoxyalcohol, with inversion of configuration at c2.
+process;tert-butyl ester deprotection;a deprotection reaction where the reactant is a tert-butyl ester and the product is a carboxylic acid.
+process;quelet reaction;reaction of an aliphatic aldehyde with a phenolic ether and hydrochloric acid to yield an alpha-chloroalkylphenolic ether.
+process;tishchenko reaction;the formation of an ester from two aldehydes via a disproportionation process using a metal alkoxide to oxidise one aldehyde and reduce the other.
+process;conrad-limpach cyclisation;reaction of an arylamine wtih a beta-ketoester to yield a 4-hydroxyquinoline.
+process;triflyloxy suzuki coupling;namerxn:3.1.4
+process;bodroux reaction;reaction of a carboxylic ester with a magnesium iodide alkylamide to yield a carboxamide.
+process;knorr pyrazole synthesis;synthesis of a pyrazole by condensation of a 1,3-dicarbonyl compound with a hydrazine, hydrazide, semicarbazide or aminoguanidine.
+process;aza-ferrier rearrangement;the rearrangement of an o-alkenyl hemiaminal ether to give the corresponding beta-amino carbonyl compound.
+process;simmons-smith reaction;a ring formation reaction where an alkene reacts with a dihalomethane in the presence of a metal atom or metal complexes to form a cyclopropane. the traditional reaction uses a zinc-copper couple and diiodomethane.
+process;gattermann reaction;the formylation of an arene with hydrogen cyanide to give an aryl aldehyde or ketone.
+process;collins oxidation;oxidation of a primary alcohol with a pyridine-chromium trioxide complex in dichloromethane to yield an aldehyde.
+process;woehler reaction;the formation of urea from ammonium cyanate. ammonium cyanate is unstable, and so is formed in situ from either (a) cyanic acid and ammonia, (b) a metal cyanate and an ammonium salt, or (c) a metal cyanate and ammonia.
+process;arndt-eistert reaction;a homologation reaction of a carboxylic acid to give the homologated carboxylic acid via acyl chloride and diazoketone intermediates.
+process;phillips benzimidazole synthesis;reaction of an ortho-diaminobenzene with a carboxylic acid under heat to yield a benzimidazole.
+process;aldehyde barbier reaction;a joining reaction between an aldehyde and an alkyl halide or aryl halide or vinyl halide or allyl halide in the presence of metal to give a secondary alcohol.
+process;balsohn alkylation;a carbon-carbon coupling reaction between an arene and an alkene to give a substituted arene. the reaction is catalysed by a lewis acid.
+process;pyrazole synthesis;a reaction in which the intended product is a pyrazole that was not present in any of the reactants.
+process;sharpless asymmetric epoxidation;the epoxidation of an allylic alcohol to give a beta,gamma-epoxy alcohol, with control of absolute stereochemistry at the two new stereocentres. the oxidising agent is tert-butyl hydroperoxide, and the catalyst is a complex of titanium salt and optically active diethyl tartrate.
+process;bamberger rearrangement;rearrangement of an n-phenylhydroxamine in acid to yield a para-aminophenol.
+process;boord olefin synthesis;etherification of an aldehyde followed by bromination and reaction with a grignard reagent followed by treatment with zinc to eliminate the halogen and alkoxy groups to produce an olefin.
+process;paal-knorr pyrrole synthesis;the cyclisation of a 1,4-dicarbonyl compound with an amine to give a pyrrole.
+process;ketone sakurai reaction;a carbon-carbon coupling reaction in which a ketone reacts with allyltrimethylsilane to form a homoallylic alcohol.
+process;bergman cyclisation;the cyclisation of an ene-diyne to give a 1,4-diradical cyclohexatriene. the diradical usually aromatises.
+process;steglich rearrangement;the rearrangement of an oxazolyl carbonate to a c-carboxyazlactone.
+process;camps quinoline synthesis;cyclisation of an o-acylaminoacetophenone in alcoholic sodium hydroxide to form a substituted hydroxyquinoline.
+process;nicholas reaction;the reaction of a propargylic cation (stabilised with dicobalt octacarbonyl) with a nucleophile to give a substituted alkyne.
+process;aldol addition;a carbon-carbon coupling reaction where an enol or enolate reacts with a carbonyl compound to form a beta-hydroxy ketone. the name comes from aldehyde + alcohol.
+process;elbs persulfate oxidation, tolyl variant;the oxidation of a methyl-substituted aromatic compound to the corresponding benzaldehyde using potassium persulfate.
+process;carbon-carbon coupling reaction;namerxn:3
+process;bromo suzuki coupling;namerxn:3.1.1
+process;borsche-drechsel cyclisation;rearrangement of a cyclohexanone phenylhydrazone followed by oxidation to yield a carbazole.
+process;chloro suzuki coupling;a suzuki coupling where the halide is a chloride.
+process;lindgren oxidation;the oxidation of an aldehyde to a carboxylic acid with chlorite.
+process;larock indole synthesis;palladium-catalysed synthesis of a 2,3-substituted indole by reaction of an ortho-iodoaniline with an internal alkyne.
+process;pyrrolidine synthesis;a planned reaction in which one of the products contains a pyrrolidine system that was not in any of the reactants.
+process;favorskii reaction;a reaction between an alkyne and a carbonyl group under basic conditions in which a terminal alkyne serves as the ch-acidic moiety. when the carbonyl is an aldehyde, the 'favorskii rearrangement' (rxno:0000385) takes place and leads to an enone.
+process;eglinton reaction;a coupling reaction between two molecules of a terminal alkyne using stoichiometric cu(ii) salts.
+process;hofmann elimination;the elimination of a methylated amine from an alkylamine to form an olefin. the reaction proceeds via the quaternary ammonium salt.
+process;nitro-michael reaction;a conjugate addition reaction where a carbon nucleophile adds to an alpha,beta-unsaturated nitro compound.
+process;functional group reduction;a functional group modification reaction where a functional group is reduced.
+process;bradsher reaction;reaction of an ortho-acyldiarylmethane, catalysed by acid, to yield an anthracene.
+process;cadogan cyclization;reaction of an aromatic nitro compound with an unsaturated substituent at the alpha-position to form a fused-ring nitrogen heterocycle.
+process;acyclic beckmann rearrangement;namerxn:2.8.1
+process;steglich esterification;namerxn:2.6.9
+process;fischer indole synthesis;reaction of an aldehyde or ketone with a phenylhydrazine to give an indole.
+process;chloro suzuki coupling;namerxn:3.1.2
+process;fenton reaction;an oxidation reaction involving fenton's reagent.
+process;ing-manske procedure;the reaction of primary alkyl halides with sodium or potassium phthalimide, followed by treatment with hydrazine, to give the corresponding primary amine.
+process;ullmann condensation;a coupling reaction in which a phenol is coupled to an aryl halide to give a diaryl ether in the presence of a copper compound.
+process;bromo sonogashira coupling;namerxn:3.3.2
+process;carbonyl compound to imine conversion;namerxn:9.6
+process;intramolecular heck reaction;a carbon-carbon coupling reaction where an organohalide or triflate couples to an alkene in the same molecule, catalysed by palladium.
+process;interrupted nazarov cyclisation;cyclisation of a propargyl alpha,beta-unsaturated ketone where the reactant rearranges to an allenyl vinyl ketone, followed by a nazarov cyclisation in which a nucleophile 'intercepts' the intermediate carbocation to yield a cyclopentenone substituted at the alpha position opposite the double bond.
+process;niementowski quinazoline synthesis;an azacycle synthesis where the product is a 4-oxo-3,4-dihydroquinazoline and the reactants are a 2-aminobenzoic acid and an amide.
+process;hydroboration;the addition of a boron hydride across a double bond of an alkene or alkyne. the boron usually adds to the less substituted carbon.
+process;oppenauer oxidation;an oxidation of a secondary alcohol to a ketone involving an equilibrium between the alcohol and a reagent ketone present in excess, catalysed by a metal alkoxide.
+process;molecular skeleton insertion reaction;a joining reaction in which one or more atoms are added to the middle of a chain.
+process;wenker synthesis;synthesis of an aziridine by dehydrating a beta aminoalcohol with sulfuric acid.
+process;castro-stephens coupling;palladium-catalysed coupling of copper(i) acetylides with aryl halides to yield arylacetylenes.
+process;carboxylic acid protection;a protection reaction where the reactive centre is a carboxy oxygen.
+process;thiacycle synthesis;namerxn:4.3
+process;carbon-carbon homocoupling reaction;a joining reaction where a carbon-carbon bond is formed between like moieties.
+process;alkyne reduction to alkane;namerxn:7.7
+process;claisen condensation;a carbon-carbon coupling reaction of an ester and a carbonyl compound to form a beta-keto ester.
+process;saegusa oxidation;reaction of silyl enol ethers with palladium acetate in acetonitrile to yield an alpha,beta-unsaturated ketone.
+process;imino-reformatsky reaction;a carbon-carbon coupling reaction where an imine reacts with a alpha-halo ester and zinc to form a beta-amino ester.
+process;griess reaction;a diazotisation that proceeds by the addition of nitrous acid, nitric acid and water, resulting in a diazonium nitrate salt.
+process;doebner-miller reaction;the formation of a quinoline from a primary aromatic amine and an alpha,beta-unsaturated carbonyl compound.
+process;benzidine rearrangement;a rearrangement of a hydrazobenzene to give a diaminobiphenyl compound.
+process;benzilic acid rearrangement;a rearrangement of a 1,2-diketone to an alpha-hydroxy carboxylic acid. it can also be applied to alpha-keto aldehydes. the first exmaple of this reaction was with benzil (phc(=o)c(=o)ph) to form benzilic acid, hence the name.
+process;allan-robinson reaction;reaction of ortho-hydroxyaryl ketones with aromatic acid anhydrides to yield a flavone or isoflavone.
+process;feist-b nary synthesis;reaction of an alpha-haloketone or alpha-haloether with a 1,3-dicarbonyl compound in the presence of pyridine to yield a substituted furan.
+process;wittig reaction;namerxn:3.8
+process;nitro reduction to amine;namerxn:7.1
+process;barton reaction;the photolytic oxidation of a nitrate ester to give a gamma-nitroalcohol.
+process;sandmeyer isonitrosoacetanilide isatin synthesis;reaction of aniline, hydroxylamine and chloral hydrate to form an aniline intermediate followed by cyclization in acid and hydrolysis to yield isatin.
+process;leimgruber-batcho indole synthesis;condensation of a formamide acetal with a derivative of o-nitrotoluene to yield an enamine intermediate that subsequently undergoes reductive cyclization to give the corresponding indole.
+process;silyl deprotection;a hydroxyl group deprotection in which an silyl ether group is transformed into a hydroxy group.
+process;corey-kim oxidation;oxidation of primary and secondary alcohols via their alkoxysulfonium salts. upon the addition of base, the salt rearranges intramolecularly to aldehydes and ketones, respectively.
+process;emde degradation;a reduction of a quaternary ammonium salt containing at least one unsaturated substituent, to give a tertiary amine.
+process;friedel-crafts acylation;a carbon-carbon coupling reaction between an arene and a carbonyl compound (usually an acyl halide) to give an aryl ketone. the reaction is catalysed by a lewis acid.
+process;rosenmund-von braun reaction;a carbon-carbon coupling reaction where an aryl halide reacts with copper(i) cyanide to give an aryl nitrile.
+process;aza-wacker cyclisation;a cyclisation where an amino group acts as the nucleophile in a wacker-tsuji oxidation accompanied by beta-hydride elimination, forming a ring.
+process;protection reaction;a reaction in which a functional group is modified by converting it into a protecting group, in order to make subsequent reactions more selective.
+process;nef synthesis;reaction of an aldehyde or ketone with a sodium acetylide to yield a propargyl alcohol.
+process;hantzsch pyridine synthesis;a ring-forming reaction between two equivalents of a beta-ketoester, an aldehyde and ammonia (or an ammonium salt), to give a dihydropyridine. the dihydropyridine can be oxidised to a pyridine using an oxidising agent.
+process;haloform reaction;cleavage of methyl ketones (i.e. oxidative demethylation) with halogens (or hypohalites) in the presence of a base to give a carboxylic acid and haloform (trihalomethane).
+process;clauson-kaas reaction;a ring rearrangement reaction where an amine reacts with a 2,5-dialkoxytetrahydrofuran to give a pyrrole.
+process;horner-wadsworth-emmons reaction;a carbon-carbon coupling reaction between a phosphonate and a carbonyl compound to give an olefin.
+process;chichibabin reaction;reaction of an azacycle with an alkali-metal amide to yield an aminated azacycle.
+process;aldol condensation;an aldol addition where an enol or enolate reacts with a carbonyl compound to form an alpha,beta-unsaturated ketone.
+process;menshutkin reaction;the alkylation of a tertiary amine with an alkyl halide to the corresponding ammonium salt.
+process;pinner triazine synthesis;reaction of aryl amidines or halogenated aliphatics amidines with phosgene to yield a 2-hydroxy-4,6-diaryl-s-triazine with loss of ammonia.
+process;stevens rearrangement;the 1,2-rearrangement of an alpha-methylene ammonium salt or alpha-methylene sulfonium salt to an amine or sulfide in the presence of strong base.
+process;pummerer rearrangement;the conversion of a sulfoxide with an alpha-hydrogen to an alpha-substituted thioether. the reaction is usually performed with an acid anhydride or acyl halide.
+process;aldehyde sakurai reaction;a carbon-carbon coupling reaction in which an aldehyde reacts with allyltrimethylsilane to form a homoallylic alcohol.
+process;deprotection reaction;namerxn:6
+process;hinsberg thiophene synthesis;reaction of an alpha-diketone with a dialkyl thiodiacetate to form a thiophene dicarboxylic acid.
+process;sandmeyer chlorination;an aromatic substitution reaction where an aryl diazonium salt reacts with a copper(i) chloride to form an aromatic chloride.
+process;sonogashira coupling;a carbon-carbon coupling reaction where a terminal alkyne reacts with an aryl halide to give an aryl alkyne. it is catalysed by palladium.
+process;functional group modification;namerxn:9
+process;henry reaction;a carbon-carbon coupling reaction between a nitroalkane and an aldehyde or ketone to give a beta-hydroxy nitroalkane.
+process;vilsmeier-haack reaction;a formylation of an activated arene with a disubstituted formamide to give an arenecarbaldehyde.
+process;petasis reaction;the alkylation of an amine with a boronic acid and an aldehyde to give a substituted amine.
+process;bouveault aldehyde synthesis;reaction of an organomagnesium or organolithium compound with an n,n'-disubstituted formamide to yield the next homologous aldehyde.
+process;piperazine synthesis;a planned reaction in which one of the products contains a piperazine system that was not in any of the reactants.
+process;ketone barbier reaction;a joining reaction between an ketone and an alkyl halide or aryl halide or vinyl halide or allyl halide in the presence of metal to give a tertiary alcohol.
+process;diazotisation;a functional group oxidation where an aromatic amine is transformed into an aromatic diazonium salt.
+process;fenton 1,2-glycol oxidation;the oxidation of a 1,2-glycol with fenton's reagent (hydrogen peroxide and iron salts) to give an alpha-hydroxy aldehyde.
+process;nitrile to acid conversion;namerxn:9.4
+process;dieckmann cyclisation;an intramolecular cyclisation of a diester to give a cyclic beta-ketoester.
+process;friedlander quinoline synthesis;synthesis of a quinoline by reaction of a 2-aminobenzaldehyde with a ketone.
+process;cleaving reaction;a reaction where atoms are lost from the molecular skeleton.
+process;pfitzinger reaction;the reaction between isatin and an alpha-methylene carbonyl compound to give a substituted quinoline-4-carboxylic acid.
+process;brook rearrangement;the rearrangement of an alpha-, beta- or gamma-hydroxy silane to give a silyl ether. it is catalysed by a base.
+process;grignard reaction;namerxn:3.7
+process;hydrovinylation;the reaction of two alkenes to give an elongated alkene, employing a transition-metal-based catalyst.
+process;curtius rearrangement;a rearrangement of an acyl azide to give an isocyanate by pyrolysis, with the elimination of molecular nitrogen.
+process;steglich esterification;an o-acylation to ester where dicyclohexylcarbodiimide is used as a coupling reagent and 4-dimethylaminopyridine as a catalyst.
+process;benkeser reduction;addition of hydrogen atoms to unsaturated rings by means of alkali metals in low-molecular weight amines.
+process;carboxy group deprotection;a deprotection reaction where the reactive centre is a carboxy oxygen atom.
+process;luche reaction;a carbon-carbon coupling reaction where an aldehyde or ketone reacts with an allyl halide and zinc to give a homoallylic alcohol.
+process;acetate protection;a hydroxyl group protection where the hydroxyl oxygen atom is protected by formation of an acetate ester.
+process;chloro heck-type reaction;a heck-type reaction where an organochloride couples to a terminal olefin to produce an internal olefin.
+process;iodo sonogashira coupling;a sonogashira coupling where the aryl halide is an aryl iodide.
+process;ciamician-dennstedt rearrangement;expansion of a pyrrole ring by heating with a halogeno compond to form a 3-halogenopyridine.
+process;baekeland-manasse-lederer reaction;a polymerisation reaction in which phenol and formaldehyde react together in a chain reaction to form a phenol formaldehyde resin (also infrequently called phenoplast).
+process;barton-zard reaction;reaction of a nitroalkene with an alpha-isocyanoacetate to yield a substituted pyrrole.
+process;dess-martin oxidation;the oxidation of a primary alcohol to an aldehyde or a secondary alcohol to a ketone using the dess-martin periodinane.
+process;macdonald condensation;the reaction between a 1,9-diformyldipyrromethane and a dipyrromethane to give a porphodimethene.
+process;acyclic beckmann rearrangement;a beckmann rearrangement where an acyclic amide is formed.
+process;edman degradation;a cleaving reaction in which a peptide is treated with phenylisothiocyanate, removing the terminal amino acid group, to form the chain-shortened amine and a phenylthiohydantoin.
+process;oxa-pictet-spengler reaction;cyclisation-condensation of a beta-arylethanol with an aldehyde to yield an ortho,peri-fused aryl-oxacycle.
+process;rosenmund reduction;the hydrogenolysis of an acyl halide to the corresponding aldehyde, catalysed by palladium-on-barium sulfate.
+process;malonic ester synthesis;a carbon-carbon coupling reaction between a dialkyl malonate and an alkyl halide, to give a substituted acetic acid. the base/r'x treatment can be repeated to give a disubstituted product.
+process;julia olefination;a carbon-carbon coupling reaction between a phenyl sulfone and an aldehyde or ketone to give a (typically trans) alkene.
+process;ring breaking;a planned reaction step in which the product has fewer rings than the reactants.
+process;alkene oxidative cleavage;an alkene oxidation where the carbon-carbon double bond is cleaved.
+process;nitrile reduction to amine;a reduction where a nitrile is replaced by an amine function.
+process;n-acylation to carbamate;namerxn:2.4
+process;baeyer emmerling indole synthesis;an indole synthesis where an ortho-nitrocinnamic acid reacts with iron powder in a basic solution to form an indole.
+process;bromolactonization;namerxn:4.2.13
+process;seyferth-gilbert homologation;reaction of a carbonyl compound with a dimethyl diazomethyl phosphonate under basic conditions to yield an alkyne.
+process;schmidt rearrangement, carboxylic acid;the reaction of a carboxylic acid with hydrazoic acid to give the lower homologue amine, with the loss of the terminal carbon atom.
+process;pechmann pyrazole synthesis;reaction of an organic diazo compound with an acetylene to yield a pyrazole.
+process;nitrile alcoholysis;an oxidation reaction where a nitrile reacts with an alcohol to form an alkyl imidate.
+process;baeyer-villiger oxidation;a reaction of a ketone to give an ester, in which an alkyl, benzyl or phenyl group migrates from one of the alpha-carbon centres to an adjacent oxygen, displacing an oxygen-based leaving group. the result is a formal insertion of an oxygen atom. the reaction also works with aldehydes, giving the corresponding carboxylic acid. the term "baeyer-villiger rearrangement" may occasionally be used in a mechanistic sense to refer specificially to the actual rearrangement step.
+process;dess-martin aldehyde oxidation;namerxn:8.1.2
+process;wacker-tsuji oxidation;the oxidation of a terminal alkene or ethene to a methyl ketone or acetaldehyde, catalysed by pdcl2 and cucl2, and using molecular oxygen as the oxidant.
+process;pyridine synthesis;ring formation reaction where the intended product is a pyridine.
+process;ring contraction;a planned reaction step in which an existing ring is reduced in size.
+process;baudisch reaction;copper-catalysed reaction of benzene with a nitrosylating agent and hydrogen peroxide to form an o-nitrosophenol.
+process;amide reduction to amine;a reduction process where an amide is transformed into an amine.
+process;amide to imidoyl chloride conversion;namerxn:9.2
+process;[1,2]-wittig rearrangement;a base-mediated 1,2-sigmatropic rearrangement of an ether to give an alcohol.
+process;ireland-claisen rearrangement;the enolisation and subsequent [3,3]-sigmatropic rearrangement of an allylic acetate to give a gamma,delta-unsaturated carboxylic acid.
+process;retro-prato reaction;a ring-breaking reaction where a pyrrolidinofullerene yields a fullerene. the substituted fullerene is heated with a dipolarophile and a catalyst.
+process;benzylamine deprotection;an amino group deprotection reaction where a benzylamine group is removed by hydrogenation.
+process;bergmann azlactone peptide synthesis;reaction of an acetylated amino acid with an aldehyde then with a second amino acid, then hydrogenation and hydrolysis to form a dipeptide. it proceeds via an azlactone intermediate.
+process;methyl ester deprotection;a deprotection reaction where the reactant is a methyl ester and the product is a carboxylic acid.
+process;reductive amination;a functional group modification where a carbonyl oxygen is replaced by an amine.
+process;fused-ring-system formation;a reaction in which a fused ring system is present in a product that was not present in any of the reactants.
+process;hydrotelluration;the reaction of a organotellurium hydride with an alkyne, to give a (usually (z)-configured) vinyltellurium species.
+process;schotten-baumann reaction;the coupling of an alcohol or amine with an acyl chloride to give an ester or amide. a two-phase solvent system is often used, to enable the acid generated during the reaction to be neutralised by the aqueous base, while the starting materials and products remain in the organic phase.
+process;copper(i)-catalyzed azide-alkyne cycloaddition;a [3+2] cycloaddition reaction between an azide and an alkyne to give a 1,2,3-triazole as a single regioisomer.
+process;johnson-corey-chaykovsky epoxide synthesis;reaction of a sulfur ylide with a ketone to produce an epoxide.
+process;mukaiyama-hoshino method;reaction of a primary nitro compound with phenyl isocynatate and triethylamine to yield a nitrile oxide.
+process;sharpless asymmetric dihydroxylation;the dihydroxylation of an alkene to give an alpha,beta-diol, with control of absolute stereochemistry at the two new stereocentres. the oxidising agent is osmium tetroxide, which is used catalytically with a stoichiometric oxidant and a chiral ligand. the reagents are available commercially as ad-mix.
+process;hofmann-l ffler-freytag piperidine synthesis;a hofmann-l ffler-freytag reaction in which the product is a piperidine.
+process;staudinger reaction;a joining of an organic azide and a tertiary phosphine to give a phosphazo compound.
+process;dakin reaction;the reaction of ortho- or para-phenolic (or ortho- or para-anilinic) aldehydes or ketones with hydrogen peroxide to form bisphenols (or hydroxy anilines) and carboxylic acids.
+process;luche reduction;the chemoselective reduction of an enone to give an allylic alcohol, using sodium borohydride and an lanthanoid chloride, typically cerium chloride.
+process;sharpless asymmetric aminohydroxylation;the aminohydroxylation of an alkene to give a beta-amino alcohol, with control of absolute stereochemistry at the two new stereocentres. the oxidising agent is an oxygen-containing osmium species and/or an amino derivative which can be used catalytically with a stoichiometric oxidant and a chiral ligand.
+process;d tz reaction;a three component cyclization of an aromatic or vinylic alkoxy pentacarbonyl chromium carbene complex, an alkyne and carbon monoxide to give a cr(co)3 coordinated phenol.
+process;benzylic oxidation;an oxidation reaction where a carbon centre bonded to the benzene ring is oxidized to a carboxyl group.
+process;mitsunobu reaction;a substitution where an alcohol is converted into something else. typical reagents are a dialkyl azodicarboxylate and a triarylphosphine. the alcohol stereocentre is inverted.
+process;sandmeyer iodination;an aromatic substitution reaction where an aryl diazonium salt reacts with a copper(i) iodide to form an aromatic iodide.
+process;terminal amino-acid residue cleaving reaction;removal of a terminal amino acid residue from a peptide.
+process;elbs persulfate oxidation, phenol variant;the oxidation of a phenol to give a (predominantly para) diphenol using potassium persulfate.
+process;barbier-wieland degradation;the degradation of a carboxylic acid to its next lower homologous carboxylic acid.
+process;yamaguchi lactonisation;the intramolecular esterification of a carboxylic acid group with an alcohol group using 2,4,6-trichlorobenzoyl chloride (yamaguchi reagent) - an intramolecular yamaguchi esterification.
+process;nazarov cyclisation;the acid-catalysed cyclisation of a divinylketone to give a cyclopentenone.
+process;iodo suzuki coupling;a suzuki coupling where the halide is an iodide.
+process;yamaguchi esterification;the esterification of a carboxylic acid with an alcohol using 2,4,6-trichlorobenzoyl chloride (yamaguchi reagent).
+process;protection reaction;namerxn:5
+process;fischer-tropsch process;a process in which carbon monoxide and hydrogen ('syngas') are converted into various liquid hydrocarbons.
+process;schmidt rearrangement, tertiary alcohol;the reaction of a tertiary alcohol with hydrazoic acid with rearrangement to form an imide.
+process;parham cyclisation;reaction of a bromoarene that has an electrophilic group at the para-position with lithium bromide or lithium iodide followed by intramolecular cyclisation to yield a fused-ring system.
+process;dess-martin aldehyde oxidation;a dess-martin oxidation of a primary alcohol to an aldehyde.
+process;chloro suzuki-type coupling;a suzuki-type coupling where the halide is a chloride.
+process;ramberg-b cklund reaction;the reaction of an alpha-halosulfone to give an alkene, with the extrusion of sulfur dioxide.
+process;baeyer diarylmethane synthesis;synthesis of diarylmethane derivatives using an aldehyde and an aromatic compound at low temperature in an acidic medium.
+process;noyori asymmetric hydrogenation, carbonyl;the homogeneous asymmetric catalytic hydrogenation of a carbonyl bond using a ruthenium(ii) binap catalyst.
+process;prilezhaev epoxidation;epoxidation of an alkene by reaction with a peroxy acid.
+process;beckmann rearrangement;a rearrangement where an oxime rearranges to form an amide. often there is selective migration of one group.
+process;yamamoto polymerisation;the nickel-catalysed carbon-carbon coupling of a dihaloaromatic compound or aromatic bistriflate to give a polymer.
+process;cyclic alpha-haloketone favorskii rearrangement;base-catalysed rearrangement of a cyclic alpha-haloketone to the ring-contracted cyclic carboxylic acid.
+process;swern oxidation;the oxidation of a primary alcohol or secondary alcohol to an aldehyde or ketone respectively. does not work with allylic or benzylic alcohols.
+process;halolactonization;addition of a carboxylic acid oxygen and halogen across a carbon-carbon double bond to form a lactone.
+process;seleno-pummerer rearrangement;the conversion of a selenoxide with an alpha-hydrogen to an alpha-subtituted selenoether.
+process;sonogashira coupling;namerxn:3.3
+process;cannizzaro reaction;the disproportionation of a non-enolisable aldehyde to the corresponding carboxylic acid and alcohol. the reaction is base-catalysed.
+process;blaise reaction;the coupling of an alpha-bromo ester with a nitrile to give a beta-ketoester, in the presence of zinc.
+process;barton olefination;reaction of an aldehyde or ketone with a thioaldehyde or thioketone via a 1,3,4-thiadiazoline intermediate to yield an olefin.
+process;hofmann-l ffler-freytag reaction;an azacycle synthesis in which pyrrolidines or piperidines are formed by decomposition of protonated n-haloamines.
+process;kolbe-schmitt reaction;the (predominantly ortho) carboxylation of a phenoxide.
+process;sakurai reaction, aldehyde or ketone;a carbon-carbon coupling reaction in which an aldehyde or ketone reacts with allyltrimethylsilane to form a homoallylic alcohol.
+process;hetero-diels-alder reaction;a [4+2] cycloaddition reaction where a diene (or heterocyclic analogue) reacts with a dienophile to form an unsaturated heterocyclic six-membered ring compound.
+process;chloro sonogashira coupling;a sonogashira coupling where the aryl halide is an aryl chloride.
+process;miyaura borylation;a chemical reaction that allows the generation of boronates from vinyl or aryl halides with the cross-coupling of bis(pinacolato)diboron under basic conditions.
+process;meerwein-ponndorf-verley reduction;a reduction of an aldehyde or ketone to an alcohol involving an equilibrium between the aldehyde or ketone and a reagent alcohol present in excess, catalysed by a metal alkoxide. this reaction is the reverse of the oppenauer oxidation (rxno:0000047).
+process;fritsch-buttenberg-wiechell rearrangement;the rearrangement of a 2-bromoalkene into an alkyne, mediated by strong base.
+process;ortho-fries rearrangement;rearrangement of the acyl group in a phenolate ester to the ortho-position.
+process;groebke-blackburn-bienaym reaction;a three-component reaction (3cr) of a heterocyclic amidine, an aldehyde, and an isocyanide, resulting in a cyclic compound with imidazo[1,2-a] heterocycle as the core structure.
+process;niementowski quinoline synthesis;a quinoline synthesis where the product is a gamma-hydroxyquinoline and the reactants are a 2-aminobenzoic acid and an aldehyde or ketone.
+process;intramolecular prins reaction;a reaction between formaldehyde and an alkene to give a 1,3-dioxane, catalysed by acid.
+process;horner reaction;a joining reaction between a phosphine oxide and a carbonyl compound to give an olefin.
+process;reductive imination;a functional group modification where a carbonyl oxygen is replaced by an imine.
+process;prato reaction;a 1,3-dipolar cycloaddition reaction where a fullerene reacts with an aldehyde and an amino acid to form a pyrrolidinofullerene.
+process;cope elimination;elimination of a hydroxylamine from an amine oxide by pyrolysis to yield an olefin.
+process;gewald reaction;namerxn:4.3.4
+process;peterson olefination;a carbon-carbon coupling reaction in which an alpha-silyl carbanion reacts with an aldehyde or a ketone to give an alkene, proceeding via a beta-hydroxysilane. the stereochemistry of the alkene can be controlled by treating the intermediate with acid or base.
+process;wenker synthesis;namerxn:4.1.66
+process;wacker process;the oxidation of ethene to acetaldehyde, catalysed by pdcl2 and cucl2, and using molecular oxygen as the oxidant.
+process;willgerodt-kindler reaction;the conversion of an aryl alkyl ketone to an amide using sulfur and dry ammonia or a primary or secondary amine. the amide carbonyl group is always at the end of the alkyl chain.
+process;tiffeneau-demjanov rearrangement;rearrangement of a beta-amino alcohol to yield a carbonyl compound. in the first step the amine is diazotised by reaction with nitrous acid.
+process;ritter reaction;a reaction between an alcohol or alkene and a nitrile to give an amide, catalysed by a bronsted acid.
+process;[1,2]-aza-wittig rearrangement;a base-mediated 1,2-sigmatropic rearrangement of a tertiary amine to give a secondary amine.
+process;pyrimidine synthesis;a reaction in which the intended product is a pyrimidine that was not present in any of the reactants.
+process;n-acylation to amide;namerxn:2.1
+process;goldberg reaction;a coupling reaction in which an acetanilide is coupled to an aryl halide to give an n-acetyl diaryl amine in the presence of a copper compound.
+process;albright-goldman oxidation;a particularly mild oxidation method in which, for example, dimethyl sulfoxide and acetic anhydride can be used as oxidizing agents to selectively produce aldehydes from primary alcohols without further oxidation to carboxylic acids. analogously, secondary alcohols can be oxidized to form ketones.
+process;niementowski quinoline synthesis;namerxn:4.1.31
+process;aromatic claisen rearrangement;the [3,3]-sigmatropic rearrangement, and subsequent re-aromatisation, of an allyl aryl ether to give an ortho-allyl phenol.
+process;amide n-alkylation;namerxn:1.4
+process;chlorolactonization;namerxn:4.2.14
+process;phthalimide deprotection;conversion of a phthalimide into the corresponding primary amine.
+process;imine sakurai reaction;a carbon-carbon coupling reaction in which an imine reacts with allyltrimethylsilane to form a homoallylic amine.
+process;negishi coupling;a carbon-carbon coupling reaction between an organohalide or organotriflate and an organozinc compound. the reaction is catalysed by palladium or nickel.
+process;gabriel synthesis;the reaction of primary alkyl halides with sodium or potassium phthalimide, followed by hydrolysis, to give the corresponding primary amine.
+process;functional modification;a reaction where the number of atoms in the skeleton, and their connectivity, remain the same.
+process;bromolactonization;a halolactionization where the halide is a bromide.
+process;hydroalumination;the reaction of an aluminium alkyl with an alkene, to give an intermediate aluminium species that can give various products after work-up.
+process;acetal protection;the acid-catalyzed formation of an acetal (or ketal) to protect a carbonyl group by nucleophilic addition of an alcohol to an aldehyde (or ketone) with the elimination of water.
+process;glaser coupling;a coupling reaction between two molecules of a terminal alkyne catalysed by cu(i) salts.
+process;fischer-speier esterification;the esterification of a carboxylic acid with an alcohol. various lewis acids or bronsted acids may be used as catalyst.
+process;ring formation reaction step;a planned reaction step where the product contains a ring that was not in any of the reactants.
+process;hofmann reaction;conversion of a primary carboxylic amide to the lower homologue primary amine. the first step is the hofmann rearrangement
+process;reformatsky reaction;a carbon-carbon coupling reaction where an aldehyde or amine reacts with a alpha-halo ester and zinc to form a beta-hydroxy ester.
+process;fetizon oxidation;the oxidation of a primary alcohol to an aldehyde or a secondary alcohol to a ketone using fetizon's reagent.
+process;palladium-catalysed carbon-carbon coupling reaction;a carbon-carbon coupling reaction that is catalysed by a palladium atom.
+process;still-gennari modification;a horner-wadsworth-emmons reaction that uses phosphonates with electron-withdrawing groups and dissociating conditions to produce predominantly z-olefins.
+process;aza-cope rearrangement;a [3,3]-sigmatropic rearrangement where an aza-1,5-hexadiene rearranges to form an aza-1,5-hexadiene.
+process;polymerisation reaction;a joining reaction, the objective of which is that a large number of monomers react together to produce a polymer consisting of repeating units.
+process;ferrier rearrangement;the rearrangement of an o-alkenyl acetal to give the corresponding beta-alkoxy carbonyl compound.
+process;haloethanoate ester-ketone darzens reaction;a coupling of a ketone with an alpha-haloethanoate ester to replace the oxo group with a formyl group.
+process;oxy-cope rearrangement;a [3,3]-sigmatropic rearrangement of a 3-hydroxy-1,5-hexadiene rearranges to form a 5,6-unsaturated carbonyl compound.
+process;n-acylation to urea;namerxn:2.3
+process;kulinkovich-de meijere reaction;the formation of a substituted cyclopropylamine by reaction of an amide with a grignard reagent (carrying a hydrogen atom in the beta-position) in the presence of a titanium(iv) alkoxide as catalyst.
+process;shapiro reaction;the reaction of a tosylhydrazone of an aldehyde or ketone with an alkyllithium or grignard reagent to give an olefin.
+process;conjugate addition;a joining reaction where a nucleophile adds to the beta-carbon of an alpha,beta-unsaturated system (or an activated carbon-carbon bond).
+process;fischer-hepp rearrangement;the rearrangement of an aromatic nitrosamine to a para-nitrosoaniline.
+process;koerner-contardi reaction;an aromatic substitution reaction where an aryl diazonium salt reacts with a copper(ii) halide to form an aromatic halide.
+process;heterocycle synthesis;namerxn:4
+process;pinner pyrimidine synthesis;reaction of a 1,3-dicarbonyl compound with an amidine to yield a pyrimidine.
+process;friedel-crafts reaction;a carbon-carbon coupling reaction between an arene and a carbonyl compound (an acylation) or an alkyl compound that can form a carbocation (an alkylation) to form a substituted arene.
+process;end-of-chain chain shortening;a reaction in which a single skeletal atom is removed from the end of a chain.
+process;azo coupling;a coupling reaction of a diazonium salt with a phenol or aniline to give an azo compound.
+process;sakurai reaction, epoxide;a ring-breaking reaction in which an epoxide reacts with allyltrimethylsilane to form a hydroxy alkene.
+process;rubottom oxidation;the rubottom oxidation is a useful, high-yielding chemical reaction between silyl enol ethers and peroxy acids to give the corresponding -hydroxy carbonyl product.
+process;combes quinoline synthesis;reaction of a beta-diketone with a primary arylamine to yield a quinoline. it is acid-catalysed.
+process;benzyl ether protection;a hydroxyl group protection where the hydroxyl oxygen atom is protected by formation of a benzyl ether.
+process;gattermann bromination;a gattermann halogenation where the aryl diazonium salt reacts with copper powder and hydrobromic acid to yield an aromatic bromide.
+process;planned reaction step;a molecular process with which the experimenters aim to achieve a particular molecular transformation.
+process;3-aza-cope rearrangement;the rearrangement of a 3-aza-1,5-hexadiene to form a delta,epsilon-unsaturated imine.
+process;ring rearrangement;a reaction in which the number of rings in a molecule stays the same but the connectivity of the atoms in at least one ring changes.
+process;crabb homologation;oxidation of an alkene to an allene by heating with formaldehyde, an amine and an inorganic salt.
+process;barton-mccombie deoxygenation;the deoxygenation of an alcohol to the corresponding alkane using a thiochloroformate. it proceeds by a radical mechanism.
+process;barbier reaction;a joining reaction between an aldehyde or ketone and an alkyl halide or aryl halide or vinyl halide or allyl halide in the presence of metal to give a secondary or tertiary alcohol.
+process;alcohol to halide conversion;a functional group modification where an alcohol is converted to a halide.
+process;diimide reduction;reductions with diimide are a chemical reactions that convert unsaturated organic compounds to reduced alkane products. in the process, diimide is oxidized to dinitrogen.
+process;bohn-schmidt reaction;reaction of a hydroxylated anthraquinone with fuming sulfuric acid or sulfuric acid in boric acid in the presence of a mercury or selenium catalyst to form a more hydroxylated anthraquinone.
+process;birch reduction;addition of hydrogen atoms to aromatic rings by means of alkali metals in liquid ammonia.
+process;alkene metathesis;a joining reaction in which two carbon-carbon double bonds are redistributed among two fragments, i.e. two alkenes. it is typically catalysed by a metal carbenoid, and proceeds via two four-membered intermediates (metallacyclobutanes). the reaction is driven by release of a low-mw alkene.
+process;reimer-tiemann reaction;a formylation reaction between a phenol and chloroform (for example, to form an ortho-formyl phenol).
+process;sandmeyer pseudohalogenation;an aromatic substitution reaction where an aryl diazonium salt reacts with a copper(ii) pseudohalide to form an aromatic pseudohalide.
+process;bromide finkelstein reaction;the conversion of an alkyl bromide to an alkyl iodide by sn2 substitution.the reaction relies upon the equilibrium being pushed to completion by precipitation.
+process;aromatic substitution step;a substitution step where one singly-bonded substituent on an aromatic skeleton is replaced by another singly-bonded substituent.
+process;alkyne reduction to alkane;a hydrogenation reaction where an alkyne is reduced to an alkane.
+process;knorr quinoline synthesis;synthesis of an alpha-hydroxyquinoline by reaction of a beta-ketoester and an arylamine then dehydration with concentrated sulfuric acid.
+process;aza-achmatowicz rearrangement;a rearrangement of a furfuryl amine derivative to a tetrahydropyridinone.
+process;[2,3]-aza-wittig rearrangement;a base-mediated 2,3-sigmatropic rearrangement of an activated tertiary allyl amine, to give a secondary homoallylic amine.
+process;aryl reduction to cycloalkyl;a hydrogenation reaction where an aryl ring is reduced to a cycloalkyl ring.
+process;alkene oxidative cleavage;namerxn:1.6
+process;oxacycle synthesis;a ring formation reaction where the intended product contains an oxacycle that was not in any of the reactants.
+process;wolff rearrangement;a rearrangement of a diazoketone to give a ketene, with the elimination of molecular nitrogen.
+process;bart reaction;reaction of an aromatic diazonium compound with an alkali arsenite in the presence of copper or silver to yield an aromatic arsonic acid.
+process;allan-robinson flavone synthesis;reaction of ortho-hydroxyaryl ketones with aromatic carboxylic acid anhydrides to yield a flavone.
+process;functional group modification;a reaction in which a functional group undergoes a change that does not affect the number of atoms in (or connectivity of) the skeleton of the molecule.
+process;acridine synthesis;ring formation reaction where the intended product is an acridine.
+process;bromo suzuki-type coupling;namerxn:3.1.5
+process;claisen rearrangement;the [3,3]-sigmatropic rearrangement of an allyl vinyl ether to give a gamma,delta-unsaturated carbonyl compound.
+process;chloro sonogashira coupling;namerxn:3.3.3
+process;baeyer emmerling indole synthesis;namerxn:4.1.41
+process;stevens rearrangement, sulfonium;the 1,2-rearrangement of an alpha-methylene sulfonium salt to a sulfide in the presence of strong base.
+process;alcohol oxidation to carboxylic acid;an alcohol oxidation where the alcohol centre is replaced with a carboxy group.
+process;bradsher cyclisation;diels-alder reaction of a dienophile with a cationic aromatic azadiene to yield a bridged-ring system.
+process;eastwood reaction;reaction of a 1,2-diol with triethoxymethane under heat to yield an olefin.
+process;corey-seebach reaction;a chemical reaction in which ketones are synthesized from formaldehyde or other aldehydes, involving a temporary repolarization of a carbonyl group.
+process;amide to imidoyl chloride conversion;a functional group modification where an amide is converted to an imidoyl chloride.
+process;japp-klingemann reaction;the reaction of a doubly activated methylene compound that has at least one carbonyl substituent with an aryl azide to give a hydrazone. usually there is concomitant cleaving and oxidation of one of the carbonyl substituents.
+process;para-fries rearrangement;rearrangement of the acyl group in a phenolate ester to the para-position.
+process;heterocycle synthesis;a ring formation reaction where the intended product contains a heterocycle that was not in any of the reactants.
+process;diels-alder reaction;namerxn:3.11.3
+process;demjanov rearrangement;substitution reaction of a primary amine via deazotisation to yield a mixture of the corresponding primary alcohol and secondary alcohol.
+process;nitroxide exchange reaction;nitroxide exchange reactions are based on thermal c o bond homolysis of alkoxyamines, which leads to transient carbon-centred radicals and persistent nitroxide radicals. usually these carbon centred radicals are quickly trapped by the nitroxide radicals and reform the alkoxyamines.
+process;achmatowicz rearrangement;a rearrangement of a furfuryl alcohol derivative to a dihydropyranone, from which monosaccharides may be synthesised.
+process;hydrozirconation;the reaction of a organozirconium hydride with an alkene or alkyne, to give an intermediate zirconium species that can give various products after work-up. the zirconium reagent used is typically schwartz's reagent, cp2zrhcl.
+process;sakurai reaction, acid chloride;a carbon-carbon coupling reaction in which an acid chloride reacts with allyltrimethylsilane to form a gamma,delta-unsaturated ketone.
+process;suzuki-type coupling;the coupling of a boronic acid or boronic ester with an unsaturated halide, triflate or sulfonate.
+process;liebeskind-srogl coupling;a cross-coupling reaction where a thioester and a boronic acid react to form a ketone. it uses a metal catalyst.
+process;kabachnik-fields reaction;a three-component condensation reaction in which primary or secondary amines react with a carbonyl compound (aldehyde or ketone) and a dialkyl phosphonate (also called dialkyl phosphite) to form an alpha-aminophosphonate.
+process;stork-crabtree hydrogenation;a hydrogenation in which a metal-ligating group distant from the reacting alkene directs the attack of hydrogen, giving preferentially one stereoisomer of the product.
+process;friedel-crafts reaction;namerxn:3.10
+process;iodolactonization;a halolactionization where the halide is an iodide.
+process;bingel reaction;a cycloaddition where a fullerene reacts with diethyl bromomalonate to form a methanofullerene.
+process;corey-schmidt oxidation;oxidation of primary and secondary alcohols to aldehydes and ketones, respectively, through the use of pyridinium dichromate (pdc).
+process;beirut reaction;reaction of a benzofurazan 1-oxide with an enamine or enolate to yield a quinoxaline-1,4-dioxide.
+process;ring-opening metathesis;a ring-breaking reaction in which two carbon-carbon double bonds are redistributed among two fragments, i.e. an alkene and a cycloalkene. it is typically catalysed by a metal carbenoid, and proceeds via two four-membered intermediates (metallacyclobutanes). the reaction is driven by release of ring strain in the cycloalkene.
+process;1,4-hydrovinylation;the reaction of a 1,3-diene with an alkene to give a 1,4-diene, usually employing a cobalt-based catalyst (see hilt and luers, synthesis, 2002, 609).
+process;finkelstein reaction;the conversion of an alkyl chloride, alkyl bromide or alkyl sulfonate ester to an alkyl iodide by sn2 substitution. the reaction relies upon the equilibrium being pushed to completion by the precipitation.
+process;kolbe electrolysis;the decarboxylation and coupling of a carboxylate or mixture of carboxylates to give a dimer.
+process;aza-baylis-hillman reaction;a carbon-carbon coupling of an imine to an activated alkene in the presence of a nucleophilic base to give an allylic amine.
+process;aniline n-alkylation;namerxn:1.5
+process;deprotection reaction;a reaction in which a protecting group is modified by converting it into a functional group.
+process;corey-suggs oxidation;oxidation of primary and secondary alcohols to aldehydes and ketones, respectively, through the use of pyridinium chlorochromate (pcc).
+process;sulfonate ester finkelstein reaction;the conversion of an alkyl sulfonate ester to an alkyl iodide by sn2 substitution.the reaction relies upon the equilibrium being pushed to completion by precipitation.
+process;rupe rearrangement;rearrangement of a propargyl alcohol to an alpha,beta-unsaturated carbonyl compound via an enyne intermediate to yield the beta-substituted product.
+process;stille coupling;a carbon-carbon coupling reaction where a stannane reacts with an organohalide or organotriflate.
+process;amino group protection;a protection reaction where the reactive centre is an amino nitrogen atom.
+process;gattermann chlorination;a gattermann halogenation where the aryl diazonium salt reacts with copper powder and hydrochloric acid to yield an aromatic chloride.
+process;aufbau reaction;the insertion of alkenes (usually ethene) into the al-c bond of an aluminium alkyl, to give a long-chain aluminium alkyl that can go on to react again, or can decompose into the corresponding terminal alkene. the addition of transition metals results in reliable production of high molecular weight polymers.
+process;cyclic beckmann rearrangement;a beckmann rearrangement which produces a cyclic product.
+process;ring expansion;a reaction in which an existing ring is increased in size.
+process;seyferth-gilbert ketone homologation;reaction of a ketone with a dimethyl diazomethyl phosphonate under basic conditions to yield a terminal alkyne.
+process;2-aza-cope rearrangement;the rearrangement of a 2-aza-1,5-hexadiene to form an imine.
+process;favorskii rearrangement;base-catalysed rearrangement of an alpha-haloketone to a carboxylic acid or ester or amide.
+process;paal-knorr synthesis;the cyclisation of a 1,4-dicarbonyl compound with another molecule to give a five-membered aromatic ring compound.
+process;allylic oxidation;an oxidation reaction where an allylic c-h bond is replaced by a c=o bond.
+process;schmidt rearrangement, ketone;the reaction of a ketone with hydrazoic acid with the insertion of an nh group between the carbonyl carbon and one of the r groups to form an amide.
+process;allan-robinson isoflavone synthesis;reaction of ortho-hydroxyaryl ketones with aromatic carboxylic acid anhydrides to yield an isoflavone.
+process;ullmann reaction;a carbon-carbon homocoupling reaction of an aryl halide mediated by copper.
+process;nozaki-hiyama-kishi reaction;a coupling reaction of an aldehyde to an allyl, vinyl or aryl halide or triflate in the presence of chromium(ii). it is catalysed by nickel.
+process;chlorolactonization;a halolactionization where the halide is a chloride.
+process;ester condensation reaction;a condensation reaction that results in the production of an ester.
+process;schmidt rearrangement, alkene;the reaction of an alkene with hydrazoic acid with rearrangement to form an imide.
+process;noyori asymmetric hydrogenation, alkene;the homogeneous asymmetric catalytic hydrogenation of a c=c double bond using a ruthenium(ii) binap catalyst.
+process;carboxylic acid to acid chloride conversion;namerxn:9.3
+process;sakurai reaction, enone;a carbon-carbon coupling reaction in which an enone reacts with allyltrimethylsilane to form a delta,epsilon-unsaturated carbonyl compound.
+process;carboxylic acid to acid chloride conversion;a functional group modification where a carboxylic acid is converted to an acid chloride.
+process;cadogan coupling;the arylation of an arylamine mediated by isopentyl nitrite.
+process;photohydrosilylation;the photochemically induced addition of a hydrosilane across the double bond of an alkene or alkyne to give a more substituted silane, usually applied to cases where the hydrosilane is part of a silicon surface. the reaction uses uv irradiation and is usually initiated by an added photoactive compound such as a platinum catalyst.
+process;sarett oxidation;oxidation of an alcohol with a pyridine-chromium trioxide complex to yield a carbonyl compound.
+process;wurtz reaction;a carbon-carbon homocoupling reaction of two molecules of an alkyl halide with sodium to give a symmetrical product.
+process;heteroaryl n-alkylation;an n-alkylation reaction where the reactive centre is an azacycle ring nitrogen.
+process;barton decarboxylation;the decarboxylation of a carboxylic acid to the lower homologue alkane using a pyridine thione.
+process;sandmeyer fluorination;an aromatic substitution reaction where an aryl diazonium salt reacts with a copper(i) fluoride to form an aromatic fluoride.
+process;alkyne-azide click reaction;a [3+2] cycloaddition reaction between an azide and an alkyne to give a 1,2,3-triazole, needing only heat to proceed.
+process;corey-fuchs reaction;a homologation reaction of an aldehyde to yield a terminal alkyne. the reagents are tetrabromomethane, triphenylphosphine, butyllithium and water.
+process;baker-venkataraman rearrangement;the base-catalysed rearrangement of an o-acetoxyacetophenone to give a hydroxyphenyl-1,3-diketone.
+process;vorbrueggen condensation;the substitution of an acylated sugar with a silylated base to give a nucleoside.
+process;hydroxyl group protection;a protection reaction where the reactive centre is a hydroxyl oxygen atom.
+process;hydroamination;the addition of the n-h bond of an amine across a double bond of an alkene or alkyne, to give a more substituted amine.
+process;phthalimide protection;protection of a primary amino group by reaction with phthalic anhydride.
+process;retro-diels-alder reaction;the reverse of a [4+2] cycloaddition reaction, in which an unsaturated six-membered ring compound fragments to give a diene and a compound containing a double or triple bond (a dienophile).
+process;robinson annulation;reaction of a cyclohexanone with methyl vinyl ketone to form a fused-ring cyclohexenone. it is a michael reaction followed by an intramolecular aldol condensation.
+process;fenton alpha-hydroxy carboxylic acid oxidation;the oxidation of an alpha-hydroxy carboxylic acid with fenton's reagent to give an alpha-keto carboxylic acid.
+process;bamford-stevens reaction;the reaction of a tosylhydrazone of an aldehyde or ketone with a strong base to give an olefin.
+process;johnson-corey-chaykovsky thiirane synthesis;reaction of a sulfur ylide with a thione to produce a thiirane.
+process;suzuki-miyaura coupling;namerxn:3.1
+process;sarett secondary alcohol oxidation;oxidation of a secondary alcohol with a pyridine-chromium trioxide complex to yield a ketone.
+process;ene reaction;a joining reaction where an alkene with an allylic hydrogen reacts with a compound containing a multiple bond (an enophile) to form a substituted alkene.
+process;kr hnke pyridine synthesis;condensation of a 1,5-diketone with ammonium acetate in acetic acid to form a pyridine.
+process;criegee oxidation;the oxidative cleavage of an alpha,beta-diol using lead tetraacetate to give the corresponding carbonyl compounds.
+process;leuckart reaction;the reductive amination of ketones or aldehydes with an ammonium formate or formamide to form an amine.
+process;skraup reaction;a condensation between an aromatic amine and glycerol to give a quinoline.
+process;heteroaryl n-alkylation;namerxn:1.1
+process;cadogan indole synthesis;a cadogan cyclization that results in an indole.
+process;meerwein-ponndorf-verley reduction of an aldehyde;meerwein-ponndorf-verley reduction of an aldehyde to the corresponding primary alcohol.
+process;baylis-hillman reaction;a carbon-carbon coupling of an aldehyde to an activated alkene in the presence of a nucleophilic base to give an alpha-hydroxyalkylated compound.
+process;cativa process;the reaction of carbon monoxide with methanol to form acetic acid, catalysed by an iridium complex.
+process;scholl reaction;coupling of two aromatic rings in the presence of a lewis acid catalyst.
+process;boulton-katritzky rearrangement;rearrangement of a mancude eight-membered system containing a pentacycle into a different pentacycle where two of the ring atoms are ring atoms in the original molecule.
+process;triazine synthesis;a reaction in which the intended product is a triazine that was not present in any of the reactants.
+process;amide n-alkylation;an n-alkylation where the reactive centre is an amide nitrogen.
+process;pauson-khand reaction;a [2+2+1] cycloaddition between an alkyne, an alkene and carbon monoxide to form an alpha-beta-unsaturated cyclopentenone.
+process;tert-butyl protection;a carboxy group protection where the product is a tert-butyl ester.
+process;functional group oxidation;a functional group modification reaction where a functional group is oxidised.
+process;iodolactonization;namerxn:4.2.15
+process;aza-diels-alder reaction;a diels-alder reaction between a diene and an imine or an azadiene and an alkene to give a six-membered nitrogen-containing ring compound.
+process;amadori rearrangement;rearrangement of an aldose n-glycoside to a ketose n-glycoside by acid or base catalysis.
+process;shi epoxidation;organocatalytic enantioselective epoxidation of trans- and tri-substituted olefins using a fructose derived chiral ketone catalyst and potassium peroxomonosulfate or h2o2 as an oxidant.
+process;pivaloyl deprotection;a hydroxy group deprotection where a pivalate group is removed in acid or base conditions.
+process;pyrrole synthesis;a reaction in which the intended product is a pyrrole that was not present in any of the reactants.
+process;mumm rearrangement;rearrangement of an acyl imidate to form a carboximide.
+process;bromo suzuki coupling;a suzuki coupling where the halide is a bromide.
+process;oxa-diels-alder reaction;a diels-alder reaction between a diene and an aldehyde or ketone to give a six-membered oxygen-containing ring compound.
+process;pinacol rearrangement;a rearrangement of a 1,2-diol to give a carbonyl compound, catalysed by acid.
+process;aston-greenburg rearrangement;the rearrangement of an alpha-haloketone into an ester with a tertiary alpha-carbon atom by intramolecular migration of an alkyl or aryl group.
+process;arbuzov reaction;the alkylation of a trialkyl phosphite with an alkyl halide or acyl halide to give an alkyl phosphonate.
+process;friedlander quinoline synthesis;namerxn:4.1.29
+process;nitro reduction to amine;a reduction reaction where a nitro group is reduced to an amino group.
+process;bernthsen acridine synthesis;doi:10.1039/b204243f
+process;chain lengthening;a molecular skeleton joining reaction in which a chain part of a molecular skeleton is lengthened.
+process;sandmeyer reaction;an aromatic substitution reaction where an aryl diazonium salt reacts with a copper(i) halide or pseudohalide to form an aromatic halide or pseudohalide.
+process;wittig rearrangement;any of a family of sigmatropic rearrangements that involve the migration of a group on an electronegative atom (o or n) to a carbon atom.
+process;kulinkovich reaction;the formation of a substituted cyclopropanol by reaction of a carboxylic ester with a grignard reagent (carrying a hydrogen atom in the beta-position) in the presence of a titanium(iv) alkoxide as catalyst. a modified cyclopropanol product can be generated by addition of a terminal alkene as a further reactant.
+process;boc deprotection;an amino group deprotection reaction where a tertbutoxycarbonyl group is removed in acid conditions.
+process;intermolecular acyloin condensation;a reductive coupling reaction between two ester groups in different molecules to give an acyloin (an alpha-hydroxyketone).
+process;polonovski-potier reaction;the reaction of a tertiary amine oxide with trifluoroacetic anhydride to give an n,n-disubstituted acetamide and an aldehyde.
+process;perkow reaction;the reaction between an alpha-halocarbonyl compound and a trialkyl phosphite to give an enol phosphate.
+process;darzens reaction;a coupling of an aldehyde or ketone with an alpha-halo ester to form an alpha,beta-epoxy ester, which hydrolyses to yield aldehydes or ketones by elimination of carbon dioxide.
+process;aza-payne rearrangement;a base-catalysed isomerisation of a 2,3-epoxyamine to form a hydroxy aziridine, with inversion of configuration at c2.
+process;algar-flynn-oyamada reaction;a fused-ring-system formation reaction where a flavonol is produced by oxidation of a chalcone with alkaline hydrogen peroxide.
+process;retro-aldol addition;the reverse of an aldol addition, in which a beta-hydroxy ketone fragments to form a carbonyl compound and the enolate of an alpha-acidic carbonyl compound.
+process;joining with rearrangement;a reaction in which one or more atoms are added to the molecular skeleton and a skeletal rearrangement occurs.
+process;n-acylation to urea;an acylation reaction where a nitrogen atom is acylated to form a urea.
+process;bartoli indole synthesis;reaction of an ortho-substituted nitroarene with a vinyl grignard reagent to yield a 7-substituted indole.
+process;crossed cannizzaro reaction;the reaction between two different non-enolisable aldehydes to give a carboxylic acid and an alcohol. the reaction is base-catalysed.
+process;piperidine synthesis;a planned reaction in which one of the products contains a piperidine system that was not in any of the reactants.
+process;dimroth rearrangement;a rearrangement of a heterocyclic compound in which endocyclic and exocyclic heteroatoms swap places.
+process;benzoin condensation;a reaction between two aromatic aldehydes to give a benzoin (an alpha-hydroxyketone).
+process;ugi reaction;reaction of a ketone or aldehyde, amine, an isocyanide and carboxylic acid to form a bisamide.
+process;bergmann degradation;removal of a terminal amino acid residue from a peptide by benzoylation, azidation, treatment with benzyl alcohol, hydrogenation and hydrolysis.
+process;bogert-cook synthesis;condensation of beta-phenylethylmagnesium bromide with a cyclohexanone followed by cyclisation and dehydration in concentrated sulfuric acid to yield an octahydrophenanthrene.
+process;leuckart ketone reaction;reductive amination of a ketone with ammonium formate or formamide to form an amine.
+process;zincke nitration;substitution of phenol ortho- or para-bromo or iodo groups by a nitro group on treatment with nitrous acid or a nitrite in acetic acid.
+process;substitution step;a functional modification step in which one singly-bonded substituent, but not a hydrogen, is replaced by another singly-bonded substituent.
+process;tsuji-wilkinson decarbonylation;the tsuji-wilkinson decarbonylation reaction is a method for the decarbonylation of aldehydes and some acyl chlorides.
+process;indole synthesis;a reaction in which the intended product is an indole that was not present in any of the reactants.
+process;n-acylation to carbamate;an n-acylation reaction where a nitrogen centre is acylated to form a carbamate.
+process;imidazole synthesis;a planned reaction in which one of the products contains an imidazole system that was not in any of the reactants.
+process;tebbe olefination;reaction of an aldehyde or ketone or carboxylic ester or amide with the tebbe reagent to yield an olefin or an enol ether or an enamine.
+process;stevens rearrangement, ammonium;the 1,2-rearrangement of an alpha-methylene ammonium salt to an amine in the presence of strong base.
+process;aza-ene reaction;a joining reaction where an n=c system with an allylic hydrogen reacts with a compound containing a multiple bond (an enophile) to form a substituted alkene.
+process;zimmermann reaction;the reaction between a methylene ketone and a polynitro aromatic compound.
+process;bose-mitsunobu reaction;a mitsunobu reaction, where an alcohol is converted to something else with inversion at the stereocentre, using diphenylphosphoryl azide.
+process;corey-winter elimination;a chemical reaction for the stereoselective synthesis of an olefin from a 1,2-diol.
+process;rearrangement step;a reaction which preserves the number of rings and number of skeletal atoms and in which the molecule rearranges so that one or more atoms or groups of atoms move from one atom to another.
+process;mukaiyama hydration;the mukaiyama hydration is an organic reaction involving formal addition of an equivalent of water across an alkene by the action of catalytic bis(acetylacetonato)cobalt(ii) complex, phenylsilane and atmospheric oxygen.
+process;acyloin condensation;a reductive coupling reaction between two esters to give an acyloin (an alpha-hydroxyketone).
+process;auwers synthesis;ring expansion of a 2-bromo-2-(alpha-bromobenzyl)-1-benzofuran to a flavonol in alcoholic alkali.
+process;boc protection;a protection reaction in which an amine is converted into a tert-butoxycarbonyl compound.
+process;gewald reaction;reaction of an aldehyde or ketone with an alpha-cyanoester to form a 2-aminothiophene.
+process;fries rearrangement;rearrangement of the acyl group in a phenolate ester to the ortho- and/or para-position. it is catalysed by a lewis acid.
+process;kharasch reaction;the transfer of a hydrogen or halogen atom from a haloalkane to an alkene, giving the chain-extended halogenated alkane.
+process;ring-closing metathesis;a joining reaction in which two carbon-carbon double bonds in the same molecule are redistributed to give a cycloalkene. it is typically catalysed by a metal carbenoid, and proceeds via two four-membered intermediates (metallacyclobutanes). the reaction is driven by release of a low-mw alkene.
+process;reductive amination;namerxn:1.2
+process;kharasch-sosnovsky reaction;the allylic oxidation of an alkene with a peroxy ester or a peroxide to give the corresponding allylic alcohol derivative. the catalyst is a copper compound.
+process;fleming-tamao oxidation;the stereospecific oxidation of a (phenyldimethylsilyl)alkane to the corresponding alcohol using bromine, usually generated in situ from potassium bromide and peracetic acid.
+process;wacker cyclisation;a cyclisation where a hydroxyl group acts as the nucleophile in a wacker-tsuji oxidation accompanied by beta-hydride elimination, forming a ring.
+process;decarboxylative cross-coupling;a chemical reaction in which a carboxylic acid (or its salt) reacts with an organic (alkyl or aryl) halide to form a new carbon-carbon bond with concomitant loss of co2. in addition, the reaction requires a metal catalyst, a base and an oxidizing agent.
+process;bromo heck-type reaction;a heck-type reaction where an organobromide couples to a terminal olefin to produce an internal olefin.
+process;paal-knorr thiophene synthesis;the cyclisation of a 1,4-dicarbonyl compound with phosphorus pentasulfide to give a thiophene.
+process;willgerodt reaction;the conversion of an aryl alkyl ketone to an amide and/or an ammonium salt of a carboxylic acid using ammonium polysulfide. the carbonyl group of the product is always at the end of the alkyl chain.
+process;thiacycle synthesis;a ring formation reaction where the intended product contains an thiacycle that was not in any of the reactants.
+process;sommelet reaction;the oxidation of a benzylic halide to give an aldehyde. the reaction uses hexamethylenetetramine.
+process;bellus-claisen rearrangement;the coupling and subsequent [3,3]-sigmatropic rearrangement of an allylic ether or allylic thioether or allylic amine and a ketene to give the corresponding gamma,delta-unsaturated carbonyl compound.
+process;wohl-ziegler bromination;the allylic or benzylic bromination of hydrocarbons using an n-bromoimide and a radical initiator, to give an allylic or benzylic bromide.
+process;betti reaction;reaction of a phenol, an aromatic aldehyde and a primary aromatic or heterocyclic amine to yield a betti's base, also known as an alpha-aminobenzylphenol.
+process;boyland-sims oxidation;the oxidation of an aromatic amine to give a (predominantly ortho) amino aryl sulfate using potassium persulfate followed by hydrolysis to yield the corresponding aminophenol.
+process;heteroaryl n-arylation;an n-arylation reaction where the reactive centre is an azacycle ring nitrogen.
+process;intramolecular scholl reaction;scholl reaction within a single molecule to form a larger ring system.
+process;malaprade reaction;a cleaving reaction of a 1,2-diol using periodic acid to give the corresponding carbonyl compounds.
+process;appel iodination;conversion of an alcohol to an alkyl iodide with triphenylphosphine and tetraiodomethane.
+process;[2,3]-wittig rearrangement;a base-mediated 2,3-sigmatropic rearrangement of an allyl ether to give a homoallylic alcohol.
+process;baeyer pyridine synthesis;the conversion of pyran or pyrone (pyranone) derivatives to the corresponding pyridine derivative.
+process;wolff-kishner reduction, huang-minlon modification;the reduction of an aldehyde or ketone to the corresponding methylene compound, using hydrazine hydrate and a base in refluxing ethylene glycol.
+process;mori-ban indole synthesis;an intramolecular heck reaction of an ortho-halo-aniline with an alkene, catalysed by palladium.
+process;fmoc protection;the protection of an amine (often a peptide) as its 9h-fluoren-9-ylmethoxycarbonyl derivative.
+process;bouveault-blanc reaction;the reduction of an ester using sodium to give two alcohols.
+process;appel bromination with bromine;conversion of an alcohol to an alkyl bromide with triphenylphosphine and bromine.
+process;n-acylation to amide;an acylation reaction where a nitrogen atom is acylated to form an amide.
+process;hofmann rearrangement;rearrangement of a primary carboxylic amide to an isocyanate.
+process;eschenmoser-claisen rearrangement;the coupling and subsequent [3,3]-sigmatropic rearrangement of an allylic alcohol and alpha,alpha-dialkoxy ethylamine to give a gamma,delta-unsaturated dialkyl amide.
+process;fenton hydrogen peroxide reduction;the reaction of the components of fenton's reagent, viz. reduction of hydrogen peroxide by fe(ii) , producing an hydroxyl radical.
+process;demko-sharpless reaction;a functional group modification of a nitrile to a 1h-tetrazole by addition of sodium azide.
+process;johnson-corey-chaykovsky reaction;reaction of a sulfur ylide with a double-bond to produce a three-membered ring.
+process;pinner reaction;a functional group modification where a nitrile reacts with an alcohol under acid catalysis to form an amidine or ester.
+process;ethyl ester deprotection;a deprotection reaction where the reactant is an ethyl ester and the product is a carboxylic acid.
+process;benzylamine protection;an amino group protection where the amino nitrogen atom is protected by reaction with benzylamine.
+process;azacycle synthesis;namerxn:4.1
+process;nitrile to acid conversion;a functional group modification where a nitrile is transformed into a carboxylic acid.
+process;clemmensen reduction;a functional group reduction where an aldehyde or ketone carbonyl group is reduced to a methylene with zinc-mercury amalgam and hydrochloric acid.
+process;nickel-catalysed kumada coupling;a cross-coupling reaction between a grignard reagent and an activated (aryl or vinyl) halide or triflate. the reaction is catalysed by a nickel catalyst.
+process;weerman reaction;the degradation of an alpha-hydroxy amide or an alpha,beta-unsaturated amide to the lower homologue aldehyde, especially in carbohydrate chemistry. the process proceeds via hofmann degradation.
+process;o-acylation to ester;namerxn:2.6
+process;azacycle synthesis;a ring formation reaction where the intended product contains an azacycle that was not in any of the reactants.
+process;mukaiyama aldol condensation;an aldol condensation between an aldehyde or ketone and a silyl enol ether (also known as a ketene silyl acetal) to give a beta-hydroxy carbonyl compound.
+process;nef reaction;the conversion of a primary nitroalkane or secondary nitroalkane to an aldehyde or ketone, respectively.
+process;iodo suzuki-type coupling;a suzuki-type coupling where the halide is an iodide.
+process;chugaev reaction;elimination of a water molecule from a secondary alcohol to yield an olefin.
+process;dess-martin ketone oxidation;a dess-martin oxidation of a secondary alcohol to a ketone.
+process;ring-opening metathesis polymerisation;a joining reaction in which two carbon-carbon double bonds are redistributed among two fragments, i.e. two alkenes. it is typically catalysed by a metal carbenoid, and proceeds via two four-membered intermediates (metallacyclobutanes). the reaction is driven by release of ring strain in the cycloalkene.
+process;monsanto process;the reaction of carbon monoxide with methanol to form acetic acid, catalysed by a rhodium complex.
+process;haloethanoate ester-aldehyde darzens reaction;a coupling of an aldehyde with an alpha-haloethanoate ester to form the next homologous aldehyde.

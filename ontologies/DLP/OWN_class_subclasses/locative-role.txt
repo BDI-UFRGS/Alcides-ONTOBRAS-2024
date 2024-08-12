@@ -1,0 +1,1445 @@
+gobi desert;a desert in central asia
+st. louis;the largest city in missouri. was an important staging area for wagon trains westward in the 19th century
+staging area;an area where troops and equipment in transit are assembled before a military operation
+repair;a frequently visited place
+irredenta;"a region that is related ethnically or historically to one country but is controlled politically by another"
+essen;a city in western germany. industrial center of the ruhr
+emirate;the domain controlled by an emir
+gila desert;a desert area in s arizona
+munich;the capital and largest city of bavaria in southeastern germany
+champagne ardenne;a region of northeastern france
+prussia;a former kingdom in north-central europe including present-day northern germany and northern poland. 'in the 19th century prussia led the economic and political unification of the german states'
+turkestan;a historical region of central asia that was a center for trade between the east and the west
+motown;the largest city in michigan and a major great lakes port. center of the united states automobile industry. located in southeastern michigan on the detroit river
+casper;a city of east central wyoming on the north platte river
+nanking;a city in eastern china on the yangtze river. a former capital of china. the scene of a japanese massacre in the 1930s
+high;"a high place. 'they stood on high and observed the coutryside' or 'he doesn't like heights'"
+byzantine empire;a continuation of the roman empire in the east
+tacoma;a city of west central washington on an arm of puget sound south of seattle
+funfair;a commercially operated park with stalls and shows for amusement
+home farm;(british) a farm that supplies the needs of a large estate of establishment
+temperate zone;the part of the earth's surface between the arctic circle and the tropic of cancer or between the antarctic circle and the tropic of capricorn. characterized by temperate climate
+river basin;the entire geographical area drained by a river and its tributaries. 'flood control in the missouri basin'
+root;"the place where something begins, where it springs into being. 'the italian beginning of the renaissance'. 'jupiter was the origin of the radiation'. 'pittsburgh is the source of the ohio river'. 'communism's russian root'"
+locus;the scene of any event or action (especially the place of a meeting)
+tangier;a city of northern morocco at the west end of the strait of gibraltar. 'the first tangerines were shipped from tangier to europe in 1841'
+headspring;the source of water from which a stream arises. 'they tracked him back toward the head of the stream'
+drop zone;an agreed area where military supplies are dropped to ground troops
+newport;a resort city in southeastern rhode island. known for the summer homes of millionaires. important yachting center
+south temperate zone;between the antarctic circle and the tropic of capricorn
+ile de france;a region of north central france in the paris basin
+grand duchy;the domain controlled by a grand duke or grand duchess
+tucson;a city in southeastern arizona
+wales;one of the four countries that make up the united kingdom of great britain and northern ireland
+naha city;the chief city in the syukyu islands
+teeing ground;the starting place for each hole on a golf course
+hunting ground;an area in which game is hunted
+flower garden;a garden featuring flowering plants
+genoa;a seaport in northwestern italy. provincial capital of liguria
+geographic region;"a demarcated area of the earth"
+origin;"the place where something begins, where it springs into being. 'the italian beginning of the renaissance'. 'jupiter was the origin of the radiation'. 'pittsburgh is the source of the ohio river'. 'communism's russian root'"
+plot;a small area of planted ground. 'a cabbage patch'
+medical center;the part of a city where medical facilities are centered
+nineveh;an ancient assyrian city
+inferno;"any place of pain and turmoil: 'the hell of battle'. 'the inferno of the engine room'. 'when you're alone christmas is the pits'."
+bridgehead;a defensive post at the end of a bridge nearest to the enemy
+yosemite national park;a national park in california famous for its waterfalls and rock formations
+parking area;a lot where cars are parked
+artist s workroom;a studio especially for an artist or designer
+basle;a city in northwestern switzerland
+range;a large tract of grassy open land on which livestock can graze. 'they used to drive the cattle across the open range every spring'. 'he dreamed of a home on the range'
+oakland;a city in western california on san francisco bay opposite san francisco
+field;a piece of land prepared for playing a game. 'the home crowd cheered when princeton took the field'
+taxistand;a place where taxis park while awaiting customers
+safety isle;an area in a roadway from which traffic is excluded. provides safe area for pedestrians
+sheltered workshop;a workshop that offers low-skill jobs to members of the physically or developmentally disabled population
+antarctic zone;the region around the south pole: antarctica and surrounding waters
+pit;a coal mine and all the buildings and equipment connected with it
+principality;territory ruled by a prince
+urban center;a large and densely populated urban area. may include several independent administrative districts. 'ancient troy was a great city'
+commodities exchange;an exchange for buying and selling commodities for future delivery
+hong kong;a british crown colony on the coast of s china. leased by china to britain in 1842 and returned in 1997. one of the world's leading commercial centers
+valparaiso;the chief port and second largest city of chile. located on a wide harbor in central chile
+dust bowl;a region subject to dust storms. especially the central region of united states subject to dust storms in the 1930s
+new hampshire;one of the british colonies that formed the united states
+industrial park;a tract at a distance from city center that is designed for a community of businesses and factories
+resort;an area where many people go for recreation
+corse;a region of france on the island of corsica. birthplace of napoleon bonaparte
+place;a general vicinity. 'he comes from a place near chicago'
+aquitaine;a region of southwestern france between bordeaux and the pyrenees
+tannery;place where skins and hides are tanned
+leftfield;the part of the outfield on the catcher's left
+job;a workplace. as in the expression 'on the job'
+labrador;part of the province of newfoundland in the eastern part of the large labrador-ungava peninsula in northeastern canada
+north;the region of the united states lying north of the mason-dixon line
+birmingham;a city in central england. 2nd largest english city and an important industrial and transportation center
+dubrovnik;a port city in southwestern croatia on the adriatic. a popular tourist center
+waterworks;stores and purifies and distributes water for a community
+puddle;"something resembling a pool of liquid. 'he stood in a pool of light'. 'his chair sat in a puddle of books and magazines'"
+front;the line along which opposing armies face each other
+namib desert;a desert in namibia between the high plateau and the atlantic ocean
+donbass;an industrial region in the ukraine
+arcadia;a department of greece in the central peloponnese
+farming area;a rural area where farming is practiced
+mecca;"a place that attracts many visitors. 'new york is a mecca for young artists'"
+saddlery;the place where a saddler works
+fairway;a tract of ground free of obstacles to movement
+baltimore;the largest city in maryland. a major port and industrial center
+base;"the place where you are stationed and from which missions start and end"
+wilderness;a wild and uninhabited area
+gujerat;a region of western india north of bombay (bordering the arabian sea) where gujarati is spoken
+new jersey;one of the british colonies that formed the united states
+ruhr;a major industrial and coal mining region in the valley of the ruhr river in northwestern germany
+princedom;territory ruled by a prince
+klondike;a region in northwestern canada where gold was discoveredin 1896 but exhausted by 1910
+town;an urban area with a fixed boundary that is smaller than a city. 'they drive through town on their way to work'
+open;a clear or unobstructed space or expanse of land or water: 'finally broke out of the forest into the open'
+thule;the geographical region believed by ancient geographers to be the northernmost land in the inhabited world
+space;an area reserved for some particular purpose. 'the laboratory's floor space'
+exchange;a place for buying and selling. open only to members
+kharkov;a city in northeastern ukraine. former capital of the ukraine
+holy land;an ancient country is southwestern asia on the east coast of the mediterranean. a place of pilgrimage for christianity and islam and judaism
+silesia;a region of central europe rich in deposits of coal and iron ore. annexed by prussia in 1742 but now largely in poland
+south carolina;one of the british colonies that formed the united states
+braunschweig;a city in central germany
+venice;the provincial capital of veneto. built on 118 islands within a lagoon in the gulf of venice which is an arm of the adriatic. has canals instead of streets. one of italy's major ports and a famous tourist attraction
+glade;a tract of land with few or no trees in the middle of a wooded area
+jericho;a village in jordan near the north end of the dead sea. in the old testament it was the first place taken by the israelites under joshua as the entered the promised land
+leeds;a city on the river aire in west yorkshire in northern england. a center of the clothing industry
+patavium;a city in veneto
+deep south;the southeastern region of the united states: south carolina and georgia and alabama and mississippi and louisiana. prior to the american civil war all these states produced cotton and permitted slavery
+field;a geographic region (land or sea) under which something valuable is found. 'the diamond fields of south africa'
+pittsburgh;a city in southwestern pennsylvania at the beginning of the ohio river. site of carnegie-mellon university and the university of pittsburgh
+utica;an ancient city on the north coast of africa (northwest of carthage). destroyed by arabs around 700 ad
+tegu;a city in southeastern south korea
+tidal zone;an area subject to tidal action
+toledo;a city in central spain on the tagus river. famous for steel and swords since the first century
+fireside;an area near a fireplace (usually paved and extending out into a room)
+elsass;a region of northeastern france famous for its wines
+picardy;a region of northern france on the english channel
+east;the region of the united states lying north of the ohio river and east of the mississippi river
+broadcasting studio;where broadcasts originate
+newcastle upon tyne;a port in northeastern england on the river tyne. a center for coal exports (giving rise to the expression 'carry coals to newcastle' meaning to do something unnecessary)
+chappel hill;a town in central north carolina. site of the university of north carolina
+kalahari;a desert in southwestern africa - largely botswana
+assouan;an ancient city on the nile in egypt. site of the aswan high dam
+centre;an area that is approximately central within some larger region. 'it is in the center of town'. 'they ran forward into the heart of the struggle'. 'they were in the eye of the storm'
+beachhead;an area in hostile territory that has been occupied and is held for further troops and supplies
+bandung;a city in indonesia. located on western java (southeast of jakarta). a resort known for its climate
+winner s circle;a small area at a racecourse where awards are given to the owners of winning horses
+mcburney s point;"a point one third of the way along a line drawn from the hip to the umbilicus. the point of maximum sensitivity in acute appendicitis"
+lot;a parcel of land having fixed boundaries. 'he bought a lot on the lake'
+clearing;a tract of land with few or no trees in the middle of a wooded area
+tangiers;a city of northern morocco at the west end of the strait of gibraltar. 'the first tangerines were shipped from tangier to europe in 1841'
+virginia;one of the british colonies that formed the united states
+jerez de la frontera;a city in southwestern spain that is famous for making sherry
+lumberyard;a place where lumber is stocked for sale
+jumping off place;a place from which an enterprise or expedition is launched
+shanghai;the largest city of china. located in the east on the pacific. one of the largest ports in the world
+orleanais;a former province of north central france. centered around orleans
+latin quarter;the region of paris on the s bank of the seine. a center of artistic and student life
+nidaros;a port in central norway on trondheim fjord
+coventry;an industrial city in central england. devastated by air raids during world war ii. remembered as the home of lady godiva in the 11th century
+french indochina;the french colonies of cambodia and laos and vietnam were formerly organized as french indochina
+acapulco;a fashionable resort city on mexico's pacific coast. known for beaches and water sports (including cliff diving)
+oxford;a city in southern england northwest of london. site of oxford university
+shenyang;a city in northeastern china
+medium;the surrounding environment. 'fish require an aqueous medium'
+lund;a city in southeastern sweden
+safety;a safe place. 'he ran to safety'
+bed;a plot of ground in which plants are growing. 'the gardener planted a bed of roses'
+drill site;the site of a drill hole
+ambiance;the atmosphere of an environment
+playground;an area where many people go for recreation
+hell on earth;"any place of pain and turmoil: 'the hell of battle'. 'the inferno of the engine room'. 'when you're alone christmas is the pits'."
+shiraz;a city in central southwestern iran. ruins of ancient persepolis are nearby
+settlement;an area where a group of families live together
+andalucia;a region in southern spain on the atlantic and the mediterranean. formerly a center of moorish civilization
+harbourage;a place of refuge (as for a ship)
+tennis court;the court on which tennis is played
+frankfurt;a german city. an industrial and commercial and financial center
+rhineland;a picturesque region of germany around the rhine river
+tract;an extended area of land
+pompeii;ancient city southeast of naples that was buried by a volcanic eruption from vesuvius
+southeast asia;a geographical division of asia that includes indochina plus indonesia and the philippines and singapore
+luoyang;a city in east central china. the capital of ancient china during several dynasties
+central america;the part of north america south of the united states
+poitou charentes;a low-lying region of west central france on the bay of biscay
+brunswick;a city in central germany
+slezsko;a region of central europe rich in deposits of coal and iron ore. annexed by prussia in 1742 but now largely in poland
+athletic field;a piece of land prepared for playing a game. 'the home crowd cheered when princeton took the field'
+target;"the location of the target that is to be hit"
+subdivision;an area composed of subdivided lots
+limousin;a region of central france west of the auvergne mountains
+dresden;a city in southeastern germany on the elbe river
+kyoto;a city in central japan on s honshu. a famous cultural center that was once the capital of japan
+corsica;a region of france on the island of corsica. birthplace of napoleon bonaparte
+landmark;"the position of a prominent or well-known object in a particular landscape. 'the church steeple provided a convenient landmark'"
+sodom;(old testament) an ancient city near the dead sea that (along with gomorrah) was destroyed by god for the wickedness of its inhabitants
+derivation;the source from which something derives (i.e. comes or issues). 'he prefers shoes of italian derivation'
+savanna;a flat grassland in tropical or subtropical regions
+rostov on don;a seaport in the european part of russia
+australian desert;general name given to all desert areas in australia
+viscounty;the domain controlled by a viscount or viscountess
+t ien ching;a major industrial center in northeastern china on the grand canal near the yellow sea. 3rd largest city in china
+barony;the domain of a baron
+transshipment center;a port where merchandise can be imported and re-exported with paying import duties
+central park;a large park in manhattan
+birmingham;the largest city in alabama. located in northeastern alabama
+rice paddy;an irrigated or flooded field where rice is grown
+muenchen;the capital and largest city of bavaria in southeastern germany
+zomba;a city in s malawi. was the capital until 1971
+nice;a city in southeastern france on the mediterranean. the leading resort on the french riviera
+commons;a piece of open land for recreational use in an urban area. 'they went for a walk in the park'
+outport;(british) a subsidiary port built in deeper water than the original port (but usually farther from the center of trade)
+circus;an oval or circular area enclosed by tiers of seats and usually covered by a tent. 'they used the elephants to help put up the circus'
+central city;the central part of a city
+cleveland;the largest city in ohio. located in northeastern ohio on lake erie. a major great lakes port
+northland;any region lying in or toward the north"any region lying in or toward the north"
+park;a piece of open land for recreational use in an urban area. 'they went for a walk in the park'
+versailles;a city in north central france near paris. site of the palace of versailles that was built by louis xiv in the 17th century
+hinterland;a remote and undeveloped area
+saint augustine;a resort in northeastern florida. the oldest city in the united states
+solitude;"a solitary place"
+cemetery;a tract of land used for burials
+cloister;a courtyard with covered walks (as in religious institutions)
+urban sprawl;an aggregation or continuous network of urban communities
+corn exchange;a place where grains are bought and sold
+alsatia;a region of northeastern france famous for its wines
+mashhad;the holy city of shiite muslims. located in northeastern iran
+parcel of land;an extended area of land
+burg;colloquial american term for a town. 'i've lived in this burg all my life'
+mine field;a tract of land containing explosive mines
+ruhr valley;a major industrial and coal mining region in the valley of the ruhr river in northwestern germany
+chungking;a city in south-central china on the yangtze river. a commercial center for western china
+wurzburg;a city of south central germany
+giza;an ancient egyptian city on the west bank of the nile opposite cairo. site of three great pyramids and the sphinx
+south;"any region lying in or toward the south"
+stratford upon avon;a town in central england on the river avon. birthplace (and burial place) of william shakespeare
+field of battle;a region where a battle is being (or has been) fought. 'they made a tour of civil war battlefields'
+aquila degli abruzzi;the provincial capital of the abruzzi region in central italy
+sinai;a desert on the sinai peninsula in northeastern egypt
+assyria;an ancient kingdom in northern mesopotamia
+trondheim;a port in central norway on trondheim fjord
+kingdom of god;the domain over which god is spiritually sovereign
+great plains;a vast prairie region extending from alberta and saskatchewan and manitoba in canada south through the west central united states into texas. formerly inhabited by native americans
+green;a piece of open land for recreational use in an urban area. 'they went for a walk in the park'
+thessalia;a fertile plain on the aegean sea in east central greece. thessaly was a former region of ancient greece
+refuge;a safe place. 'he ran to safety'
+argos;an ancient city in southeastern greece. dominated the peloponnese in the 7th century bc
+livonia;a region on the baltic that is divided between northern estonia and southern latvia
+constantinople;the largest city and former capital of turkey. built on the site of ancient byzantium. seat of the eastern orthodox church
+common;a piece of open land for recreational use in an urban area. 'they went for a walk in the park'
+unknown region;"an unknown and unexplored region. 'they came like angels out the unknown'"
+hindustan;northern region of india where hinduism predominates
+hangout;a frequently visited place
+pittsburgh of the south;the largest city in alabama. located in northeastern alabama
+tulsa;a major city of northeastern oklahoma on the arkansas river
+potter s field;a cemetery for unknown or indigent people
+rendezvous;"a place where people meet. 'he was waiting for them at the rendezvous'"
+muscovy;a russian principality in the 13th to 16th centuries. moscow was the capital
+forecourt;the outer or front court of a building or of a group of buildings
+portland;largest city in maine in the southwestern part of the state
+seville;a city in southwestern spain. a major port and cultural center. the capital of bullfighting in spain
+place;a public square with room for pedestrians. 'they met at elm plaza'. 'grosvenor place'
+veld;elevated open grassland in southern africa
+firebreak;a narrow field that has been cleared to check the spread of a prairie fire or forest fire
+frontier;a wilderness at the edge of a settled area of a country. 'the individualism of the frontier in andrew jackson's day'
+tiltyard;(formerly) an enclosed field for tilting contests
+persepolis;an ancient city that was the capital of the persian empire. now in ruins
+molotov;a city in the european part of russia
+sao paulo;an ultramodern city in southeastern brazil. the largest city in south america
+encampment;a site where people on holiday can pitch a tent
+inner city;the older and more populated and (usually) poorer central section of a city
+casablanca;a port on the atlantic and the largest city of morocco
+coalfield;a region where there is coal underground
+country;an area outside of cities and towns. 'his poetry celebrated the slower pace of life in the country'
+miami;a city and resort in southeastern florida on biscayne bay. the best known city in florida
+assuan;an ancient city on the nile in egypt. site of the aswan high dam
+milan;the capital of lombardy in northern italy. has been an international center of trade and industry since the middle ages
+new orleans;a port and largest city in louisiana. located in southeastern louisiana near the mouth of the mississippi river. jazz originated among black musicians in the late 19th century. mardi gras is celebrated here each year
+scene of action;where sports events take place
+karachi;the largest city in pakistan. located in southeastern pakistan. an industrial center and seaport on the arabian sea. former capital of pakistan
+persian empire;an empire in s asia created by cyrus the great in the 6th century bc and destroyed by alexander the great in the 4th century bc
+ironworks;the place where iron is smelted or where iron goods are made
+observation post;an elevated post affording a wide view
+financial center;the part of a city where financial institutions are centered
+property;any area set aside for a particular purpose. 'who owns this place?'
+buffalo;a city on lake erie in western new york (near niagara falls)
+utrecht;a city in the central netherlands
+tampa;a resort city in western florida. located on tampa bay on the gulf of mexico
+martinique;an island in the eastern caribbean in the windward islands. administered as an overseas region of france
+antarctic;the region around the south pole: antarctica and surrounding waters
+milano;the capital of lombardy in northern italy. has been an international center of trade and industry since the middle ages
+guiana;a geographical regin of northeastern south america including guyana and surinam
+eitchen midden;(archeology) a mound of domestic refuse containing shells and animal bones marking the site of a prehistoric settlement
+piazza;a public square with room for pedestrians. 'they met at elm plaza'. 'grosvenor place'
+arena;the central area of an ancient roman amphitheater where contests and spectacles were held. especially a sand-strewn area
+twin cities;nickname for saint paul and minneapolis
+hotbed;a bed of earth covered with glass and heated by rotting manure to promote the growth of plants
+durham;a city of north central north carolina. site of duke university
+upper normandy;a division of normandy
+wheeling;a city in the northern panhandle of west virginia on the ohio river
+esthonia;a republic in northeastern europe on the baltic sea
+cross section;a section created by a plane cutting a solid perpendicular to its longest axis
+meadow;a field where grass or alfalfa are grown to be made into hay
+leicester;an industrial city on the river soar in leicestershire in central england. built on the site of a roman settlement
+focus;"a central point or locus of bacterial growth in an organism. 'the focus of infection'"
+profile;a vertical section of the earth's crust showing the different horizons or layers
+ghost town;a deserted town (especially in western united states)
+stopover;a stopping place on a journey. 'there is a stopover to change planes in chicago'
+stand;"the position where a thing or person stands"
+surround;the area in which something exists or lives: 'the country--the flat agricultural surround'
+bombay;a city in western india just off the coast of the arabian sea. india's 2nd largest city (after calcutta). has the only natural deep-water harbor in western india
+pearl fishery;a place where they fish for pearl oysters
+disk overhead;(computer science) the disk space required for non-data information (used for location and timing)
+alsace;a region of northeastern france famous for its wines
+scrapheap;an accumulation of refuse and discarded matter
+nurnberg;a city in southeastern germany. site of allied trials of nazi war criminals (1945-46)
+gaza strip;a coastal region at the southeastern corner of the mediterranean bordering israel and egypt
+krakau;an industrial city in s poland on the vistula
+sub saharan africa;the region of africa south of the sahara desert
+earldom;the domain controlled by an earl or count or countess
+creamery;a place where butter and cheese are made
+minefield;a region in which explosives mines have been placed
+battlefield;a region where a battle is being (or has been) fought. 'they made a tour of civil war battlefields'
+bush;a large wilderness area
+proving ground;a place for testing new equipment or ideas
+fountainhead;the source of water from which a stream arises. 'they tracked him back toward the head of the stream'
+croft;(great britain) a small farm worked by a crofter
+yellowstone national park;the first national park in the united states. located in wyoming. famous for old faithful geyser and for buffalo and bears
+southwest;the southwestern region of the united states
+dropping zone;an agreed area where military supplies are dropped to ground troops
+gomorrah;(old testament) an ancient city near the dead sea that (along with sodom) was destroyed by god for the vice and depravity of its inhabitants
+line of battle;a line formed by troops or ships prepared to deliver or receive an attack
+cincinnati;a city in s ohio on the ohio river
+stock market;an exchange where security trading is conducted by professional stockbrokers
+leipzig;a city in southeastern germany famous for fairs. formerly a music and publishing center
+baltic state;european countries bordering the baltic sea
+tel aviv jaffa;the largest city and financial center of israel. located in western israel on the mediterranean
+market town;a (usually small) town where a public market is held at stated times
+loading area;a stop where carriers can be loaded and unloaded
+dusseldorf;an industrial city in western germany on the rhine
+place;a space reserved for sitting (as in a theater or on a train or airplane). 'he booked their seats in advance'. 'he sat in someone else's place'
+pays de la loire;an agricultural region of western france on the bay of biscay
+pleasure ground;a commercially operated park with stalls and shows for amusement
+st. john;a port in eastern canada. the largest city in new brunswick
+eastern hemisphere;the hemisphere that includes eurasia and africa and australia
+front yard;the grounds in front of a house. between the house and the street
+back country;a remote and undeveloped area
+memphis;an ancient city of egypt (s of cairo)
+megalopolis;a very large urban complex (usually involving several cities and towns)
+weimar;a german city near leipzig. scene of the adoption in 1919 of the constitution of the weimar republic that lasted until 1933
+end;"one of two places from which people are communicating to each other. 'the phone rang at the other end' or 'both ends wrote at the same time'"
+lair;the habitation of wild animals
+eye;an area that is approximately central within some larger region. 'it is in the center of town'. 'they ran forward into the heart of the struggle'. 'they were in the eye of the storm'
+front;the immediate proximity of someone or something. 'she blushed in his presence'. 'he sensed the presence of danger'. 'he was well behaved in front of company'
+presence;the immediate proximity of someone or something. 'she blushed in his presence'. 'he sensed the presence of danger'. 'he was well behaved in front of company'
+gorki;an industrial city in the european part of russia
+albuquerque;the largest city in new mexico. located in central new mexico on the rio grande river
+burial ground;a tract of land used for burials
+pasadena;a city in southwestern california east of los angeles
+right;the part of the outfield on the catcher's right
+parking lot;a lot where cars are parked
+venue;the scene of any event or action (especially the place of a meeting)
+omaha;largest city in nebraska. located in eastern nebraska on the missouri river
+market cross;a cross-shaped monument set up in the marketplace of a town where public business is often conducted
+clear;a clear or unobstructed space or expanse of land or water: 'finally broke out of the forest into the open'
+washhouse;a building or outbuilding where laundry is done
+rostov;a seaport in the european part of russia
+safety island;an area in a roadway from which traffic is excluded. provides safe area for pedestrians
+edirne;a city in northwestern turkey. a thracian town that was rebuilt and renamed by the roman emperor hadrian
+appalachia;an impoverished coal mining area in the appalachian mountains (from pennsylvania to north carolina)
+overlook;"a high place affording a good view"
+oilfield;a region rich in petroleum deposits (especially one with producing oil wells)
+outside;"the region that is outside of something"
+pitch;"(british) a vendor's position (especially on the sidewalk). 'he was employed to see that his paper's news pitches were not trespassed upon by rival vendors'"
+corner;a remote area. 'in many corners of the world they still practice slavery'
+court;a yard wholly or partly surrounded by walls or buildings. 'the house was built around an inner court'
+istanbul;the largest city and former capital of turkey. built on the site of ancient byzantium. seat of the eastern orthodox church
+desert;an arid region with little or no vegetation
+adrianopolis;a city in northwestern turkey. a thracian town that was rebuilt and renamed by the roman emperor hadrian
+rope yard;a long narrow path or shed where rope is made
+saratoga springs;a town in eastern new york state famed for its spa and its horse racing
+destination;"place where something (e.g., a journey or race) ends"
+alep;a city in northwestern syria
+gdansk;a city of northern poland near the mouth of the vistula
+leningrad;a city in the european part of russia. 2nd largest russian city. located at the head of the gulf of finland on the neva river. former capital of russia
+ayr;a port in southwestern scotland
+stage;any scene regarded as a setting for exhibiting or doing something. 'all the world's a stage'--shakespeare. 'it set the stage for peaceful negotiations'
+national park;a tract of land declared by the national government to be public property
+princeton;a university town in central new jersey
+target area;"the location of the target that is to be hit"
+dude ranch;a holiday resort offering ranch activities (riding and camping)
+orlando;a city in central florida
+northeast;the northeastern region of the united states
+weather station;one of a networks of observation posts where meteorological data is recorded
+toll plaza;an area where tollbooths are located
+chop shop;a place where stolen cars are disassembled for their parts
+soweto;a large collection of african townships southwest of johannesburg in south africa. inhabited solely by black africans
+see;the place within a bishop's diocese where his cathedral is located
+sapporo;a japanese city on western hokkaido
+great falls;a city in central montana on the missouri river. a center of extensive hydroelectric power
+yalta;a resort city in s ukraine on the black sea. scene of the allied conference between churchill and stalin and roosevelt in 1945
+new york;one of the british colonies that formed the united states
+catchment basin;the geographical area draining into a river or reservoir
+laconia;an ancient region of s greece in the southeastern peloponnesus. dominated by sparta
+northwest;the northwestern region of the united states
+samarcand;tamerlane's capital in the 14th century
+treaty port;a port in china or korea or japan that once was open to foreign trade on the basis of a trading treaty
+moorage;a place where a craft can be made fast
+estonia;a republic in northeastern europe on the baltic sea
+sioux falls;largest city in south dakota. located in southeastern south dakota
+scandinavia;a group of culturally related countries in northern europe. finland and iceland are sometimes considered part of scandinavia
+woodlet;a small cultivated wood without undergrowth
+swansea;a port city in s wales on an inlet of the bristol channel
+levant;the former name for the geographical area of the eastern mediterranean that is now occupied by lebanon and syria and israel
+laundry;where clothes are washed and ironed
+tel aviv;the largest city and financial center of israel. located in western israel on the mediterranean
+ulster;a historic division of ireland located in the northeastern part of the island. six of ulster's nine counties are in northern ireland
+urban area;a geographical area constituting a city or town
+gujarat;a region of western india north of bombay (bordering the arabian sea) where gujarati is spoken
+roanoke;a city in southwestern virginia
+colony;one of the 13 british colonies that formed the original states of the united states
+niagara falls;a city in western new york state at the falls of the niagara river. tourist attraction and honeymoon resort
+garbage heap;an accumulation of refuse and discarded matter
+san jose;a city in western california southeast of san francisco. a center for computer and electronics industries
+camping ground;a site where people on holiday can pitch a tent
+philadelphia;the largest city in pennsylvania. located in the southeastern part of the state on the delaware river. site of independence hall where the declaration of independence and the constitution were signed. site of the university of pennsylvania
+flowerbed;a bed in which flowers are growing
+telephone exchange;a telecommunications facility
+lea;a field covered with grass or herbage and suitable for grazing by livestock
+antofagasta;a port city on the pacific in northern chile
+switchboard;telephone central where circuits are completed with patchcords
+centre;a low-lying region in central france
+badminton court;the court on which badminton is played
+colliery;a coal mine and all the buildings and equipment connected with it
+dye works;a shop where dyeing is done
+bordeaux;a port city in southwestern france. a major center of the wine trade
+pusan;a city in southeastern south korea on the korean strait. the chief port and second largest city
+unknown;"an unknown and unexplored region. 'they came like angels out the unknown'"
+cordova;a city in southern spain. center of moorish culture
+papeete;the capital of french polynesia on the northwestern coast of tahiti
+toxic waste site;a location where toxic wastes have been disposed of (often illegally)
+neighbourhood;a surrounding or nearby region. 'the plane crashed in the vicinty of asheville'. 'it is a rugged locality'. 'he always blames someone else in the immediate neighborhood'
+hemisphere;half of the terrestrial globe
+test bed;a place equipped with instruments etc for testing engines a machinery under working conditions
+lusitania;ancient region and roman province of the iberian peninsula. corresponds roughly to modern portugal and parts of spain
+heathland;(british) a tract of level wasteland. uncultivated land with sandy soil and scrubby vegetation
+burial site;a tract of land used for burials
+country;"a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography). 'it was a mountainous area'. 'bible country'"
+tulip bed;a flower bed in which tulips are growing
+backwoods;a remote and undeveloped area
+sewage farm;a farm that is irrigated and fertilized with raw sewage
+vacant lot;a lot on which there are no permanent buildings
+handball court;the court on which handball is played
+babylonia;an ancient kingdom in southern mesopotamia. babylonia conquered israel in the 6th century bc and exiled the jews to babylon (where the prophet daniel became a counselor to the king)
+new york stock exchange;a stock exchange in new york
+dairy;a farm where dairy products are produced
+memphis;largest city of tennessee. located in southwestern tennessee on the mississippi river
+stud farm;a farm where horses are bred
+cote d azur;the french part of the riviera
+genova;a seaport in northwestern italy. provincial capital of liguria
+here;"the present location. this place. 'where do we go from here?'"
+cambridge;a city in eastern england on the river cam. site of cambridge university
+cabstand;a place where taxis park while awaiting customers
+barren;an uninhabited wilderness that is worthless for cultivation. 'the barrens of central africa'. 'the trackless wastes of the desert'
+farmstead;a farm together with its buildings
+disc space;(computer science) the space available on a magnetic disk
+tropics;the part of the earth's surface between the tropics of cancer and capricorn. characterized by a hot climate
+anchorage;a city in south central alaska. 'anchorage is the largest city in alaska'
+pernambuco;a city of northeastern brazil on the atlantic
+roman empire;the lands in europe and africa and asia that were ruled by ancient rome
+naval shipyard;a military shipyard
+moukden;a city in northeastern china
+toxic waste dump;a location where toxic wastes have been disposed of (often illegally)
+punjab;a historical region on northwestern india and northern pakistan
+realm;the domain ruled by a king or queen
+park;a large area of land preserved in its natural state as public property. 'there are laws that protect the wildlife in this park'
+aswan;an ancient city on the nile in egypt. site of the aswan high dam
+empire;the domain ruled by an emperor or empress
+rookery;a breeding ground for gregarious birds (such as rooks)
+city block;a rectangular area in a city surrounded by streets and usually containing several buildings. 'he lives in the next block'
+dixie;the 11 southern states that seceded from the united states in 1861
+sheet;any broad thin expanse or surface: 'a sheet of ice'
+utica;a city in central new york
+guadalajara;a city in southwestern mexico. a popular health resort and site of architecture from the spanish colonial era
+sanctum;a place of inviolable privacy
+goteborg;a port in southwestern sweden. second largest city in sweden
+graveyard;a tract of land used for burials
+holy place;"a sacred place of pilgrimage"
+chernobyl;a city in north central ukraine. site of a major disaster at a nuclear power plant (16 april 1986)
+centrex;central exchange
+refuse heap;a piece of land where waste materials are dumped
+junk heap;an accumulation of refuse and discarded matter
+battleground;a region where a battle is being (or has been) fought. 'they made a tour of civil war battlefields'
+thorshavn;the administrative center of the faroe islands
+san juan;the capital and largest city of puerto rico
+beginning;"the place where something begins, where it springs into being. 'the italian beginning of the renaissance'. 'jupiter was the origin of the radiation'. 'pittsburgh is the source of the ohio river'. 'communism's russian root'"
+mayenne;a department of northwestern france in the pays de la loire region
+cradle;where something originated or was nurtured in its early existence. 'the birthplace of civilization'
+biology laboratory;a laboratory for biological research
+holy see;the see of the pope (as the bishop of rome)
+oasis;a fertile tract in a desert (where the water table approaches the surface)
+egypt;an ancient empire west of israel. centered on the nile river and ruled by a pharaoh. figured in many events described in the old testament
+line;a fortified position (especially one marking the most forward position of troops). 'they attacked the enemy's line'
+bologna;the capital of emilia-romagna. located in northern italy east of the apennines
+patchboard;telephone central where circuits are completed with patchcords
+poitou;a low-lying region of west central france on the bay of biscay
+meteorological observation post;one of a networks of observation posts where meteorological data is recorded
+battle line;the line along which warring troops meet
+delaware;one of the british colonies that formed the united states
+schlesien;a region of central europe rich in deposits of coal and iron ore. annexed by prussia in 1742 but now largely in poland
+atelier;a studio especially for an artist or designer
+boondocks;a remote and undeveloped area
+heights;"a high place. 'they stood on high and observed the coutryside' or 'he doesn't like heights'"
+sumer;an area in the southern region of babylonia. site of the sumerian civilization of city-states that flowered during the third millennium bc
+omdurman;the largest city of sudan. located in the central sudan on the white nile opposite khartoum
+pesthole;a breeding ground for epidemic disease
+fairground;an open area for holding fairs or exhibitions or circuses
+launching site;a place for launching pads
+punta arenas;a city in s chile on the strait of magellan. the southernmost city in the world
+serbia;a historical region in eastern yugoslavia. serbs settled the region in the 6th and 7th centuries
+northern europe;the northernmost countries of europe
+massachusetts;one of the british colonies that formed the united states
+reno;a city in western nevada at the foot of the sierra nevada mountains. known for gambling casinos and easy divorce and remarriage
+gasfield;a region where there is natural gas underground
+proximity;the region close around a person or thing
+san francisco;a port in western california. has one of the world's finest harbors. site of the golden gate bridge
+trash pile;an accumulation of refuse and discarded matter
+viewpoint;a place from which something can be viewed. 'from that vantage point he could survey the whole valley'
+garden;a yard or lawn adjoining a house
+lyonnais;a former province of east central france. now administered by rhone-alpes
+station;"the position where something or someone (as a guard or sentry) stands or is assigned to stand: 'a sentry station'"
+bayonne;a city in northeastern new jersey
+securities market;an exchange where security trading is conducted by professional stockbrokers
+cartagena;a port in southeastern spain on the mediterranean
+workshop;small establishment where handcrafts or manufacturing are done
+patagonia;region in s south america between the andes and the south atlantic
+syracuse;a city in central new york
+middle east;the area around the eastern mediterranean. from turkey to north africa and eastward to iran. the site of such ancient civilizations as phoenicia and babylon and egypt and the birthplace of judaism and christianity and islam. 'the middle east is the cradle of western civilization'
+saint petersburg;a city in western florida on tampa bay. a popular winter resort
+newport;a port city in southeastern wales
+mecca;a city in western saudi arabia. as the birthplace of mohammed it is the holiest city of islam
+hayfield;a field where grass or alfalfa are grown to be made into hay
+whereabouts;"the general location where something is. 'i questioned him about his whereabouts on the night of the crime'"
+home;"the country or state or city where you live. 'canadian tariffs enabled united states lumber companies to raise prices at home'. 'his home is new jersey'"
+position;"a point occupied by troops for tactical reasons"
+outskirts;outlying areas (as of a city or town). 'they lived on the outskirts of houston' or 'they mingled in the outskirts of the crowd'
+fayetteville;a city in northwestern arkansas. site of the university of arkansas
+cologne;a commercial center in western germany on the rhine river
+truck farm;a farm where vegetables are grown for market
+toledo;an industrial city in northwestern ohio on lake erie
+maharashtra;a historical area in west-central india
+leyden;a city in the western netherlands. residence of the pilgrim fathers for 11 years before they sailed for america in 1620
+kaunas;a city in central lithuania
+lithuania;a republic in northeastern europe on the baltic sea
+negev;a desert in s israel
+bourse;the stock exchange in paris
+stalingrad;a city in the european part of russia on the volga. site of german defeat in world war ii in the winter of 1942-43
+boom town;a town enjoying sudden prosperity
+lawn;a field of cultivated and mowed grass
+danger zone;a dangerous area
+oaxaca de juarez;a city of southeastern mexico. the provincial capital of the state of oaxaca. inhabited chiefly by indians
+syracuse;a city in southeastern sicily that was founded by corinthians in the 8th century bc
+launderette;a laundry where coin-operated washing machines are available to individual customers
+overhead;(computer science) the disk space required for non-data information (used for location and timing)
+municipality;an urban district having corporate status and powers of self-government
+haven;a place where ships can take on or discharge cargo
+sandlot;a vacant lot used by city boys to play games
+studio;a room or building where movies or television shows or radio programs are produced and recorded
+oxford;any of numerous towns and cities in the united states. especially oxford, mississippi, home of william faulkner and seat of the university of mississippi
+hub;the center of a city
+lyon;a city in east-central france on the rhone river. a principal producer of silk and rayon
+armageddon;(new testament) the scene of the final battle between the kings of the earth at the end of the world
+forbidden city;a walled section of beijing that encloses the imperial palace that was formerly the residence of the emperor of china
+roadstead;a partly sheltered anchorage
+atacama desert;a desert in northern chile rich in nitrate and copper deposits
+mukden;a city in northeastern china
+russia;a former empire in eastern europe and northern asia. powerful in 17-18th centuries under peter the great and catherine the great. overthrown by revolution in 1917
+gomorrha;(old testament) an ancient city near the dead sea that (along with sodom) was destroyed by god for the vice and depravity of its inhabitants
+stop;"a spot where something halts or pauses. 'his next stop is atlanta'"
+cadiz;a port in southwestern spain
+victory garden;a vegetable garden planted during wartime to relieve food shortages
+campground;a site where people on holiday can pitch a tent
+firing line;the line from which soldiers deliver fire
+maryland;one of the british colonies that formed the united states
+setting;the context and environment in which something is set: 'the perfect setting for a ghost story'
+tara;a village in eastern ireland (northwest of dublin). seat of irish kings until 6th century
+dalmatia;a historical region of croatia on the adriatic sea. mountainous with many islands
+houston;the largest city in texas. located in southeastern texas near the gulf of mexico. site of the national aeronautics and space administration
+corinth;the modern city is near the cite of the ancient city that was 2nd only to athens
+hop field;a garden where hops are grown
+egyptian empire;an ancient empire west of israel. centered on the nile river and ruled by a pharaoh. figured in many events described in the old testament
+arctic;the regions north of the arctic circle centered on the north pole
+farm;farm buildings and cultivated land as a unit. 'it takes several people to work the farm'
+merida;the capital of the mexican state of yucatan
+yard;an area having a network of railway tracks and sidings for storage and maintenance of cars and engines
+shop;small establishment where handcrafts or manufacturing are done
+ultima thule;the geographical region believed by ancient geographers to be the northernmost land in the inhabited world
+atrium;the central area in a building. open to the sky
+asparagus bed;a bed in which asparagus is growing
+soudan;a region of north africa south of the sahara and libyan deserts. extends from the atlantic to the red sea
+vineyard;a plantation of grapevines where wine grapes are produced
+gascogne;a region of southwestern france
+herb garden;a garden for growing herbs
+portland;largest city in oregon. located in northwestern oregon
+meshed;the holy city of shiite muslims. located in northeastern iran
+srbija;a historical region in eastern yugoslavia. serbs settled the region in the 6th and 7th centuries
+wasteland;an uninhabited wilderness that is worthless for cultivation. 'the barrens of central africa'. 'the trackless wastes of the desert'
+fengtien;a city in northeastern china
+basse normandie;a division of normandy
+tee;the starting place for each hole on a golf course
+bennington;a city in southwestern vermont
+mohave desert;a desert area in southern california
+mongolia;a vast region in asia including the mongolian people's republic and china's inner mongolia
+fresno;a city in south central california. center of an important agricultural area
+municipal center;the center of a city
+ann arbor;a city in s michigan near detroit. site of the university of michigan
+milwaukee;largest city of wisconsin. located in southeastern wisconsin on lake michigan. known for its breweries
+bowling green;a field of closely mowed turf for playing bowls
+illyria;an uncertain region on the east shore of the adriatic where an ancient indo-european people once lived
+florence;a city in central italy on the arno river. provincial capital of tuscany. center of the italian renaissance from 14th to 16th centuries
+melting pot;an environment in which many ideas and races are socially assimilated
+rubbish heap;an accumulation of refuse and discarded matter
+midden;(archeology) a mound of domestic refuse containing shells and animal bones marking the site of a prehistoric settlement
+oran;a port in northwestern algeria and the country's 2nd largest city
+mobile;a port in southwestern alabama on mobile bay
+marseilles;a city in southeastern france on the mediterranean. the 2nd largest french city and an important seaport
+rockery;a garden featuring rocks. usually alpine plants
+distance;"a distant region. 'i could see it in the distance'"
+cuidad bolivar;a port in eastern venezuela on the orinoco river
+sector;a portion of a military position
+saratov;an industrial city in the european part of russia
+newcastle;a port in northeastern england on the river tyne. a center for coal exports (giving rise to the expression 'carry coals to newcastle' meaning to do something unnecessary)
+bindery;a place where books are bound
+saint john;a port in eastern canada. the largest city in new brunswick
+volleyball court;the court on which volleyball is played
+gascony;a region of southwestern france
+phenicia;an ancient maritime country (a collection of city states) at eastern end of the mediterranean
+neighborhood;a surrounding or nearby region. 'the plane crashed in the vicinty of asheville'. 'it is a rugged locality'. 'he always blames someone else in the immediate neighborhood'
+berkeley;a city in california on the eastern shore of san francisco bay. site of the university of california at berkeley
+terra incognita;"an unknown and unexplored region. 'they came like angels out the unknown'"
+slip;a place where a craft can be made fast
+hangzhou;a city of eastern china on hangzhou bay (an inlet of the east china sea). regarded by marco polo as the finest city in the world
+corner;a place off to the side of an area. 'he tripled to the rightfield corner'. 'he glanced out of the corner of his eye'
+nidus;"a central point or locus of bacterial growth in an organism. 'the focus of infection'"
+montreal;a city in southern quebec province on the saint lawrence river. the largest city in quebec and 2nd largest in canada. the 2nd largest french-speaking city in the world
+ropewalk;a long narrow path or shed where rope is made
+new haven;a city in southwestern connecticut. site of yale university
+amusement park;a commercially operated park with stalls and shows for amusement
+cattle ranch;a large tract of land along with facilities needed to raise livestock (especially cattle)
+swap file;the disk space that is set aside for virtual memory
+hiding place;"a place suitable for hiding something (such as yourself)"
+western hemisphere;the hemisphere that includes north and south america
+panhandle;a relatively narrow strip of land projecting from some larger area. 'wheeling is located in the northern panhandle of west virginia'
+out of doors;where the air is unconfined. 'he wanted to get out in the air a little'. 'the concert was held in the open air'. 'camping in the open'
+camp;a site where care and activities are provided for children during the summer months. 'city kids get to see the country at a summer camp'
+mandalay;a city in central myanmar north of rangoon
+heath;(british) a tract of level wasteland. uncultivated land with sandy soil and scrubby vegetation
+black africa;the region of africa south of the sahara desert
+courtyard;a yard wholly or partly surrounded by walls or buildings. 'the house was built around an inner court'
+beehive;any workplace where people are very busy
+market garden;a garden where fruit and vegetables are grown for marketing
+west country;the southwest of england (including cornwall and devon and somerset)
+donbas;an industrial region in the ukraine
+parade ground;an area for holding parades
+odessa;a city of south central ukraine
+gulf states;a region of the united states comprising states bordering the gulf of mexico. alabama and florida and louisiana and mississippi and texas
+wellspring;the source of water for a well
+topiary;a garden having shrubs clipped or trimmed into decorative shapes especially of animals
+checkpoint;a place (as at a frontier) where travellers are stopped for inspection and clearance
+side yard;the grounds at either side of a house
+field;a region where a battle is being (or has been) fought. 'they made a tour of civil war battlefields'
+loading zone;a stop where carriers can be loaded and unloaded
+libyan desert;the eastern part of the sahara desert
+nuernberg;a city in southeastern germany. site of allied trials of nazi war criminals (1945-46)
+home territory;the area in which an animal normally ranges
+nizhni novgorod;an industrial city in the european part of russia
+pampas;the vast grassy plains of northern argentina
+green;an area of closely cropped grass surrounding the hole on a golf course
+danzig;a city of northern poland near the mouth of the vistula
+sheeprun;(british) property devoted to raising sheep
+waste;an uninhabited wilderness that is worthless for cultivation. 'the barrens of central africa'. 'the trackless wastes of the desert'
+frankfurt on the main;a german city. an industrial and commercial and financial center
+caucasia;a large region between the black and caspian seas. oil is its major resource
+wold;a tract of open rolling country (especially upland)
+hideaway;a hiding place. usually a remote place used by outlaws
+sinai desert;a desert on the sinai peninsula in northeastern egypt
+babylon;the chief city of ancient mesopotamia and capitol of the ancient kingdom of babylonia
+las vegas;largest city in nevada. located in southeastern nevada. famous for entertainment and gambling
+smithy;a workplace where metal is worked by heating and hammering
+grange;an outlying farm
+akron;a city in northeastern ohio. the heart of the united states rubber industry
+source;"the place where something begins, where it springs into being. 'the italian beginning of the renaissance'. 'jupiter was the origin of the radiation'. 'pittsburgh is the source of the ohio river'. 'communism's russian root'"
+habitation;the native habitat or home of an animal or plant
+swap space;the disk space that is set aside for virtual memory
+naples;a port and tourist center in southwestern italy. capital of the campania region
+landscape;an expanse of scenery that can be seen in a single view
+cedar rapids;a city in eastern iowa
+pastureland;a field covered with grass or herbage and suitable for grazing by livestock
+bivouac;a site where people on holiday can pitch a tent
+harborage;a place of refuge (as for a ship)
+city of bridges;a city in northwestern belgium in west flanders province. connected by canal to the north sea. the old city is a popular tourist attraction
+tripoli;a port in northern lebanon on the mediterranean
+playground;an outdoor area for children's play
+persia;an empire in s asia created by cyrus the great in the 6th century bc and destroyed by alexander the great in the 4th century bc
+machine shop;where metal is cut and shaped etc., by machine tools
+basin;the entire geographical area drained by a river and its tributaries. 'flood control in the missouri basin'
+hamilton;a city in southeastern ontario at the west end of lake ontario
+los angeles;a city in southern california. most populous city of california
+charleston;a port city in southeastern south carolina
+dig;the site of an archeological exploration. 'they set up camp next to the dig'
+connecticut;one of the british colonies that formed the united states
+hamilton;the capital of bermuda
+yafo;a port in western israel on the mediterranean. incorporated into tel aviv in 1950
+sioux city;a city in northeastern iowa
+alexandria;the chief port of egypt. located where the nile river empties into the mediterranean sea. founded by alexander the great. the capital of ancient egypt
+el iskandariyah;the chief port of egypt. located where the nile river empties into the mediterranean sea. founded by alexander the great. the capital of ancient egypt
+home range;the area in which an animal normally ranges
+rose bed;a flower bed in which roses are growing
+demesne;"territory over which rule or control is exercised. 'his domain extended into europe'. 'he made it the law of the land'"
+work;"a place where work is done. 'he arrived at work early today'"
+rheinland;a picturesque region of germany around the rhine river
+gorky;an industrial city in the european part of russia
+billings;the largest city in montana. located in s montana on the yellowstone river
+center;an area that is approximately central within some larger region. 'it is in the center of town'. 'they ran forward into the heart of the struggle'. 'they were in the eye of the storm'
+zaragoza;an ancient city in northeastern spain. formerly the capital of aragon
+lancaster;a city in northwestern england
+burgundy;a former province of eastern france that is famous for its wines
+adrianople;a city in northwestern turkey. a thracian town that was rebuilt and renamed by the roman emperor hadrian
+auvergne;a region in central france
+painted desert;a desert on a high plateau in northeastern arizona
+xian;a city of central china. capital of ancient chinese empire 221-206 bc
+section;a distinct region or subdivision of a territorial or political area or community or group of people. 'no section of the nation is more ardent than the south'. 'there are three synagogues in the jewish section'
+workplace;"a place where work is done. 'he arrived at work early today'"
+st. augustine;a resort in northeastern florida. the oldest city in the united states
+malmo;a port in s sweden
+selma;a city in central alabama on the alabama river. in 1965 it was the center of a drive to register black voters
+midwest;the north central region of the united states
+time zone;any of the 24 regions of the globe (loosely divided by longitude) throughout which the same standard time is used
+fargo;largest city in north dakota. located in eastern north dakota on the red river
+south frigid zone;the region around the south pole: antarctica and surrounding waters
+down town;the center of a city
+place of birth;"the place where someone was born"
+maritimes;the collective name for the canadian provinces of new brunswick and nova scotia and prince edward island
+port of call;any port where a ship stops except its home port
+left bank;the region of paris on the s bank of the seine. a center of artistic and student life
+delhi;a city in north-central india
+thrace;a region and ancient country in the east of the balkan peninsula north of the aegean sea. colonized by ancient greeks. later a roman province. now divided between greece and turkey
+headwaters;the source of a river. 'the headwaters of the nile'
+rustbelt;urban areas in new england and middle west characterized by concentrations of declining industries (steel or textiles)
+coaling station;a seaport where ships can take on supplies of coal
+topographic point;a point located with respect to surface features of some region. 'this is a nice place for a picnic'
+island;a zone or area resembling an island
+lodz;a large city of central poland
+geneve;a city in southwestern switzerland at the western end of lake geneva. the palace of nations originally housed the league of nations and is now the european headquarters for the united nations
+paddy field;an irrigated or flooded field where rice is grown
+excavation;the site of an archeological exploration. 'they set up camp next to the dig'
+drainage basin;the geographical area draining into a river or reservoir
+harbor;a place where ships can take on or discharge cargo
+centre;a place where some particular activity is concentrated. 'they received messages from several centers'
+heart;an area that is approximately central within some larger region. 'it is in the center of town'. 'they ran forward into the heart of the struggle'. 'they were in the eye of the storm'
+hull;a large fishing port
+mojave desert;a desert area in southern california
+ilion;an ancient city in asia minor that was the site of the trojan war
+free zone;an area adjoining a port where goods that are intended for reshipment can be received and stored without payment of duties
+taegu;a city in southeastern south korea
+canaan;an ancient country is southwestern asia on the east coast of the mediterranean. a place of pilgrimage for christianity and islam and judaism
+area;"a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography). 'it was a mountainous area'. 'bible country'"
+beckley;a city in southern west virginia
+gateway to the west;the largest city in missouri. was an important staging area for wagon trains westward in the 19th century
+rightfield;the part of the outfield on the catcher's right
+hatchery;a place where eggs are hatched under artificial conditions (especially fish eggs). 'the park authorities operated a trout hatchery'
+slask;a region of central europe rich in deposits of coal and iron ore. annexed by prussia in 1742 but now largely in poland
+anvers;a port in northern belgium on the scheldt river
+anchorage ground;place for vessels to anchor
+lynchburg;a city in central virginia
+catchment area;the geographical area draining into a river or reservoir
+bloemfontein;the seat of the supreme court
+stalino;an industrial city in the donets basin
+manchuria;a region in northeastern china
+vegetable patch;a small garden where vegetables are grown
+workspace;space allocated for your work (as in an office)
+taichung;a city in taiwan
+zone;a circumscribed geographical region characterized by some distinctive features
+cannes;a port and resort city on the french riviera. site of an annual film festival
+slack;a stretch of water without current or movement. 'suddenly they were in slack water'
+southeast;the southeastern region of the united states
+hop garden;a garden where hops are grown
+turkistan;a historical region of central asia that was a center for trade between the east and the west
+left;the part of the outfield on the catcher's left
+stamboul;the largest city and former capital of turkey. built on the site of ancient byzantium. seat of the eastern orthodox church
+subtopia;(brit) monotonous urban sprawl of standardized buildings
+morgantown;a city in northern west virginia on the monongahela river near the pennsylvania border. site of the university of west virginia
+kitakyushu;a japanese city on northern kyushu
+military position;"a point occupied by troops for tactical reasons"
+right bank;the region of paris on the north bank of the seine
+septentrion;any region lying in or toward the north"any region lying in or toward the north"
+birthplace;where something originated or was nurtured in its early existence. 'the birthplace of civilization'
+fort worth;a city in northern texas
+orient;the hemisphere that includes eurasia and africa and australia
+torrid zone;the part of the earth's surface between the tropics of cancer and capricorn. characterized by a hot climate
+indochina;a region of southeastern asia that includes burma and cambodia and laos and malaysia and thailand and vietnam
+chelyabinsk;a city in the asian part of russia
+rural area;an area outside of cities and towns. 'his poetry celebrated the slower pace of life in the country'
+monument;an important site that is marked and preserved as public property
+big sur;a picturesque coastal region of california south of san francisco
+geographic area;"a demarcated area of the earth"
+seattle;largest city in washington. located in west central washington. a major port of entry
+joppa;a port in western israel on the mediterranean. incorporated into tel aviv in 1950
+sakkara;a town in northern egypt. site of the oldest egyptian pyramids (the step pyramid)
+firenze;a city in central italy on the arno river. provincial capital of tuscany. center of the italian renaissance from 14th to 16th centuries
+farmplace;a farm together with its buildings
+north frigid zone;the regions north of the arctic circle centered on the north pole
+aberdeen;a city in northeastern scotland on the north sea
+polling station;"a place where voters go to cast their votes in an election"
+piscary;a place where fish are caught and processed and sold
+bale;a city in northwestern switzerland
+harbour;a place where ships can take on or discharge cargo
+san antonio;a city of south central texas. site of the alamo
+seaport;a place where ships can take on or discharge cargo
+gothenburg;a port in southwestern sweden. second largest city in sweden
+semidesert;a region much like a desert but usually located between a desert and the surrounding regions
+terrain;a piece of ground having specific characteristics or military potential. 'they decided to attack across the rocky terrain'
+new york city;the largest city in new york state. located in southeastern new york at the mouth of the hudson river. a major financial and cultural center
+silicon valley;a region in california south of san francisco that is noted for its concentration of high-technology industries
+chemistry laboratory;a laboratory for research in chemistry
+parts;the local environment. 'he hasn't been seen around these parts in years'
+bridgeport;a port in southwestern connecticut on long island sound
+zone;"an area or region distinguished from adjacent parts by a distinctive feature or characteristic"
+lappland;a region in northmost europe inhabited by lapps
+land site;"the piece of land on which something is located (or is to be located): 'a good site for the school'"
+thuringia;a historical region of s germany
+gallia;an ancient region of western europe that included northern italy and france and belgium and part of germany and the netherlands
+turnery;where objects are made on a lathe
+preussen;a former kingdom in north-central europe including present-day northern germany and northern poland. 'in the 19th century prussia led the economic and political unification of the german states'
+loyang;a city in east central china. the capital of ancient china during several dynasties
+sheikdom;the domain ruled by a sheik
+natal;a port in northeastern brazil
+short;the location on a baseball field where the shortstop is stationed
+turnip bed;a bed in which turnips are growing
+haute normandie;a division of normandy
+geneva;a city in southwestern switzerland at the western end of lake geneva. the palace of nations originally housed the league of nations and is now the european headquarters for the united nations
+mesopotamia;the land between the tigris and euphrates. site of several ancient civilizations
+schoolyard;the yard associated with a school
+phrygia;an ancient country in west central asia minor
+junk pile;an accumulation of refuse and discarded matter
+conurbation;an aggregation or continuous network of urban communities
+lanzhou;the capital city of the chinese province of gansu on the yellow river
+saxe;an area in germany around the upper elbe river
+picnic ground;a tract of land set aside for picnicking
+birthplace;"the place where someone was born"
+padua;a city in veneto
+vantage;"place or situation affording some advantage (especially a comprehensive view or commanding perspective)"
+sunken garden;a garden set below the level of the ground surrounding it
+banff;a popular vacation spot in the canadian rockies
+petrograd;a city in the european part of russia. 2nd largest russian city. located at the head of the gulf of finland on the neva river. former capital of russia
+rio;the former capital and 2nd largest city of brazil. famous as a tourist attraction
+sahara desert;the world's largest desert (3,500,000 square miles) in north africa
+parkersburg;a city in northwestern west virginia on the ohio river
+lyons;a city in east-central france on the rhone river. a principal producer of silk and rayon
+trash heap;an accumulation of refuse and discarded matter
+spa;a health resort near a spring or at the seaside
+station;"(navy) the location to which a ship or fleet is assigned for duty"
+johannesburg;the largest city in south africa. located in northeastern part of the country. commercial center for diamond and gold industries
+outdoors;where the air is unconfined. 'he wanted to get out in the air a little'. 'the concert was held in the open air'. 'camping in the open'
+pango pango;a port in american samoa
+bergen;a port in southwestern norway
+monte carlo;a town and popular resort in the principality of monaco. world-famous for its gambling casino
+new york;the largest city in new york state. located in southeastern new york at the mouth of the hudson river. a major financial and cultural center
+over the counter market;a market where securities transactions are made via phone and computer rather than on the floor of an exchange
+parcel;an extended area of land
+tientsin;a major industrial center in northeastern china on the grand canal near the yellow sea. 3rd largest city in china
+juarez;a city in northern mexico on the rio grande opposite el paso
+hamburg;a city in northern germany on the elbe river
+north temperate zone;between the arctic circle and the tropic of cancer
+vinery;a plantation of grapevines where wine grapes are produced
+quadrant;any of the four areas into which a plane is divided by two orthogonal coordinate axes
+aery;any habitation at a high altitude
+pisa;a city in tuscany. site of the famous leaning tower
+drop;a predetermined hiding place for the deposit and distribution of illicit goods (such as drugs or stolen property)
+scenery;the appearance of a place
+plugboard;telephone central where circuits are completed with patchcords
+dukedom;the domain controlled by a duke or duchess
+palo alto;a university town in california
+paddy;an irrigated or flooded field where rice is grown
+piece of land;an extended area of land
+caucasus;a large region between the black and caspian seas. oil is its major resource
+el paso;a city in western texas on the mexican border. located on the rio grande river opposite the mexican city of ciudad juarez
+sheikhdom;the domain ruled by a sheik
+nuremburg;a city in southeastern germany. site of allied trials of nazi war criminals (1945-46)
+torino;capital city of the piemonte region of northwestern italy
+sudan;a region of north africa south of the sahara and libyan deserts. extends from the atlantic to the red sea
+cambridge;a city in massachusetts just north of boston. site of harvard university and the massachusetts institute of technology
+haifa;a port in northwestern israel on the bay of acre
+marchland;the area on either side of a border or boundary
+nord pas de calais;a region in northeastern france
+vancouver;an island city in southwestern british columbia on an arm of the pacific ocean. canada's chief pacific port and third largest city
+oaxaca;a city of southeastern mexico. the provincial capital of the state of oaxaca. inhabited chiefly by indians
+railway yard;an area having a network of railway tracks and sidings for storage and maintenance of cars and engines
+bethelem;a small town near jerusalem on the west bank of the jordan river where jesus was born
+exchange;a telecommunications facility
+haunt;a frequently visited place
+metropolis;a large and densely populated urban area. may include several independent administrative districts. 'ancient troy was a great city'
+position;"the appropriate or customary location. 'the cars were in position'"
+post;"the position where something or someone (as a guard or sentry) stands or is assigned to stand: 'a sentry station'"
+piece of ground;an extended area of land
+maritime provinces;the collective name for the canadian provinces of new brunswick and nova scotia and prince edward island
+koln;a commercial center in western germany on the rhine river
+bus stop;a place on a bus route where buses stop to discharge and take on passengers
+day camp;a camp providing care and activities for children during the daytime
+veldt;elevated open grassland in southern africa
+bedground;an area on which a drove of cattle or sheep can sleep for a night
+newark;the largest city in new jersey. located in northeastern new jersey
+section;(geometry) the area created by a plane cutting through a solid
+aleppo;a city in northwestern syria
+new england;a region of northeastern united states comprising maine and new hampshire and vermont and massachusetts and rhode island and connecticut
+gasworks;the place where coal gas is manufactured
+aquitania;a region of southwestern france between bordeaux and the pyrenees
+blackpool;a resort town in lancashire in northwestern england on the irish sea. famous for its tower
+habitat;the type of environment in which an organism or group normally lives or occurs: 'a marine habitat'
+kitchen garden;a small garden where vegetables are grown
+wild;a wild and uninhabited area
+pennsylvania;one of the british colonies that formed the united states
+french riviera;the french part of the riviera
+saigon;a city in s vietnam. formerly (as saigon) it was the capital of french indochina
+epicenter;"the point on the earth's surface directly above the focus of an earthquake"
+midfield;the middle part of a playing field (as in football or lacrosse)
+churchyard;the yard associated with a church
+independence;a city in western missouri. the beginning of the santa fe trail
+seedbed;a plot of ground where seedlings are grown before transplanting
+baseball diamond;the area of a baseball field that is enclosed by 3 bases and home plate
+antwerp;a port in northern belgium on the scheldt river
+ambience;the atmosphere of an environment
+glasgow;largest city in scotland. a port in west central scotland. one of the great shipbuilding centers of the world
+american stock exchange;a stock exchange in new york
+valdez;a port on alaska's southern coast from which oil is shipped to markets around the world
+calgary;a city is s alberta. center of a large agricultural region
+luxor;a city in central egypt on the east bank of the nile. site of the temple of luxor
+mud flat;a tract of low muddy land near an estuary. covered at high tide and exposed at low tide
+fayetteville;a town in central west virginia on the new river
+pleasance;a pleasant and secluded part of a garden. usually attached to a mansion
+liverpool;a large city in northwestern england. its port is the country's major outlet for industrial exports
+calcutta;the largest city in india and one of the largest cities in the world. located in eastern india. suffers from poverty and overcrowding
+pasture;a field covered with grass or herbage and suitable for grazing by livestock
+quadrant;the area enclosed by two perpendicular radii of a circle
+nijmegen;an industrial city in the eastern netherlands
+barcelona;a city in northeastern spain on the mediterranean. 2nd largest spanish city and the largest port and commercial center. has been a center for radical political beliefs
+fireguard;a narrow field that has been cleared to check the spread of a prairie fire or forest fire
+franche comte;a former province of eastern france
+nagasaki;a city in southern japan on kyushu. a leading port and shipbuilding center. on august 9, 1945 nagasaki became the second populated area to receive an atomic bomb
+central;a telecommunications facility
+aqaba;jordan's port. located in southwestern jordan on the gulf of aqaba
+premises;land and buildings together considered as a place of business. 'bread is baked on the premises'
+camden;a city in southwestern new jersey on the delaware river near pittsburgh
+surroundings;the area in which something exists or lives: 'the country--the flat agricultural surround'
+salem;a city in northeastern massachusetts. site of the witchcraft trials in 1692
+douala;the largest city of cameroon
+centerfield;the part of the outfield directly ahead of the catcher. 'he hit the ball to deep center'
+fukuoka;a city in southern japan on kyushu
+rio de janeiro;the former capital and 2nd largest city of brazil. famous as a tourist attraction
+thule;a town in northwestern greenland. during world war ii a united states naval base was built there
+junkyard;a field where junk is collected and stored for resale
+car park;a lot where cars are parked
+scene;the place where some action occurs. 'the police returned to the scene of the crime'
+wellhead;the source of water for a well
+confederacy;the 11 southern states that seceded from the united states in 1861
+campong;a native village in malaysia
+southland;"any region lying in or toward the south"
+krakow;an industrial city in s poland on the vistula
+ho chi minh city;a city in s vietnam. formerly (as saigon) it was the capital of french indochina
+saskatoon;a city is s saskatchewan
+center;a place where some particular activity is concentrated. 'they received messages from several centers'
+hometown;the town (or city) where you grew up or where you have your principal residence. 'he never went back to his hometown again'
+ley;a field covered with grass or herbage and suitable for grazing by livestock
+home;"the place where you are stationed and from which missions start and end"
+midi pyrenees;a region in southwestern france
+thebes;an ancient greek city in boeotia destroyed by alexander the great in 336 bc
+breslau;a city in southwestern poland on the oder
+backwater;"any backward region that is isolated from the world and resists progress"
+dallas;a large commercial and industrial city in northeastern texas
+mannheim;a city in southwestern germany at the confluence of the rhine and neckar rivers
+patch;a small area of planted ground. 'a cabbage patch'
+korinthos;the modern city is near the cite of the ancient city that was 2nd only to athens
+cattle farm;a large tract of land along with facilities needed to raise livestock (especially cattle)
+site;"the piece of land on which something is located (or is to be located): 'a good site for the school'"
+playing field;a piece of land prepared for playing a game. 'the home crowd cheered when princeton took the field'
+pool;"something resembling a pool of liquid. 'he stood in a pool of light'. 'his chair sat in a puddle of books and magazines'"
+holiday resort;an area where many people go for recreation
+point source;a spatially constricted by concentrated source (especially of radiation or pollution)
+yorkshire;a former large county in northern england. in 1974 it was divided into three smaller counties
+pueblo;a communal village built by indians in the southwestern u.s.
+novosibirsk;a city in the asian part of russia
+badlands;an eroded and barren region in southwestern south dakota and northwestern nebraska
+nest;a cosy or secluded retreat
+greensboro;a city of north central north carolina
+north carolina;one of the british colonies that formed the united states
+singan;a city of central china. capital of ancient chinese empire 221-206 bc
+tsaritsyn;a city in the european part of russia on the volga. site of german defeat in world war ii in the winter of 1942-43
+countryside;rural regions
+valencia;a city in eastern spain on the mediterranean. 'valencia is the third largest city in spain'
+vantage point;a place from which something can be viewed. 'from that vantage point he could survey the whole valley'
+infield;the area of a baseball field that is enclosed by 3 bases and home plate
+domain;"territory over which rule or control is exercised. 'his domain extended into europe'. 'he made it the law of the land'"
+land;"territory over which rule or control is exercised. 'his domain extended into europe'. 'he made it the law of the land'"
+point of entry;a port where customs officials are stationed to oversee the entry and exit of people and merchandise
+vicinity;a surrounding or nearby region. 'the plane crashed in the vicinty of asheville'. 'it is a rugged locality'. 'he always blames someone else in the immediate neighborhood'
+ilium;an ancient city in asia minor that was the site of the trojan war
+hangchow;a city of eastern china on hangzhou bay (an inlet of the east china sea). regarded by marco polo as the finest city in the world
+brickyard;a place where bricks are made and sold
+sanctum;"a sacred place of pilgrimage"
+kitchen midden;(archeology) a mound of domestic refuse containing shells and animal bones marking the site of a prehistoric settlement
+pago pago;a port in american samoa
+northern hemisphere;the hemisphere north of the equator
+perch;an elevated place serving as a seat
+bruges;a city in northwestern belgium in west flanders province. connected by canal to the north sea. the old city is a popular tourist attraction
+provence;a former province of southeastern france. now administered with cote d'azur
+reading;a city on the river thames in berkshire in s england
+orizaba;a city of east central mexico (west of veracruz). a popular resort
+putting green;an area of closely cropped grass surrounding the hole on a golf course
+head;the source of water from which a stream arises. 'they tracked him back toward the head of the stream'
+arabian desert;a desert on the arabian peninsula in southwestern asia
+frigid zone;the part of the earth's surface forming a cap over a pole. characterized by frigid climate
+commons;a pasture subject to common use
+garbage dump;a piece of land where waste materials are dumped
+mombasa;a port in s kenya on a coral island in a bay of the indian ocean
+windy city;largest city in illinois. located on lake michigan
+mooring;a place where a craft can be made fast
+jacksonville;a port and important commercial center in northeastern florida
+subtropics;regions adjacent to the tropics
+breeding ground;a place where animals breed
+green bay;a city of eastern wisconsin on an arm of lake michigan
+chicago;largest city in illinois. located on lake michigan
+dooryard;a yard outside the front or rear door of a house
+roundhouse;circular building for repairing locomotives
+foothold;an area in hostile territory that has been occupied and is held for further troops and supplies
+polling place;"a place where voters go to cast their votes in an election"
+grounds;a tract of land cleared for some special purposes (recreation or burial etc.)
+osaka;an industrialized city of s honshu in japan on osaka bay
+studio;place for the teaching or practice of an art. 'she ran a dance studio'. 'the music department provided studios for their students'. 'you don't need a studio to make a passport photograph'
+cracow;an industrial city in s poland on the vistula
+lead;"(baseball) the position taken by a base runner preparing to advance to the next base. 'he took a long lead off first'"
+cashmere;an area in southwestern asia whose sovereignty is disputed between pakistan and india
+chester;a city of southeastern pennsylvania on the delaware river (an industrial suburb of philadelphia)
+kashmir;an area in southwestern asia whose sovereignty is disputed between pakistan and india
+goeteborg;a port in southwestern sweden. second largest city in sweden
+spread;a large tract of land along with facilities needed to raise livestock (especially cattle)
+front line;the line along which opposing armies face each other
+seat;a space reserved for sitting (as in a theater or on a train or airplane). 'he booked their seats in advance'. 'he sat in someone else's place'
+manchester;largest city in new hampshire. located in southeastern new hampshire on the merrimack river
+salonika;a city in northeastern greece on an inlet of the aegean sea. the 2nd largest city of greece
+saxony;an area in germany around the upper elbe river
+l aquila;the provincial capital of the abruzzi region in central italy
+mid atlantic states;a region of the eastern united states comprising new york and new jersey and pennsylvania and delaware and maryland
+sian;a city of central china. capital of ancient chinese empire 221-206 bc
+cebu;an important seaport on the island of cebu in the philippines
+kovna;a city in central lithuania
+cape town;the seat of the legislative branch of the government of south africa
+vanishing point;"the point beyond which something disappears or ceases to exist"
+middle;an area that is approximately central within some larger region. 'it is in the center of town'. 'they ran forward into the heart of the struggle'. 'they were in the eye of the storm'
+tabora;a city in central tanzania
+midair;"some point in the air. above ground level. 'the planes collided in midair'"
+geographical zone;any of the regions of the surface of the earth loosely divided according to latitude or longitude
+field;"a region in which military operations are in progress. 'the army was in the field awaiting action'"
+negev desert;a desert in s israel
+rotterdam;the 2nd largest city in the netherlands. located in the western netherlands near the north sea
+wheatfield;a field planted with wheat
+lapland;a region in northmost europe inhabited by lapps
+saint petersburg;a city in the european part of russia. 2nd largest russian city. located at the head of the gulf of finland on the neva river. former capital of russia
+volgograd;a city in the european part of russia on the volga. site of german defeat in world war ii in the winter of 1942-43
+weald;(brit) an area of open or forested country
+ciudad juarez;a city in northern mexico on the rio grande opposite el paso
+artois;a former province of northern france near the english channel (between picardy and flanders)
+soil profile;a vertical section of soil from the ground surface to the parent rock
+grounds;the land around a house or other building. 'it was a small house with almost no yard at all'
+champagne;a region of northeastern france
+jumping off point;a place from which an enterprise or expedition is launched
+epicentre;"the point on the earth's surface directly above the focus of an earthquake"
+timbuktu;a city in central mali near the niger river. formerly famous for its gold trade
+science lab;a workplace for the conduct of scientific research
+piggery;a pig farm. a place where pigs are raised or kept
+geographical area;"a demarcated area of the earth"
+norfolk;largest city of virginia. located in southeastern virginia. headquarters of the united states atlantic fleet
+sheepwalk;(british) property devoted to raising sheep
+macedonia;the ancient kingdom of phillip ii and alexander the great in the southeastern balkans that is now divided among greece and bulgaria and the former yugoslavia
+no man s land;an unoccupied area between opposing armies
+rhode island;one of the british colonies that formed the united states
+palermo;the capital of sicily. located in northwestern sicily. an important port for 3000 years
+leiden;a city in the western netherlands. residence of the pilgrim fathers for 11 years before they sailed for america in 1620
+bari;capital city of the apulia region on the adriatic coast
+southern hemisphere;the hemisphere south of the equator
+confederate states of america;the 11 southern states that seceded from the united states in 1861
+shipyard;a workplace where ships are built or repaired
+village green;a village park consisting of a plot of grassy land
+plot of ground;a small area of planted ground. 'a cabbage patch'
+assur;an ancient assyrian city
+pearl harbor;a harbor on oahu west of honolulu. location of a united states naval base that was attacked by the japanese on 7 dec 1941
+roads;a partly sheltered anchorage
+picardie;a region of northern france on the english channel
+atlantic city;a city on the atlantic shore in southeastern new jersey. a resort and gambling center
+bretagne;a former province of northwestern france on a peninsula between the english channel and the bay of biscay
+patagonian desert;a semi-arid region in southern south america
+sweatshop;a shop or factory where people work long hours for poor pay
+air;where the air is unconfined. 'he wanted to get out in the air a little'. 'the concert was held in the open air'. 'camping in the open'
+minneapolis;largest city in minnesota. located in southeastern minnesota on the mississippi river. one of the twin cities
+campsite;a site where people on holiday can pitch a tent
+basketball court;the court on which basketball is played
+jaffa;a port in western israel on the mediterranean. incorporated into tel aviv in 1950
+port;"a place (seaport or airport) where people and merchandise can enter or leave a country"
+piedmont;the plateau between the coastal plain and the appalachian mountains: parts of virginia and north and south carolina and georgia and alabama
+tabriz;an ancient city in northwestern iran. known for hot springs
+block;a rectangular area in a city surrounded by streets and usually containing several buildings. 'he lives in the next block'
+expanse;"a wide and open space or area as of surface or land or sky"
+otc marker;a market where securities transactions are made via phone and computer rather than on the floor of an exchange
+lookout;an elevated post affording a wide view
+saragossa;an ancient city in northeastern spain. formerly the capital of aragon
+normandie;a former province of northwestern france on the english channel. divided into haute-normandie and basse-normandie
+mojave;a desert area in southern california
+picnic area;a tract of land set aside for picnicking
+bailey;the outer courtyard of a castle
+garden;a plot of ground where plants are cultivated
+lower normandy;a division of normandy
+yard;the land around a house or other building. 'it was a small house with almost no yard at all'
+semitropics;regions adjacent to the tropics
+element;the most favorable environment for a plant or animal. 'water is the element of fishes'
+grassland;land where grass or grasslike vegetation grows
+camping site;a site where people on holiday can pitch a tent
+place;any area set aside for a particular purpose. 'who owns this place?'
+thessalonika;a city in northeastern greece on an inlet of the aegean sea. the 2nd largest city of greece
+byzantium;an ancient city on the bosporus founded by the greeks. site of modern istanbul
+seascape;a view of the sea
+tanganyika;a former state in east africa. united with zanzibar in 1964 to form tanzania
+salem;a city of southern india
+tijuana;a mexican city just south of san diego on the lower california peninsula. popular among american tourists for racetracks and bullfights
+st. petersburg;a city in western florida on tampa bay. a popular winter resort
+common land;a pasture subject to common use
+god s acre;the yard associated with a church
+ionia;region of western asia minor colonized by ancient greeks
+vacation spot;an area where many people go for recreation
+occident;the hemisphere that includes north and south america
+plane section;(geometry) the area created by a plane cutting through a solid
+kansas city;a city is western missouri
+hsian;a city of central china. capital of ancient chinese empire 221-206 bc
+zone;any of the regions of the surface of the earth loosely divided according to latitude or longitude
+free port;a port open on equal terms to all commercial vessels
+extent;"a wide and open space or area as of surface or land or sky"
+siracusa;a city in southeastern sicily that was founded by corinthians in the 8th century bc
+midi;the south of france
+midway;the place at a fair or carnival where sideshows and similar amusements are located
+granada;a city in southeastern spain. site of the alhambra (a palace and fortress built by moslems in the middle ages) which is now a major tourist attraction
+square;an open area at the meeting of two or more streets
+hargeisa;a city in northwestern somalia
+village;a settlement smaller than a town
+watering place;a health resort near a spring or at the seaside
+hannover;a port city in northwestern germany
+scene;the context and environment in which something is set: 'the perfect setting for a ghost story'
+donets basin;an industrial region in the ukraine
+west bank;an area between israel and jordan on the west bank of the jordan river. populated largely by palestinians
+oyster park;a place where oysters are bred and grow
+farmland;a rural area where farming is practiced
+tianjin;a major industrial center in northeastern china on the grand canal near the yellow sea. 3rd largest city in china
+saqqara;a town in northern egypt. site of the oldest egyptian pyramids (the step pyramid)
+lietuva;a republic in northeastern europe on the baltic sea
+geographical region;"a demarcated area of the earth"
+samarkand;tamerlane's capital in the 14th century
+barbary;a region of north africa on the mediterranean coast between egypt and gibraltar. was used as a base for pirates from the 16th to 19th centuries
+bourgogne;a former province of eastern france that is famous for its wines
+traffic island;an area in a roadway from which traffic is excluded. provides safe area for pedestrians
+hideout;a hiding place. usually a remote place used by outlaws
+transvaal;a region of northeast south africa originally inhabited by bantu-speaking africans. world's chief producer of gold
+environment;the area in which something exists or lives: 'the country--the flat agricultural surround'
+troy;an ancient city in asia minor that was the site of the trojan war
+rose garden;a garden for growing roses
+oyster bank;a place where oysters are bred and grow
+lurking place;a place suitable for lurking
+free port;an area adjoining a port where goods that are intended for reshipment can be received and stored without payment of duties
+louisville;the largest city in kentucky. located in north central kentucky on the ohio river. site of the kentucky derby
+lab;a workplace for the conduct of scientific research
+place of origin;where something originated or was nurtured in its early existence. 'the birthplace of civilization'
+court;a specially marked area within which a game is played. 'players had to reserve a court in advance'
+aukland;the largest city and principal port of new zealand
+resort;a frequently visited place
+recife;a city of northeastern brazil on the atlantic
+home;place where something began and flourished. 'the u.s. is the home of basketball'
+rough;the part of a golf course bordering the fairway where the grass is not cut short
+nook;a sheltered and secluded place
+bristol;an industrial city and port in southwestern england near the mouth of the river avon
+valdosta;a city in s georgia
+normandy;a former province of northwestern france on the english channel. divided into haute-normandie and basse-normandie
+disk space;(computer science) the space available on a magnetic disk
+motor city;the largest city in michigan and a major great lakes port. center of the united states automobile industry. located in southeastern michigan on the detroit river
+provenance;where something originated or was nurtured in its early existence. 'the birthplace of civilization'
+dump;a piece of land where waste materials are dumped
+duchy;the domain controlled by a duke or duchess
+burying ground;a tract of land used for burials
+chemistry lab;a laboratory for research in chemistry
+outpost;a station in a remote or sparsely populated location
+sebastopol;a city in s ukraine on the black sea
+ball field;the baseball playing field
+biology lab;a laboratory for biological research
+orleans;a city on the loire river in north central france. site of the siege of orleans by the english (1428-1429)
+perm;a city in the european part of russia
+veracruz;a major mexican port on the gulf of mexico in the state of veracruz
+brokerage house;place where a broker conducts his business
+irridenta;"a region that is related ethnically or historically to one country but is controlled politically by another"
+lorraine;an eastern french region rich in iron-ore deposits
+marshalling yard;a railway yard in which trains are assembled and goods are loaded
+hanover;a port city in northwestern germany
+city center;the central part of a city
+near east;the area around the eastern mediterranean. from turkey to north africa and eastward to iran. the site of such ancient civilizations as phoenicia and babylon and egypt and the birthplace of judaism and christianity and islam. 'the middle east is the cradle of western civilization'
+thessaly;a fertile plain on the aegean sea in east central greece. thessaly was a former region of ancient greece
+bed of flowers;a bed in which flowers are growing
+city of brotherly love;the largest city in pennsylvania. located in the southeastern part of the state on the delaware river. site of independence hall where the declaration of independence and the constitution were signed. site of the university of pennsylvania
+baltic republic;european countries bordering the baltic sea
+north;any region lying in or toward the north"any region lying in or toward the north"
+tidewater;the coastal plain of the south: eastern parts of virginia and north carolina and south carolina and georgia
+tropical zone;the part of the earth's surface between the tropics of cancer and capricorn. characterized by a hot climate
+macedon;the ancient kingdom of phillip ii and alexander the great in the southeastern balkans that is now divided among greece and bulgaria and the former yugoslavia
+san diego;a city of s california on san diego bay near the mexican border. site of an important naval base
+public square;an open area at the meeting of two or more streets
+bomb site;an area in a town that has been devastated by bombs. 'they opened a parking lot on the bomb site'
+print shop;a workplace where printing is done
+riviera;a coastal area between la spezia in italy and cannes in france. 'the riviera contains some of europe's most popular resorts'
+center;the part of the outfield directly ahead of the catcher. 'he hit the ball to deep center'
+holy;"a sacred place of pilgrimage"
+british empire;formerly the united kingdom and all the territories under its control. reached its greatest extent at the end of world war i. 'the sun never sets on the british empire'
+environs;the area in which something exists or lives: 'the country--the flat agricultural surround'
+camping area;a site where people on holiday can pitch a tent
+watering hole;a health resort near a spring or at the seaside
+verona;a city in veneto on the river adige
+rostov na donu;a seaport in the european part of russia
+sunbelt;states in the s and southwestern that have a warm climate and tend to be politically conservative
+new world;the hemisphere that includes north and south america
+vina del mar;a resort city on the pacific in central chile
+peterburg;a city in the european part of russia. 2nd largest russian city. located at the head of the gulf of finland on the neva river. former capital of russia
+port of entry;a port where customs officials are stationed to oversee the entry and exit of people and merchandise
+acapulco de juarez;a fashionable resort city on mexico's pacific coast. known for beaches and water sports (including cliff diving)
+sparta;an ancient greek city famous for military prowess. the dominant city of the peloponnesus prior to the 4th century bc
+cornfield;a field planted with corn
+long beach;a city in southern california
+polls;"the place where people vote"
+kalahari desert;a desert in southwestern africa - largely botswana
+lanchow;the capital city of the chinese province of gansu on the yellow river
+sevastopol;a city in s ukraine on the black sea
+wichita;the largest city in kansas. located in s kansas on the arkansas river
+fishery;a place where fish are caught and processed and sold
+heronry;a breeding ground for herons. a heron rookery
+city;a large and densely populated urban area. may include several independent administrative districts. 'ancient troy was a great city'
+wroclaw;a city in southwestern poland on the oder
+nesting place;"a place suitable for nesting"
+stambul;the largest city and former capital of turkey. built on the site of ancient byzantium. seat of the eastern orthodox church
+polar zone;the part of the earth's surface forming a cap over a pole. characterized by frigid climate
+trash dump;a piece of land where waste materials are dumped
+rock garden;a garden featuring rocks. usually alpine plants
+beverly hills;a city in southwestern california surrounded by los angeles. home of many hollywood actors
+wuerzburg;a city of south central germany
+physics lab;a laboratory for research in physics
+colorado springs;a city in central colorado. popular tourist center and site of the united states air force academy
+bed of roses;a flower bed in which roses are growing
+disaster area;a region whose population is affected by a general disaster
+outback;the remote bush country of australia
+donetsk;an industrial city in the donets basin
+grazing land;a field covered with grass or herbage and suitable for grazing by livestock
+siberia;a vast asian region of russia. famous for long cold winters
+frankfort;a german city. an industrial and commercial and financial center
+savannah;a port in eastern georgia near the mouth of the savannah river
+scrubland;an uncultivated region covered with scrub vegetation
+basel;a city in northwestern switzerland
+campus;a field on which the buildings of a university are situated
+andalusia;a region in southern spain on the atlantic and the mediterranean. formerly a center of moorish civilization
+drainage area;the geographical area draining into a river or reservoir
+vegetable garden;a small garden where vegetables are grown
+retreat;a place of privacy. a place affording peace and quiet
+languedoc roussillon;a region in south central france. named after the medieval dialect of french that was spoken there
+field;"somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected. 'anthropologists do much of their work in the field'"
+santa clara;a city of west central california. residential area with light industry
+city of the angels;a city in southern california. most populous city of california
+shrubbery;an area where a number of shrubs are planted
+lie;"position or manner in which something is situated"
+arctic zone;the regions north of the arctic circle centered on the north pole
+gorkiy;an industrial city in the european part of russia
+bio lab;a laboratory for biological research
+nubian desert;an arid sandstone plateau between the nile and the red sea
+latvia;a republic in northeastern europe on the baltic sea
+mycenae;an ancient city is s greece. center of the mycenaean civilization
+there;"a location other than here. that place. 'you can take it from there'"
+zurich;the largest city in switzerland. located in the northern part of the country. 'zurich is the center of the german-speaking part of switzerland'
+aquila;the provincial capital of the abruzzi region in central italy
+football field;the playing field on which football is played
+gobi;a desert in central asia
+sphere;the geographical area in which one nation is very influential
+ranch;a large tract of land along with facilities needed to raise livestock (especially cattle)
+lanchou;the capital city of the chinese province of gansu on the yellow river
+kazan;an industrial city in the european part of russia
+brighton;a city in sussex in s england that is a popular resort. site of the university of sussex
+racine;a city in southeastern wisconsin on lake michigan s of milwaukee
+field;a piece of land cleared of trees and usually enclosed. 'he planted a field of wheat'
+dairy farm;a farm where dairy products are produced
+huntington;a city of western west virginia on the ohio river at the mouth of the kanawha
+stuttgart;a city in southwestern germany famous for innovative architecture
+anchorage;place for vessels to anchor
+eyry;any habitation at a high altitude
+stock exchange;an exchange where security trading is conducted by professional stockbrokers
+qum;a city in northwestern iran. a place of pilgrimage for shiite muslims
+brokerage;place where a broker conducts his business
+archduchy;the domain controlled by an archduke or archduchess
+midstream;the middle of a stream
+building site;a lot on which there are no permanent buildings
+venezia;the provincial capital of veneto. built on 118 islands within a lagoon in the gulf of venice which is an arm of the adriatic. has canals instead of streets. one of italy's major ports and a famous tourist attraction
+light;an illuminated area. 'he stepped into the light'
+sfax;the second largest city in tunisia. located in eastern tunisia near a phosphate region
+diamond;the baseball playing field
+den;a hiding place. usually a remote place used by outlaws
+the pits;"any place of pain and turmoil: 'the hell of battle'. 'the inferno of the engine room'. 'when you're alone christmas is the pits'."
+wasteyard;a piece of land where waste materials are dumped
+glassworks;a place where glass is made
+forge;a workplace where metal is worked by heating and hammering
+grove;a small cultivated wood without undergrowth
+outstation;a station in a remote or sparsely populated location
+hiroshima;a city on the southwestern coast of honshu island in japan. on august 6, 1945 hiroshima was almost completely destroyed by the first atomic bomb dropped on a populated area
+french region;a geographical subdivision of france
+death valley;a desert area in eastern california and southern nevada. the lowest point in north america
+commodity exchange;an exchange for buying and selling commodities for future delivery
+fort wayne;a city in northeastern indiana
+orchard;a small cultivated wood without undergrowth
+danger;a dangerous place. 'he moved out of danger'
+binghamton;a city in south central new york near the border with pennsylvania
+mohave;a desert area in southern california
+georgia;one of the british colonies that formed the united states
+spot;a point located with respect to surface features of some region. 'this is a nice place for a picnic'
+showplace;"a place that is frequently exhibited and visited for its historical interest or natural beauty"
+delphi;an ancient greek city on the slopes of mount parnassus. site of the temple of apollo
+cordoba;a city in southern spain. center of moorish culture
+aerie;any habitation at a high altitude
+playing area;a piece of land prepared for playing a game. 'the home crowd cheered when princeton took the field'
+winston salem;a city of north central north carolina
+sachsen;an area in germany around the upper elbe river
+amex;a stock exchange in new york
+phoenicia;an ancient maritime country (a collection of city states) at eastern end of the mediterranean
+sahara;the world's largest desert (3,500,000 square miles) in north africa
+omsk;a city in the asian part of russia
+hearth;an area near a fireplace (usually paved and extending out into a room)
+civic center;the center of a city
+lothringen;an eastern french region rich in iron-ore deposits
+ground;a position to be won or defended in battle (or as if in battle). 'they gained ground step by step'. 'they fought to regain the lost ground'
+stretch;a large and unbroken expanse or distance. 'a stretch of highway'. 'a stretch of clear water'
+plymouth;a town in massachusetts founded by pilgrims in 1620
+anjou;a former province of western france in the loire valley
+parking space;a space where an automobile can be parked
+place;a point located with respect to surface features of some region. 'this is a nice place for a picnic'
+el giza;an ancient egyptian city on the west bank of the nile opposite cairo. site of three great pyramids and the sphinx
+wilmington;the largest city in delaware
+laboratory;a workplace for the conduct of scientific research
+exterior;"the region that is outside of something"
+locale;the scene of any event or action (especially the place of a meeting)
+den;the habitation of wild animals
+chattanooga;a city in eastern tennessee
+savannah;a flat grassland in tropical or subtropical regions
+diamond;the area of a baseball field that is enclosed by 3 bases and home plate
+sphere of influence;the geographical area in which one nation is very influential
+open;where the air is unconfined. 'he wanted to get out in the air a little'. 'the concert was held in the open air'. 'camping in the open'
+berth;a place where a craft can be made fast
+guayaquil;the largest city of ecuador
+dark;an unilluminated area. 'he moved off into the darkness'
+dixieland;the 11 southern states that seceded from the united states in 1861
+clarksburg;a city in northern west virginia
+futures market;a commodity exchange where futures contracts are traded
+half mast;"a position some distance below the top of the mast to which a flag is lowered in mourning or to signal distress"
+parvis;a courtyard or portico in front of a building (especially a cathedral)
+kampong;a native village in malaysia
+madras;a city of southeastern india on the bay of bengal
+summer camp;a site where care and activities are provided for children during the summer months. 'city kids get to see the country at a summer camp'
+brittany;a former province of northwestern france on a peninsula between the english channel and the bay of biscay
+plaza;a public square with room for pedestrians. 'they met at elm plaza'. 'grosvenor place'
+service area;"place on a highway providing garage services and eating and toilet facilities"
+rubbish dump;a piece of land where waste materials are dumped
+jerez;a city in southwestern spain that is famous for making sherry
+burlington;the largest city in vermont. located in northwestern vermont on lake champlain. site of the university of vermont
+worcester;a city in massachusetts
+st. petersburg;a city in the european part of russia. 2nd largest russian city. located at the head of the gulf of finland on the neva river. former capital of russia
+curb;a stock exchange in new york
+goal;"place where something (e.g., a journey or race) ends"
+entrepot;a port where merchandise can be imported and re-exported with paying import duties
+physics laboratory;a laboratory for research in physics
+squash court;the indoor court in which squash is played
+broadcast area;the area over which a radio or tv transmission can be received
+gathering place;a favorite haunt where people gather
+taos;an artist colony in northern new mexico
+prairie;a treeless grassy plain
+changan;a city of central china. capital of ancient chinese empire 221-206 bc
+safety zone;an area in a roadway from which traffic is excluded. provides safe area for pedestrians
+shop floor;the part of a factory housing the machines where the productive work is done
+truck garden;a farm where vegetables are grown for market
+combat zone;a military area where combat forces operate
+hell;"any place of pain and turmoil: 'the hell of battle'. 'the inferno of the engine room'. 'when you're alone christmas is the pits'."
+palestine;an ancient country is southwestern asia on the east coast of the mediterranean. a place of pilgrimage for christianity and islam and judaism
+kovno;a city in central lithuania
+chem lab;a laboratory for research in chemistry
+navy yard;a military shipyard
+charlotte;the largest city in north carolina. located in south central north carolina
+herculaneum;ancient city. now destroyed
+outfield;the area of a baseball playing field beyond the lines connecting the bases
+tea garden;a public garden where tea is served
+akaba;jordan's port. located in southwestern jordan on the gulf of aqaba
+parthia;an ancient country in asia on the caspian sea. dominated southwestern asia from about 100 bc to 200 ad
+vladivostok;a seaport in the asian part of russia
+bengal;a region whose eastern part is bangladesh and western part is included in india
+golan heights;a fortified hilly area between s lebanon and s syria. 'artillery on the golan heights can dominate a large area of israel'
+ufa;a city in the european part of russia
+roof garden;a garden on a flat roof of a building
+latin america;the parts of north and south america south of the united states where romance languages (spanish and portuguese) are spoken
+gridiron;the playing field on which football is played
+suzerainty;the domain of a suzerain
+monaco;a constitutional monarchy on the french riviera
+kingdom;the domain ruled by a king or queen
+old delhi;a city in north-central india
+necropolis;a tract of land used for burials
+fairway;the area between the tee and putting green where the grass is cut short
+darkness;an unilluminated area. 'he moved off into the darkness'
+nanjing;a city in eastern china on the yangtze river. a former capital of china. the scene of a japanese massacre in the 1930s
+shadow;an unilluminated area. 'he moved off into the darkness'
+backyard;the grounds in back of a house
+bonn;a city in western germany on the rhine river. was the capital of west germany between 1949 and 1989
+grainfield;a field where grain is grown
+gaul;an ancient region of western europe that included northern italy and france and belgium and part of germany and the netherlands
+stamping ground;a frequently visited place
+big board;a stock exchange in new york
+eyrie;any habitation at a high altitude
+rhone alpes;a mountainous region of eastern france drained by the rhone and saone and isere rivers
+south;the 11 southern states that seceded from the united states in 1861
+detroit;the largest city in michigan and a major great lakes port. center of the united states automobile industry. located in southeastern michigan on the detroit river
+arena;where sports events take place
+galicia;a region (and former kingdom) in northwestern spain on the atlantic and the bay of biscay
+jersy city;a city in northeastern new jersey (opposite manhattan)
+padova;a city in veneto
+oyster bed;a place where oysters are bred and grow
+recording studio;where tapes and records are recorded
+hamlet;a settlement smaller than a town
+saqqarah;a town in northern egypt. site of the oldest egyptian pyramids (the step pyramid)
+middle west;the north central region of the united states
+climatic zone;any of the geographical zones loosely divided according to prevailing climate and latitude
+colchis;a region on the black sea south of the caucasus that was the site of an ancient country where (according to greek mythology) jason sought the golden fleece
+bad lands;an eroded and barren region in southwestern south dakota and northwestern nebraska
+open air;where the air is unconfined. 'he wanted to get out in the air a little'. 'the concert was held in the open air'. 'camping in the open'
+spring;a point at which water issues forth
+bridgehead;an area in hostile territory that has been occupied and is held for further troops and supplies
+antwerpen;a port in northern belgium on the scheldt river
+battlefront;the line along which opposing armies face each other
+low countries;the lowland region of western europe on the north sea: belgium and luxembourg and the netherlands
+rochester;a city in western new york. a center of the photographic equipment industry
+schenectady;a city of eastern new york on the mohawk river. it prospered after the opening of the erie canal
+messina;a port city in northeastern sicily on the strait of messina
+turin;capital city of the piemonte region of northwestern italy
+montenegro;a former balkan country bordering on the adriatic sea
+borderland;the area on either side of a border or boundary
+brickfield;a place where bricks are made and sold
+cymru;one of the four countries that make up the united kingdom of great britain and northern ireland
+stratford on avon;a town in central england on the river avon. birthplace (and burial place) of william shakespeare
+locality;a surrounding or nearby region. 'the plane crashed in the vicinty of asheville'. 'it is a rugged locality'. 'he always blames someone else in the immediate neighborhood'
+sheffield;a steel manufacturing city in northern england famous for its cutlery industry
+kraal;a village of huts for native africans in southern africa. usually surrounded by a stockade
+yard;a tract of land enclosed for particular activities (sometimes paved and usually associated with buildings). 'they opened a repair yard on the edge of town'
+cancun;a popular island resort off the northeastern tip of the yucatan peninsula
+breiz;a former province of northwestern france on a peninsula between the english channel and the bay of biscay
+parterre;an ornamental flower garden. beds and paths are arranged to form a pattern

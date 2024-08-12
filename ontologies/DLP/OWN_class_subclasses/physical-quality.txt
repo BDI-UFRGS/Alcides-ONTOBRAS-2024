@@ -1,0 +1,19 @@
+form;the spatial arrangement of something as distinct from its substance. 'geometry is the mathematical science of shape'
+tortuousness;a tortuous and twisted shape or position. 'they built a tree house in the tortuosities of its boughs'. 'the acrobat performed incredible contortions'
+line;a length (straight or curved) without breadth or thickness. the trace of a moving point
+tortuosity;a tortuous and twisted shape or position. 'they built a tree house in the tortuosities of its boughs'. 'the acrobat performed incredible contortions'
+crookedness;a tortuous and twisted shape or position. 'they built a tree house in the tortuosities of its boughs'. 'the acrobat performed incredible contortions'
+warp;a shape distorted by twisting or folding
+leaf form;any of the various shape that leaves of plants can assume
+amorphous shape;an ill-defined or arbitrary shape
+natural shape;"a shape created by natural forces. not man-made"
+buckle;a shape distorted by twisting or folding
+leaf shape;any of the various shape that leaves of plants can assume
+distorted shape;"a shape resulting from distortion"
+blob;"an indistinct shapeless form"
+gnarl;something twisted and tight and swollen. 'their muscles stood out in knots'. 'the old man's fists were two great gnarls'. 'his stomach was in knots'
+knot;something twisted and tight and swollen. 'their muscles stood out in knots'. 'the old man's fists were two great gnarls'. 'his stomach was in knots'
+distortion;"a shape resulting from distortion"
+torsion;a tortuous and twisted shape or position. 'they built a tree house in the tortuosities of its boughs'. 'the acrobat performed incredible contortions'
+shape;the spatial arrangement of something as distinct from its substance. 'geometry is the mathematical science of shape'
+contortion;a tortuous and twisted shape or position. 'they built a tree house in the tortuosities of its boughs'. 'the acrobat performed incredible contortions'

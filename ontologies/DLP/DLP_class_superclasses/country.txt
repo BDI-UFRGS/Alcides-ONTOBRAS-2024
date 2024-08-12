@@ -1,0 +1,14 @@
+country
+non-physical-place
+Thing
+political-geographic-object
+endurant
+geographical-place
+figure
+non-agentive-figure
+particular
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+social-object
+spatio-temporal-particular

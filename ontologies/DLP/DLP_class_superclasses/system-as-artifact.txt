@@ -1,0 +1,9 @@
+system-as-artifact
+particular
+Thing
+material-artifact
+physical-endurant
+endurant
+spatio-temporal-particular
+non-agentive-physical-object
+physical-object

@@ -1,0 +1,6 @@
+space-region
+physical-region
+particular
+Thing
+abstract
+region

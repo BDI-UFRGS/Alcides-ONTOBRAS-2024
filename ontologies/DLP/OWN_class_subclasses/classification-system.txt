@@ -1,0 +1,85 @@
+hypertext markup language;a set of tags and rules (conforming to sgml) for using them in developing hypertext documents
+hierarchical classification system;a classification system where entries are arranged based on some hierarchical structure
+stratified sample;the population is divided into strata and a random sample is taken from each stratum
+organization;"an organized structure for arranging or classifying. 'he changed the arrangement of the topics'. 'the facts were familiar but it was in the organization of them that he was original'. 'he tried to understand their system of classification'"
+speed trap;a trap arranged on a roadway for catching speeders
+scoring system;a system of classifying according to quality or merit or amount
+lunisolar calendar;a calendar based on both lunar and solar cycles
+space time continuum;the 4-dimensional coordinate system (3 dimensions of space and 1 of time) in which physical events are located
+organisation;"an organized structure for arranging or classifying. 'he changed the arrangement of the topics'. 'the facts were familiar but it was in the organization of them that he was original'. 'he tried to understand their system of classification'"
+filing system;a system of classifying into files (usually arranged alphabetically)
+solar calendar;a calendar based on solar cycles
+proportional sample;the population is divided into strata and a random sample is taken from each stratum
+plan;an arrangement scheme. 'the awkward design of the keyboard made operation difficult'. 'it was an excellent design for living'. 'a plan for seating guests'
+gregorian calendar;the solar calendar now in general use, introduced by pope gregory xiii in 1582 ad to correct an error in the julian calendar by suppressing 10 days, making oct 5 be called oct 15, and providing that only centenary years divisible by 400 should be leap years. it was adopted by great britain and the american colonies in 1752
+html;a set of tags and rules (conforming to sgml) for using them in developing hypertext documents
+muhammadan calendar;the lunar calendar used by moslems. dates from 622 ad (the year of the hegira). the beginning of the moslem year retrogresses through the solar year completing the cycle every 32 years
+system;"an organized structure for arranging or classifying. 'he changed the arrangement of the topics'. 'the facts were familiar but it was in the organization of them that he was original'. 'he tried to understand their system of classification'"
+grouping;a system for classifying things into groups
+standard generalized markup language;(computer science) a standardized language for the descriptive markup of documents. a set of rules for using whatever markup vocabulary is adopted
+roman calendar;the lunar calender in use in ancient rome. replaced by the julian calendar in 46 bc
+gaussian distribution;a theoretical distribution with finite mean and variance
+old style;the solar calendar introduced in rome in 46 b.c. by julius caesar and slightly modified by augustus, establishing the 12-month year of 365 days with each 4th year having 366 days and the months having 31 or 30 days except for february
+new style;the solar calendar now in general use, introduced by pope gregory xiii in 1582 ad to correct an error in the julian calendar by suppressing 10 days, making oct 5 be called oct 15, and providing that only centenary years divisible by 400 should be leap years. it was adopted by great britain and the american colonies in 1752
+american plan;a hotel plan that includes mealsa hotel plan that includes meals
+crystal lattice;a 3-dimensional geometric arrangement of the atoms or molecules or ions composing a crystal
+inertial frame;a coordinate system in which newton's first law of motion is valid
+moslem calendar;the lunar calendar used by moslems. dates from 622 ad (the year of the hegira). the beginning of the moslem year retrogresses through the solar year completing the cycle every 32 years
+arrangement;"an organized structure for arranging or classifying. 'he changed the arrangement of the topics'. 'the facts were familiar but it was in the organization of them that he was original'. 'he tried to understand their system of classification'"
+inertial reference frame;a coordinate system in which newton's first law of motion is valid
+reference system;a system that uses coordinates to establish position
+sgml;(computer science) a standardized language for the descriptive markup of documents. a set of rules for using whatever markup vocabulary is adopted
+file system;a system of classifying into files (usually arranged alphabetically)
+hindu calendar;the lunisolar calendar governing the religious life of hindus. an extra month is inserted after every month in which there are two new moons (once every three years)
+coordinate system;a system that uses coordinates to establish position
+muslim calendar;the lunar calendar used by moslems. dates from 622 ad (the year of the hegira). the beginning of the moslem year retrogresses through the solar year completing the cycle every 32 years
+calendar;a system of timekeeping that defines the beginning and length and divisions of the year
+contrivance;an artificial or unnatural or obviously contrived arrangement of details or parts etc.. 'the plot contained too many improbable contrivances to be believable'
+lunar calendar;a calendar based on lunar cycles
+nomenclature;"a system of words used in a particular discipline. 'legal terminology'. 'the language of sociology'"
+dichotomy;classification into two opposed parts: 'the dichotomy between eastern and western culture'
+space lattice;a 3-dimensional geometric arrangement of the atoms or molecules or ions composing a crystal
+abo system;a classification system for the antigens of human blood. used in blood transfusion therapy. four groups are a and b and ab and o
+modified american plan;a hotel plan that includes breakfast and dinner (but not lunch)
+abo group;a classification system for the antigens of human blood. used in blood transfusion therapy. four groups are a and b and ab and o
+iron trap;a trap from which there is no escape
+living arrangement;an arrangement to allow people (or ideas) to co-exist
+binomial distribution;a theoretical distribution of the number of successes in a finite set of independent trials with a constant probability of success
+hierarchical data structure;a structure of data having several levels arranged in a tree-like structure
+reference frame;a system that uses coordinates to establish position
+normal distribution;a theoretical distribution with finite mean and variance
+data structure;the organization of data (and its storage allocations in a computer)
+frequency distribution;a distribution of observed frequencies of occurrence of the values of a variable
+european plan;a hotel plan that excludes meals
+ecclesiastical calendar;a calendar of the christian year indicating the dates of fasts and festivals
+julian calendar;the solar calendar introduced in rome in 46 b.c. by julius caesar and slightly modified by augustus, establishing the 12-month year of 365 days with each 4th year having 366 days and the months having 31 or 30 days except for february
+language;"a system of words used in a particular discipline. 'legal terminology'. 'the language of sociology'"
+pigeonholing;a system for classifying things into groups
+layout;a plan or design of something that is laid out
+space time;the 4-dimensional coordinate system (3 dimensions of space and 1 of time) in which physical events are located
+poisson distribution;a theoretical distribution that is a good approximation to the binomial distribution when the probability is small and the number of trials is large
+frame of reference;a system that uses coordinates to establish position
+representative sample;the population is divided into strata and a random sample is taken from each stratum
+hebrew calendar;the calendar used by the jews. dates from 3761 bc (the assumed date of the creation of the world). a lunar year of 354 days is adjusted to the solar year by periodic leap years
+abo blood group system;a classification system for the antigens of human blood. used in blood transfusion therapy. four groups are a and b and ab and o
+trap;something (often something deceptively attractive) that catches you unawares. 'the exam was full of trap questions'. 'it was all a snare and delusion'
+markup language;a set of symbols and rules for their use when doing a markup of a document
+church calendar;a calendar of the christian year indicating the dates of fasts and festivals
+lattice;an arrangement of points or particles or objects in a regular periodic pattern in 2 or 3 dimensions
+rating system;a system of classifying according to quality or merit or amount
+jewish calendar;the calendar used by the jews. dates from 3761 bc (the assumed date of the creation of the world). a lunar year of 354 days is adjusted to the solar year by periodic leap years
+classification system;a system for classifying things
+design;an arrangement scheme. 'the awkward design of the keyboard made operation difficult'. 'it was an excellent design for living'. 'a plan for seating guests'
+snare;something (often something deceptively attractive) that catches you unawares. 'the exam was full of trap questions'. 'it was all a snare and delusion'
+distribution;an arrangement of values of a variable showing their observed or theoretical frequency of occurrence
+mohammedan calendar;the lunar calendar used by moslems. dates from 622 ad (the year of the hegira). the beginning of the moslem year retrogresses through the solar year completing the cycle every 32 years
+sample;items selected from a population and used to test hypotheses about the population
+revolutionary calendar;the calendar adopted by the french first republic in 1793 and abandoned in 1805. dates were calculated from sept. 22, 1792
+categorization;a group of people or things arranged by class or category"a group of people or things arranged by class or category"
+terminology;"a system of words used in a particular discipline. 'legal terminology'. 'the language of sociology'"
+hierarchical structure;a structure of data having several levels arranged in a tree-like structure
+bernoulli distribution;a theoretical distribution of the number of successes in a finite set of independent trials with a constant probability of success
+sample distribution;items selected from a population and used to test hypotheses about the population
+bravais lattice;a 3-dimensional geometric arrangement of the atoms or molecules or ions composing a crystal
+random sample;a sample in which every element in the population has an equal chance of being selected
+classification;a group of people or things arranged by class or category"a group of people or things arranged by class or category"

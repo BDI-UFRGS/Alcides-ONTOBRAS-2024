@@ -1,0 +1,21 @@
+process;embryonic cycle 1;the first mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle 7;the seventh mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle 9;the ninth mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle interphase;the interphase (go:0051325) of an embryonic cycle.
+process;embryonic cycle 6;the sixth mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle 5;the fifth mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle 12;the 12th mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle m-phase;the m-phase (go:0000279) of an embryonic cycle.
+process;embryonic cycle 2;the second mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle 14b;the m-phase of embryonic cycle 14. this is asynchronous across the embryo, but occurs synchronously within discrete domains, known as mitotic domains.
+process;embryonic cycle 16;the 16th cell cycle division of embryogenesis. asynchronous.
+process;embryonic cycle 10;the tenth mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle;a cycle of nuclear division during the embryogenesis of drosophila melanogaster. the first 13 cycles are synchronous throughout the embryo and occur their timing relative to other developmental processes is invariant. later nuclear division cycles are asynchronous across the embryo although may be more locally synchronized.
+process;embryonic cycle 8;the eighth mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle 4;the fourth mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle 3;the third mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle 14a;the interphase of embryonic cycle 14. this begins at the same time as cellularization and is of variable length depending on cell identity: embryonic cycle 14 m phase (14b) is asynchronous across the embryo, but occurs synchronously within discrete domains, known as mitotic domains.
+process;embryonic cycle 15;the 15th cell cycle of embryogenesis. asynchronous.
+process;embryonic cycle 13;the 13th mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.
+process;embryonic cycle 14;the 14th mitotic cell cycle of embryogenesis. this is the first round of nuclear division to occur in a cellularized embryo, so this is the first round of cell division. embryonic cycle 14 mitosis is asynchronous across the embryo, but occurs synchronously within discrete domains, known as mitotic domains.
+process;embryonic cycle 11;the 11th mitotic cell cycle of embryogenesis. this occurs synchronously across the embryo.

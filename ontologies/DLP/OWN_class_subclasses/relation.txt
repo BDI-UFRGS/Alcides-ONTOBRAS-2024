@@ -1,0 +1,513 @@
+complementarity;the interrelation of reciprocity whereby one thing supplements or depends on the other. 'the complementarity of the sexes'
+focal length;the distance from a lens to its focus
+southwest;the compass point midway between south and west. at 225 degrees
+opposition;"the relation between opposed entities"
+relevance;the relation of something to the matter at hand
+modification;the grammatical relation that exists when a word qualifies the meaning of the phrase
+breathing space;sufficient room for easy breathing or movement: 'moved to the country to find breathing room'
+northeast by north;the compass point that is one point north of northeast
+irrelevancy;the lack of a relation of something to the matter at hand
+paradigm;systematic arrangement of all the inflected forms of a word
+se;the compass point midway between south and east. at 135 degrees
+stands;a structure (often made of wood) where people can sit to watch an event (game or parade)
+identity;an operator that leaves unchanged the element on which it operates. 'the identity under numerical multiplication is 1'
+southwest by west;the compass point that is one point west of southwest
+case agreement;agreement in grammatical case between words in the same construction
+conjunction;the grammatical relation between linguistic units (words or phrases or clauses) that are connected by a conjunction
+fact mood;a mood (grammatically unmarked) that represents the act or state as an objective fact
+houseroom;space for accommodation in a house. 'i wouldn't give that table houseroom'
+communication;a connection allowing access between persons or places. 'how many lines of communication can there be among four people?'. 'a secret passageway provided communication between the two rooms'
+gradualness;the property possessed by a slope that is very gradual
+connection;"a relation between things or events (as in the case of one causing the other or sharing features with it). 'there was a connection between eating that pickle and having that nightmare'"
+anteriority;the quality of being in front or (in lower animals) toward the head
+list;the property possessed by a line or surface that departs from the vertical. 'the tower had a pronounced tilt'. 'the ship developed a list to starboard'. 'he walked with a heavy inclination to the right'
+horizontal;something that is oriented horizontally
+modality;a classification of propositions on the basis of whether they claim necessity or possibility or impossibility
+ground level;the height of the ground on which something stands: 'the base of the tower was below grade'
+nearness;the spatial property resulting from a relatively small distance. 'the sudden closeness of the dock sent him into action'
+antecedent;anything that precedes something similar in time. 'phrenology was an antecedent of modern neuroscience'
+desynchronization;the relation that exists when things occur at unrelated times. 'the stimulus produced a desynchronizing of the brain waves'
+mutual exclusiveness;the relation between propositions that cannot both be true at the same time
+distance;the property created by the space between two objects or points
+living space;space sought for occupation by a nation whose population is expanding
+synchroneity;the relation that exists when things occur at the same time. 'the drug produces an increased synchrony of the brain waves'
+contrast;the opposition or dissimilarity of things that are compared. 'in contrast to', 'by contrast'
+south by east;the compass point that is one point east of due south
+temporal relation;"a relation involving time"
+superordination;the semantic relation of being superordinate or belonging to a higher rank or class
+true;the property possessed by something that is in correct or proper alignment: 'out of true'
+seating area;an area that includes seats for several people. 'there is seating for 40 students in this classroom'
+point;any of 32 horizontal directions indicated on the card of a compass. 'he checked the point on his compass'
+mode;verb inflections that express how the action or state is conceived by the speaker
+desynchronisation;the relation that exists when things occur at unrelated times. 'the stimulus produced a desynchronizing of the brain waves'
+synchronizing;the relation that exists when things occur at the same time. 'the drug produces an increased synchrony of the brain waves'
+spatial relation;"the spatial property of a place where or way in which something is situated. 'the position of the hands on the clock'. 'he specified the spatial relations of every piece of furniture on the stage'"
+conflict;opposition in a work of drama or fiction between characters or forces (especially an opposition that motivates the development of the plot). 'this form of conflict is essential to mann's writing'
+symbiosis;the relation between two different kinds of organisms that are interdependent. each gains benefits from the other
+active;the voice used to indicate that the subject of the verb is performing the action or causing the happening denoted by the verb
+pertinency;relevance by virtue of being applicable to the matter at hand
+comparison;"relation based on similarities and differences"
+connectedness;"a relation between things or events (as in the case of one causing the other or sharing features with it). 'there was a connection between eating that pickle and having that nightmare'"
+bond;a connection based on kinship or marriage or common interest: 'the shifting alliances within a large family'. 'their friendship constitutes a powerful bond between them'
+synchronism;the relation that exists when things occur at the same time. 'the drug produces an increased synchrony of the brain waves'
+restrictiveness;modification that makes the meaning more specific ('red hat' has a more specific meaning than 'hat')
+composing;the spatial property resulting from the arrangement of parts in relation to each other and to the whole. 'harmonious composition is essential in a serious work of art'
+nebn;the compass point that is one point north of northeast
+sympathy;a relation of affinity or harmony between people. whatever affects one correspondingly affects the other. 'the two of them were in close sympathy'
+interdependence;a reciprocal relation between interdependent individuals or groups
+grade;the gradient of a slope or road or other surface: 'the road had a steep grade'
+combat ceiling;altitude above which a plane cannot climb faster than a given rate
+due west;the cardinal compass point that is a 270 degrees
+nexus;the means of connection between things linked in series
+meronymy;the semantic relation that holds between a part and the whole
+weather side;the side toward the wind
+way;space for movement. 'room to pass'. 'make way for': 'hardly enough elbow room to turn around'
+weatherboard;the side toward the wind
+stalls;(british) seating in the forward part of the main level of a theater
+inapplicability;irrelevance by virtue of being inapplicable to the matter at hand
+logical relation;"a relation between logical propositions"
+bits per inch;(computer science) a measure of how densely information is packed on a storage medium
+conditional relation;a logical relation between propositions p and q of the form 'if p then q'. if p is true then q cannot be false
+antonymy;the semantic relation that holds between two words that can (in a given context) express opposite meanings
+synchronization;the relation that exists when things occur at the same time. 'the drug produces an increased synchrony of the brain waves'
+immateriality;complete irrelevance requiring no further consideration
+time sharing;(computer science) the use of a central computer by many users simultaneously
+imperative mood;a mood that expresses an intention to influence the listener's behavior
+threshold function;a function that takes the value 1 if a specified function of the arguments exceeds a given threshold and 0 otherwise
+east southeast;the compass point midway between east and southeast
+nw;the compass point midway between north and west. at 315 degrees
+seats;an area that includes seats for several people. 'there is seating for 40 students in this classroom'
+concord;the determination of grammatical inflection on the basis of word relations
+inclusion;the relation of comprising something. 'he admired the inclusion of so many ideas in such a short work'
+inclination;the property possessed by a line or surface that departs from the vertical. 'the tower had a pronounced tilt'. 'the ship developed a list to starboard'. 'he walked with a heavy inclination to the right'
+east;the cardinal compass point that is at 90 degrees
+water level;the level of the surface of a body of water
+component;something determined in relation to something that includes it. 'he wanted to feel a part of something bigger than himself'. 'i read a portion of the manuscript'. 'the smaller component is hard to reach'
+alignment;the spatial property possessed by an arrangement or position of things in a straight line or in parallel lines
+north;the cardinal compass point that is at 0 or 360 degrees
+malposition;faulty position
+nor  nor  east;the compass point that is midway between north and northeast
+northernness;the property of being to the north
+precipitousness;the property possessed by a slope that is very steep
+elevation;angular distance above the horizon (especially of a celestial object)
+mathematical relation;"a relation between mathematical expressions (such as equality or inequality)"
+polarity;having an indicated pole (as the distinction between positive and negative electric charges). 'he got the polarity of the battery reversed'. 'charges of opposite sign'
+limiting;the grammatical relation that exists when a word qualifies the meaning of the phrase
+troponymy;the semantic relation of being a manner of does something
+east northeast;the compass point midway between northeast and east
+due south;the cardinal compass point that is at 180 degrees
+number agreement;agreement in number between words in the same grammatical construction (e.g., between adjectives and the nouns they modify)
+dress circle;a curved section or tier of seats in a hall or theater or opera house. usually the first tier above the orchestra. 'they had excellent seats in the dress circle'
+imperfective;aspect without regard to the beginning or completion of the action of the verb
+component part;something determined in relation to something that includes it. 'he wanted to feel a part of something bigger than himself'. 'i read a portion of the manuscript'. 'the smaller component is hard to reach'
+posteriority;the quality of being toward the back or (in quadrupeds) toward the rear end
+nwbn;the compass point that is one point north of northwest
+sou  west;the compass point midway between south and west. at 225 degrees
+hypernymy;the semantic relation of being superordinate or belonging to a higher rank or class
+respect to;(usually preceded by 'with') relation of delimitation. 'he inquired with respect to the address'
+yarder;something a given number of yards long. 'his drive was a 300-yarder'
+intransitiveness;the grammatical relation created by an intransitive verb
+w;the cardinal compass point that is a 270 degrees
+south;the cardinal compass point that is at 180 degrees
+bpi;(computer science) a measure of how densely information is packed on a storage medium
+swbw;the compass point that is one point west of southwest
+mutuality;a reciprocal relation between interdependent individuals or groups
+gender agreement;agreement in grammatical gender between words in the same construction
+seating room;an area that includes seats for several people. 'there is seating for 40 students in this classroom'
+erectness;position at right angles to the horizon
+e;the cardinal compass point that is at 90 degrees
+sign;having an indicated pole (as the distinction between positive and negative electric charges). 'he got the polarity of the battery reversed'. 'charges of opposite sign'
+sse;the compass point midway between south and southeast
+implication;a relation implicated by virtue of involvement or close connection (especially an incriminating involvement). 'he was suspected of implication in several robberies'
+east by south;the compass point that is one point south of due east
+circle;a curved section or tier of seats in a hall or theater or opera house. usually the first tier above the orchestra. 'they had excellent seats in the dress circle'
+inverse function;the function obtained by expressing the dependent variable of one function as the independent variable of another. f and g are inverse functions if f(x)=y and g(y)=x
+ne;the compass point midway between north and east. at 45 degrees
+piece;a distance. 'it is down the road a piece'
+contiguousness;the attribute of being so near as to be touching
+cold war;a state of political conflict using means short of armed warfare
+grammatical relation;a linguistic relation established by grammar
+compass point;any of 32 horizontal directions indicated on the card of a compass. 'he checked the point on his compass'
+gradable opposition;an opposition that is capable of being graded
+identity operator;an operator that leaves unchanged the element on which it operates. 'the identity under numerical multiplication is 1'
+common mood;a mood (grammatically unmarked) that represents the act or state as an objective fact
+materiality;relevance requiring careful consideration
+north by west;the compass point that is one point west of due north
+lebensraum;space sought for occupation by a nation whose population is expanding
+height;elevation esp above sea level or the earth's surface
+cosine;ratio of the adjacent side to the hypotenuse
+composition;the spatial property resulting from the arrangement of parts in relation to each other and to the whole. 'harmonious composition is essential in a serious work of art'
+mood;verb inflections that express how the action or state is conceived by the speaker
+spatial arrangement;the property possessed by an array of things that have space between them
+spread;a haphazard distribution in all directions
+clash;a state of conflict between persons
+dialectic;a contradiction of ideas that serves as the determining factor in their interaction. 'this situation created the inner dialectic of american history'
+antipodal opposition;the relation of opposition along a diameter
+ssw;the compass point midway between south and southwest
+reverse;a relation of direct opposition. 'we thought sue was older than bill but just the reverse was true'
+inflection;a change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function
+subordinating conjunction;the subordination that occurs when a conjunction makes one linguistic unit a constituent of another
+mutualness;a reciprocality of sentiments. 'the mutuality of their affection was obvious'
+change;"a relational difference between states. especially between states before and after some event: 'he attributed the change to their marriage'"
+incompatibility;the relation between propositions that cannot both be true at the same time
+sea level;level of the ocean's surface esp that halfway between mean high and low tide. used as a standard in reckoning land elevation or sea depth
+connexion;"a relation between things or events (as in the case of one causing the other or sharing features with it). 'there was a connection between eating that pickle and having that nightmare'"
+link;the means of connection between things linked in series
+northwest by north;the compass point that is one point north of northwest
+mutual understanding;sympathy of each person for the other
+distribution;the spatial property of being scattered about over an area or volume
+magnetic north;the direction in which a compass needle points
+copulative conjunction;the conjunctive relation of units that expresses the addition of their meanings
+part to whole relation;the semantic relation that holds between a part and the whole
+breathing room;sufficient room for easy breathing or movement: 'moved to the country to find breathing room'
+abruptness;the property possessed by a slope that is very steep
+sharing;using or enjoying something jointly with others
+conjugation;the inflection of verbs
+sebe;the compass point that is one point east of southeast
+logical implication;a logical relation between propositions p and q of the form 'if p then q'. if p is true then q cannot be false
+flux;(physics) the number of flux changes per unit area
+n;the cardinal compass point that is at 0 or 360 degrees
+slope;the property possessed by a line or surface that departs from the horizontal
+orientation;position or alignment relative to points of the compass or other specific directions
+west;the cardinal compass point that is a 270 degrees
+opposition;a direction opposite to another
+verticalness;position at right angles to the horizon
+nor  east;the compass point midway between north and east. at 45 degrees
+farness;the property of being remote
+headway;vertical space available to allow easy passage under something
+sebs;the compass point that is one point south of southeast
+mileage;distance measured in miles
+inverse;something inverted in sequence or character or effect. 'when the direct approach failed he tried the inverse'
+function;a mathematical relation such that each element of one set is associated with at least one element of another set
+trigonometric function;function of an angle expressed as a ratio of the sides of right-angled triangle containing the angle
+imaginative comparison;the kind of mental comparison that is expressed in similes or metaphors or allegories
+correlation;a reciprocal relation between two or more things
+inflexion;a change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function
+northeast;the compass point midway between north and east. at 45 degrees
+direction;the spatial relation between something and the course along which it points or moves. 'he checked the direction and velocity of the wind'
+whole to part relation;the semantic relation that holds between a whole and its parts
+bleachers;an outdoor grandstand without a roof. patrons are exposed to the sun as linens are when they are bleached
+leeward;the direction in which the wind is blowing
+outwardness;the quality or state of being outside or directed toward or relating to the outside or exterior: 'the outwardness of the world'
+adversative conjunction;the conjunctive relation of units that expresses the opposition of their meanings
+northwest;the compass point midway between north and west. at 315 degrees
+separation;the distance between things. 'fragile items require separation and cushioning'
+communication;something that is communicated between people or groups
+alliance;a connection based on kinship or marriage or common interest: 'the shifting alliances within a large family'. 'their friendship constitutes a powerful bond between them'
+voice;(linguistics) the grammatical relation of the subject of a verb to the action that the verb denotes
+mutual affection;sympathy of each person for the other
+adjacency;the attribute of being so near as to be touching
+qualifying;the grammatical relation that exists when a word qualifies the meaning of the phrase
+elbow room;space for movement. 'room to pass'. 'make way for': 'hardly enough elbow room to turn around'
+negation;the negative of the opposition
+interrelation;"mutual or reciprocal relation or relatedness: 'interrelationships of animal structure and function'"
+comprehension;the relation of comprising something. 'he admired the inclusion of so many ideas in such a short work'
+proximity;the property of being close together
+level;height above ground: 'the water reached ankle level'. 'the pictures were at the same level'
+synonymousness;the semantic relation that holds between two words that can (in a given context) express the same meaning
+attitude;position of aircraft or spacecraft relative to a frame of reference (the horizon or direction of motion)
+exponential;a function in which an independent variable appears as an exponent
+person agreement;agreement in person between pronouns and verbs
+oppositeness;"the relation between opposed entities"
+wnw;the compass point midway between west and northwest
+point;a style in speech or writing that arrests attention and has a penetrating or convincing quality or effect
+ebs;the compass point that is one point south of due east
+map;a function such that for every element of one set there is a unique element of another set
+sou  sou  west;the compass point midway between south and southwest
+parquet;the main floor between the orchestra and the parquet_circle
+pertinence;relevance by virtue of being applicable to the matter at hand
+affinity;"a close connection marked by community of interests or similarity in nature or character: 'found a natural affinity with the immigrants'. 'felt a deep kinship with the other students'. 'anthropology's kinship with the humanities'"
+south southwest;the compass point midway between south and southwest
+north northwest;the compass point that is midway between north and northwest
+sw;the compass point midway between south and west. at 225 degrees
+durative aspect;the aspect of a verb that expresses its duration
+windward;the direction from which the wind is coming
+synonymity;the semantic relation that holds between two words that can (in a given context) express the same meaning
+southeast;the compass point midway between south and east. at 135 degrees
+reflexiveness;the coreferential relation between a reflexive pronoun and its antecedent
+leaning;the property possessed by a line or surface that departs from the vertical. 'the tower had a pronounced tilt'. 'the ship developed a list to starboard'. 'he walked with a heavy inclination to the right'
+desynchronizing;the relation that exists when things occur at unrelated times. 'the stimulus produced a desynchronizing of the brain waves'
+concentration;the spatial property of being crowded together
+swbs;the compass point that is one point south of southwest
+nor  west;the compass point midway between north and west. at 315 degrees
+perpendicularity;the relation of opposition between things at right angles
+concatenation;the linking together of a consecutive series of symbols or events or ideas etc. 'it was cause by an improbable concatenation of circumstances'
+propinquity;the property of being close together
+sbe;the compass point that is one point east of due south
+parasitism;the relation between two different kinds of organisms in which one receives benefits from the other by causing damage to it (usually not fatal damage)
+rapport;relation of mutual understanding or trust between people
+affine transformation;a transformation that is a combination of single transformations such as translation or rotation or reflection on an axis
+clearance;vertical space available to allow easy passage under something
+jussive mood;a mood that expresses an intention to influence the listener's behavior
+sbw;the compass point that is one point west of due south
+pitch;degree of deviation from a horizontal plane: 'the roof had a steep pitch'
+interdependency;a reciprocal relation between interdependent individuals or groups
+subjunctive mood;a mood that represent an act or state (not as a fact but) as contingent or possible
+disunity;lack of unity (usually resulting from dissension)
+nor  nor  west;the compass point that is midway between north and northwest
+sine;ratio of the opposite side to the hypotenuse
+coreference;the grammatical relation between two words that have a common referent
+orthogonality;the relation of opposition between things at right angles
+optative mood;a mood (as in greek or sanskrit) that expresses a wish or hope. expressed in english by modal verbs
+ene;the compass point midway between northeast and east
+cogency;persuasive relevance
+contrary;exact opposition. 'public opinion to the contrary he is not guilty'
+interrelatedness;"mutual or reciprocal relation or relatedness: 'interrelationships of animal structure and function'"
+germaneness;pertinence by virtue of a close relation to the matter at hand
+antipodal;the relation of opposition along a diameter
+horizontality;the quality of being parallel to the horizon: 'houses with a pronounced horizontality'
+ceiling;(meteorology) altitude of the lowest layer of clouds
+reciprocity;"a relation of mutual dependence or action or influence"
+correlativity;a reciprocal relation between two or more things
+conflict;"a state of opposition between persons or ideas or interests. 'his conflict of interest made him ineligible for the post'. 'a conflict of loyalties'"
+circular function;function of an angle expressed as a ratio of the sides of right-angled triangle containing the angle
+dissemination;the property of being diffused or dispersed
+linkage;an associative relation
+unconnectedness;"the lack of a connection between things"
+slant;degree of deviation from a horizontal plane: 'the roof had a steep pitch'
+hour angle;the angular distance along the celestial equator from the observer's meridian to the hour circle of a given celestial body
+applicability;relevance by virtue of being applicable to the matter at hand
+far cry;distance estimated in terms of the audibility of a cry. 'it's a far cry from here'
+misplacement;faulty position
+inchoative aspect;aspect with regard to the beginning of the action of the verb
+relation;an abstraction belonging to or characteristic of two entities or parts togetheran abstraction belonging to or characteristic of two entities or parts together
+compactness;the spatial property of being crowded together
+service ceiling;altitude above which a plane cannot climb faster than a given rate
+farawayness;the property of being remote
+contradiction;opposition between two conflicting forces or ideas
+wsw;the compass point midway between west and southwest
+optative;a mood (as in greek or sanskrit) that expresses a wish or hope. expressed in english by modal verbs
+span;the distance or interval between two points
+altitude;angular distance above the horizon (especially of a celestial object)
+coincidence;the quality of occupying the same position or area in space. 'he waited for the coincidence of the target and the cross hairs'
+southernness;the property of being to the south
+commensalism;the relation between two different kinds of organisms when one receives benefits from the other without damaging it
+interrogative;some linguists consider interrogative sentences to constitute a mood
+leeward side;the side sheltered from the wind
+wbs;the compass point that is one point south of due west
+ese;the compass point midway between east and southeast
+gentleness;the property possessed by a slope that is very gradual
+correspondence;a function such that for every element of one set there is a unique element of another set
+placement;the spatial property of the way in which something is placed: 'the arrangement of the furniture'. 'the placement of the chairs'
+orthogonal opposition;the relation of opposition between things at right angles
+compass north;the direction in which a compass needle points
+nne;the compass point that is midway between north and northeast
+west by south;the compass point that is one point south of due west
+downgrade;the property possessed by a slope or surface that descends
+tangent;ratio of the opposite to the adjacent side
+declarative;a mood (grammatically unmarked) that represents the act or state as an objective fact
+linguistic relation;"a relation between linguistic forms or constituents"
+southeast by south;the compass point that is one point south of southeast
+sou  east;the compass point midway between south and east. at 135 degrees
+inverse;(math) one of a pair of numbers whose product is 1: the reciprocal of 2/3 is 3/2. the inverse of 7 is 1/7
+nnw;the compass point that is midway between north and northwest
+point of view;the spatial property of the position from which something is observed
+camera angle;the point of view of a camera
+quarter;one of the four major division of the compass. 'the wind is coming from that quarter'
+indicative;a mood (grammatically unmarked) that represents the act or state as an objective fact
+contradictoriness;the relation that exists when opposites cannot coexist
+coordination;the grammatical relation of two constituents having the same grammatical form
+contradictory;two propositions are contradictories if both cannot be true (or both cannot be false) at the same time
+depression;angular distance below the horizon (especially of a celestial object)
+relatedness;a particular manner of connectedness. 'the relatedness of all living things'
+enantiomorphism;the relation of opposition between crystals or molecules that are reflections of one another
+parquet circle;at the rear of the main floor (beneath the balconies)
+hour;distance measured by the time taken to cover it. 'we live an hour from the airport'. 'its just 10 minutes away'
+rising slope;the property possessed by a slope or surface that rises
+subordination;the semantic relation of being subordinate or belonging to a lower rank or class
+north northeast;the compass point that is midway between north and northeast
+uprightness;position at right angles to the horizon
+disjunctive conjunction;the conjunctive relation of units that expresses the disjunction of their meanings
+involvement;a connection of inclusion or containment. 'he escaped involvement in the accident'. 'there was additional involvement of the liver and spleen'
+contrariety;the relation between contraries
+parterre;at the rear of the main floor (beneath the balconies)
+interval;the distance between things. 'fragile items require separation and cushioning'
+flux density;(physics) the number of flux changes per unit area
+mutual opposition;a relation between two opposite attributes or tendencies. 'he viewed it as a balanced polarity between good and evil'
+contrary;a relation of direct opposition. 'we thought sue was older than bill but just the reverse was true'
+south southeast;the compass point midway between south and southeast
+semantic relation;a relation between meanings
+bearing;relevant relation or interconnection: 'those issues have no bearing on our situation'
+inwardness;the quality or state of being inward or internal: 'the inwardness of the body's organs'
+indicative mood;a mood (grammatically unmarked) that represents the act or state as an objective fact
+minute;distance measured by the time taken to cover it. 'we live an hour from the airport'. 'its just 10 minutes away'
+anaphoric relation;the relation between an anaphor and its antecedent
+north by east;the compass point that is one point east (clockwise) of due north
+sou  sou  east;the compass point midway between south and southeast
+nbw;the compass point that is one point west of due north
+wheelbase;the distance from the center of a car's front wheel to the rear axle
+columniation;(architecture) the arrangement of columns (especially freestanding columns) in a structure
+disagreement;"a conflict of people's opinions or actions or characters"a conflict of people's opinions or actions or characters
+gradient;a graded change in the magnitude of some physical quantity or dimension
+opposite;something inverted in sequence or character or effect. 'when the direct approach failed he tried the inverse'
+antithesis;exact opposite. 'his theory is the antithesis of mine'
+imperfective aspect;aspect without regard to the beginning or completion of the action of the verb
+transitiveness;the grammatical relation created by a transitive verb
+windward side;the side toward the wind
+transformation;a function that changes the position or direction of the axes of a coordinate system
+covered stand;the part of the seating at a racecourse or stadium consisting of tiers with rows of individual seats that are under a protective roof
+upgrade;the property possessed by a slope or surface that rises
+hyperfocal distance;the distance in front of a lens that is focused at infinity beyond which all objects are well defined and clear
+seating;an area that includes seats for several people. 'there is seating for 40 students in this classroom'
+tiered seats;seating that is arranged in sloping tiers so that spectators in the back can see over the heads of those in front
+secant;ratio of the hypotenuse to the adjacent side
+rise;the property possessed by a slope or surface that rises
+imperative;a mood that expresses an intention to influence the listener's behavior
+steepness;the property possessed by a slope that is very steep
+bridge;something resembling a bridge in form or function: 'his letters provided a bridge across the centuries'
+durative;the aspect of a verb that expresses its duration
+exponential function;a function in which an independent variable appears as an exponent
+milage;distance measured in miles
+altitude;elevation esp above sea level or the earth's surface
+perfective;the aspect of a verb that expresses a completed completed action
+remove;degree of figurative distance or separation: 'just one remove from madness' or 'it imitates at many removes a shakespearean tragedy'returns a new sequence equivalent to sequence with occurrences of item removed. the original sequence is not modified. (the destructive counterpart of remove is delete.)
+due north;the cardinal compass point that is at 0 or 360 degrees
+divergency;degree of spatial separation
+yardage;distance measured in the aggregate number of yards. 'what is the yardage of this golf course?'
+aspect;the beginning or duration or completion or repetition of the action of a verb
+occlusion;(dentistry) the normal spatial relation of the teeth when the jaws are closed
+west northwest;the compass point midway between west and northwest
+mathematical function;a mathematical relation such that each element of one set is associated with at least one element of another set
+balance;harmonious arrangement or relation of parts or elements within a whole (as in a design): 'in all perfectly beautiful objects there is found the opposition of one part to another and a reciprocal balance'- john ruskin
+dissension;"a conflict of people's opinions or actions or characters"a conflict of people's opinions or actions or characters
+cardinal compass point;one of the four main compass points
+isometry;equality of elevation above sea level
+arrangement;the spatial property of the way in which something is placed: 'the arrangement of the furniture'. 'the placement of the chairs'
+complementation;the grammatical relation of a word or phrase to a predicate
+irrelevance;the lack of a relation of something to the matter at hand
+apposition;a grammatical relation between a word and a noun phrase that follows. 'rudolph the red-nosed reindeer' is an example of apposition'
+relevancy;the relation of something to the matter at hand
+clearance;the distance by which one thing clears another. the space between them
+tilt;the property possessed by a line or surface that departs from the vertical. 'the tower had a pronounced tilt'. 'the ship developed a list to starboard'. 'he walked with a heavy inclination to the right'
+west by north;the compass point that is one point north of due west
+reference to;(usually preceded by 'with') relation of delimitation. 'he inquired with respect to the address'
+to leeward;the side sheltered from the wind
+spacing;the property possessed by an array of things that have space between them
+mean distance;the arithmetic mean of the maximum and minimum distances of a celestial body (satellite or secondary star) from its primary
+west southwest;the compass point midway between west and southwest
+externality;the quality or state of being outside or directed toward or relating to the outside or exterior: 'the outwardness of the world'
+marginality;the property of being marginal or on the fringes
+inconsistency;the relation between propositions that cannot both be true at the same time
+south by west;the compass point that is one point west of due south
+misalignment;the spatial property of things that are not properly aligned
+lean;the property possessed by a line or surface that departs from the vertical. 'the tower had a pronounced tilt'. 'the ship developed a list to starboard'. 'he walked with a heavy inclination to the right'
+cotangent;ratio of the adjacent to the opposite side
+operator;(mathematics) a symbol that represents a function from functions to functions. 'the integral operator'
+complementarity;a relation between two opposite states or principles that together exhaust the possibilities
+ebn;the compass point that is one point north of due east
+opposite;a relation of direct opposition. 'we thought sue was older than bill but just the reverse was true'
+gravity gradient;a gradient in the gravitational forces acting on different parts of a nonspherical object. 'the gravity gradient of the moon causes the ocean tides on earth'
+southeast by east;the compass point that is one point east of southeast
+declension;the inflection of nouns and pronouns and adjectives
+dispersion;the spatial property of being scattered about over an area or volume
+slot;a position in a grammatical linguistic construction in which a variety of alternative units are interchangeable. 'he developed a version of slot grammar'
+implication;a logical relation between propositions p and q of the form 'if p then q'. if p is true then q cannot be false
+declarative mood;a mood (grammatically unmarked) that represents the act or state as an objective fact
+synchronisation;the relation that exists when things occur at the same time. 'the drug produces an increased synchrony of the brain waves'
+modality;verb inflections that express how the action or state is conceived by the speaker
+relation to;(usually preceded by 'with') relation of delimitation. 'he inquired with respect to the address'
+ungradable opposition;an opposition that has no intermediate grade. either one or the other
+perfective aspect;the aspect of a verb that expresses a completed completed action
+elevation;distance of something above a reference point
+absolute ceiling;the maximum altitude at which an air plane can maintain horizontal flight
+divergence;degree of spatial separation
+way;the property of distance in general. 'it's a long way to moscow'. (colloquial) 'he went a long ways'
+ceiling;maximum altitude at which a plane can fly (under specified conditions)
+progressive aspect;the aspect of a verb that expresses its on-going action
+gradient;the property possessed by a line or surface that departs from the horizontal
+ways;the property of distance in general. 'it's a long way to moscow'. (colloquial) 'he went a long ways'
+synchronicity;the relation that exists when things occur at the same time. 'the drug produces an increased synchrony of the brain waves'
+closeness;the spatial property resulting from a relatively small distance. 'the sudden closeness of the dock sent him into action'
+reciprocal;(math) one of a pair of numbers whose product is 1: the reciprocal of 2/3 is 3/2. the inverse of 7 is 1/7
+friction;a state of conflict between persons
+scatter;a haphazard distribution in all directions
+hyponymy;the semantic relation of being subordinate or belonging to a lower rank or class
+subordination;the grammatical relation of a modifying word or phrase to its head
+northwest by west;the compass point that is one point west of northwest
+wbn;the compass point that is one point north of due west
+mirror image relation;the relation of opposition between crystals or molecules that are reflections of one another
+linear operator;an operator that obeys the distributive law: a(f+g) = af + ag (where f and g are function)
+room;space for movement. 'room to pass'. 'make way for': 'hardly enough elbow room to turn around'
+agreement;the determination of grammatical inflection on the basis of word relations
+mutuality;a reciprocality of sentiments. 'the mutuality of their affection was obvious'
+reviewing stand;a stand from which a parade or military force can be reviewed
+proportion;harmonious arrangement or relation of parts or elements within a whole (as in a design): 'in all perfectly beautiful objects there is found the opposition of one part to another and a reciprocal balance'- john ruskin
+reciprocality;"a relation of mutual dependence or action or influence"
+due east;the cardinal compass point that is at 90 degrees
+intransitivity;the grammatical relation created by an intransitive verb
+active voice;the voice used to indicate that the subject of the verb is performing the action or causing the happening denoted by the verb
+denseness;the spatial property of being crowded together
+diametrical opposition;the relation of opposition along a diameter
+s;the cardinal compass point that is at 180 degrees
+verticality;position at right angles to the horizon
+remoteness;the property of being remote
+tertium quid;some third thing similar to two opposites but distinct from both
+contrary;two propositions are contraries if both cannot be true but both can be false
+interrelationship;"mutual or reciprocal relation or relatedness: 'interrelationships of animal structure and function'"
+regard to;(usually preceded by 'with') relation of delimitation. 'he inquired with respect to the address'
+wavelength;the distance (measured in the direction of propagation) between two points in the same phase in consecutive cycles of a wave
+coordinating conjunction;the coordination by conjunction of linguistic units of the same status
+nwbw;the compass point that is one point west of northwest
+vertical;something that is oriented vertically
+reflexivity;the coreferential relation between a reflexive pronoun and its antecedent
+identity element;an operator that leaves unchanged the element on which it operates. 'the identity under numerical multiplication is 1'
+parity;(mathematics) a relation between a pair of integers: if both integers are odd or both are even they have the same parity. if one is odd and the other is even they have different parity
+unrelatedness;the lack of any particular manner of connectedness
+east by north;the compass point that is one point north of due east
+diffuseness;the spatial property of being spread out over a wide area or through a large volume
+trim;attitude of an aircraft in flight when allowed to take its own orientation
+leap;the distance leaped (or to be leaped). 'a leap of 10 feet'
+temperature gradient;change in temperature as a function of distance (especially altitude)
+nbe;the compass point that is one point east (clockwise) of due north
+subjunctive;a mood that represent an act or state (not as a fact but) as contingent or possible
+centrality;the property of being central
+density;the spatial property of being crowded together
+parking;space in which a vehicle can be parked. 'there is plenty of parking behind the store'
+portion;something determined in relation to something that includes it. 'he wanted to feel a part of something bigger than himself'. 'i read a portion of the manuscript'. 'the smaller component is hard to reach'
+asynchrony;the relation that exists when things occur at unrelated times. 'the stimulus produced a desynchronizing of the brain waves'
+openness;without obstructions to passage or view: 'the openness of the prairies'
+el;angular distance above the horizon (especially of a celestial object)
+stand;a structure (often made of wood) where people can sit to watch an event (game or parade)
+holonymy;the semantic relation that holds between a whole and its parts
+antipode;direct opposite. 'quiet: an antipode to focused busyness'
+north;the direction in which a compass needle points
+headroom;vertical space available to allow easy passage under something
+alt;angular distance above the horizon (especially of a celestial object)
+grandstand;the part of the seating at a racecourse or stadium consisting of tiers with rows of individual seats that are under a protective roof
+social relation;a relation between living organisms. esp between people
+extraneousness;unrelatedness by virtue of falling outside the matter at hand
+standing room;a place for spectators to stand only
+chronology;arrangement of events in time
+kinship;"a close connection marked by community of interests or similarity in nature or character: 'found a natural affinity with the immigrants'. 'felt a deep kinship with the other students'. 'anthropology's kinship with the humanities'"
+orchestra;main floor in a theater
+southwest by south;the compass point that is one point south of southwest
+synchrony;the relation that exists when things occur at the same time. 'the drug produces an increased synchrony of the brain waves'
+ringside seat;first row of seats. has an unobstructed view of a boxing or wrestling ring
+forerunner;anything that precedes something similar in time. 'phrenology was an antecedent of modern neuroscience'
+asynchronism;the relation that exists when things occur at unrelated times. 'the stimulus produced a desynchronizing of the brain waves'
+mode;a classification of propositions on the basis of whether they claim necessity or possibility or impossibility
+cosecant;ratio of the hypotenuse to the opposite side
+position;"the spatial property of a place where or way in which something is situated. 'the position of the hands on the clock'. 'he specified the spatial relations of every piece of furniture on the stage'"
+interrogative mood;some linguists consider interrogative sentences to constitute a mood
+contiguity;the attribute of being so near as to be touching
+diffusion;the property of being diffused or dispersed
+angular position;relation by which any position with respect to any other position is established
+to windward;the side toward the wind
+difference;a significant change. 'the difference in her is amazing'. 'his support made a real difference'
+polar opposition;an opposition that can be graded between two extremes or poles
+nebe;the compass point that is one point east of northeast
+throw;the distance that something can be thrown. 'it is just a stone's throw from here'
+rake;degree of deviation from a horizontal plane: 'the roof had a steep pitch'
+passive;the voice used to indicate that the subject of the verb is the recipient (not the source) of the action denoted by the verb
+synonymy;the semantic relation that holds between two words that can (in a given context) express the same meaning
+direct contrast;the opposition or dissimilarity of things that are compared. 'in contrast to', 'by contrast'
+grade;the height of the ground on which something stands: 'the base of the tower was below grade'
+mapping;a function such that for every element of one set there is a unique element of another set
+function;"a relation such that one thing is dependent on another. 'height is a function of age'. 'price is a function of supply and demand'"
+passive voice;the voice used to indicate that the subject of the verb is the recipient (not the source) of the action denoted by the verb
+part;something determined in relation to something that includes it. 'he wanted to feel a part of something bigger than himself'. 'i read a portion of the manuscript'. 'the smaller component is hard to reach'
+sea room;space for maneuver at sea
+polarity;a relation between two opposite attributes or tendencies. 'he viewed it as a balanced polarity between good and evil'
+ringside;first row of seats. has an unobstructed view of a boxing or wrestling ring
+northeast by east;the compass point that is one point east of northeast
+transitivity;the grammatical relation created by a transitive verb

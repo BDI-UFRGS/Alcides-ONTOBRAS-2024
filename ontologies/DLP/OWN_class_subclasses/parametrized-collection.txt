@@ -1,0 +1,19 @@
+string of beads;beads threaded on a string
+poker hand;the 5 cards held in a game of poker
+pair;a poker hand with 2 cards of the same value
+full house;a poker hand with 3 of a kind and a pair
+prayer beads;beads used in counting prayers (especially catholic rosary)
+bridge hand;the cards held in a game of bridge
+deal;"the cards held in a card game by a given player at any given time. 'i didn't hold a good hand all evening'. 'he kept trying to see my hand'"
+straight flush;a poker hand with consecutive cards in the same suit
+rosary;beads used in counting prayers (especially catholic rosary)
+job lot;"a miscellaneous collection of things sold together"
+hand;"the cards held in a card game by a given player at any given time. 'i didn't hold a good hand all evening'. 'he kept trying to see my hand'"
+flush;a poker hand with all 5 cards in the same suit
+straight;a poker hand with 5 consecutive cards (regardless of suit)
+royal flush;a poker hand with ace-to-10 in the same suit
+string;"a collection of objects threaded on a single strand"
+beads;beads threaded on a string
+batch;"all the loaves of bread baked at the same time"
+wampum;small cylindrical beads made from polished shells and used by certain native american peoples as jewelry
+edition;"all of the identical copies of something offered to the public at the same time. 'the first edition appeared in 1920' or 'it was too late for the morning edition' or 'they issued a limited edition of bach recordings'"

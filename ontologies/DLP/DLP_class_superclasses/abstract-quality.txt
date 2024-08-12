@@ -1,0 +1,5 @@
+abstract-quality
+particular
+Thing
+spatio-temporal-particular
+quality

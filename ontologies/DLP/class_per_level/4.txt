@@ -1,0 +1,15 @@
+quale
+abstract-quality
+temporal-region
+quality-space
+event
+agent
+physical-region
+temporal-quality
+non-physical-endurant
+information-realization
+arbitrary-sum
+physical-endurant
+physical-quality
+stative
+abstract-region

@@ -1,0 +1,11 @@
+semiotic-role
+particular
+Thing
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+role
+social-object
+concept
+endurant
+spatio-temporal-particular

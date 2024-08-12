@@ -1,0 +1,210 @@
+independent continuant;negative performance gap set;a performance gap set where the mark attributes are about a comparator performance level that is better than the recipient performance level.
+independent continuant;relational information display component;an information content entity that is a proper part of a relational information display and is concretized by a mark.
+independent continuant;relational information display;an information content entity that displays relations between sets in a concretized collection of display components.
+independent continuant;comparative element;a role inhering in a mark that is disjoint with a focal element and that has the same scale type as the focal element.
+independent continuant;mark;a material information bearer that is a basic visual element of a relational information display.
+independent continuant;angle;an attribute of the magnitude of the degree of divergence of two things from one another.
+independent continuant;time set;a represented set where the attributes of the mark are about time.
+independent continuant;position on common scale;a position where the distance between marks is on the same scale.
+independent continuant;recipient element;a focal element that conveys information about identity to the recipient of the performance summary report.
+independent continuant;color lightness;an attribute that is the amount of black content mixed with a pure color, or mixture of pure colors.
+independent continuant;ordinal scale;a scale type with two formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale.
+independent continuant;scale type;a quality that is the abstract measurement property of a concretized display component.
+independent continuant;mark length;the quality of linear magnitude of any thing as measured from end to end
+independent continuant;positive performance gap set;a performance gap set where the mark attributes are about a recipient performance level that is better than a comparator performance level.
+independent continuant;color hue;an attribute by virtue of which some thing appears to have a 'pure' color.
+independent continuant;interval scale;a scale type with three formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale and that (3) the magnitude of an instance represented by a unit on the scale is the same regardless of where on the scale the unit falls.
+independent continuant;ratio scale;a scale type with four formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale, that (3) the magnitude of an instance represented by a unit on the scale is the same regardless of where on the scale the unit falls and (4) an absolute zero value can indicate that nothing at all of the property being represented exists.
+independent continuant;positive performance trend set;a performance trend set where the mark attributes are about improvement.
+independent continuant;negative performance trend set;a performance trend set where the mark attributes are about worsening.
+independent continuant;curvature;an attribute of the degree from which a curve deviates from a straight line.
+independent continuant;loss set;a represented set where the mark attributes are about a change from a positive performance gap to a negative performance gap.
+independent continuant;shape;an attribute of external form or contour.
+independent continuant;performer set;an ascribee set where the mark attributes are about a living system.
+independent continuant;goal comparator element;a comparative element that conveys information about a desired future performance level.
+independent continuant;position on unaligned scale;a position where the distance between marks is not on the same scale.
+independent continuant;performance gap set;a represented set where the mark attributes are about a discrepancy between performance levels.
+independent continuant;standard comparator element;a comparative element that conveys information about a predetermined performance level.
+independent continuant;area;an attribute that is the quantity that expresses the extent of a two-dimensional figure or shape in a plane.
+independent continuant;texture;an attribute of constitution, structure, or substance of anything with regard to its constituents or formative element.
+independent continuant;nominal scale;a scale type with one formal property that (1) the instances can be distinguished from each other.
+independent continuant;color saturation;an attribute that is the amount of white content mixed with a pure color, or mixture of pure colors.
+independent continuant;performance trend set;a represented set where the mark attributes are about a change in performance.
+independent continuant;performance summary display;a relational information display whose display components bear some combination of sets (roles): ascribee set, performance measure set, performance set, or time set.
+independent continuant;mark collection;a object aggregate of marks.
+independent continuant;position;an attribute of relation in which a thing stands with respect to another or others.
+independent continuant;performance measure set;a represented set where the attributes of the mark are about the methods of measuring behavior.
+independent continuant;focal element;a role inhering in a mark that conveys specific information to the recipient of a performance summary report realized through the acts of perception.
+independent continuant;performance set;a represented set where the attributes of the mark are about measurements, decisions, aggregates, or calculations related to measured behavior.
+independent continuant;represented set;a role inhering in the set of attributes of a mark in a relational information display that share a scale type and that convey information about another entity.
+independent continuant;achievement set;a represented set where the mark attributes are about a change from a negative performance gap to a positive performance gap.
+independent continuant;social comparator element;a comparative element that conveys information about an entity that has an attributed performance level.
+independent continuant;ascribee set;a represented set where the mark attributes are about entities that have attributed performance data.
+independent continuant;attribute;an information carrier that can be measured, observed, or logged.
+specifically dependent continuant;performance trend quality;a relational quality of the perceived general movement of a mark, or set of marks that is integrated over a time set.
+specifically dependent continuant;interval scale;a scale type with three formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale and that (3) the magnitude of an instance represented by a unit on the scale is the same regardless of where on the scale the unit falls.
+specifically dependent continuant;curvature;an attribute of the degree from which a curve deviates from a straight line.
+specifically dependent continuant;position;an attribute of relation in which a thing stands with respect to another or others.
+specifically dependent continuant;position on common scale;a position where the distance between marks is on the same scale.
+specifically dependent continuant;negative performance trend set;a performance trend set where the mark attributes are about worsening.
+specifically dependent continuant;position on unaligned scale;a position where the distance between marks is not on the same scale.
+specifically dependent continuant;angle;an attribute of the magnitude of the degree of divergence of two things from one another.
+specifically dependent continuant;represented set;a role inhering in the set of attributes of a mark in a relational information display that share a scale type and that convey information about another entity.
+specifically dependent continuant;time set;a represented set where the attributes of the mark are about time.
+specifically dependent continuant;positive performance gap set;a performance gap set where the mark attributes are about a recipient performance level that is better than a comparator performance level.
+specifically dependent continuant;loss set;a represented set where the mark attributes are about a change from a positive performance gap to a negative performance gap.
+specifically dependent continuant;represented element;a role born by a member of a represented set.
+specifically dependent continuant;ratio scale;a scale type with four formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale, that (3) the magnitude of an instance represented by a unit on the scale is the same regardless of where on the scale the unit falls and (4) an absolute zero value can indicate that nothing at all of the property being represented exists.
+specifically dependent continuant;performance gap set;a represented set where the mark attributes are about a discrepancy between performance levels.
+specifically dependent continuant;nominal scale;a scale type with one formal property that (1) the instances can be distinguished from each other.
+specifically dependent continuant;performer set;an ascribee set where the mark attributes are about a living system.
+specifically dependent continuant;achievement set;a represented set where the mark attributes are about a change from a negative performance gap to a positive performance gap.
+specifically dependent continuant;color saturation;an attribute that is the amount of white content mixed with a pure color, or mixture of pure colors.
+specifically dependent continuant;relational information display component;an information content entity that is a proper part of a relational information display and is concretized by a mark.
+specifically dependent continuant;positive performance trend set;a performance trend set where the mark attributes are about improvement.
+specifically dependent continuant;mark collection;a object aggregate of marks.
+specifically dependent continuant;performance set;a represented set where the attributes of the mark are about measurements, decisions, aggregates, or calculations related to measured behavior.
+specifically dependent continuant;ascribee set;a represented set where the mark attributes are about entities that have attributed performance data.
+specifically dependent continuant;color hue;an attribute by virtue of which some thing appears to have a 'pure' color.
+specifically dependent continuant;texture;an attribute of constitution, structure, or substance of anything with regard to its constituents or formative element.
+specifically dependent continuant;performance summary display;a relational information display whose display components bear some combination of sets (roles): ascribee set, performance measure set, performance set, or time set.
+specifically dependent continuant;performance measure element;a represented element that is born by a member of a performance measure set.
+specifically dependent continuant;performer element;an ascribee element where the mark attributes are about a living system.
+specifically dependent continuant;standard comparator element;a comparative element that conveys information about a predetermined performance level.
+specifically dependent continuant;ascribee element;a represented element that is born by a member of an acribee set.
+specifically dependent continuant;relational information display;an information content entity that displays relations between sets in a concretized collection of display components.
+specifically dependent continuant;performance level element;a represented element that is born by a member of a performance set.
+specifically dependent continuant;color lightness;an attribute that is the amount of black content mixed with a pure color, or mixture of pure colors.
+specifically dependent continuant;goal comparator element;a comparative element that conveys information about a desired future performance level.
+specifically dependent continuant;performance measure set;a represented set where the attributes of the mark are about the methods of measuring behavior.
+specifically dependent continuant;area;an attribute that is the quantity that expresses the extent of a two-dimensional figure or shape in a plane.
+specifically dependent continuant;scale type;a quality that is the abstract measurement property of a concretized display component.
+specifically dependent continuant;negative performance gap set;a performance gap set where the mark attributes are about a comparator performance level that is better than the recipient performance level.
+specifically dependent continuant;focal element;a role inhering in a mark that conveys specific information to the recipient of a performance summary report realized through the acts of perception.
+specifically dependent continuant;comparative element;a role inhering in a mark that is disjoint with a focal element and that has the same scale type as the focal element.
+specifically dependent continuant;attribute;an information carrier that can be measured, observed, or logged.
+specifically dependent continuant;time element;a represented element that is born by a member of a time set.
+specifically dependent continuant;performance trend set;a represented set where the mark attributes are about a change in performance.
+specifically dependent continuant;shape;an attribute of external form or contour.
+specifically dependent continuant;mark;a material information bearer that is a basic visual element of a relational information display.
+specifically dependent continuant;performance gap quality;a relational quality of the perceived distance between marks.
+specifically dependent continuant;recipient element;a focal element that conveys information about identity to the recipient of the performance summary report.
+specifically dependent continuant;social comparator element;a comparative element that conveys information about an entity that has an attributed performance level.
+specifically dependent continuant;mark length;the quality of linear magnitude of any thing as measured from end to end
+specifically dependent continuant;ordinal scale;a scale type with two formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale.
+generically dependent continuant;loss set;a represented set where the mark attributes are about a change from a positive performance gap to a negative performance gap.
+generically dependent continuant;peer 90th percentile benchmark;a 90th percentile benchmark that is about a peer group.
+generically dependent continuant;shape;an attribute of external form or contour.
+generically dependent continuant;color hue;an attribute by virtue of which some thing appears to have a 'pure' color.
+generically dependent continuant;performer set;an ascribee set where the mark attributes are about a living system.
+generically dependent continuant;peer 75th percentile benchmark;a 75th percentile benchmark that is about a peer group.
+generically dependent continuant;negative performance gap set;a performance gap set where the mark attributes are about a comparator performance level that is better than the recipient performance level.
+generically dependent continuant;focal element;a role inhering in a mark that conveys specific information to the recipient of a performance summary report realized through the acts of perception.
+generically dependent continuant;positive performance gap content;a performance gap content entity having a recipient performance level that is better than its comparator performance level
+generically dependent continuant;comparator content;ascribee content that is used to identify a discrepancy with the performance level of the recipient of an intervention.
+generically dependent continuant;social comparator element;a comparative element that conveys information about an entity that has an attributed performance level.
+generically dependent continuant;ratio scale;a scale type with four formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale, that (3) the magnitude of an instance represented by a unit on the scale is the same regardless of where on the scale the unit falls and (4) an absolute zero value can indicate that nothing at all of the property being represented exists.
+generically dependent continuant;loss content;an information content entity that is about a change from a positive performance gap to a negative performance gap
+generically dependent continuant;75th percentile benchmark;a top performer benchmark that is ascribed the performance level of the 75th percentile for a population.
+generically dependent continuant;relational information display component;an information content entity that is a proper part of a relational information display and is concretized by a mark.
+generically dependent continuant;achievement content;an information content entity that is about a change from a negative performance gap to a positive performance gap
+generically dependent continuant;positive performance gap set;a performance gap set where the mark attributes are about a recipient performance level that is better than a comparator performance level.
+generically dependent continuant;standard comparator content;comparator content that has been ascribed a predetermined performance level.
+generically dependent continuant;nominal scale;a scale type with one formal property that (1) the instances can be distinguished from each other.
+generically dependent continuant;color lightness;an attribute that is the amount of black content mixed with a pure color, or mixture of pure colors.
+generically dependent continuant;interval scale;a scale type with three formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale and that (3) the magnitude of an instance represented by a unit on the scale is the same regardless of where on the scale the unit falls.
+generically dependent continuant;recipient content;ascribee content that is about a living system to whom an intervention is directed.
+generically dependent continuant;standard comparator element;a comparative element that conveys information about a predetermined performance level.
+generically dependent continuant;relational information display;an information content entity that displays relations between sets in a concretized collection of display components.
+generically dependent continuant;ordinal scale;a scale type with two formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale.
+generically dependent continuant;performance measure content;an information content entity about a method of measuring performance.
+generically dependent continuant;performance gap content;an information content entity that is about a discrepancy between performance levels.
+generically dependent continuant;90th percentile benchmark;a top performer benchmark that is ascribed the performance level of the 90th percentile for a population.
+generically dependent continuant;negative performance trend set;a performance trend set where the mark attributes are about worsening.
+generically dependent continuant;performance content;an information content entity that is an aggregate of performance level content entities.
+generically dependent continuant;performance measure set;a represented set where the attributes of the mark are about the methods of measuring behavior.
+generically dependent continuant;goal comparator content;comparator content that has been ascribed a desired future performance level.
+generically dependent continuant;performance gap set;a represented set where the mark attributes are about a discrepancy between performance levels.
+generically dependent continuant;performance trend content;an information content entity that is about a change in performance
+generically dependent continuant;position on unaligned scale;a position where the distance between marks is not on the same scale.
+generically dependent continuant;achievement set;a represented set where the mark attributes are about a change from a negative performance gap to a positive performance gap.
+generically dependent continuant;mark;a material information bearer that is a basic visual element of a relational information display.
+generically dependent continuant;social comparator content;comparator content about living systems that are ascribed a performance level.
+generically dependent continuant;average comparator;social comparator content that is about a mean performance level for a population.
+generically dependent continuant;area;an attribute that is the quantity that expresses the extent of a two-dimensional figure or shape in a plane.
+generically dependent continuant;mark length;the quality of linear magnitude of any thing as measured from end to end
+generically dependent continuant;performance summary section;a document part designed for the purpose of providing information about performance levels, measures, ascribees, and time to a recipient of an intervention.
+generically dependent continuant;position on common scale;a position where the distance between marks is on the same scale.
+generically dependent continuant;performance report;a report designed for the purpose of providing performance summary information to a recipient of an intervention.
+generically dependent continuant;performance summary display;a relational information display whose display components bear some combination of sets (roles): ascribee set, performance measure set, performance set, or time set.
+generically dependent continuant;positive performance trend set;a performance trend set where the mark attributes are about improvement.
+generically dependent continuant;attribute;an information carrier that can be measured, observed, or logged.
+generically dependent continuant;ascribee content;an information content entity that is about an entity that is ascribed a performance value.
+generically dependent continuant;mark collection;a object aggregate of marks.
+generically dependent continuant;recipient element;a focal element that conveys information about identity to the recipient of the performance summary report.
+generically dependent continuant;peer average comparator;an average comparator that is about a peer group.
+generically dependent continuant;top performer benchmark;social comparator content that is about a percentile for a performance level that is better than average.
+generically dependent continuant;represented set;a role inhering in the set of attributes of a mark in a relational information display that share a scale type and that convey information about another entity.
+generically dependent continuant;performance level content;an information content entity that is about the output value of a method of measuring performance.
+generically dependent continuant;performance summary textual entity;a textual entity about performance levels, measures, ascribees, and time.
+generically dependent continuant;performance set;a represented set where the attributes of the mark are about measurements, decisions, aggregates, or calculations related to measured behavior.
+generically dependent continuant;curvature;an attribute of the degree from which a curve deviates from a straight line.
+generically dependent continuant;scale type;a quality that is the abstract measurement property of a concretized display component.
+generically dependent continuant;position;an attribute of relation in which a thing stands with respect to another or others.
+generically dependent continuant;negative performance gap content;a performance gap content entity having a comparator performance level that is better than its recipient performance level.
+generically dependent continuant;performance trend set;a represented set where the mark attributes are about a change in performance.
+generically dependent continuant;time set;a represented set where the attributes of the mark are about time.
+generically dependent continuant;ascribee set;a represented set where the mark attributes are about entities that have attributed performance data.
+generically dependent continuant;angle;an attribute of the magnitude of the degree of divergence of two things from one another.
+generically dependent continuant;positive performance trend content;a performance trend that is improving
+generically dependent continuant;color saturation;an attribute that is the amount of white content mixed with a pure color, or mixture of pure colors.
+generically dependent continuant;time interval content;an information content entity that is about a unit of time.
+generically dependent continuant;negative performance trend content;a performance trend that is worsening
+generically dependent continuant;performance summary document;a document that is an aggregate of information content entities about performance levels, performance measures, time intervals, and ascribees.
+generically dependent continuant;goal comparator element;a comparative element that conveys information about a desired future performance level.
+generically dependent continuant;comparative element;a role inhering in a mark that is disjoint with a focal element and that has the same scale type as the focal element.
+generically dependent continuant;performance summary display template;an information content entity that is the collection of specification and metadata associated with a generalized potential information display.
+generically dependent continuant;texture;an attribute of constitution, structure, or substance of anything with regard to its constituents or formative element.
+process;position;an attribute of relation in which a thing stands with respect to another or others.
+process;performance gap set;a represented set where the mark attributes are about a discrepancy between performance levels.
+process;negative performance gap set;a performance gap set where the mark attributes are about a comparator performance level that is better than the recipient performance level.
+process;recipient element;a focal element that conveys information about identity to the recipient of the performance summary report.
+process;curvature;an attribute of the degree from which a curve deviates from a straight line.
+process;goal comparator element;a comparative element that conveys information about a desired future performance level.
+process;position on unaligned scale;a position where the distance between marks is not on the same scale.
+process;color lightness;an attribute that is the amount of black content mixed with a pure color, or mixture of pure colors.
+process;positive performance trend set;a performance trend set where the mark attributes are about improvement.
+process;color saturation;an attribute that is the amount of white content mixed with a pure color, or mixture of pure colors.
+process;mark length;the quality of linear magnitude of any thing as measured from end to end
+process;focal element;a role inhering in a mark that conveys specific information to the recipient of a performance summary report realized through the acts of perception.
+process;performance summary display;a relational information display whose display components bear some combination of sets (roles): ascribee set, performance measure set, performance set, or time set.
+process;area;an attribute that is the quantity that expresses the extent of a two-dimensional figure or shape in a plane.
+process;negative performance trend set;a performance trend set where the mark attributes are about worsening.
+process;ordinal scale;a scale type with two formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale.
+process;positive performance gap set;a performance gap set where the mark attributes are about a recipient performance level that is better than a comparator performance level.
+process;ratio scale;a scale type with four formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale, that (3) the magnitude of an instance represented by a unit on the scale is the same regardless of where on the scale the unit falls and (4) an absolute zero value can indicate that nothing at all of the property being represented exists.
+process;mark;a material information bearer that is a basic visual element of a relational information display.
+process;time set;a represented set where the attributes of the mark are about time.
+process;relational information display component;an information content entity that is a proper part of a relational information display and is concretized by a mark.
+process;represented set;a role inhering in the set of attributes of a mark in a relational information display that share a scale type and that convey information about another entity.
+process;performance trend set;a represented set where the mark attributes are about a change in performance.
+process;scale type;a quality that is the abstract measurement property of a concretized display component.
+process;position on common scale;a position where the distance between marks is on the same scale.
+process;comparative element;a role inhering in a mark that is disjoint with a focal element and that has the same scale type as the focal element.
+process;standard comparator element;a comparative element that conveys information about a predetermined performance level.
+process;ascribee set;a represented set where the mark attributes are about entities that have attributed performance data.
+process;performer set;an ascribee set where the mark attributes are about a living system.
+process;achievement set;a represented set where the mark attributes are about a change from a negative performance gap to a positive performance gap.
+process;shape;an attribute of external form or contour.
+process;social comparator element;a comparative element that conveys information about an entity that has an attributed performance level.
+process;loss set;a represented set where the mark attributes are about a change from a positive performance gap to a negative performance gap.
+process;performance set;a represented set where the attributes of the mark are about measurements, decisions, aggregates, or calculations related to measured behavior.
+process;texture;an attribute of constitution, structure, or substance of anything with regard to its constituents or formative element.
+process;interval scale;a scale type with three formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale and that (3) the magnitude of an instance represented by a unit on the scale is the same regardless of where on the scale the unit falls.
+process;angle;an attribute of the magnitude of the degree of divergence of two things from one another.
+process;mark collection;a object aggregate of marks.
+process;attribute;an information carrier that can be measured, observed, or logged.
+process;color hue;an attribute by virtue of which some thing appears to have a 'pure' color.
+process;nominal scale;a scale type with one formal property that (1) the instances can be distinguished from each other.
+process;relational information display;an information content entity that displays relations between sets in a concretized collection of display components.
+process;performance measure set;a represented set where the attributes of the mark are about the methods of measuring behavior.

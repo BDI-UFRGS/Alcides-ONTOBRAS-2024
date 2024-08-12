@@ -1,0 +1,227 @@
+reproach;disgrace or shame. 'he brought reproach upon his family'
+abasement;a low or downcast state: 'each confesson brought her into an attitude of abasement'- h.l.menchken
+backseat;a secondary or inferior position or status: 'tennis has had to take a backseat while his work is so demanding'
+disrepute;the state of being held in low esteem. 'your actions will bring discredit to your name'. 'because of the scandal the school has fallen into disrepute'
+ninth;position nine in a countable series of things. 'going into the ninth they were a run ahead'returns the ninth element of list, using one-based addressing.
+championship;the status of being a champion. 'he held the title for two years'
+sixth;position six in a countable series of things
+fiftieth;position 50 in a countable series of things
+grade;a relative position or degree of value in a graded group: 'lumber of the highest grade'
+spotlight;a focus of public attention. 'he enjoyed being in the limelight'
+higher rank;higher rank than that of others especially by reason of longer service
+military rating;rank in a military organization
+oblivion;the state of being disregarded or forgotten
+degeneracy;the state of being degenerate in mental or moral qualities
+public eye;a focus of public attention. 'he enjoyed being in the limelight'
+obscurity;an obscure and unimportant standing. not well known. 'he worked in obscurity for many years'
+reputation;the state of being held in high esteem and honor
+fifteenth;position 15 in a countable series of things
+purple;of imperial status. 'he was born to the purple'
+billionth;(in the u.s.) position 1,000,000,000 in a countable series of things
+shame;a state of dishonor. 'one mistake brought shame to all his family'. 'suffered the ignominy of being sent to prison'
+monogamousness;having one wife at a time
+stress;special emphasis attached to something. 'the stress was more on accuracy than on speed'
+obloquy;the state of disgrace resulting from public abuse
+social status;position in a social hierarchy. 'the british are more aware of social status than americans are'
+second fiddle;in a secondary position
+social rank;position in a social hierarchy. 'the british are more aware of social status than americans are'
+second class;not the highest rank in a classification
+dukedom;the dignity or rank or position of a duke
+namelessness;the state of being anonymous
+gradation;relative position in a graded series: 'always a step behind'. 'subtle gradations in color'. 'keep in step with the fashions'
+higher status;higher rank than that of others especially by reason of longer service
+humiliation;state of disgrace or loss of self-respect
+note;high status importance owing to marked superiority. 'a scholar of great eminence'
+nobility;the state of being of noble birth
+spinsterhood;the state of being a spinster (usually an elderly unmarried woman)
+status;"the relative position or standing of things or especially persons in a society: 'he had the status of a minor'. 'the novel attained the status of a classic'. 'atheists do not enjoy a favorable position in american life'"
+monandry;having one husband at a time
+fourteenth;position 14 in a countable series of things
+viscounty;the dignity or rank or position of a viscount or viscountess
+fifth;position five in a countable series of things. 'he was fifth out of several hundred runners'
+marriage;state of being husband and wife. 'a long and happy marriage'. 'god bless this union'
+celibacy;"an unmarried status (as because of religious vows)"
+corruptness;the state of being corrupt
+military rank;rank in a military organization
+noblesse;the state of being of noble birth
+humbleness;the state of being humble and unimportant
+earldom;the dignity or rank or position of an earl or countess
+nineteenth;position 19 in a countable series of things
+rating;rank in a military organization
+citizenship;the status of a citizen with rights and duties
+degradation;a low or downcast state: 'each confesson brought her into an attitude of abasement'- h.l.menchken
+notoriety;the state of being known for some unfavorable act or quality
+dishonour;a state of shame or disgrace. 'he was resigned to a life of dishonor'
+stature;high level of respect gained by impressive development or achievement: 'a man of great stature'
+stock;the reputation and popularity a person has. 'his stock was so high he could have been elected mayor'
+primacy;the state of being first in importance
+disgrace;a state of dishonor. 'one mistake brought shame to all his family'. 'suffered the ignominy of being sent to prison'
+repute;the state of being held in high esteem and honor
+unimportance;the state of being humble and unimportant
+infamy;a state of extreme dishonor: 'a date which will live in infamy'- f.d.roosevelt. 'the name was a by-word of scorn and approbrium throughout the city'
+viscountcy;the dignity or rank or position of a viscount or viscountess
+exogamy;marriage to a person belonging to a tribe or group other than your own as required by custom or law
+mesalliance;a marriage with a person of inferior social status
+second;following the first in an ordering or series: 'he came in a close second'
+seventh;position seven in a countable series of things
+senior status;higher rank than that of others especially by reason of longer service
+sixteenth;position 16 is a countable series of things
+celebrity;the state or quality of being widely honored and acclaimed
+illegitimacy;the status of being born to parents who were not married
+position;"the relative position or standing of things or especially persons in a society: 'he had the status of a minor'. 'the novel attained the status of a classic'. 'atheists do not enjoy a favorable position in american life'"
+intermarriage;marriage to a person belonging to a tribe or group other than your own as required by custom or law
+name;a person's reputation. 'he wanted to protect his good name'
+bastardy;the status of being born to parents who were not married
+rank;relative status. 'his salary was determined by his rank and seniority'
+glorification;a state of high honor. 'he valued glory above life itself'
+accent;special importance or significance. 'the red light gave the central figure increased emphasis'. 'the room was decorated in shades of gray with distinctive red accents'
+footing;status with respect to the relations between people or groups: 'on good terms with her in-laws'. 'on a friendly footing'
+subservience;in a subservient state
+nowhere;an insignificant place. 'he came out of nowhere'
+precedence;status established in order of importance or urgency: '...its precedence as the world's leading manufacturer of pharmaceuticals'. 'national independence takes priority over class struggle'
+handmaiden;in a subordinate position. 'theology should be the handmaiden of ethics'. 'the state cannot be a servant of the church'
+distinction;high status importance owing to marked superiority. 'a scholar of great eminence'
+college level;the level of education that college students are assumed to have attained
+servant;in a subordinate position. 'theology should be the handmaiden of ethics'. 'the state cannot be a servant of the church'
+fourth;following the third position. number four in a countable series
+limelight;a focus of public attention. 'he enjoyed being in the limelight'
+standing;social or financial or professional status or reputation: 'of equal standing'. 'a member in good standing'
+widowhood;the state of being a widow who has not remarried
+prestigiousness;a high standing achieved through success or influence or wealth etc.. 'he wanted to achieve power and prestige'
+seventieth;position 70 in a countable series of things
+marital status;the condition of being married or unmarried
+seniority;higher rank than that of others especially by reason of longer service
+level;a relative position or degree of value in a graded group: 'lumber of the highest grade'
+command;a position of highest authority. 'the corporation has just undergone a change in command'
+dishonor;a state of shame or disgrace. 'he was resigned to a life of dishonor'
+station;proper or designated social situation: 'he overstepped his place'. 'the responsibilities of a man in his station'. 'married above her station'
+nationality;the status of belonging to a particular nation by birth or naturalization
+opprobrium;the state of disgrace resulting from public abuse
+subservientness;in a subservient state
+eightieth;position 80 in a countable series of things
+villainage;the legal status or condition of a villein or feudal serf
+sixtieth;position 60 in a countable series of things
+dignity;high office or rank or station: 'he respected the dignity of the emissaries'
+visibility;the state of being conspicuous
+limbo;the state of being disregarded or forgotten
+equality;a state of essential equality or equivalence: 'on a par with the best'
+face;status in the eyes of others. 'he lost face'
+leadership;the status of a leader. 'they challenged his leadership of the union'
+step;relative position in a graded series: 'always a step behind'. 'subtle gradations in color'. 'keep in step with the fashions'
+legal status;a status defined by law
+tier;a relative position or degree of value in a graded group: 'lumber of the highest grade'
+fame;favorable public reputation
+esteem;the condition of being honored (esteemed or respected or well regarded). 'it is held in esteem'. 'a man who has earned high regard'
+triple crown;(horse racing) a title won by a horse that can win the kentucky derby and the belmont stakes and the preakness
+salience;the state of being salient
+hundredth;position 100 in a countable series of things
+subsidiarity;secondary importance
+wedlock;state of being husband and wife. 'a long and happy marriage'. 'god bless this union'
+triple crown;(baseball) an unofficial title won by a batter who leads the league in hitting average and runs batted in and home runs
+thirteenth;position 13 in a countable series of things
+millionth;position 1,000,000 in a countable series of things
+respect;the condition of being honored (esteemed or respected or well regarded). 'it is held in esteem'. 'a man who has earned high regard'
+renown;the state or quality of being widely honored and acclaimed
+niche;a position particularly well suited to the person who occupies it. 'he found his niche in the academic world'
+subordinateness;secondary importance
+tenth;position ten in a countable series of thingsreturns the tenth element of list, using one-based addressing.
+bigamy;having more than one spouse at a time
+laurels;the state of being honored
+prestige;a high standing achieved through success or influence or wealth etc.. 'he wanted to achieve power and prestige'
+twentieth;position 20 in a countable series of things
+union;state of being husband and wife. 'a long and happy marriage'. 'god bless this union'
+grandness;a prominent status. 'a person of importance'
+majority;the age at which a person is considered competent to manage their own affairs
+paygrade;rank in a military organization
+opprobrium;a state of extreme dishonor: 'a date which will live in infamy'- f.d.roosevelt. 'the name was a by-word of scorn and approbrium throughout the city'
+minority;any age prior to the legal age
+kingship;the dignity or rank or position of a king
+reputation;notoriety for some particular characteristic. 'his reputation for promiscuity'
+preeminence;high status importance owing to marked superiority. 'a scholar of great eminence'
+ill fame;the state of being known for some unfavorable act or quality
+degeneration;the state of being degenerate in mental or moral qualities
+depth;(usually plural) a low moral state. 'he had sunk to the depths of addiction'
+princedom;the dignity or rank or position of a prince
+equivalence;a state of essential equality or equivalence: 'on a par with the best'
+retirement;the state of being retired from one's business or occupation
+precedency;status established in order of importance or urgency: '...its precedence as the world's leading manufacturer of pharmaceuticals'. 'national independence takes priority over class struggle'
+prominence;the state of being prominent: widely known or eminent
+eighteenth;position 18 in a countable series of things
+a level;(england) the advanced level of a subject taken in school (usually two years after o level)
+archidiaconate;office or position of an archdeacon
+abjection;a low or downcast state: 'each confesson brought her into an attitude of abasement'- h.l.menchken
+rank;position in a social hierarchy. 'the british are more aware of social status than americans are'
+polygamy;having more than one wife at a time
+former;the first of two or the first mentioned of two. 'tom and dick were both heroes but only the former is remembered today'
+obscureness;the state of being humble and unimportant
+glory;a state of high honor. 'he valued glory above life itself'
+o level;(england) the basic level of a subject taken in school
+fame;the state or quality of being widely honored and acclaimed
+baronetcy;the rank or dignity or position of a baronet or baroness
+ranking;position on a scale in relation to others in a sport
+twelfth;position 12 in a countable series of things
+high status;of superior status
+monogyny;having one wife at a time
+flag rank;the rank of a flag officer
+handmaid;in a subordinate position. 'theology should be the handmaiden of ethics'. 'the state cannot be a servant of the church'
+saliency;the state of being salient
+bachelorhood;the state of being an unmarried man
+eighth;returns the eighth element of list, using one-based addressing.position eight in a countable series of things
+eminence;high status importance owing to marked superiority. 'a scholar of great eminence'
+infamy;evil fame or public reputation
+fortieth;position 40 in a countable series of things
+stardom;the status of being acknowledged as a star: 'stardom meant nothing to her'
+caste;social status or position conferred by a system based on class: 'lose caste by doing work beneath one's station'
+quality;high social status. 'a man of quality'
+terms;status with respect to the relations between people or groups: 'on good terms with her in-laws'. 'on a friendly footing'
+lower rank;the state of being inferior
+character;good repute. 'he is a man of character'
+inmarriage;marriage within one's own tribe or group as required by custom or law
+inferiority;the state of being inferior
+third;following the second position in an ordering or series: 'a distant third'. 'he answered the first question willingly, the second reluctantly, and the third with resentment'
+par;a state of essential equality or equivalence: 'on a par with the best'
+lower status;the state of being inferior
+ninetieth;position 90 in a countable series of things
+social station;position in a social hierarchy. 'the british are more aware of social status than americans are'
+regard;the condition of being honored (esteemed or respected or well regarded). 'it is held in esteem'. 'a man who has earned high regard'
+priority;status established in order of importance or urgency: '...its precedence as the world's leading manufacturer of pharmaceuticals'. 'national independence takes priority over class struggle'
+villeinage;the legal status or condition of a villein or feudal serf
+thousandth;position 1,000 in a countable series of things
+thirtieth;position 30 in a countable series of things
+low status;of inferior status
+legal age;the age at which a person is considered competent to manage their own affairs
+pedestal;a position of great esteem (and supposed superiority). 'they put him on a pedestal'
+emphasis;special importance or significance. 'the red light gave the central figure increased emphasis'. 'the room was decorated in shades of gray with distinctive red accents'
+title;the status of being a champion. 'he held the title for two years'
+importance;a prominent status. 'a person of importance'
+number one;the first or highest in an ordering or series: 'he wanted to be the first'
+cut;a step on some scale. 'he is a cut above the the rest'
+honour;the state of being honored
+marriage of convenience;a marriage for expediency rather than love
+first;the first or highest in an ordering or series: 'he wanted to be the first'
+conspicuousness;the state of being conspicuous
+honor;the state of being honored
+monogamy;having one wife at a time
+strikingness;the state of being salient
+place;proper or designated social situation: 'he overstepped his place'. 'the responsibilities of a man in his station'. 'married above her station'
+disesteem;the state in which esteem has been lost
+common law marriage;a marriage relationship created by agreement and cohabitation rather than by ceremony
+focus;special emphasis attached to something. 'the stress was more on accuracy than on speed'
+rating;standing or position on a scale
+bar sinister;the status of being born to parents who were not married
+anonymity;the state of being anonymous
+seventeenth;position 17 in a countable series of things
+polygyny;having more than one wife at a time
+eleventh;position 11 in a countable series of things
+polyandry;having more than one husband at a time
+ignominy;a state of dishonor. 'one mistake brought shame to all his family'. 'suffered the ignominy of being sent to prison'
+discredit;the state of being held in low esteem. 'your actions will bring discredit to your name'. 'because of the scandal the school has fallen into disrepute'
+junior status;in a junior position
+misalliance;an unsuitable marriage
+nonage;any age prior to the legal age
+latter;the second of two or the second mentioned of two. 'tom and dick were both heroes but only the latter is remembered today'
+endogamy;marriage within one's own tribe or group as required by custom or law
+matrimony;state of being husband and wife. 'a long and happy marriage'. 'god bless this union'
+barony;the rank or dignity or position of a baronet or baroness
+last;the last or lowest in an ordering or series. 'he was the last to leave'. 'he finished an inglorious last'
+intermarriage;marriage within one's own tribe or group as required by custom or law

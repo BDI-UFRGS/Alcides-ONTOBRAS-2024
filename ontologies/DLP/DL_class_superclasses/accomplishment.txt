@@ -1,0 +1,6 @@
+accomplishment
+event
+particular
+Thing
+perdurant
+spatio-temporal-particular

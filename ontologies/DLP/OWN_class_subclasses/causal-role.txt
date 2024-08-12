@@ -1,0 +1,123 @@
+whitener;an agent that makes things white or colorless
+chemical agent;an agent that produces chemical reactions
+desiccant;a substance (such as calcium oxide) that absorbs water and is used to remove moisture
+active;chemical agent capable of activity
+disinfectant;an agent (as heat or radiation or a chemical) that destroys disease-carrying microorganisms
+oxidizing agent;a substance that oxidizes another substance
+agent;"an active and efficient cause. capable of producing a certain effect. 'their research uncovered new disease agents'"
+etiology;"the cause of a disease"
+remover;a solvent that removes a substance (usually from a surface). 'paint remover' or 'rust remover' but also 'hair remover'
+causal agent;any entity that causes events to happen
+javelle water;an aqueous solution of sodium hypochlorite
+catalyst;"something that causes an important event to happen. 'the invasion acted as a catalyst to unite the country'"
+aetiology;"the cause of a disease"
+dissolving agent;a liquid substance capable of dissolving other substances
+naphtha;any of various volatile flammable liquid hydrocarbon mixtures. used chiefly as solvents
+dissolver;a liquid substance capable of dissolving other substances
+surface active agent;a substance capable of reducing the surface tension of a liquid in which it is dissolved
+carbon tet;a colorless nonflammable liquid used as a solvent for fats and oils. because of its toxicity its use as a cleaning fluid or fire extinguisher has declined
+threat;something that is a source of danger. 'earthquakes are a constant threat in japan'
+teratogen;any agent that interferes with normal embryonic development: alcohol or thalidomide or x-rays or rubella are examples
+brioschi;(trademark) an antacid
+hypertensin;any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels
+hazard;a source of danger. 'drinking alcohol is a health hazard'
+pepto bismal;(trademark) an antacid
+calcium hypochlorite;any hypochlorite of calcium. used as a bleaching agent
+acetone;a highly inflammable liquid ketone widely used as an organic solvent and as material for making plastics
+mycostatin;an antifungal and antibiotic (trade name mycostatin) discovered in ny state. derived from soil fungi actinomycetes
+drying agent;a substance (such as calcium oxide) that absorbs water and is used to remove moisture
+tetrachloromethane;a colorless nonflammable liquid used as a solvent for fats and oils. because of its toxicity its use as a cleaning fluid or fire extinguisher has declined
+thinner;a liquid substance capable of dissolving other substances
+hexane;a colorless flammable liquid alkane derived from petroleum and used as a solvent
+antimycotic agent;any agent that destroys or prevents the growth of fungi
+coumadin;an anticoagulant (trade name coumadin) use to prevent and treat a thrombus or embolus
+cationic detergent;a class of synthetic detergents in which the surface-active part of the molecule is the cation
+surfactant;a substance capable of reducing the surface tension of a liquid in which it is dissolved
+virucide;an agent (physical or chemical) that inactivates or destroys viruses
+powder keg;a potentially explosive state
+thalidomide;a sedative and hypnotic drug. withdrawn from sale after discovered to cause severe birth defects
+antimicrobic;an agent (as heat or radiation or a chemical) that destroys disease-carrying microorganisms
+anticoagulant;an agent that prevents or retards the clotting of blood
+bromo seltzer;(trademark) an antacid
+antimycotic;any agent that destroys or prevents the growth of fungi
+jeopardy;a source of danger. 'drinking alcohol is a health hazard'
+menace;something that is a source of danger. 'earthquakes are a constant threat in japan'
+viricide;an agent (physical or chemical) that inactivates or destroys viruses
+yellow peril;the threat to western civilization said to arise from the power of asiatic peoples
+carbon tetrachloride;a colorless nonflammable liquid used as a solvent for fats and oils. because of its toxicity its use as a cleaning fluid or fire extinguisher has declined
+rolaids;(trademark) an antacid
+alka seltzer;(trademark) a commercial antacid. tablets dissolve in water to give an effervescent solution
+bleach;an agent that makes things white or colorless
+eau de javelle;an aqueous solution of sodium hypochlorite
+vasoconstrictor;any agent that causes a narrowing of an opening of a blood vessel: cold or stress or nicotine or epinephrine or norepinephrine or angiotensin or vasopressin or certain drugs. maintains or increases blood pressure
+engine;"something used to achieve a purpose: 'an engine of change'"
+methylbenzene;a colorless flammable liquid obtained from petroleum or coal tar. used as a solvent for gums and lacquers and in high-octane fuels
+non ionic detergent;a class of synthetic detergents in which the molecules do not ionize in aqueous solutions
+clorox;(trademark) a commercial bleaching agent
+xylene;a colorless flammable volatile liquid hydrocarbon used as a solvent
+cetrimide;a cationic detergent that is a powerful disinfectant
+alkalizer;an agent that counteracts or neutralizes acidity (especially in the stomach)
+tums;(trademark) an antacid
+peril;a source of danger. 'drinking alcohol is a health hazard'
+gastric antacid;an agent that counteracts or neutralizes acidity (especially in the stomach)
+dilutant;a liquid substance capable of dissolving other substances
+reagent;a chemical agent for use in chemical reactions
+causal agency;any entity that causes events to happen
+invert soap;a class of synthetic detergents in which the surface-active part of the molecule is the cation
+reducing agent;a substance capable of bringing about the reduction of another substance as it itself is oxidized
+anionic detergent;a class of synthetic detergents in which the molecules do not ionize in aqueous solutions
+anionic;a class of synthetic detergents in which the molecules do not ionize in aqueous solutions
+vesicatory;a chemical agent that causes blistering
+wetting agent;a substance capable of reducing the surface tension of a liquid in which it is dissolved
+emulsifier;a surface-active agent that promotes the formation of an emulsion
+vesicant;a chemical agent that causes blistering
+chlorine water;an aqueous solution of chlorine used as a bleaching agent
+bleaching powder;a white powder comprised of calcium hydroxide, chloride, and hypochlorite and used to bleach and/or disinfect
+bacteriostat;a chemical or biological material that inhibits bacterial growth
+javel water;an aqueous solution of sodium hypochlorite
+xylol;a colorless flammable volatile liquid hydrocarbon used as a solvent
+dissolvent;a liquid substance capable of dissolving other substances
+oxidant;a substance that oxidizes another substance
+propanone;a highly inflammable liquid ketone widely used as an organic solvent and as material for making plastics
+germicide;an agent (as heat or radiation or a chemical) that destroys disease-carrying microorganisms
+carbolic acid;a toxic white soluble crystalline acidic derivative of benzene. used in manufacturing and as a disinfectant and antiseptic
+perchloromethane;a colorless nonflammable liquid used as a solvent for fats and oils. because of its toxicity its use as a cleaning fluid or fire extinguisher has declined
+antiflatulent;any agent that reduces intestinal gas
+toluene;a colorless flammable liquid obtained from petroleum or coal tar. used as a solvent for gums and lacquers and in high-octane fuels
+active agent;chemical agent capable of activity
+lecithin;a yellow phospholipid found in egg yolk and in many plant and animal cells. used commercially as an emulsifier
+oxidizer;a substance that oxidizes another substance
+antimicrobial;an agent (as heat or radiation or a chemical) that destroys disease-carrying microorganisms
+solvating agent;an agent that converts something into a solvate
+danger;"a cause of pain or injury or loss. 'he feared the dangers of traveling by air'"
+alkahest;hypothetical universal solvent once sought by alchemists
+oxybenzene;a toxic white soluble crystalline acidic derivative of benzene. used in manufacturing and as a disinfectant and antiseptic
+hydroxybenzene;a toxic white soluble crystalline acidic derivative of benzene. used in manufacturing and as a disinfectant and antiseptic
+antifungal;any agent that destroys or prevents the growth of fungi
+antifungal agent;any agent that destroys or prevents the growth of fungi
+angiotonin;any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels
+bleaching agent;an agent that makes things white or colorless
+agent;"a substance that exerts some force or effect"
+chloride of lime;a white powder comprised of calcium hydroxide, chloride, and hypochlorite and used to bleach and/or disinfect
+solvent;a liquid substance capable of dissolving other substances
+phenylic acid;a toxic white soluble crystalline acidic derivative of benzene. used in manufacturing and as a disinfectant and antiseptic
+antacid;an agent that counteracts or neutralizes acidity (especially in the stomach)
+angiotensin;any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels
+resolvent;a liquid substance capable of dissolving other substances
+risk;a source of danger. 'drinking alcohol is a health hazard'
+nystatin;an antifungal and antibiotic (trade name mycostatin) discovered in ny state. derived from soil fungi actinomycetes
+universal solvent;hypothetical universal solvent once sought by alchemists
+warfarin;an anticoagulant (trade name coumadin) use to prevent and treat a thrombus or embolus
+heparin;a polysaccharide produced in basophils (especially in the lung and liver) and that inhibit the activity of thrombin in coagulation of the blood. heparin sodium is used as an anticoagulant in the treatment of thrombosis
+benzoyl peroxide;a white crystalline peroxide used in bleaching (flour or oils or fats) and as a catalyst for free radical reactions
+alcahest;hypothetical universal solvent once sought by alchemists
+maalox;(trademark) an antacid
+mylanta;(trademark) an antacid
+scavenger;a chemical agent that is added to a chemical mixture to counteract the effects of impurities
+phenol;a toxic white soluble crystalline acidic derivative of benzene. used in manufacturing and as a disinfectant and antiseptic
+chlorine dioxide;an explosive gas (clo2) used chiefly in bleaching paper or starch or soap or flour and in water purification
+decoagulant;an agent that prevents or retards the clotting of blood
+sodium hypochlorite;an unstable salt (naocl) used as a bleaching agent and disinfectant
+cause;any entity that causes events to happen
+blanching agent;an agent that makes things white or colorless
+detergent;a surface-active chemical widely used in industry and laundering

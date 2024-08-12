@@ -1,0 +1,194 @@
+succession;a group of people or things arranged or following in order: 'a succession of stalls offering soft drinks'
+antitrust law;legislation intended to promote free competition in the market place by outlawing monopolies
+ordering;logical or comprehensible arrangement of separate elements of a group. 'we shall consider these questions in the inverse order of their presentation'
+wave train;a succession of waves spaced at regular intervals
+actinide series;a series of 15 radioactive elements with increasing atomic numbers from actinium to lawrencium
+statutory law;the body of laws created by legislative statutes
+maritime law;the traditional body of rules and practices relating to commerce and navigation or to business transacted at sea or to general maritime affairs
+patterned advance;a series with a definite pattern of advance
+information;"a collection of facts from which conclusions may be drawn. 'statistical data'"
+cycle;a series of poems or songs on the same theme: 'schubert's song cycles'
+data hierarchy;an arrangement of data consisting of sets and subsets such that every subset of a set is of lower rank than the set
+latin square;a square matrix of n rows and columns. cells contain n different symbols so arranged that no symbol occurs more than once in any row or column
+sequence;arrangement in which things follow in logical order or a recurrent pattern. 'the sequence of names was alphabetical'
+train;a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding: 'a string of islands'. 'train of mourners'. 'a train of thought'
+osha;a law passed by us congress to prevent employees from being injured or contracting diseases in the course of their employment
+law of nations;the body of laws governing relations between nations
+calendar;a tabular array of the days (usually for one year)
+visible spectrum;the distribution of colors produced when light is dispersed by a prism
+series;similar things placed or happening one after another. 'they were investigating a series of bank robberies'
+mosaic law;the laws (beginning with the ten commandments) that god gave to the israelites through moses. it includes many rules of religious observance given in the first five books of the old testament (in judaism these books are called the torah)
+ticket line;a queue of people waiting to buy tickets
+queue;a line of people or vehicles waiting for something
+line of succession;the order in which individuals are expected to succeed one another in some official position
+picket line;a line of people acting as pickets
+scalar matrix;a diagonal matrix in which all of the diagonal elements are equal
+circuit;"(law) one of the twelve groups of states in the u.s. that is covered by a particular circuit court of appeals"
+table;a set of data arranged in rows and columns. 'see table 1'
+chain;a series of things depending on each other as if linked together: 'the chain of command'. 'a complicated concatenation of circumstances'
+linemen;the football players who line up on the line of scrimmage
+combination;"a collection of things that have been combined. an assemblage of separate parts or qualities"
+diagonal matrix;a square matrix with all off-diagonal elements equal to zero
+open order;a military formation leaving enough space between ranks to allow an inspecting officer to pass
+close order;a military formation for drill or marching
+emission spectrum;spectrum of electromagnetic radiation emitted by a self-luminous source
+occupational safety and health act;a law passed by us congress to prevent employees from being injured or contracting diseases in the course of their employment
+program library;"(computing) a collection of standard programs and subroutines that are stored and available for immediate use"
+spectrum;an ordered array of the components of an emission or wave
+real matrix;a matrix whose elements are all real numbers
+fleet;"a group of warships organized as a tactical unit"
+fleet;"group of motor vehicles operating together under the same ownership"
+rash;a series of unexpected unpleasant occurrences. 'a rash of bank robberies'
+phylum;"(linguistics) a large group of languages that are historically related"
+statute law;a law enacted by a legislative body
+ensemble;"an assemblage of parts or details (as in a work of art) considered as forming a whole"
+string;a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding: 'a string of islands'. 'train of mourners'. 'a train of thought'
+reception line;a line of people (hosts and guests of honor) who welcome the guests at a reception party
+center;the middle of a military or naval formation. 'they had to reinforce the center'
+sick parade;the daily military formation at which individuals report to the medical officer as sick
+run;an unbroken series of events: 'a succession of failures'. 'had a streak of bad luck'. 'nicklaus had a run of birdies'
+common law;(civil law) a law established by following earlier judicial decisions
+correlation matrix;a matrix giving the correlations between all pairs of data sets
+color scheme;a planned combination of colors. 'the color scheme for this room was determined by an interior decorator'
+lanthanide series;the rare-earth elements with atomic numbers 57 through 71. having properties similar to lanthanum
+nonsingular matrix;a square matrix whose determinant is not zero
+parade;an extended (often showy) succession of persons or things: 'a parade of strollers on the mall'. 'a parade of witnesses'
+corps de ballet;the chorus of a ballet company
+rank;a row or line of people (especially soldiers or police) standing abreast of one another. 'the entrance was guarded by ranks of policemen'
+amalgam;a combination or blend of diverse things. 'his theory is an amalgam of earlier ideas'
+panoply;a complete and impressive array
+milky way galaxy;the galaxy containing the solar system. consists of millions of stars that can be seen as a diffuse band of light stretching across the night sky
+laws of moses;the laws (beginning with the ten commandments) that god gave to the israelites through moses. it includes many rules of religious observance given in the first five books of the old testament (in judaism these books are called the torah)
+radio frequency spectrum;the entire spectrum of electromagnetic frequencies used for communications. includes frequencies used for radio and radar and television
+statistical table;a table of statistical data
+tableau;a group of people attractively arranged (as if in a painting)
+chorus;a body of dancers or singers who perform together
+breadline;a queue of people waiting for free food
+nexus;a connected series or group
+indian file;a line of persons or things ranged one behind the other
+actinide series;a series from actinium to lawrencium of 15 radioactive elements with increasing atomic numbers
+losing streak;a streak of losses
+precedent;(civil law) a law established by following earlier judicial decisions
+flow;dominant course (suggestive of running water) of successive events or ideas: 'two streams of development run through american history'. 'stream of consciousness'. 'the flow of thought'. 'the current of history'
+row;a linear array of numbers side by side
+bibliotheca;a collection of books
+tabular array;a set of data arranged in rows and columns. 'see table 1'
+matrix;a rectangular array of elements set out by rows and columns
+law;"the collection of rules imposed by authority. 'civilization presupposes respect for the law'"
+stream;dominant course (suggestive of running water) of successive events or ideas: 'two streams of development run through american history'. 'stream of consciousness'. 'the flow of thought'. 'the current of history'
+line;a connected series of events or actions or developments. 'the government took a firm course' or 'historians can only point out those lines for which evidence is available'
+fleet;"group of aircraft operating together under the same ownership"
+singular matrix;a square matrix whose determinant is zero
+hierarchy;a series of ordered groupings of people or things within a system: 'put honesty first in her hierarchy of values'
+international law;the body of laws governing relations between nations
+martial law;the body of law imposed by the military over civilian affairs (usually in time of war or civil crisis). overrides civil law
+waiting line;a line of people or vehicles waiting for something
+geometric progression;(math) a progression in which each term is multiplied by a constant in order to obtain the next term. '1-4-16-64-256- is the start of a geometric progression'
+convoy;"a collection of merchant ships with an escort of warships"
+data;"a collection of facts from which conclusions may be drawn. 'statistical data'"
+line;a formation of people or things one after another. 'the line stretched clear around the corner'
+tout ensemble;"an assemblage of parts or details (as in a work of art) considered as forming a whole"
+rental collection;a collection of books that can be rented by readers in return for a small daily fee
+line;a formation of people or things beside one another. 'the line of soldiers advanced with their bayonets fixed'. 'they were arrayed in line of battle'
+chow line;a queue of people waiting for food to be served (especially at a military camp)
+word order;the order of words in a text
+battery;"a collection of related things intended for use together: 'took a battery of achievement tests'"
+law of the land;a phrase used in the magna carta to refer to the then established law of the kingdom (as distinct from roman or civil law). today it refers to fundamental principles of justice commensurate with due process (the us constitution establishes itself as 'the supreme law of the land')
+secondary;the defensive football players who line up behind the linemen
+conga line;a line of people in single file performing the conga dance
+ultraviolet spectrum;the spectrum of ultraviolet radiation
+formation;an arrangement of people or things acting as a unit
+flotilla;a united states navy fleet consisting of two or more squadrons of small warships
+rear;the back of a military formation or procession. 'infantrymen were in the rear'
+ensemble;the chorus of a ballet company
+extragalactic nebula;"(astronomy) a collection of star systems. any of the billions of systems each having many stars and nebulae and dust. 'extragalactic nebula' is a former name for 'galaxy''"
+lineup;a line of persons arranged by police for inspection or identification
+infrared spectrum;the spectrum of infrared radiation
+column;a linear array of numbers one above another
+wing;the side of military or naval formation. 'they attacked the enemy's right flank'
+flight;a formation of aircraft in flight
+actuarial table;a table of statistical data
+radio spectrum;the entire spectrum of electromagnetic frequencies used for communications. includes frequencies used for radio and radar and television
+correlation table;a two-way tabulation of the relations between correlates. row headings are the scores on one variable and column headings are the scores on the second variables and a cell shows how many times the score on that row was associated with the score in that column
+winning streak;a streak of wins
+federal job safety law;a law passed by us congress to prevent employees from being injured or contracting diseases in the course of their employment
+mercantile law;the body of rules applied to commercial transactions. derived from the practices of traders rather than from jurisprudence
+mortality table;an actuarial table indicating life expectancy and probability of death as a function or age and sex and occupation etc
+enabling legislation;legislation that gives appropriate officials the authority to implement or enforce the law
+course;a connected series of events or actions or developments. 'the government took a firm course' or 'historians can only point out those lines for which evidence is available'
+line of march;the arrangement of people in a line for marching
+admiralty law;the traditional body of rules and practices relating to commerce and navigation or to business transacted at sea or to general maritime affairs
+library;"(computing) a collection of standard programs and subroutines that are stored and available for immediate use"
+identity matrix;a scalar matrix in which all of the diagonal elements are unity
+bank;an arrangement of similar objects in a row or in tiers. 'he operated a bank of switches'
+current;dominant course (suggestive of running water) of successive events or ideas: 'two streams of development run through american history'. 'stream of consciousness'. 'the flow of thought'. 'the current of history'
+civil law;the body of laws established by a state or nation for its own regulation
+bread line;a queue of people waiting for free food
+bacteria order;an order of bacteria
+file;a line of persons or things ranged one behind the other
+square matrix;a matrix with the same number of rows and columns
+progression;a series with a definite pattern of advance
+milky way;the galaxy containing the solar system. consists of millions of stars that can be seen as a diffuse band of light stretching across the night sky
+unit matrix;a scalar matrix in which all of the diagonal elements are unity
+sick call;the daily military formation at which individuals report to the medical officer as sick
+order;logical or comprehensible arrangement of separate elements of a group. 'we shall consider these questions in the inverse order of their presentation'
+law merchant;the body of rules applied to commercial transactions. derived from the practices of traders rather than from jurisprudence
+securities law;the body of laws governing the issuance and selling of securities
+periodic table;a tabular arrangement of the chemical elements according to atomic number as based on the periodic law
+colour scheme;a planned combination of colors. 'the color scheme for this room was determined by an interior decorator'
+helium group;the series of inert gases
+single file;a line of persons or things ranged one behind the other
+military formation;a formation of troops
+concatenation;a series of things depending on each other as if linked together: 'the chain of command'. 'a complicated concatenation of circumstances'
+harmonic progression;(math) a progression of terms whose reciprocals form an arithmetic progression
+legislation;a law enacted by a legislative body
+canon law;the body of codified laws governing the affairs of a christian church
+head;the front of a military formation or procession. 'the head of the column advanced boldly'. 'they were at the head of the attack'
+chorus line;a body of dancers or singers who perform together
+arrangement;"an orderly grouping (of things or persons)"
+contents;a list of divisions (chapters or articles) and the pages on which they start
+ecclesiastical law;the body of codified laws governing the affairs of a christian church
+large magellanic cloud;the larger of the two magellanic galaxies visible from the southern hemisphere
+table of contents;a list of divisions (chapters or articles) and the pages on which they start
+taxonomy;a classification of organisms into groups based on similarities of structure or origin etc
+commercial law;the body of rules applied to commercial transactions. derived from the practices of traders rather than from jurisprudence
+public library;a nonprofit library maintained for public use
+case law;(civil law) a law established by following earlier judicial decisions
+flotilla;a fleet of small craft
+array;an orderly arrangement: 'an array of troops in battle order'
+tableau vivant;a group of people attractively arranged (as if in a painting)
+extended order;a military formation for skirmishing. as widely separated as the tactical situation permits
+armada;a large fleet
+backfield;the offensive football players who line up behind the linemen
+color spectrum;the distribution of colors produced when light is dispersed by a prism
+library;"a collection of literary documents or records kept for reference or borrowing"
+tier;one of a set of rows placed one above or behind the other
+spiral galaxy;a galaxy having a spiral structure. arms containing younger stars spiral out from old stars at the center
+motor pool;a fleet of military vehicles controlled by a single agency and available for use as needed
+electromagnetic spectrum;the entire frequency range of electromagnetic waves
+codon;a specific sequence of three adjacent bases on a strand of dna or rna that provides genetic code information for a particular amino acid
+small magellanic cloud;the smaller of the two magellanic galaxies visible from the southern hemisphere
+gas line;a queue of vehicles waiting to purchase gasoline
+administrative law;the body of rules and regulations and orders and decisions created by administrative agencies of government
+snake dance;a group advancing in a single-file serpentine path
+galaxy;"(astronomy) a collection of star systems. any of the billions of systems each having many stars and nebulae and dust. 'extragalactic nebula' is a former name for 'galaxy''"
+magellanic cloud;either of two galaxies orbiting the milky way. visible near the south celestial pole
+combination;a sequence of numbers or letters that opens a combination lock. 'he forgot the combination to the safe'
+wolf pack;a group of submarines operating together in attacking enemy convoys
+trap line;a line or series of traps
+streak;an unbroken series of events: 'a succession of failures'. 'had a streak of bad luck'. 'nicklaus had a run of birdies'
+serration;a row of notches. 'the pliers had serrations to improve the grip'
+arithmetic progression;(math) a progression in which a constant is added to each term in order to obtain the next term. '1-4-7-10-13- is the start of an arithmetic progression'
+rivet line;a line of rivets at a seam. 'the fuselage cracked along the rivet line'
+milky way system;the galaxy containing the solar system. consists of millions of stars that can be seen as a diffuse band of light stretching across the night sky
+jurisprudence;"the collection of rules imposed by authority. 'civilization presupposes respect for the law'"
+spiral nebula;a galaxy having a spiral structure. arms containing younger stars spiral out from old stars at the center
+unemployment line;a queue of people waiting for employment
+determinant;a square matrix used to solve simultaneous equations
+magic square;a square matrix of n rows and columns. the first n-squared integers are arranged in the cells of the matrix is such a way that the sum of any row or column or diagonal is the same
+flank;the side of military or naval formation. 'they attacked the enemy's right flank'
+column;a line of (usually military) units following one after another
+absorption spectrum;the spectrum of electromagnetic radiation that has passed through a medium that absorbed radiation of certain wavelengths
+raw data;unanalyzed data. data not yet subjected to analysis
+antitrust legislation;legislation intended to promote free competition in the market place by outlawing monopolies
+row;an arrangement of objects or people side by side in a line: 'a row of chairs'

@@ -1,0 +1,41 @@
+line of merchandise;"a particular kind of product. 'a nice line of shoes'"
+sideline;an auxiliary line of merchandise
+line of business;"a particular kind of product. 'a nice line of shoes'"
+piece goods;fabrics sold by the yard
+commodity;"articles of commerce"
+number;an item of merchandise offered for sale. 'she preferred the black nylon number'. 'this sweater is an all-wool number'
+wares;"commodities offered for sale. 'good business depends on having good merchandise'. 'that store offers a variety of products'"
+second;merchandise that has imperfections. usually sold at a reduced price without the brand name
+line of products;"a particular kind of product. 'a nice line of shoes'"
+import;"goods or services bought from a foreign country"
+software product;a computer program that is offered for sale
+load;goods carried by a large vehicle
+cargo;goods carried by a large vehicle
+lading;goods carried by a large vehicle
+schlock;(slang) merchandise that is shoddy or inferior
+payload;goods carried by a large vehicle
+shipment;goods carried by a large vehicle
+business line;"a particular kind of product. 'a nice line of shoes'"
+merchandise;"commodities offered for sale. 'good business depends on having good merchandise'. 'that store offers a variety of products'"
+inventory;the merchandise that a shop has on hand. 'they carried a vast inventory of hardware'
+line;"a particular kind of product. 'a nice line of shoes'"
+export;"goods or services sold to a foreign country""makes symbols (which should be a symbol or list of symbols) accessible as external symbols in package (which defaults to *package*), and returns t."
+feature;an article of merchandise that is displayed or advertised more than other articles
+consignment;goods carried by a large vehicle
+goods;"articles of commerce"
+loading;goods carried by a large vehicle
+irregular;merchandise that has imperfections. usually sold at a reduced price without the brand name
+yard goods;fabrics sold by the yard
+entrant;"a commodity that enters competition with established merchandise. 'a well publicized entrant is the pocket computer'"
+drawing card;a featured article of merchandise sold at a loss in order to draw customers
+software package;a computer program that is offered for sale
+leader;a featured article of merchandise sold at a loss in order to draw customers
+loss leader;a featured article of merchandise sold at a loss in order to draw customers
+product line;"a particular kind of product. 'a nice line of shoes'"
+refill;a commercial product that refills a container with its appropriate contents. 'he got a refill for his ball-point pen' or 'he got a refill for his notebook'
+contraband;goods whose importation or exportation or possession is prohibited by law
+freight;goods carried by a large vehicle
+product;"commodities offered for sale. 'good business depends on having good merchandise'. 'that store offers a variety of products'"
+release;something issued for sale or public showing (especially a record or film). 'a new release from the london symphony orchestra'
+shlock;(slang) merchandise that is shoddy or inferior
+stock;the merchandise that a shop has on hand. 'they carried a vast inventory of hardware'

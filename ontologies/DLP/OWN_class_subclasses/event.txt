@@ -1,0 +1,809 @@
+chug;the dull explosive noise made by an engine
+wrench;a jerky pulling movement
+glint;a momentary flash of light
+spelldown;a contest in which you are eliminated if you fail to spell a word correctly
+creaking;a squeaking sound. 'the creak of the floorboards gave him away'
+thunk;a dull hollow sound. 'the basketball made a thunk as it hit the rim'
+bell;the sound of a bell: 'saved by the bell'
+away game;a game played away from home
+mudslide;a landslide of mud
+inauguration;the ceremonial induction into a position. 'the new president obviously enjoyed his inauguration'
+instroke;the stroke of an engine piston moving away from the crankshaft
+pealing;a deep prolonged sound (as of thunder)
+throw;the maximum movement available to a pivoted or reciprocating piece by a cam
+fertilization;creation by the union of sperm or pollen with an animal or plant or egg cell
+commencement;an academic exercise in which diplomas are conferred
+eager;a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)
+kentucky derby;an annual race for three-year-old horses. held at churchill downs in louisville, kentucky
+relay race;a race between teams. each member runs or swims part of the distance
+squawk;the noise of squawking. 'the squawk of car horns'
+subsiding;a gradual sinking to a lower level
+semi;one of the two competitions in the next to the last round of an elimination tournament
+subluxation;partial displacement of a joint or organ
+chirp;a sharp sound made by small birds or insects
+spurt;the occurrence of a sudden discharge (as of liquid)
+harness race;a horse race between people riding in sulkies behind horses that are trotting or pacing
+match game;an international championship match
+popping;a sharp explosive sound as from a gunshot or drawing a cork
+touch;the event of something coming in contact with the body. 'he longed for the touch of her hand'. 'the cooling touch of the night air'
+swim meet;a swimming competition between two or more teams
+dog racing;a race between dogs. usually an occasion for betting on the outcome
+voice;a sound suggestive of a vocal utterance. 'the noisy voice of the waterfall'. 'the incessant voices of the artillery'
+strike;a gentle blow
+wring;a twisting squeeze: 'gave the wet cloth a wring'
+vibrato;(music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch
+tidal flow;the water current caused by the tides
+emergence;"the gradual beginning or coming forth. 'figurines presage the emergence of sculpture in greece'"
+ricochet;a glancing rebound
+formality;a requirement of etiquette or custom
+hurdles;a footrace in which contestant must negotiate a series of hurdles
+lightning;emission of light due to electricity discharging from cloud to cloud or from cloud to earth
+crash;"a sudden large decline of business or the prices of stocks (especially one that causes additional failures)"
+entombment;the ritual placing of a corpse in a grave
+bell ringing;the sound of someone playing a set of bells
+roll;a complete turn. 'the plane made three rotations before it crashed'
+hissing;a fricative sound uttered as an expression of dislike or contempt. 'the performers could not be heard over the hissing of the audience'
+airflow;the flow of air
+tap;the sound made by a gentle blow
+billow;a large sea wave
+drip;the formation and falling of drops of liquid. 'there's a drip through the roof'
+rustle;the light noise like the noise of silk clothing or leaves blowing in the wind
+home game;a game played at home
+scrunch;a crunching noise
+outpouring;a sudden rapid flow (as of water). 'he heard the flush of a toilet'. 'there was a little gush of blood'. 'she attacked him with an outpouring of words'
+drum;the sound of a drum. 'he could hear the drums before he heard the fifes'
+report;a sharp explosive sound (especially the sound of a gun firing). 'they heard a violent report followed by silence'
+detonation;a violent release of energy caused by a chemical or nuclear reaction
+motion;"a natural event that involves a change in the position or location of something"
+mixture;an event that combines things in a mixture. 'a gradual mixture of cultures'
+heat flash;a flash of intense heat (as released by an atomic explosion)
+nuptials;the social event at which the ceremony of marriage is performed
+gleam;a flash of light (especially reflected light)
+outflow;the unwanted discharge of a fluid from some container. 'they tried to stop the escape of gas from the damaged pipe'. 'he had to clean up the leak'
+cross fertilisation;fertilization by the union of male and female gametes from different individual of the same species
+impinging;"the physical coming together of two or more things. 'contact with the pier scraped paint from the hull'"
+twist;a jerky pulling movement
+self fertilisation;fertilization by the union of male and female gametes from the same individual
+harness racing;a horse race between people riding in sulkies behind horses that are trotting or pacing
+reflux;the outward flow of the tide
+luxation;displacement or misalignment of a joint or organ
+pentathlon;an athletic contest consisting of five different events
+race;a contest of speed. 'the race is to the swift'
+return;the occurrence of a change in direction back in the opposite direction
+stream;a steady flow (usually from natural causes). 'the raft floated downstream on the current'. 'he felt a stream of air'
+rapid climb;a rapid rise
+hurdling;a footrace in which contestant must negotiate a series of hurdles
+revolution;a complete turn. 'the plane made three rotations before it crashed'
+rolling wave;a long heavy sea wave as it advances towards the shore
+repercussion;a movement back from an impact
+cheep;the short weak cry of a young bird
+emission;the occurrence of a flow of water (as from a pipe)
+avalanche;a slide of large masses of snow and ice and mud down a mountain
+bolt of lightning;a discharge of lightning accompanied by thunder
+clank;a loud resonant repeating noise. 'he could hear the clang of distant bells'
+regatta;a meeting for boat races
+pole jump;a competition that involves jumping over a high crossbar with the aid of a long pole
+jets;atmospheric discharges (lasting 10 msec) bursting from the tops of giant storm clouds in blue cones that widen as they flash upward
+wavelet;a small wave on the surface of a liquid
+brush fire;an uncontrolled fire that consumes brush and shrubs and bushes
+bark;the sound made by a dog
+meshing;contact by fitting together. 'the engagement of the clutch'. 'the meshing of gears'
+ticktock;steady recurrent ticking sound as made by a clock
+scratching;a harsh noise made by scraping. 'the scrape of violin bows distracted her'
+selling race;a horse race in which the winning horse must be put up for auction
+kick;the backward jerk of a gun when it is fired
+upthrust;(geology) a rise of land to a higher elevation (as in the process of mountain building)
+world series;the playoff for the baseball championship. 'we watched the wordl series on tv'
+overspill;the occurrence of surplus liquid (as water) exceeding the limit or capacity
+passing;the motion of one object relative to another. 'stellar passings can perturb the orbits of comets'
+upsurge;a sudden forceful flow
+collapse;"a sudden large decline of business or the prices of stocks (especially one that causes additional failures)"
+murmur;a low continuous indistinct sound
+foot race;a race run on foot. 'she broke the record for the half-mile run'
+chatter;the high-pitched continuing noise made by animals (birds or monkeys)
+track meet;a track and field competition between two or more teams
+bath mitzvah;(judaism) an initiation ceremony marking the 12th birthday of a jewish girl and signifying the beginning of religious responsibility
+eagre;a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)
+ground fire;a forest fire that burns the humus. may not appear on the surface
+tournament;a sporting competition in which contestants play a series of games to decide the winner
+displacement;an event in which something is displaced without rotation
+angelus bell;the sound of a bell rung in roman catholic churches to announce the time when the angelus should be recited
+scratch;a harsh noise made by scraping. 'the scrape of violin bows distracted her'
+freshet;the occurrence of a water flow resulting from sudden rain or melting snow
+blend;an occurrence of thorough mixing
+uplifting;the rising of something. 'the coulds' uplifting revealed the blue of a summer sky'
+atmospheric electricity;electrical discharges in the atmosphere
+gush;a sudden rapid flow (as of water). 'he heard the flush of a toilet'. 'there was a little gush of blood'. 'she attacked him with an outpouring of words'
+spreading;process or result of distributing or extending over a wide expanse of space
+turning;a movement in a new direction. 'the turning of the wind'
+sinking;a descent as through liquid (especially through water). 'they still talk about the sinking of the titanic'
+grumbling;a loud low dull continuous noise. 'they heard the rumbling of thunder'
+pollenation;transfer of pollen from the anther to the stigma of a plant
+crackle;the sharp sound of snapping noises
+crow;the cry of a cock (or an imitation of it)
+footstep;the sound of a step of someone walking. 'he heard footsteps on the porch'
+splutter;the noise of something spattering or sputtering explosively. 'he heard a spatter of gunfire'
+gyration;a complete turn. 'the plane made three rotations before it crashed'
+travel;a movement through space that changes the location of something
+buzz;sound of rapid vibration: 'the buzz of a bee'
+sea purse;the seaward undercurrent created after waves have broken on the shore
+grand national;an annual steeplechase run in liverpool, england
+bounce;rebounding from an impact (or series of impacts)
+crunch;the sound of something crunching. 'he heard the crunch of footsteps on the gravel path'
+heaving;an upward movement (especially a rhythmical rising and falling). 'the heaving of waves on a rough sea'
+conglomeration;an occurrence combining miscellaneous things
+practice game;a game whose outcome is not recorded in the season's standing
+torch race;(classical greece) in which a torch is passed from one runner to the next
+winter olympic games;an olympics for winter sports
+splattering;the noise of something spattering or sputtering explosively. 'he heard a spatter of gunfire'
+spray;a jet of vapor
+thumping;a heavy dull sound (as made by impact of heavy objects)
+olympic games;the modern revival of the ancient games held once every 4 years in a selected country
+encroachment;any entry into an area not previously occupied. 'an invasion of tourists'. 'an invasion of locusts'. 'a viral invasion'
+mutter;a low continuous indistinct sound
+opening;a ceremony accompanying the start of some enterprise
+bouncing;rebounding from an impact (or series of impacts)
+pole vault;a competition that involves jumping over a high crossbar with the aid of a long pole
+investiture;the ceremony of installing a new monarch
+simple harmonic motion;periodic motion in which the restoring force is proportional to the displacement
+ocean current;the steady flow of ocean water in a prevailing direction
+tidal current;the water current caused by the tides
+forest fire;an uncontrolled fire in a wooded area
+sparring match;a practice or exhibition boxing match
+jar;a sudden impact. 'the door closed with a jolt'
+rise;a wave that lifts the surface of the water or ground
+liftoff;the initial ascent of a rocket from its launching pad
+thrum;a thrumming sound. 'he could hear the thrum of a banjo'
+ground swell;a broad and deep undulation of the ocean
+formalities;a requirement of etiquette or custom
+snore;the rattling noise produced when snoring
+stroke;the maximum movement available to a pivoted or reciprocating piece by a cam
+turn around;turning in an opposite direction or position. 'the reversal of the image in the lens'
+roll;a deep prolonged sound (as of thunder)
+topspin;forward spin (usually of a moving ball) that is imparted by an upward stroke
+vortex;a powerful circular current of water (usually the resulting of conflicting tides)
+loud noise;a sudden very loud noise
+bore;a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)
+upheaval;(geology) a rise of land to a higher elevation (as in the process of mountain building)
+unification;an occurrence that involves the production of a union
+banging;a continuing very loud noise
+burial;the ritual placing of a corpse in a grave
+set;the descent of a heavenly body below the horizon. 'before the set of sun'
+cluck;the sound made by a hen (as in calling her chicks)
+climb;an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)
+ceremony;a formal event performed on a special occasion. 'a ceremony commemorating pearl harbor'
+commencement exercise;an academic exercise in which diplomas are conferred
+tug of war;a contest in which teams pull of opposite ends of a rope. the team dragged across a central line loses
+discharge;the pouring forth of a fluid
+maelstrom;a powerful circular current of water (usually the resulting of conflicting tides)
+matched game;an international championship match
+bar mitzvah;(judaism) an initiation ceremony marking the 13th birthday of a jewish boy and signifying the beginning of religious responsibility. 'a bar mitzvah is an important social event'
+japan current;a warm ocean current that flows ne off the coast of japan into the n pacific
+mounting;an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)
+brawl;an uproarious party
+sound;"the sudden occurrence of an audible event. 'the sound awakened them'"
+paradiddle;the sound of a drum (especially a snare drum) beaten rapidly and continuously
+rippling;a small wave on the surface of a liquid
+governor s race;a race for election to the governorship
+crime wave;a sudden rise in the crime rate
+caterwaul;the yowling sound made by a cat in heat
+military ceremony;a formal ceremony performed by military personnel
+concoction;an occurrence of an unusual mixture
+memorialisation;a ceremony to honor the memory of someone or something
+whist drive;(british) a progressive whist party
+oozing;the process of seeping
+elves;an acronym for emissions of light and very low frequency perturbations due to electromagnetic pulse sources. extremely bright extremely short (less than a msec) electrical flashes forming a huge ring (up to 400 km diameter) in the ionosphere
+diving;an athletic competition that involves diving into water
+relays;a race between teams. each member runs or swims part of the distance
+lift;the event of something being raised
+smack;a blow from a flat object (as an open hand)
+steeplechase;a footrace of usually 3000 meters over a closed track with hurdles and a water jump
+boom;a deep prolonged loud noise
+blast;a sudden very loud noise
+trickle;the formation and falling of drops of liquid. 'there's a drip through the roof'
+senate race;a race for election to the senate
+blowback;the backward escape of unburned gunpowder after a shot
+impregnation;creation by the union of sperm or pollen with an animal or plant or egg cell
+blowup;a sudden very loud noise
+movement;"a natural event that involves a change in the position or location of something"
+freestyle;a race (as in swimming) in which each contestant has a free choice of the style to use
+tap;a gentle blow
+fall;a free and rapid descent by the force of gravity. 'it was a miracle that he survived the drop from that height'
+run;a race run on foot. 'she broke the record for the half-mile run'
+takeoff;the initial ascent of an airplane as it becomes airborne
+allogamy;cross-fertilization in plants
+rotation;a complete turn. 'the plane made three rotations before it crashed'
+current;a steady flow (usually from natural causes). 'the raft floated downstream on the current'. 'he felt a stream of air'
+rise;a growth in strength or number or importance
+heat lightning;bright flashes of light near the horizon without thunder (especially on hot evenings). usually attributed to distant lightning that is reflected by clouds
+clap;a sudden very loud noise
+campaign;a race between candidates for elective office
+induction;a formal entry into a position or office. 'his initiation into the club'. 'he was ordered to report for induction into the arm'
+thunder;a deep prolonged loud noise
+commemoration;a ceremony to honor the memory of someone or something
+brush;momentary contact
+rat tat;a series of short sharp noises (as made by strokes on a drum or knocks on a door)
+social occasion;a vaguely specified social event. 'the party was quite an affair'
+tick;a metallic tapping sound. 'he counted the ticks of the clock'
+subsidence;a gradual sinking to a lower level
+tsunami;a huge destructive wave (especially one caused by an earthquake)
+athletic contest;a contest between athletes
+thunderclap;a single sharp crash of thunder
+shower;a sudden downpour (as of tears or sparks etc) likened to a rain shower. 'a little shower of rose petals'
+pedesis;the random motion of small particles suspended in a gas or liquid
+bomb blast;the explosion of a bomb
+entering;a movement into or inward
+screech;a high-pitched noise resembling a human cry. 'he ducked at the screechings of shells'. 'he heard the scream of the brakes'
+moo;the sound made by a cow or bull
+explosion;a violent release of energy caused by a chemical or nuclear reaction
+coronation;the ceremony of installing a new monarch
+splash;the sound like water splashing
+crown fire;a forest fire that advances with great speed jumping from crown to crown ahead of the ground fire
+hubbub;loud confused noise from many sources
+grand prix;one of several international races
+union;"the occurrence of a uniting of separate parts. 'lightning produced an unusual union of the metals'"
+clink;a short light metallic sound
+inhumation;the ritual placing of a corpse in a grave
+drum roll;the sound of a drum (especially a snare drum) beaten rapidly and continuously
+squeak;a short high-pitched noise. 'the squeak of of shoes on powdery snow'
+touching;the event of something coming in contact with the body. 'he longed for the touch of her hand'. 'the cooling touch of the night air'
+celebration;an occasion for special festivities to mark some happy event
+ascension;a movement upward. 'they cheered the rise of the hot-air balloon'
+whirl;confused movement. 'he was caught up in a whirl of work'. 'a commotion of people fought for the exits'
+spread;process or result of distributing or extending over a wide expanse of space
+clash;a loud resonant repeating noise. 'he could hear the clang of distant bells'
+action potential;the local voltage change across the cell wall as a nerve impulse is transmitted
+passage;the motion of one object relative to another. 'stellar passings can perturb the orbits of comets'
+headway;forward movement. 'the ship made little headway against the gale'
+ski race;a race between people wearing skis
+sonic boom;an explosive sound caused by the shock wave of an airplane traveling faster than the speed of sound. 'a sonic boom follows an aircraft as a wake follows a ship'
+field event;a competition that takes place on a field rather than on a running track
+ticking;a metallic tapping sound. 'he counted the ticks of the clock'
+invasion;any entry into an area not previously occupied. 'an invasion of tourists'. 'an invasion of locusts'. 'a viral invasion'
+blare;a loud harsh or strident noise
+beat;the sound of stroke or blow. 'he heard the beat of a drum'
+rattling;a rapid series of short loud sounds
+conception;"the event that occured at the beginning of something. 'from its creation the plan was doomed to failure'"
+amphimixis;union of sperm and egg in sexual reproduction
+shrilling;a continuing shrill noise. 'the clash of swords and the shrilling of trumpets'--p. j. searles
+translation;a uniform movement without rotation
+hum;a humming noise. 'the hum of distant traffic'
+ascent;a movement upward. 'they cheered the rise of the hot-air balloon'
+step;the sound of a step of someone walking. 'he heard footsteps on the porch'
+double feature;two instead of one
+screeching;a high-pitched noise resembling a human cry. 'he ducked at the screechings of shells'. 'he heard the scream of the brakes'
+crestless wave;the undulating movement of the surface of the open sea
+miaou;the sound made by a cat (or any sound resembling this)
+dash;a footrace run at top speed. 'he is preparing for the 100-yard dash'
+moving ridge;one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)
+torrent;a violently fast stream of water (or other liquid). 'the houses were swept away in the torrent'
+entrance;a movement into or inward
+whistling;the sound made by something moving rapidly or by steam coming out of a small aperture
+competition;an occasion on which a winner is selected from among two or more contestants
+advance;a movement forward. 'he listened for the progress of the troops'
+el nino;(oceanography) a weak warm ocean current that flows s off the coast of ecuador at christmas time
+harmonic motion;a periodic motion in which the displacement is either symmetrical about a point or is the sum of such motions
+burnup;(british slang) a high-speed motorcycle race on a public road
+inferno;a very intense and uncontrolled fire
+shutout;a game in which one side fails to score
+marathon;a footrace of 26 miles 385 yards
+cocktail party;an afternoon party at which cocktails are served
+initiation;a formal entry into a position or office. 'his initiation into the club'. 'he was ordered to report for induction into the arm'
+tocktact;steady recurrent ticking sound as made by a clock
+downhill;a ski race down a trail
+political campaign;a race between candidates for elective office
+ebb;the outward flow of the tide
+emergence;"the becoming visible. 'not a day's difference between the emergence of the andrenas and the opening of the willow catkins'"
+twin bill;two instead of one
+wildfire;an raging and rapidly spreading conflagration
+muttering;a low continuous indistinct sound
+head;forward movement. 'the ship made little headway against the gale'
+whisper;the light noise like the noise of silk clothing or leaves blowing in the wind
+climbing;an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)
+side;(sports) the spin given to a ball by striking it on one side or releasing it with a sharp twist
+miaow;the sound made by a cat (or any sound resembling this)
+mesh;contact by fitting together. 'the engagement of the clutch'. 'the meshing of gears'
+scratch race;a race in which all contestant start from scratch (on equal terms)
+tourney;a sporting competition in which contestants play a series of games to decide the winner
+run;the pouring forth of a fluid
+obstacle race;a race in which competitors must negotiate obstacles
+contact;"the physical coming together of two or more things. 'contact with the pier scraped paint from the hull'"
+submersion;covering completely with water
+ringing;the sound of a bell ringing. 'the distinctive ring of the church bell'. 'the ringing of the telephone'. 'the tintinnabulation that so volumnously swells from the ringing and the dinging of the bells'--e. a. poe
+hammer;an athletic competition in which a heavy metal ball that is attached to a flexible wire is hurled as far as possible
+event;something that happens at a given place and time
+dribble;the formation and falling of drops of liquid. 'there's a drip through the roof'
+drop;a free and rapid descent by the force of gravity. 'it was a miracle that he survived the drop from that height'
+dedication;a ceremony in which something (as a building) is dedicated to some goal or purpose
+deflexion;the amount by which a propagating wave is bent
+smudge;a smoky fire to drive away insects
+rip current;a strong surface current flowing outwards from a shore
+clickety clack;a fast and rhythmic click-clack. 'the clickety-clack of the typewriters'
+sigh;a sound like a person sighing. 'she heard the sigh of the wind in the trees'
+knock;a vigorous blow. 'the sudden knock floored him'. 'he took a bash right in his face'. 'he got a bang on the head'
+flicker;a momentary flash of light
+whispering;the light noise like the noise of silk clothing or leaves blowing in the wind
+game;a single play of a game. 'the game lasted 2 hours'
+fusion;an occurrence that involves the production of a union
+brouhaha;loud confused noise from many sources
+splat;a single splash. 'he heard a splat as it hit the floor'
+click;a short light metallic sound
+wrestling match;a match between wrestlers
+wake;the wave that spreads behind a boat as it moves forward. 'the motorboat's wake capsized the canoe'
+aegir;a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)
+birthday party;a party held on the anniversary of someone's birth
+whitecap;a wave that is blown by the wind so its crest is broken and appears white
+peep;the short weak cry of a young bird
+pitter patter;a series of rapid tapping sounds. 'she missed the pitter-patter of little feet around the house'
+neigh;the sound made by a horse
+engagement;contact by fitting together. 'the engagement of the clutch'. 'the meshing of gears'
+sack race;a novelty race in which competitors jump ahead with their feet confined in a sack
+scraping;a harsh noise made by scraping. 'the scrape of violin bows distracted her'
+throbbing;a sound with a strong rhythmic beat. 'the throbbing of the engines'
+brownian movement;the random motion of small particles suspended in a gas or liquid
+balefire;a large outdoor fire
+uproar;loud confused noise from many sources
+wedding ceremony;the social event at which the ceremony of marriage is performed
+mew;the sound made by a cat (or any sound resembling this)
+backspin;spin (usually of a moving ball) that retards or reverses the forward motion
+howl;the long plaintive cry of a hound or a wolf
+bleep;a short high tone produced as a signal or warning
+cacophony;a loud harsh or strident noise
+shreiking;a high-pitched noise resembling a human cry. 'he ducked at the screechings of shells'. 'he heard the scream of the brakes'
+belmont stakes;an annual race for three-year-old horses. held on long island at elmont, new york
+whirlpool;a powerful circular current of water (usually the resulting of conflicting tides)
+skirl;the sound of (the chanter of) a bagpipe
+zing;a brief high-pitched buzzing or humming sound: 'the zing of the passing bullet'
+exercise;(usually plural) a ceremony that involves processions and speeches
+knock;the sound of knocking (as on a door or in an engine or bearing)
+din;a loud harsh or strident noise
+backflowing;a flow that returns toward its source
+flick;a light sharp contact (usually with something flexible). 'he gave it a flick with his finger' or 'he felt the flick of a whip'
+red sprites;atmospheric electricity (lasting 10 msec) appearing as globular flashes of red (pink to blood-red) light rising to heights of 60 miles (sometimes seen together with elves)
+streak;a sudden flash (as of lightning)
+exudation;the process of exuding
+horse race;a contest of speed between horses. usually held for the purpose of betting
+raising;the event of something being raised
+el nino southern oscillation;a more intense el nino that occurs every few years when the welling up of cold nutrient-rich water does not occur. kills plankton and fish and affects weather patterns
+bang;a vigorous blow. 'the sudden knock floored him'. 'he took a bash right in his face'. 'he got a bang on the head'
+plop;the noise of a rounded object dropping into a liquid without a splash
+beep;a short high tone produced as a signal or warning
+cock a doodle doo;an imitation of the crow of a cock
+bay;the sound of a hound on the scent
+ceremonial;a formal event performed on a special occasion. 'a ceremony commemorating pearl harbor'
+swash;the movement or sound of water. 'the swash of waves on the beach'
+submerging;covering completely with water
+glimmer;a flash of light (especially reflected light)
+eruption;a sudden very loud noise
+seek;(computer science) the movement of a read/write head to a specific data track on a disk
+whir;sound of something in rapid motion: 'whir of a bird's wings'. 'the whir of the propellers'
+concussion;any violent blow or collision
+forked lightning;a form of lightning that moves rapidly in a zigzag path with one end divided (fork-like)
+falling;a free and rapid descent by the force of gravity. 'it was a miracle that he survived the drop from that height'
+bending;movement that causes the formation of a curve
+flow;the motion characteristic of fluids (liquids or gases)
+doubleheader;two instead of one
+thunder;a booming or crashing noise caused by air expanding along the path of a bolt of lightning
+backlash;a movement back from an impact
+jounce;a sudden impact. 'the door closed with a jolt'
+cliffhanger;a contest whose outcome is uncertain up to the very end
+eddy;a miniature whirlpool or whirlwind resulting when the current of a fluid doubles back on itself
+elimination tournament;a tournament in which losers are eliminated in successive rounds
+fountain;an artificially produced jet of water
+creep;a slow longitudinal movement or deformation
+meet;a meeting at which a number of athletic contests are held
+twang;a sharp vibrating sound (as of a plucked string)
+bend;movement that causes the formation of a curve
+campaign for governor;a race for election to the governorship
+final;the final match between the winners of all previous matches in an elimination tournament
+fire;"the event of something burning (often destructive). 'they lost everything in the fire'"
+overflowing;the occurrence of surplus liquid (as water) exceeding the limit or capacity
+mix;an event that combines things in a mixture. 'a gradual mixture of cultures'
+chattering;the rapid series of noises made by the parts of a machine
+white horse;a wave that is blown by the wind so its crest is broken and appears white
+roar;a deep prolonged loud noise
+bash;an uproarious party
+graduation exercise;an academic exercise in which diplomas are conferred
+rise;a movement upward. 'they cheered the rise of the hot-air balloon'
+volcanic eruption;the sudden occurrence of a violent discharge of steam and volcanic material
+bolt;a discharge of lightning accompanied by thunder
+rub a dub;the sound made by beating a drum
+clangor;a loud resonant repeating noise. 'he could hear the clang of distant bells'
+high jump;a competition that involves jumping as high as possible over a horizontal high bar
+memorialization;a ceremony to honor the memory of someone or something
+roller;a long heavy sea wave as it advances towards the shore
+cup final;the final game of any cup competition. especially the annual final of the f.a.cup soccer competition at wembley
+scream;a high-pitched noise resembling a human cry. 'he ducked at the screechings of shells'. 'he heard the scream of the brakes'
+jolt;a sudden impact. 'the door closed with a jolt'
+yelping;a sharp high-pitched cry (especially by a dog)
+baa;the cry made by sheep
+squeal;a high-pitched howl
+dispersion;driving off or spreading widely
+tictac;steady recurrent ticking sound as made by a clock
+car race;a race between (usually high-performance) automobiles
+sailing race;a race between crews of people in yachts
+immersion;covering completely with water
+commotion;confused movement. 'he was caught up in a whirl of work'. 'a commotion of people fought for the exits'
+angelus;the sound of a bell rung in roman catholic churches to announce the time when the angelus should be recited
+surf;waves breaking on the shore
+diving event;an athletic competition that involves diving into water
+spelling bee;a contest in which you are eliminated if you fail to spell a word correctly
+twist;a miniature whirlpool or whirlwind resulting when the current of a fluid doubles back on itself
+enthronization;the ceremony of installing a new monarch
+deflection;the movement of the pointer or pen of a measuring instrument from its zero position
+dissilience;the emergence of seeds as seed pods burst open when they are ripe
+tidal bore;a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)
+kuroshio;a warm ocean current that flows ne off the coast of japan into the n pacific
+blow;an impact (as from a collision). 'the bump threw him off the bicycle'
+nightcap;the final game of a double header
+superfetation;fertilization of a second ovum after a pregnancy has begun. results in two fetuses of different ages in the uterus at the same time. 'superfetation is normal in some animal species'
+collision;an event in which two or more bodies come together
+rally;an automobile race run over public roads
+nerve impulse;the electrical discharge that travels along a nerve fiber. 'they demonstrated the transmission of impulses from the cortex to the hypothalamus'
+racket;a loud and disturbing noise
+going under;(of a ship) sinking
+tidal wave;a huge destructive wave (especially one caused by an earthquake)
+sparkle;the occurrence of a small flash or spark
+playoff game;one game in the series of games constituting a playoff
+conflagration;a very intense and uncontrolled fire
+brownian motion;the random motion of small particles suspended in a gas or liquid
+crackling;the sharp sound of snapping noises
+rapid growth;a rapid rise
+springtide;a swelling rush of anything. 'he rose on the springtide of prosperity'
+thud;a heavy dull sound (as made by impact of heavy objects)
+roll;a long heavy sea wave as it advances towards the shore
+cross pollination;fertilization by transfer of pollen from the anthers of one flower to the stigma of another
+campfire;a small outdoor fire for warmth or cooking (as at a camp)
+grinding;a harsh and strident sound (as of the grinding of gears)
+funeral;a ceremony at which a dead person is buried or cremated. 'hundreds of people attended his funeral'
+crack;a sudden sharp noise. 'the crack of a whip'. 'he heard the cracking of the ice'
+potato race;a novelty race in which competitors move potatoes from one place to another one at a time
+circulation;free movement or passage especially through a circuit as of water through pipes or sap through a plant
+deflexion;the movement of the pointer or pen of a measuring instrument from its zero position
+approach;the event of one object coming closer to another
+toot;a blast of a horn
+whispering campaign;dissemination by word of mouth of derogatory charges against a candidate for public office
+approaching;the event of one object coming closer to another
+sea puss;the seaward undercurrent created after waves have broken on the shore
+bas mitzvah;(judaism) an initiation ceremony marking the 12th birthday of a jewish girl and signifying the beginning of religious responsibility
+glitter;the occurrence of a small flash or spark
+affair;a vaguely specified social event. 'the party was quite an affair'
+diffusion;the spread of social institutions (and myths and skills) from one society to another
+rustling;the light noise like the noise of silk clothing or leaves blowing in the wind
+boat race;a race between people rowing or driving boats
+rising;a movement upward. 'they cheered the rise of the hot-air balloon'
+slalom;a downhill race over a winding course defined by upright poles
+ripple;a small wave on the surface of a liquid
+stake race;a horse race in which part of the prize is put up by the owners of the horses in the race
+corruscation;the occurrence of a small flash or spark
+self pollination;fertilization by transfer of pollen from the anthers to the stigma of the same flower
+spirt;the occurrence of a sudden discharge (as of liquid)
+prizefight;a boxing match between professional boxers for a cash prize
+egress;"the becoming visible. 'not a day's difference between the emergence of the andrenas and the opening of the willow catkins'"
+roar;the sound made by a lion
+wedding;the social event at which the ceremony of marriage is performed
+match;a contest in which two or more persons or teams compete
+issue;"the becoming visible. 'not a day's difference between the emergence of the andrenas and the opening of the willow catkins'"
+meow;the sound made by a cat (or any sound resembling this)
+drumbeat;the sound made by beating a drum
+recoil;a movement back from an impact
+bray;the cry of an ass
+slap;a blow from a flat object (as an open hand)
+race meeting;(british) a regular occasion on which a number of horse races are held on the same track. 'the epsom race meeting was an important social event'
+lahar;an avalanche volcanic water and mud down the slopes of a volcano
+spark;a momentary flash of light
+thunderbolt;a discharge of lightning accompanied by thunder
+sputter;the noise of something spattering or sputtering explosively. 'he heard a spatter of gunfire'
+onrush;a forceful forward rush. 'it was forgotten in the onrush of events'
+house party;a party lasting over one or more nights at a large house
+series;the playoff for the baseball championship. 'we watched the wordl series on tv'
+hurdle race;a footrace in which contestant must negotiate a series of hurdles
+breaker;waves breaking on the shore
+growl;the sound of growling (as made by animals)
+lift;a wave that lifts the surface of the water or ground
+humming;a humming noise. 'the hum of distant traffic'
+sepulture;the ritual placing of a corpse in a grave
+hit;an event in which two or more bodies come together
+footfall;the sound of a step of someone walking. 'he heard footsteps on the porch'
+strum;sound of strumming: 'the strum of a guitar'
+charybdis;(greek mythology) a ship-devouring whirlpool lying on the other side of a narrow strait from scylla
+gobble;the characteristic sound made by a turkey cock
+sports meeting;a meeting at which a number of athletic contests are held
+clunk;a heavy dull sound (as made by impact of heavy objects)
+seepage;the process of seeping
+transudation;the process of exuding
+chain lightning;a form of lightning that moves rapidly in a zigzag path with one end divided (fork-like)
+mile;a footrace extending one mile. 'he holds the record in the mile'
+cross fertilization;fertilization by the union of male and female gametes from different individual of the same species
+cackle;the sound made by a hen after laying an egg
+chirrup;a series of chirps
+self fertilization;fertilization by the union of male and female gametes from the same individual
+progress;a movement forward. 'he listened for the progress of the troops'
+dissipation;breaking up and scattering by dispersion. 'the dissipation of the mist'
+riptide;a strong surface current flowing outwards from a shore
+purr;a low vibrating sound typical of a contented cat
+peal;a deep prolonged sound (as of thunder)
+winter olympics;an olympics for winter sports
+clamor;a loud harsh or strident noise
+clangoring;a loud resonant repeating noise. 'he could hear the clang of distant bells'
+shot put;an athletic competition in which a heavy metal ball is hurled as far as possible
+stroke;a light touch
+settling;a gradual sinking to a lower level
+dip;a brief immersion
+escape;the unwanted discharge of a fluid from some container. 'they tried to stop the escape of gas from the damaged pipe'. 'he had to clean up the leak'
+murmuration;a low continuous indistinct sound
+pole jumping;a competition that involves jumping over a high crossbar with the aid of a long pole
+backfire;a loud noise made by the explosion of fuel in the manifold or exhaust of an internal combustion engine
+swish;a brushing or rustling sound
+knocking;the sound of knocking (as on a door or in an engine or bearing)
+spike;a transient variation in voltage or current
+roll;the sound of a drum (especially a snare drum) beaten rapidly and continuously
+tinkle;a light clear metallic sound as of a small bell
+turn;a movement in a new direction. 'the turning of the wind'
+fluxion;a flow or discharge
+cry;the characteristic utterance of an animal. 'animal cries filled the night'
+pounding;repeated heavy blows
+plunge;a steep drop
+flash;"a sudden intense burst of radiant energy"
+deflection;the amount by which a propagating wave is bent
+swerve;an erratic deflection from an intended course
+whirr;sound of something in rapid motion: 'whir of a bird's wings'. 'the whir of the propellers'
+boxing match;a match between boxers. usually held in a boxing ring
+landslide;a slide of a large mass of dirt and rock down a mountain or cliff
+rebound;a movement back from an impact
+light touch;momentary contact
+tea party;a party at which tea is served
+smash;a vigorous blow. 'the sudden knock floored him'. 'he took a bash right in his face'. 'he got a bang on the head'
+howl;a loud sustained noise resembling the cry of a hound. 'the howl of the wind made him restless'
+chink;a short light metallic sound
+yaw;an erratic deflection from an intended course
+tournament;a series of jousts between knights contesting for a prize
+submergence;covering completely with water
+contest;an occasion on which a winner is selected from among two or more contestants
+flush;a sudden rapid flow (as of water). 'he heard the flush of a toilet'. 'there was a little gush of blood'. 'she attacked him with an outpouring of words'
+caw;the sound made by corvine birds
+jangle;a loud resonant repeating noise. 'he could hear the clang of distant bells'
+swimming meet;a swimming competition between two or more teams
+trampling;the sound of trampling
+blaring;a loud harsh or strident noise
+semifinal;one of the two competitions in the next to the last round of an elimination tournament
+cross country;a long race run over open country
+surface fire;a forest fire that burns only the surface litter and undergrowth
+sputtering;the noise of something spattering or sputtering explosively. 'he heard a spatter of gunfire'
+merger;an occurrence that involves the production of a union
+gymkhana;a meet at which riders and horses display a range of skills and aptitudes
+inaugural;the ceremonial induction into a position. 'the new president obviously enjoyed his inauguration'
+ooze;the process of seeping
+noise;sound of any kind (especially unintelligible or dissonant sound). 'he enjoyed the street noises'. 'they heard indistinct noises of people talking'
+murmuring;a low continuous indistinct sound
+bicycle race;a race between people riding bicycles
+yacht race;a race between crews of people in yachts
+rumble;a loud low dull continuous noise. 'they heard the rumbling of thunder'
+commencement ceremony;an academic exercise in which diplomas are conferred
+bang;a sudden very loud noise
+rattle;a rapid series of short loud sounds
+olympiad;the modern revival of the ancient games held once every 4 years in a selected country
+rockslide;a landslide of rocks
+atomic explosion;the explosion of an atomic bomb
+bark;a noise resembling the bark of a dog
+bonfire;a large outdoor fire
+whistle;the sound made by something moving rapidly or by steam coming out of a small aperture
+scrape;a harsh noise made by scraping. 'the scrape of violin bows distracted her'
+fertilisation;creation by the union of sperm or pollen with an animal or plant or egg cell
+rededication;a new dedication. 'the rededication of the temple of jerusalem'
+gargle;the sound produced while gargling
+chariot race;a race between ancient chariots
+preliminary;a minor match preceding the main event
+rhonchus;the rattling noise produced when snoring
+fire walking;the ceremony of walking barefoot over hot stones or a bed of embers
+field trial;a contest between gun dogs to determine their proficiency in pointing and retrieving
+squirt;the occurrence of a sudden discharge (as of liquid)
+ceremonial occasion;a formal event performed on a special occasion. 'a ceremony commemorating pearl harbor'
+pageant;a rich and spectacular ceremony
+clatter;a rattling noise (often produced by rapid movement). 'the shutters clattered against the house'. 'the clatter of iron wheels on cobblestones'
+cam stroke;the maximum movement available to a pivoted or reciprocating piece by a cam
+breakers;waves breaking on the shore
+decathlon;an athletic contest consisting of ten different events
+eruption;the sudden occurrence of a violent discharge of steam and volcanic material
+bow wow;the bark of a dog
+rat a tat tat;a series of short sharp noises (as made by strokes on a drum or knocks on a door)
+amplitude;(physics) the maximum displacement of a periodic wave
+intrusion;any entry into an area not previously occupied. 'an invasion of tourists'. 'an invasion of locusts'. 'a viral invasion'
+tootle;sound of tooting softly and repeatedly as on a flute
+nuclear explosion;the explosion of an atomic bomb
+jet;the occurrence of a sudden discharge (as of liquid)
+clickety click;a fast and rhythmic click-clack. 'the clickety-clack of the typewriters'
+cockfight;a match in a cockpit between two fighting cocks heeled with metal gaffs
+tweet;a week chirping sound as of a small bird
+english;(sports) the spin given to a ball by striking it on one side or releasing it with a sharp twist
+prelim;a minor match preceding the main event
+progression;a movement forward. 'he listened for the progress of the troops'
+backflow;a flow that returns toward its source
+flowing;the motion characteristic of fluids (liquids or gases)
+spin;a swift whirling motion (usually of a missile)
+chorus;any utterance produced simultaneously by a group. 'a chorus of boos'
+riffle;a small wave on the surface of a liquid
+tremolo;vocal vibrato especially an excessive or poorly controlled one
+installation;a formal entry into a position or office. 'his initiation into the club'. 'he was ordered to report for induction into the arm'
+stridulation;a shrill grating or chirping noise made by some insects by rubbing body parts together
+reversal;turning in an opposite direction or position. 'the reversal of the image in the lens'
+undercurrent;a current below the surface of a fluid
+open;a tournament in which both professionals and amateurs may playopens a stream to the file specified by filename, which may be a string, a pathname, a logical pathname, or a stream.
+spate;a sudden forceful flow
+backblast;backfire from a recoilless weapon
+clump;a heavy dull sound (as made by impact of heavy objects)
+special olympics;an athletic contest modeled after the olympic games but intended for mentally or physically handicapped persons
+wave;one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)
+javelin;an athletic competition in which a javelin is thrown as far as possible
+diaspora;the dispersion of the jews from palestine after the babylonian exile (358 bc)
+spate;the occurrence of a water flow resulting from sudden rain or melting snow
+grunt;the short low gruff noise of the kind made by pigs
+observance;a formal event performed on a special occasion. 'a ceremony commemorating pearl harbor'
+outstroke;the stroke of an engine piston moving toward the crankshaft
+runoff;the occurrence of surplus liquid (as water) exceeding the limit or capacity
+creation;"the event that occured at the beginning of something. 'from its creation the plan was doomed to failure'"
+automobile race;a race between (usually high-performance) automobiles
+whirring;sound of something in rapid motion: 'whir of a bird's wings'. 'the whir of the propellers'
+roaring;a deep prolonged loud noise
+claiming race;a horse race in which each owner declares before the race at what price his horse will be offered for sale fater the race
+pop;a sharp explosive sound as from a gunshot or drawing a cork
+social event;"an event characteristic of persons forming groups"
+overflow;the occurrence of surplus liquid (as water) exceeding the limit or capacity
+spatter;the noise of something spattering or sputtering explosively. 'he heard a spatter of gunfire'
+quaver;a tremulous sound
+graduation;an academic exercise in which diplomas are conferred
+arms race;a competition between nations to have the most powerful armaments
+shift;an event in which something is displaced without rotation
+wobble;a rocking motion
+superfecundation;fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males)
+cup tie;an eliminating game between teams in a cup competition
+swimming event;an athletic competition that involves swimming
+lightning;the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash). can scintillate for a second or more
+plunk;a hollow twanging sound
+pageantry;a rich and spectacular ceremony
+striking;"the physical coming together of two or more things. 'contact with the pier scraped paint from the hull'"
+whinny;the sound made by a horse
+thump;a heavy dull sound (as made by impact of heavy objects)
+consolidation;combining into a solid mass
+track event;a footrace performed on a track (indoor or outdoor)
+jet;an artificially produced jet of water
+eruption;the emergence of a tooth as it breaks through the gum
+yelp;a sharp high-pitched cry (especially by a dog)
+quack;the harsh sound of a duck
+impulse;the electrical discharge that travels along a nerve fiber. 'they demonstrated the transmission of impulses from the cortex to the hypothalamus'
+combining;an occurrence that results in things being combined
+shriek;a high-pitched noise resembling a human cry. 'he ducked at the screechings of shells'. 'he heard the scream of the brakes'
+click clack;a succession of clicks
+rap;a gentle blow
+elevation;the event of something being raised
+backwash;the wave that spreads behind a boat as it moves forward. 'the motorboat's wake capsized the canoe'
+leakage;the unwanted discharge of a fluid from some container. 'they tried to stop the escape of gas from the damaged pipe'. 'he had to clean up the leak'
+thing;"an event: 'a funny thing happened on the way to the...'"
+bleat;the sound of sheep or goats (or any sound resembling this)
+creak;a squeaking sound. 'the creak of the floorboards gave him away'
+footrace;a race run on foot. 'she broke the record for the half-mile run'
+fecundation;creation by the union of sperm or pollen with an animal or plant or egg cell
+grassfire;an uncontrolled fire in a grassy area
+chattering;the high-pitched continuing noise made by animals (birds or monkeys)
+road game;a game played away from home
+clangour;a loud resonant repeating noise. 'he could hear the clang of distant bells'
+volution;a rolling or revolving motion
+interlocking;contact by fitting together. 'the engagement of the clutch'. 'the meshing of gears'
+ding dong;the noise made by a bell
+scattering;driving off or spreading widely
+tapping;the sound of light blow or knock. 'he heard the tapping of the man's cane'
+bash;a vigorous blow. 'the sudden knock floored him'. 'he took a bash right in his face'. 'he got a bang on the head'
+quarterfinal;one of the four competitions in an elimination tournament whose winners go on to play in the semifinals
+crash;a loud resonant repeating noise. 'he could hear the clang of distant bells'
+combine;an occurrence that results in things being combined
+decrepitation;the crackling or breaking up of certain crystals when they are heated
+discharge;"the sudden giving off of energy"
+growth;"the gradual beginning or coming forth. 'figurines presage the emergence of sculpture in greece'"
+sheet lighting;lightning that appears as a broad sheet. due to reflections of more distant lightning and to diffusion by the clouds
+enthronement;the ceremony of installing a new monarch
+steeplechase;a horse race over an obstructed course
+outgrowth;"the gradual beginning or coming forth. 'figurines presage the emergence of sculpture in greece'"
+wave;something that rises rapidly and dies away. 'a wave of emotion swept over him'. 'there was a sudden wave of buying before the market closed'
+test match;an international championship match
+carom;a glancing rebound
+gulf stream;a warm ocean current that flows from the gulf of mexico northward through the atlantic ocean
+rale;the crackling sound heard on auscultation when patients with respiratory diseases inhale
+combination;an occurrence that results in things being combined
+plash;the sound like water splashing
+rumbling;a loud low dull continuous noise. 'they heard the rumbling of thunder'
+coming back;the occurrence of a change in direction back in the opposite direction
+slide;(geology) the descent of a large mass of earth or rocks or snow etc.
+fall;a movement downward. 'the rise and fall of the tides'
+twitter;a series of chirps
+party;an occasion on which people can assemble for social interaction and entertainment. 'he planned a party to celebrate bastille day'
+pollination;transfer of pollen from the anther to the stigma of a plant
+pant;the noise made by a short puff of steam (as from an engine)
+hammer throw;an athletic competition in which a heavy metal ball that is attached to a flexible wire is hurled as far as possible
+broad jump;a competition that involves jumping as far as possible from a running start
+discus;an athletic competition in which a disc-shaped object is thrown as far as possible
+leak;the unwanted discharge of a fluid from some container. 'they tried to stop the escape of gas from the damaged pipe'. 'he had to clean up the leak'
+surge;a large sea wave
+playoff;any final competition to determine a championship
+smoulder;a smouldering fire. 'the smoulder became a blaze'
+trample;the sound of trampling
+refraction;the amount by which a propagating wave is bent
+impact;the striking of one body against another
+flux;a flow or discharge
+round robin;a tournament in which every contestant plays every other contestant
+uplift;(geology) a rise of land to a higher elevation (as in the process of mountain building)
+undertide;a current below the surface of a fluid
+olympics;the modern revival of the ancient games held once every 4 years in a selected country
+pole vaulting;a competition that involves jumping over a high crossbar with the aid of a long pole
+spattering;the noise of something spattering or sputtering explosively. 'he heard a spatter of gunfire'
+flood;the inward flow of the tide. 'a tide in the affairs of men which, taken at the flood, leads on to fortune' -shakespeare
+knell;the sound of a bell rung slowly to announce a death or a funeral or the end of something
+do;an uproarious party
+belt;a vigorous blow. 'the sudden knock floored him'. 'he took a bash right in his face'. 'he got a bang on the head'
+ring;the sound of a bell ringing. 'the distinctive ring of the church bell'. 'the ringing of the telephone'. 'the tintinnabulation that so volumnously swells from the ringing and the dinging of the bells'--e. a. poe
+clang;a loud resonant repeating noise. 'he could hear the clang of distant bells'
+trial;(sports) a preliminary competition to determine qualifications. 'the trials for the semifinals began yesterday'
+crepitation rale;the crackling sound heard on auscultation when patients with respiratory diseases inhale
+ping;a sharp high-pitched metallic sound
+change of location;a movement through space that changes the location of something
+violent stream;a violently fast stream of water (or other liquid). 'the houses were swept away in the torrent'
+chatter;the rapid series of noises made by the parts of a machine
+screaming;a high-pitched noise resembling a human cry. 'he ducked at the screechings of shells'. 'he heard the scream of the brakes'
+plonk;the noise of something dropping (as into liquid)
+plump;the sound of a sudden heavy fall
+senate campaign;a race for election to the senate
+undertow;the seaward undercurrent created after waves have broken on the shore
+ting;a light clear metallic sound as of a small bell
+zoom;a rapid rise
+outpouring;the pouring forth of a fluid
+crepitation;the sharp sound of snapping noises
+heavy swell;a broad and deep undulation of the ocean
+bump;an impact (as from a collision). 'the bump threw him off the bicycle'
+squeeze;a twisting squeeze: 'gave the wet cloth a wring'
+shock;any violent blow or collision
+electrical discharge;a discharge of electricity
+honk;the cry of a goose (or any sound resembling this)
+landslip;a slide of a large mass of dirt and rock down a mountain or cliff
+seapoose;the seaward undercurrent created after waves have broken on the shore
+tintinnabulation;the sound of a bell ringing. 'the distinctive ring of the church bell'. 'the ringing of the telephone'. 'the tintinnabulation that so volumnously swells from the ringing and the dinging of the bells'--e. a. poe
+pat;the sound made by a gentle blow
+race;any competition. 'the race for the presidency'
+cracking;a sudden sharp noise. 'the crack of a whip'. 'he heard the cracking of the ice'
+long jump;a competition that involves jumping as far as possible from a running start
+shock wave;a region of high pressure travelling through a gas at a high velocity
+grumble;a loud low dull continuous noise. 'they heard the rumbling of thunder'
+feast;something experienced with great delight. 'a feast for the eyes'
+sprites;atmospheric electricity (lasting 10 msec) appearing as globular flashes of red (pink to blood-red) light rising to heights of 60 miles (sometimes seen together with elves)
+stampede;a wild headlong rush of frightened animals (horses or cattle)
+bat mitzvah;(judaism) an initiation ceremony marking the 12th birthday of a jewish girl and signifying the beginning of religious responsibility
+spelling contest;a contest in which you are eliminated if you fail to spell a word correctly
+athletics;a contest between athletes
+foundering;(of a ship) sinking
+gurgle;the bubbling sound of water flowing from a bottle with a narrow neck
+preakness;an annual race for three-year-old horses. held at pimlico in baltimore, maryland
+heave;(geology) a horizontal dislocation
+buffeting;repeated heavy blows
+rush;a sudden forceful flow
+chicken;a foolhardy competition. a dangerous activity that is continued until one competitor becomes afraid and stops
+song;a distinctive or characteristic sound. 'the song of bullets was in the air'. 'the song of the wind'. 'the wheels sang their song as the train rocketed ahead'
+heave;an upward movement (especially a rhythmical rising and falling). 'the heaving of waves on a rough sea'
+coo;the sound made by a pigeon
+skiing race;a race between people wearing skis
+splatter;the noise of something spattering or sputtering explosively. 'he heard a spatter of gunfire'
+gleaming;a flash of light (especially reflected light)
+swell;the undulating movement of the surface of the open sea
+rap;the sound made by a gentle blow
+interment;the ritual placing of a corpse in a grave
+hiss;a fricative sound uttered as an expression of dislike or contempt. 'the performers could not be heard over the hissing of the audience'
+rolling;a deep prolonged sound (as of thunder)
+upthrow;(geology) a rise of land to a higher elevation (as in the process of mountain building)
+blue jets;atmospheric discharges (lasting 10 msec) bursting from the tops of giant storm clouds in blue cones that widen as they flash upward
+occasion;a vaguely specified social event. 'the party was quite an affair'
+autogamy;sellf-fertilization in plants
+wallow;an indolent or clumsy rolling about: 'a good wallow in the water'
+growling;the sound of growling (as made by animals)
+water hammer;the banging sound of steam in pipes
+surge;a sudden forceful flow
+exhibition game;a game whose outcome is not recorded in the season's standing
+descent;a movement downward
+blast;an explosion (as of dynamite)
+recoil;the backward jerk of a gun when it is fired

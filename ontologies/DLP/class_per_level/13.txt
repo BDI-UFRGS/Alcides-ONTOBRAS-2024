@@ -1,0 +1,14 @@
+system-implementation-workflow
+genetic-collective
+design-specification-workflow
+temporally-bound-task
+functionality-specification-workflow
+ending-task
+goal-qua-main
+loop-task
+branching-task
+activation-task
+merging-task
+deliberation-task
+plan-assessment-task
+taxonomic-collective

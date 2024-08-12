@@ -1,0 +1,5 @@
+rational-agent
+particular
+Thing
+endurant
+spatio-temporal-particular

@@ -1,0 +1,1629 @@
+huffiness;a passing state of anger and resentment
+melancholy;a feeling of thoughtful sadness
+calmness;a feeling of calm. an absence of agitation or excitement
+search;the examination of alternative hypotheses. 'his search for a move that would avoid checkmate was unsuccessful'
+weltschmerz;sadness on thinking about the evils of the world
+observance;the act of noticing or paying attention. 'he escaped the notice of the police'
+inferiority complex;a sense of personal inferiority arising from conflict between the desire to be noticed and the fear of being humiliated
+olfactory perception;the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form. 'she loved the smell of roses'
+vindictiveness;a malevolent desire for revenge
+absolute threshold;the lowest level of stimulation that a person can detect
+differential coefficient;the result of mathematical differentiation. the instantaneous change of one quantity relative to another. df(x)/dx
+stocktaking;reappraisal of a situation or position or outlook
+blood test;a serologic analysis of a sample of blood
+alarm;fear resulting from the awareness of danger
+harassment;a feeling of intense annoyance caused by being tormented. 'so great was his harassment that he wanted to destroy his tormentors'
+foretelling;prophecy by supernatural means
+sixth sense;grasping the inner nature of things intuitively
+tenderness;an uncomfortable feeling in some part of the body
+attention;the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others
+smack;the taste experience when a savoury condiment is taken into the mouth
+differential;the result of mathematical differentiation. the instantaneous change of one quantity relative to another. df(x)/dx
+buck fever;nervous excitement of an inexperienced hunter
+savor;the taste experience when a savoury condiment is taken into the mouth
+cogitation;attentive scrutiny and thought. 'after much cogitation he rejected the offer'
+sense;a natural appreciation. 'a keen musical sense'. 'a good sense of timing'
+salt;the taste experience when salt is taken into the mouth
+vogue;the popular taste at a given time. 'leather is the latest vogue'. 'he followed current trends'. 'the 1920s had a style of their own'
+thrill;the release of a store of affective force. 'they got a great bang out of it'. 'what a rush!'. 'he does it for kicks'
+bravery;feeling no fear
+short term memory;what you can repeat immediately after perceiving it
+mournfulness;a state of gloomy sorrow
+felicity;state of well-being characterized by emotions ranging from contentment to intense joy
+elan;a feeling of strong eagerness (usually in favor of a person or cause). 'they were imbued with a revolutionary ardor'. 'he felt a kind of religious zeal'
+penchant;a strong liking. 'my own preference is for good literature'. 'the irish have a penchant for blarney'. 'martinis are an acquired taste'
+internalization;learning (of values or attitudes etc.) that is incorporated within yourself
+widal test;a test for detecting typhoid fever and other salmonella infections
+curvature;the rate of change (at a point) of the angle between a curve and a tangent to the curve
+flower power;a counterculture of young people in the us during the 1960s and 70s
+inquietude;feelings of anxiety that make you tense and irritable
+pressure;the somatic sensation of pressure. 'the sensitivity of his skin to pressure and temperature was normal'
+identification;the attribution to yourself of the characteristics of others. 'his identification with his father shaped his entire life'
+joviality;feeling jolly and jovial and full of good humor
+transfer of training;generalization of a skill learned in one situation to a different but similar situation
+perusing;reading carefully with intent to remember
+affirmative action;a policy designed to redress past discrimination against women and minority groups through measures to improve their economic and educational opportunities. 'affirmative action has been extremely controversial and was challenged in 1978 in the bakke decision'
+aggravation;an exasperated feeling of annoyance
+discouragement;the feeling of despair in the face of obstacles
+shyness;a feeling of fear of embarrassment
+judgment;the cognitive process of reaching a decision or drawing conclusions
+peace;the absence of mental stress or anxiety
+satyriasis;abnormally intense sexual desire in men
+regress;the reasoning involved when you assume the conclusion is true and reason backward to the evidence
+ideology;imaginary or visionary theorization
+apprehensiveness;fearful expectation or anticipation: 'the student looked around the examination room with apprehension'
+predilection;a strong liking. 'my own preference is for good literature'. 'the irish have a penchant for blarney'. 'martinis are an acquired taste'
+mark;a number or letter indicating quality (especially of a student's performance). 'she made good marks in algebra'. 'grade a milk'. 'what was your score on your homework?'
+discomfort;an uncomfortable feeling in some part of the body
+sensibility;refined sensitivity to pleasurable or painful impressions. 'cruelty offended his sensibility'
+discernment;the cognitive condition of someone who understands. 'he has virtually no understanding of social cause and effect'
+pleasure;a fundamental feeling that is hard to define but that people desire to experience. 'he was tingling with pleasure'
+furore;an interest followed with exaggerated zeal: 'he always follows the latest fads'. 'it was all the rage that season'
+visual sensation;the perceptual experience of seeing. 'the runners emerged from the trees into his clear vision'. 'he had a visual sensation of intense light'
+affectionateness;a positive feeling of liking. 'he had trouble expressing the affection he felt'. 'the child won everyone's heart'
+consolation;the comfort you feel when consoled in times of disappointment. 'second place was no consolation to him'
+embargo;a government order imposing a trade barrier
+restiveness;the anxious feeling you have when you have the jitters
+sexual desire;a desire for sexual intimacy
+way;doing as one pleases or chooses: 'if i had my way'
+hurt;psychological suffering. 'the death of his wife caused him great distress'
+reductionism;the analysis of complex things into simpler constituents
+somaesthesia;the perception of tactual or proprioceptive or gut sensations. 'he relied on somesthesia to warn him of pressure changes'. 'he had a queasy feeling'
+enamoredness;a feeling of sexual love
+dichotomy;a sorting of a class of things into two mutually exclusive subclasses
+tonal pattern;the perception of pleasant arrangements of musical notes
+pridefulness;a feeling of self-respect and personal worth
+levity;feeling an inappropriate lack of seriousness
+cross classification;classification according to more than one attribute at the same time. 'the cross-classification of cases was done by age and sex'
+discovery;a productive insight
+dispiritedness;a feeling of lowness of spirits
+potomania;an intense persistent desire to drink alcoholic beverages to excess
+silver lining;a consoling aspect of a difficult situation. 'every cloud has a silver lining' or 'look on the bright side of it'
+probing;an inquiry into unfamiliar or questionable activities. 'there was a congressional probe into the scandal'
+disappointment;a feeling of dissatisfaction that results when your expectations are not realized. 'his hopes were so high he was doomed to disappointment'
+thankfulness;warm friendly feelings of gratitude
+distance;indifference by personal withdrawal. 'emotional distance'
+conditioning;a learning process in which an organism's behavior becomes dependent on the occurrence of a stimulus in its environment
+poring over;reading carefully with intent to remember
+entrancement;a feeling of delight at being filled with wonder and enchantment
+desolation;sadness resulting from being forsaken or abandoned
+suspense;excited anticipation of an approaching climax. 'the play kept the audience in suspense'
+ego;an inflated feeling of pride in your superiority to others
+concern;an anxious feeling. 'care had aged him'. 'they hushed it up out of fear of public reaction'
+ill temper;a persisting angry mood
+amicability;a disinclination to quarrel
+cut;the style in which a garment is cut. 'a dress of traditional cut'
+factorisation;(mathematics) the resolution of an integer or polynomial into factors such that when multiplied together they give the integer or polynomial
+astonishment;the feeling that accompanies something extremely surprising. 'he looked at me in astonishment'
+figuring;problem solving that involves numbers or quantities
+resolving;analysis into clear-cut components
+execration;hate coupled with disgust
+amour propre;feelings of excessive pride
+schadenfreude;malicious satisfaction
+retrospect;contemplation of things past. 'in retrospect'
+lust;a strong sexual desire
+covetousness;an envious eagerness to possess something
+fear;an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+sense of direction;an awareness of your orientation in space
+differentiation;a discrimination made between things as different. 'it is necessary to make a distinction between love and infatuation'
+aversion;a feeling of intense dislike
+astringency;a sharp astringent taste. the taste experience when a substance causes the mouth to pucker
+interpretation;an explanation of something that is not immediately obvious. 'the edict was subject to many interpretations'. 'he annoyed us with his interpreting of parables'
+torture;intense feelings of suffering. acute mental or physical pain. 'an agony of doubt'. 'the torments of the damned'
+oedipal complex;a complex of males. desire to possess the mother sexually and to exclude the father. said to be a source of personality disorders if unresolved
+rote learning;memorization by repetition
+broad interpretation;an interpretation of the u.s. constitution holding that the spirit of the times and the needs of the nation can legitimately influence judicial decisions (particularly decisions of the supreme court)
+cognizance;having knowledge of. 'he had no awareness of his mistakes'. 'his sudden consciousness of the problem he faced'. 'their intelligence and general knowingness was impressive'
+peevishness;an irritable petulant feeling
+unconcern;a feeling of lack of concern
+warpath;hostile or belligerent mood: 'the chief is on the warpath today'
+train of thought;the connections that link the various parts of an event or argument together. 'i couldn't follow his train of thought'. 'he lost the thread of his argument'
+projection;a prediction made by extrapolating from past observations
+approval;a feeling of liking something or someone good. 'although she fussed at them, she secretly viewed all her children with approval'
+size constancy;the tendency to perceive the veridical size of a familiar object despite differences in their distance (and consequent differences in the size of the pattern projected on the retina of the eye)
+american dream;the widespread aspiration of americans to live better than their parents did
+resignation;acceptance of despair
+self analysis;a penetrating examination of your own beliefs and motives
+oedipus complex;a complex of males. desire to possess the mother sexually and to exclude the father. said to be a source of personality disorders if unresolved
+memory;the cognitive processes whereby past experience is remembered. 'he can do it from memory'. 'he enjoyed remembering his father'
+sadomasochism;sexual pleasure obtained both by inflicting pain or receiving pain
+picture;a typical example of some state or quality. 'the very picture of a modern general'. 'she was the picture of despair'
+cost benefit analysis;an analysis of the cost effectiveness of different alternatives in order to see whether the benefits outweigh the costs
+eclectic method;making decisions on the basis of what seems best instead of following some single doctrine or style
+scent;a distinctive odor that is pleasant
+chagrin;strong feelings of embarrassment
+ethical motive;motivation based on ideas of right and wrong
+dysphoria;abnormal depression and discontent
+linguistic process;the cognitive processes involved in producing and understanding linguistic communication. 'he didn't have the language to express his feelings'
+sourness;the taste experience when vinegar or lemon juice is taken into the mouth
+guess;an estimate based on little or no information
+zionism;a policy for establishing and developing a national homeland for jews in palestine
+lightsomeness;the cheerful feeling you have when nothing is troubling you
+crossness;an irritable petulant feeling
+complacence;the feeling you have when you are satisfied with yourself. 'his complacency was absolutely disgusting'
+joie de vivre;a keen enjoyment of living
+unrest;a feeling of restless agitation
+pungency;having a sharp bitter flavor
+contrast;the perceptual effect of the juxtaposition of very different colors
+concupiscence;a desire for sexual intimacy
+peace of mind;the absence of mental stress or anxiety
+languor;a relaxed comfortable feeling
+possible action;a possible alternative. 'bankruptcy is always a possibility'
+intellection;the process of thinking (especially thinking carefully). 'thinking always made him frown'. 'she paused for thought'
+conversion;a change in the units or form of an expression: 'conversion from fahrenheit to centigrade
+letdown;a feeling of dissatisfaction that results when your expectations are not realized. 'his hopes were so high he was doomed to disappointment'
+spitefulness;feeling a need to see other suffer
+skim;reading or glancing through quickly
+taste;a strong liking. 'my own preference is for good literature'. 'the irish have a penchant for blarney'. 'martinis are an acquired taste'
+heartsickness;feeling downcast and disheartened and hopeless
+ruth;a feeling of sympathy and sorrow for the misfortunes of others. 'the blind are too often objects of pity'
+accommodation;in the theories of jean piaget: the modification of internal representations in order to accommodate a changing knowledge of reality
+radiance;an attractive combination of good health and happiness. 'the radiance of her countenance'
+malevolence;wishing evil to others
+compulsion;an urge to do or say something that might be better left undone or unsaid
+heat;the sensation caused by heat energy
+apathy;an absence of emotion or enthusiasm
+exhilaration;the feeling of lively and cheerful joy. 'he could hardly conceal his excitement when she agreed'
+sound;the subjective sensation of hearing something. 'he strained to hear the faint sounds'
+passionateness;strong feeling or emotion
+aversive conditioning;conditioning to avoid an aversive stimulus
+charge;(psychoanalysis) the libidinal energy invested in some idea or person or object. 'freud thought of cathexis as a psychic analog of an electrical charge'
+perfume;a distinctive odor that is pleasant
+gratitude;a feeling of thankfulness and appreciation. 'he was overwhelmed with gratitude for their help'
+yearning;prolonged unfulfilled desire or need
+retrieval;the cognitive operation of accessing information in memory. 'my retrieval of people's names is very poor'
+disconcertment;anxious embarrassment
+brooding;persistent morbid meditation on a problem
+doublethink;believing two contradictory ideas at the same time
+fervency;feelings of great warmth and intensity. 'he spoke with great ardor'
+detestation;hate coupled with disgust
+frustration;a feeling of annoyance at being hindered or criticized. 'her constant complaints were the main source of his frustration'
+second thought;thinking again about a choice previously made. 'he had second thoughts about his purchase'
+temper;a sudden outburst of anger. 'his temper sparked like damp firewood'
+inattention;lack of attention
+immediacy;immediate intuitive awareness
+scratch test;a test to determine allergic sensitivity to various substances by applying them to scratches in the skin
+misopedia;hatred of children
+confidence;a feeling of trust (in someone or something). 'i have confidence in our team'. 'confidence is always borrowed, never owned'
+glow;a feeling of considerable warmth. 'the glow of new love'. 'a glow of regret'
+temptation;the desire to have or do something that you know you should avoid. 'he felt the temptation and his will power weakened'
+dream;a series of mental images and emotions occurring during sleep. 'i had a dream about you last night'
+spite;feeling a need to see other suffer
+process;"the performance of some composite cognitive activity. an operation that affects mental contents. 'the process of thinking'. 'the act of remembering'"
+constancy;the tendency for perceived objects to give rise to very similar perceptual experiences in spite of wide variations in the conditions of observation
+fiscal policy;a government policy for dealing with the budget (especially with taxation and borrowing)
+picturing;visual imagery
+languor;a feeling of lack of interest or energy
+enthrallment;a feeling of great liking for something wonderful and unusual
+dialectics;a rationale for dialectical materialism based on change through the conflict of opposing forces
+fascination;a feeling of great liking for something wonderful and unusual
+taste perception;the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus. 'the candy left him with a bad taste'. 'the melon had a delicious taste'
+analysis;the abstract separation of a whole into its constituent parts for study
+reckoning;problem solving that involves numbers or quantities
+thinking;the process of thinking (especially thinking carefully). 'thinking always made him frown'. 'she paused for thought'
+softheartedness;a feeling of concern for the welfare of someone (especially someone defenseless)
+ratiocination;logical and methodical reasoning
+dolefulness;sadness caused by grief or affliction
+impatience;a restless desire for change and excitement
+wish;the particular preference that you have. 'it was his last wish'. 'they should respect the wishes of the people'
+bitterness;a feeling of deep and bitter anger and ill-will
+sanguineness;feeling sanguine. optimistically cheerful and confident
+conceit;feelings of excessive pride
+chafe;anger produced by some annoying irritation
+mental synthesis;the creation of a construct. the process of combining ideas into a congruous object of thought
+counterculture;a culture with lifestyles and values opposed to those of the established culture
+guilty conscience;remorse cause by feeling responsible for some offence
+ardour;a feeling of strong eagerness (usually in favor of a person or cause). 'they were imbued with a revolutionary ardor'. 'he felt a kind of religious zeal'
+self satisfaction;the feeling you have when you are satisfied with yourself. 'his complacency was absolutely disgusting'
+horror;intense aversion
+revaluation;a new appraisal or evaluation
+loneliness;sadness resulting from being forsaken or abandoned
+tingle;a pricking somatic sensation
+overtone;a harmonic with a frequency that is a multiple of the fundamental frequency
+carefreeness;the cheerful feeling you have when nothing is troubling you
+fit;a display of bad temper. 'he had a fit'. 'she threw a tantrum'. 'he made a scene'
+portrayal;a representation by picture or portraiture
+appreciation;delicate discrimination (especially of aesthetic values). 'arrogance and lack of taste contributed to his rapid success'. 'to ask at that particular time was the ultimate in bad taste'
+twinge;sudden sharp painful emotion. 'pangs of regret' or 'twinges of conscience'
+the green eyed monster;a feeling of grudging admiration and desire to have something possessed by another
+saltiness;the taste experience when salt is taken into the mouth
+goodwill;the friendly hope that something will succeed
+compunction;a feeling of deep regret (usually for some misdeed)
+plank;an endorsed policy in the platform of a political party
+spirit;the state of a person's emotions (especially with regard to pleasure or dejection). 'his emotional state depended on her opinion'. 'he was in good spirits'. 'his spirit rose'
+bonheur;(french) happiness and good humor
+chromesthesia;a form of synesthesia in which nonvisual stimulation results in the experience of color sensations
+itch;an irritating cutaneous sensation that produces a desire to scratch
+breakthrough;a productive insight
+arrangement;the thing arranged or agreed to
+data conversion;conversion from one way of encoding data to another way
+heedlessness;a lack of attentiveness (as to children or helpless people)
+meditation;a calm lengthy intent consideration
+benevolence;disposition to do good
+perkiness;cheerfulness that bubbles to the surface
+offense;a feeling of anger caused by an offence. 'give or take umbrage or offense'
+repentance;remorse for your past conduct
+sweet tooth;a strong appetite for sweet food
+contrast;a conceptual separation or demarcation: 'there is a narrow line between sanity and insanity'
+ardor;a feeling of strong eagerness (usually in favor of a person or cause). 'they were imbued with a revolutionary ardor'. 'he felt a kind of religious zeal'
+jollity;feeling jolly and jovial and full of good humor
+line;a conceptual separation or demarcation: 'there is a narrow line between sanity and insanity'
+heartsease;the absence of mental stress or anxiety
+partiality;a predisposition to like something. 'he had a fondness for whiskey'
+distinction;a discrimination made between things as different. 'it is necessary to make a distinction between love and infatuation'
+awe;an overwhelming feeling of wonder or admiration. 'he stared over the edge with a feeling of awe'
+good will;the friendly hope that something will succeed
+cerebration;the process of thinking (especially thinking carefully). 'thinking always made him frown'. 'she paused for thought'
+wishing;a specific feeling of desire. 'he got his wish'. 'he was above all wishing and desire'
+devotion;feelings of ardent love. 'their devotion to each other was beautiful'
+thoughtfulness;a calm lengthy intent consideration
+appreciativeness;warm friendly feelings of gratitude
+chimera;a grotesque product of the imagination
+cross division;classification according to more than one attribute at the same time. 'the cross-classification of cases was done by age and sex'
+discrimination;the cognitive process whereby differences between two or more stimuli are perceived
+admiration;the feeling aroused by something strange and surprising
+bloodlust;a desire for bloodshed
+self criticism;criticism of yourself
+soothsaying;prophecy by supernatural means
+pain;emotional distress. a fundamental feeling that people try to avoid. 'the pain of loneliness'
+insecurity;the anxiety you experience when you feel vulnerable and insecure
+zeal;a feeling of strong eagerness (usually in favor of a person or cause). 'they were imbued with a revolutionary ardor'. 'he felt a kind of religious zeal'
+misogamy;hatred of marriage
+togetherness;affectionate closeness
+shape constancy;the tendency to perceive the shape of a rigid object as constant despite differences in the viewing angle (and consequent differences in the shape of the pattern projected on the retina of the eye)
+ennui;the feeling of being bored by something tedious
+straw vote;an unofficial vote taken to determine opinion on some issue
+connexion;the process of bringing ideas or events together in memory or imagination. 'conditioning is a form of learning by association'
+ruefulness;sadness associated with some wrong done or some disappointment. 'he drank to drown his sorrows'. 'he wrote a note expressing his regret'
+pungency;having an acrid smell
+foresight;reasoning about the future
+unassertiveness;diffidence about self promotion
+exasperation;an exasperated feeling of annoyance
+panic;an overwhelming feeling of fear and anxiety
+self examination;the contemplation of your own thoughts and desires and conduct
+revelation;an enlightening or astonishing disclosure
+sensation;a general feeling of excitement. 'the announcement caused a sensation'
+psychic energy;an actuating force or factor
+somatesthesia;the perception of tactual or proprioceptive or gut sensations. 'he relied on somesthesia to warn him of pressure changes'. 'he had a queasy feeling'
+crush;temporary love of an adolescent
+moral sense;motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions
+chorionic villus sampling;a prenatal test to detect birth defects at an early stage of pregnancy. tissue from the chorionic villi is assayed
+contradistinction;a distinction drawn on the basis of contrast. 'sculpture in contradistinction to painting'
+mental energy;an actuating force or factor
+jumpiness;the anxious feeling you have when you have the jitters
+rethink;thinking again about a choice previously made. 'he had second thoughts about his purchase'
+sympathy;sharing the feelings of others (especially feelings of sorrow or anguish)
+keenness;a positive feeling of wanting to push ahead with something
+inductive reasoning;reasoning from detailed facts to general principles
+representational process;any basic cognitive process in which some entity comes to stand for or represent something else
+transport;a state of being carried away by overwhelming emotion: 'listening to sweet music in a perfect rapture'- charles dickens
+music;the sounds produced by singers or musical instruments (or reproductions of such sounds)
+animus;a feeling of ill will arousing active hostility
+disdain;lack of respect accompanied by a feeling of intense dislike
+hesitancy;a feeling of diffidence about doing something
+edginess;feelings of anxiety that make you tense and irritable
+process;"a mental process that you are not directly aware of. 'the process of denial'"
+comfortableness;aa feeling of being at ease in a relationship
+pruritus vulvae;persistent itching of the external female genitalia
+displeasure;the feeling of being displeased or annoyed or dissatisfied with someone or something
+happiness;state of well-being characterized by emotions ranging from contentment to intense joy
+embarrassment;the shame you feel when your inadequacy or guilt is made public
+advisement;careful consideration. 'a little deliberation would have deterred them'
+indefinite integral;the set of functions f(x) + c, where c is any real number, such that f(x) is the integral of f(x)
+avidity;a positive feeling of wanting to push ahead with something
+appraisal;the classification of someone or something with respect to its worth
+listlessness;a feeling of lack of interest or energy
+self consciousness;embarrassment deriving from the feeling that others are critically aware of you
+expectation;the feeling that something is about to happen
+identity;collective aspect of the set of characteristics by which a thing is recognizable or known
+pick;the person or thing chosen or selected. 'he was my pick for mayor'
+policy;a line of argument rationalizing the course of action of a government. 'they debated the policy or impolicy of the proposed legislation'
+necromancy;conjuring up the dead, especially for prophesying
+calculation;planning something carefully and intentionally. 'it was the deliberation of his act that was insulting'
+imperialism;a policy of extending your rule over foreign countries
+intimidation;the feeling of discouragement in the face of someone's superior fame or wealth or status etc.
+approximation;an approximate calculation of quantity or degree or worth. 'an estimate of what it would cost'. 'a rough idea how long it would take'
+impassivity;apathy demonstrated by an absence of emotional reactions
+default option;an option that is selected automatically unless an alternative is specified
+recognition;coming to understand something by thinking about it. 'a growing realization of the risk involved'. 'a sudden consciousness of the problem he faced'
+oversensitiveness;sensitivity leading to easy irritation or upset
+skimming;reading or glancing through quickly
+acridity;having an acrid smell
+belonging;happiness felt in a secure relationship. 'with his classmates he felt a sense of belonging'
+undervaluation;too low a value or price assigned to something
+demoralization;depression resulting from an undermining of your morale
+complacency;the feeling you have when you are satisfied with yourself. 'his complacency was absolutely disgusting'
+taste;delicate discrimination (especially of aesthetic values). 'arrogance and lack of taste contributed to his rapid success'. 'to ask at that particular time was the ultimate in bad taste'
+plaintiveness;expressing sorrowfulness
+reasoning by elimination;analysis of a problem into alternative possibilities followed by the systematic elimination of unacceptable alternatives
+repulsion;intense aversion
+topognosia;recognition of the location of a stimulus on the skin
+blahs;(informal usage) a general feeling of boredom and dissatisfaction
+tedium;the feeling of being bored by something tedious
+irascibility;a feeling of resentful anger
+repose;the absence of mental stress or anxiety
+heartburning;intense resentment. 'his promotion caused much heartburning among his rivals'
+misogynism;hatred of women
+basic cognitive process;cognitive processes involved in obtaining and storing knowledge
+timidity;fear of the unknown or unfamiliar and of making decisions
+higher cognitive process;cognitive processes that presuppose the availability of knowledge and put it to use
+sanguinity;feeling sanguine. optimistically cheerful and confident
+seriousness;an earnest and sincere feeling
+aggression;a feeling of hostility that arouses thoughts of attack
+inattentiveness;a lack of attentiveness (as to children or helpless people)
+vanilla;a distinctive fragrant flavor characteristic of vanilla beans
+high spirits;a feeling of joy and pride
+heavyheartedness;a feeling of dispirited melancholy
+vertu;love of or taste for fine objects of art
+idea;an approximate calculation of quantity or degree or worth. 'an estimate of what it would cost'. 'a rough idea how long it would take'
+jocundity;a feeling facetious merriment
+electra complex;a complex of females. sexual attraction to the father
+anamnesis;the ability to recall past occurrences
+protectionism;the policy of imposing duties or quotas on imports in order to protect home industries from overseas competition
+key;something crucial for explaining. 'the key to development is economic integration'
+malodour;a distinctive odor that is offensively unpleasant
+recall;the ability to recall past occurrences
+rational motive;a motive that can be defended by reasoning or logical argument
+interpreting;an explanation of something that is not immediately obvious. 'the edict was subject to many interpretations'. 'he annoyed us with his interpreting of parables'
+disinclination;that toward which you are inclined to feel dislike. 'his disinclination for modesty is well known'
+fetor;a distinctive odor that is offensively unpleasant
+erotism;the arousal of feelings of sexual desire
+self torture;self-imposed distress
+truman doctrine;president truman's policy of providing economic and military aid to any country threatened by communism or totalitarian ideology
+amiability;a cheerful and agreeable mood
+act;"the performance of some composite cognitive activity. an operation that affects mental contents. 'the process of thinking'. 'the act of remembering'"
+woefulness;intense mournfulness
+embitterment;the state of being embittered. 'the embitterment that resulted from the loss of his job never left him'
+grievance;a resentment strong enough to justify retaliation. 'holding a grudge'. 'settling a score'
+tang;the taste experience when a savoury condiment is taken into the mouth
+deduction;reasoning from the general to the particular (or from cause to effect)
+distress;psychological suffering. 'the death of his wife caused him great distress'
+tryout;trying something to find out about it. 'a sample for ten days free trial'. 'a trial of progesterone failed to relieve the pain'
+hold;understanding of the nature or meaning or quality or magnitude of something. 'he has a good grasp of accounting practices'
+synesthesia;a sensation that normally occurs in one sense modality occurs when another modality is stimulated
+lucubration;laborious cogitation
+special education;education of physically or mentally handicapped children whose needs cannot be met in an ordinary classroom
+omission;passing over something out of neglect
+sorrow;sadness associated with some wrong done or some disappointment. 'he drank to drown his sorrows'. 'he wrote a note expressing his regret'
+work;applying the mind to learning and understanding a subject (especially by reading). 'mastering a second language requires a lot of work'. 'no schools offer graduate study in interior design'
+surprise;the astonishment you feel when something totally unexpected happens to you
+reflexion;a calm lengthy intent consideration
+suffering;psychological suffering. 'the death of his wife caused him great distress'
+nonintervention;a foreign policy of staying out of other countries' disputes
+prurience;feeling morbid sexual desire
+problem solving;the thought processes involved in solving a problem
+yen;a yearning for something or to do something
+sentiment;tender, romantic, or nostalgic feeling or emotion
+roast;negative criticism
+judicial activism;an interpretation of the u.s. constitution holding that the spirit of the times and the needs of the nation can legitimately influence judicial decisions (particularly decisions of the supreme court)
+humility;a humble feeling. 'he was filled with humility at the sight of the pope'
+preparation;the cognitive process of thinking about what you will do in the event of something happening. 'his planning for retirement was hindered by several uncertainties'
+score;a number or letter indicating quality (especially of a student's performance). 'she made good marks in algebra'. 'grade a milk'. 'what was your score on your homework?'
+transfer;generalization of a skill learned in one situation to a different but similar situation
+trichotillomania;an irresistible urge to pull out your own hair
+shame;a painful emotion resulting from an awareness of inadequacy or guilt
+tactile sensation;the sensation produced by pressure receptors in the skin. 'she likes the touch of silk on her skin'. 'the surface had a greasy feeling'
+misogyny;hatred of women
+object recognition;the visual perception of familiar objects
+pining;a feeling of deep longing
+imperturbableness;calm and unruffled self-assurance. 'he performed with all the coolness of a veteran'
+stench;a distinctive odor that is offensively unpleasant
+quality of life;your personal satisfaction (or dissatisfaction) with the cultural or intellectual conditions under which you live (as distinct from material comfort). 'the new art museum is expected to improve the quality of life'
+antipathy;a feeling of intense dislike
+apperception;the process whereby perceived qualities of an object are related to past experience
+gaiety;a gay feeling
+tenderness;a positive feeling of liking. 'he had trouble expressing the affection he felt'. 'the child won everyone's heart'
+cold;the sensation produced by low temperatures. 'he shivered from the colda'. 'the cold helped clear his head'
+irrational motive;a motivation that is inconsistent with reason or logic
+penis envy;(psychoanalysis) a female's envy of the male's penis. said to explain femininity
+savvy;the cognitive condition of someone who understands. 'he has virtually no understanding of social cause and effect'
+conscience;a feeling of shame when you do something immoral. 'he has no conscience about his cruelty'
+enquiry;a search for knowledge. 'their pottery deserves more research than it has received'
+crediting;the attribution of an idea or work to someone else
+incorporation;learning (of values or attitudes etc.) that is incorporated within yourself
+nostalgia;longing for something past
+pathos;a feeling of sympathy and sorrow for the misfortunes of others. 'the blind are too often objects of pity'
+pang;sudden sharp painful emotion. 'pangs of regret' or 'twinges of conscience'
+integral;the result of a mathematical integration. f(x) is the integral of f(x) if df/dx = f(x)
+desire;the feeling that accompanies an unsatisfied state
+tenderness;a feeling of concern for the welfare of someone (especially someone defenseless)
+cheerlessness;a feeling of dreary or pessimistic sadness
+sense of responsibility;an awareness of your obligations
+moral force;an efficient incentive. 'they hoped it would act as a spiritual dynamic on all churches'
+pretense;an imaginative pretence
+self doubt;lack of self-confidence
+deduction;something that is inferred (deduced or entailed or implied). 'his resignation had political implications'
+sincerity;an earnest and sincere feeling
+experimentation;the testing of an idea. 'it was an experiment in living'. 'not all experimentation is done in laboratories'
+libidinal energy;(psychoanalysis) psychic energy produced by the libido
+color constancy;the tendency for a color to look the same under widely different viewing conditions
+paying attention;paying particular notice (as to children or helpless people). 'his attentiveness to her wishes'. 'he spends without heed to the consequences'
+face recognition;the visual perception of familiar faces
+speech perception;the auditory perception (and comprehension) of speech
+solace;the comfort you feel when consoled in times of disappointment. 'second place was no consolation to him'
+patch test;a test to determine allergic sensitivity by applying small pads soaked with allergen to the unbroken skin
+contentment;happiness with one's situation in life
+prophecy;knowledge of the future (usually obtained from a divine source)
+disregard;letting pass without notice
+bioassay;appraisal of the biological activity of a substance by testing its effect on an organism
+ambivalency;mixed feelings or emotions
+egomania;an intense and irresistible love for yourself and concern for your own needs
+review;a new appraisal or evaluation
+lustfulness;a strong sexual desire
+brokenheartedness;intense sorrow caused by loss of a loved one (especially by death)
+care;an anxious feeling. 'care had aged him'. 'they hushed it up out of fear of public reaction'
+flavour;the taste experience when a savoury condiment is taken into the mouth
+tickle;a cutaneous sensation often resulting from light stroking
+sexual urge;all of the feelings resulting from the urge to gratify sexual impulses. 'he wanted a better sex life'. 'the film contained no sex or violence'
+guilt trip;remorse cause by feeling responsible for some offence
+possible;something that can be done. 'politics is the art of the possible'
+sensitivity;sensitivity to emotional feelings (of self and others)
+imperturbability;calm and unruffled self-assurance. 'he performed with all the coolness of a veteran'
+perceptivity;a feeling of understanding
+heartache;intense sorrow caused by loss of a loved one (especially by death)
+individuation;discriminating the individual from the generic group or species
+merriment;a gay feeling
+indifference;unbiased impartial unconcern
+adience;(psychology) an urge to accept or approach a situation or an object
+prickling;a pricking somatic sensation
+worship;a feeling of profound love and admiration
+alternative;an alternative action. 'what option did i have?' or 'there no other alternative' or 'my only choice is to refuse'
+chafing;soreness or irritation of the skin caused by friction
+generalization;the process of formulating general concepts by abstracting common properties of instances
+reassessment;a new appraisal or evaluation
+boding;a feeling of evil to come: 'a steadily escalating sense of foreboding'. 'the lawyer had a presentiment that the judge would dismiss the case'
+dolour;painful grief. a poetic term
+comfort;a feeling of freedom from worry or disappointment
+soft spot;a sentimental affection. 'she had a soft spot for her youngest son'
+hostility;the feeling of a hostile person. 'he could no longer contain his hostility'
+repugnance;intense aversion
+wet dream;an erotic dream accompanied by ejaculation
+propensity;an inclination to do something. 'he felt leanings toward frivolity'
+noise;the auditory experience of sound that lacks musical quality. sound that is a disagreeable auditory experience. 'modern music is just noise to me'
+vaticination;knowledge of the future (usually obtained from a divine source)
+sexual pleasure;pleasure derived from sexual activities
+soulfulness;deep feeling or emotion
+enthusiasm;a feeling of excitement
+agreement;the thing arranged or agreed to
+dissonance;the auditory experience of sound that lacks musical quality. sound that is a disagreeable auditory experience. 'modern music is just noise to me'
+caring;a loving feeling
+reading;the cognitive process of understanding a written linguistic message. 'he enjoys reading books'
+derivative;the result of mathematical differentiation. the instantaneous change of one quantity relative to another. df(x)/dx
+guilt pang;pangs of feeling guilty
+rumination;a calm lengthy intent consideration
+explanation;thought that makes something comprehensible
+unhappiness;state characterized by emotions ranging from mild discontentment to deep grief
+helplessness;a feeling of being unable to manage
+fidgetiness;a feeling of agitation expressed in continual motion. 'he's got the fidgets'. 'waiting gave him a feeling of restlessness'
+despising;a feeling of scornful hatred
+joy;the emotion of great happiness
+overestimation;a calculation that results in an estimate that is too high
+withers;sensibility to trouble (as in the phrase 'wring one's withers'). 'the lawsuit was wringing his withers'. 'our withers are unwrung'--shakespeare
+moroseness;a gloomy ill-tempered feeling
+synthesis;the combination of ideas into a complex whole
+study;attentive scrutiny and thought. 'after much cogitation he rejected the offer'
+encouragement;the feeling of being encouraged
+guesswork;an estimate based on little or no information
+gladsomeness;experiencing joy and pleasure
+fragrance;a distinctive odor that is pleasant
+preference;the right or chance to choose: 'given my druthers, i'd eat cake'
+malignity;wishing evil to others
+dreaminess;a relaxed comfortable feeling
+notice;polite or favorable attention. 'his hard work soon attracted the teacher's notice'
+individualization;discriminating the individual from the generic group or species
+observation;the act of noticing or paying attention. 'he escaped the notice of the police'
+widal s test;a test for detecting typhoid fever and other salmonella infections
+reverence;a profound fear inspired by a deity
+withdrawal;avoiding emotional involvement
+weakness;a penchant for something even though it might not be good for you. 'he has a weakness for chocolate'
+deterrence;a negative motivational influence
+derived function;the result of mathematical differentiation. the instantaneous change of one quantity relative to another. df(x)/dx
+tantrum;a display of bad temper. 'he had a fit'. 'she threw a tantrum'. 'he made a scene'
+sapidity;the taste experience when a savoury condiment is taken into the mouth
+hysteria;excessive or uncontrollable fear
+vocational education;training for a specific vocation in industry or agriculture or trade
+rendering;an explanation of something that is not immediately obvious. 'the edict was subject to many interpretations'. 'he annoyed us with his interpreting of parables'
+bond rating;an evaluation by a rating company of the probability that a particular bond issue will default. bonds of the highest quality have aaa rating
+ceiling;an upper limit on what is allowed: 'they established a cap for prices'
+logical thinking;thinking that is coherent and logical
+euphoria;a feeling of great (usually exaggerated) elation
+lithomancy;divination by means of stones or stone talismans
+grasp;understanding of the nature or meaning or quality or magnitude of something. 'he has a good grasp of accounting practices'
+school;the process of being formally educated at a school. 'what will you do when you finish school?'
+skin sensation;a sensation localized on the skin
+rationale;an explanation of the working of some device in terms of laws of nature. 'the principles of internal-combusiton engines'
+virtu;love of or taste for fine objects of art
+wasserman reaction;a blood test to detect syphilis. a complement fixation test is used to detect antibodies to the syphilis organism treponema. a positive reaction indicates the presence of antibodies and therefore syphilis infection
+misery;a feeling of intense unhappiness. 'she was exhausted by her misery and grief'
+disregard;lack of attention and due care
+passion;strong feeling or emotion
+topognosis;recognition of the location of a stimulus on the skin
+breakdown;an analysis into mutually exclusive categories
+evaluation;an appraisal of the value of something
+fundamental frequency;the lowest tone of a harmonic series
+inner light;a divine presence believed by quakers to enlighten and guide the soul
+glee;great merriment
+signal;any incitement to action. 'he awaited the signal to start'. 'the victory was a signal for wild celebration'
+wish;a specific feeling of desire. 'he got his wish'. 'he was above all wishing and desire'
+weighing;careful consideration. 'a little deliberation would have deterred them'
+estrangement;the feeling of being alienated from other people
+somberness;a feeling of melancholy apprehension
+tendency;an inclination to do something. 'he felt leanings toward frivolity'
+elation;a feeling of joy and pride
+extinction;a learning process in which the reinforcer is removed and a conditioned response becomes independent of the conditioned stimulus
+detection;the perception that something has occurred or some state exists. 'early detection can often lead to a cure'
+adoration;a feeling of profound love and admiration
+distress;a strong feeling of anxiety. 'his distress as the prospect of being fired'. 'it is not work but worry that kills'. 'he wanted to die and end his troubles'
+bad temper;a persisting angry mood
+bitterness;the taste experience when quinine or coffee is taken into the mouth
+mortification;strong feelings of embarrassment
+threshold;the smallest detectable sensation
+favorite;something regarded with special favor or liking. 'that book is one of my favorites'
+mirthfulness;great merriment
+flush;the release of a store of affective force. 'they got a great bang out of it'. 'what a rush!'. 'he does it for kicks'
+pique;a sudden outburst of anger. 'his temper sparked like damp firewood'
+attentiveness;paying particular notice (as to children or helpless people). 'his attentiveness to her wishes'. 'he spends without heed to the consequences'
+torture;extreme mental distress
+passion;an irrational but irresistible motive for a belief or action
+connection;the process of bringing ideas or events together in memory or imagination. 'conditioning is a form of learning by association'
+quietness;a state of peace and quiet
+appreciation;understanding of the nature or meaning or quality or magnitude of something. 'he has a good grasp of accounting practices'
+valuation;an appraisal of the value of something
+discontentment;a longing for something better than the present situation
+argumentation;methodical reasoning. 'i can't follow your line of reasoning'
+appetite;a feeling of craving something. 'an appetite for life'. 'the object of life is to satisfy as many appetencies as possible'- granville hicks
+sheepishness;feeling embarrassed about yourself
+wonderment;the feeling aroused by something strange and surprising
+remembrance;the ability to recall past occurrences
+rancour;a feeling of deep and bitter anger and ill-will
+stomach;an appetite for food. 'exercise gave him a good stomach for dinner'
+depression;sad feelings of gloom and inadequacy
+implication;something that is inferred (deduced or entailed or implied). 'his resignation had political implications'
+cull;the person or thing rejected or set aside as inferior in quality
+fondness;a positive feeling of liking. 'he had trouble expressing the affection he felt'. 'the child won everyone's heart'
+operation;"the performance of some composite cognitive activity. an operation that affects mental contents. 'the process of thinking'. 'the act of remembering'"
+music of the spheres;an inaudible music that pythagoras thought was produced by the celestial
+awareness;having knowledge of. 'he had no awareness of his mistakes'. 'his sudden consciousness of the problem he faced'. 'their intelligence and general knowingness was impressive'
+hedonism;the pursuit of pleasure as a matter of ethical principle
+factorization;(mathematics) the resolution of an integer or polynomial into factors such that when multiplied together they give the integer or polynomial
+humbleness;a humble feeling. 'he was filled with humility at the sight of the pope'
+security;freedom from anxiety or fear. 'the watch dog gave her a feeling of security'
+feeling;"the psychological feature of experiencing affective and emotional states. 'he had a feeling of euphoria'"
+obverse;the more conspicuous of two alternatives or cases or sides: 'the obverse of this issue'
+uneasiness;embarrassment deriving from the feeling that others are critically aware of you
+stress test;a test measuring how the system functions when subjected to controlled amounts of stress
+feeling;the perception of tactual or proprioceptive or gut sensations. 'he relied on somesthesia to warn him of pressure changes'. 'he had a queasy feeling'
+auditory sensation;the subjective sensation of hearing something. 'he strained to hear the faint sounds'
+flip flop;a decision to reverse an earlier decision
+isolation;a feeling of being disliked and alone
+fidget;a feeling of agitation expressed in continual motion. 'he's got the fidgets'. 'waiting gave him a feeling of restlessness'
+pruritus;an intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.)
+divination;prophecy by supernatural means
+twinge;a sharp stab of pain
+white noise;a 'sh' noise produced by a stimulus containing all audible frequencies of vibration
+tearfulness;sadness expressed by weeping
+reflection;a calm lengthy intent consideration
+anglophobia;exaggerated dislike of england and english customs
+corollary;(logic) an inference that follows directly from the proof of another proposition
+elimination;analysis of a problem into alternative possibilities followed by the systematic elimination of unacceptable alternatives
+rush;the release of a store of affective force. 'they got a great bang out of it'. 'what a rush!'. 'he does it for kicks'
+retrovision;a vision of events in the distant past
+grudge;a resentment strong enough to justify retaliation. 'holding a grudge'. 'settling a score'
+fulfillment;a feeling of satisfaction at having achieved your desires
+agony;intense feelings of suffering. acute mental or physical pain. 'an agony of doubt'. 'the torments of the damned'
+open door policy;the policy of granting equal trade opportunities to all countries
+sense of shame;a motivating awareness of ethical responsibility
+retrospection;memory for experiences that are past. 'some psychologists tried to contrast retrospection and introspection'
+vagary;a sudden desire. 'he bought it on impulse'
+feel;an intuitive awareness. 'he has a feel for animals' or 'it's easy when you get the feel of it'
+overreckoning;a calculation that results in an estimate that is too high
+agitation;the feeling of being agitated. not calm
+heartbreak;intense sorrow caused by loss of a loved one (especially by death)
+delight;a feeling of extreme pleasure or satisfaction. 'his delight to see her was obvious to all'
+lightheartedness;the cheerful feeling you have when nothing is troubling you
+euphony;any agreeable (pleasing and harmonious) sounds. 'he fell asleep to the music of the wind chimes'
+anglophilia;exaggerated admiration for england and english customs
+contriteness;sorrow for sin arising from fear of damnation
+ear;attention to what is said. 'he tried to get her ear'
+incense;the pleasing scent produced when incense is burned. 'incense filled the room'
+mind s eye;the imaging of remembered or invented scenes. 'i could see her clearly in my mind's eye'
+taste;the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus. 'the candy left him with a bad taste'. 'the melon had a delicious taste'
+estimate;an approximate calculation of quantity or degree or worth. 'an estimate of what it would cost'. 'a rough idea how long it would take'
+fearfulness;an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+voice of conscience;an inner voice that judges your behavior
+timidness;fear of the unknown or unfamiliar and of making decisions
+control;the economic policy of controlling or limiting or curbing prices or wages etc.. 'they wanted to repeal all the legislation that imposed economic controls'
+scruple;uneasiness about the fitness of an action
+incentive;a positive motivational influence
+self disgust;shame resulting from strong dislike of yourself or your actions
+boredom;the feeling of being bored by something tedious
+amicableness;a disinclination to quarrel
+overrating;a calculation that results in an estimate that is too high
+fretfulness;an irritable petulant feeling
+meekness;the feeling of patient submissive humbleness
+complement fixation test;a blood test in which a sample of serum is exposed to a particular antigen and complement in order to determine whether or not antibodies to that particular antigen are present. used as a diagnostic test
+detachment;avoiding emotional involvement
+induction;reasoning from detailed facts to general principles
+sense experience;an unelaborated elementary awareness of stimulation. 'a sensation of touch'
+protectiveness;a feeling of protective affection
+amusement;a feeling of delight at being entertained
+amorousness;the arousal of feelings of sexual desire
+guesstimate;an estimate that combines reasoning with guessing
+gloat;malicious satisfaction
+base;a lower limit: 'the government established a wage floor'
+distaste;a feeling of intense dislike
+subcutaneous test;a form of skin test in which the suspected allergen is injected into the skin
+small voice;an inner voice that judges your behavior
+attachment;a feeling of affection for a person or an institution
+optical fusion;the combining of images from the two eyes to form a single visual percept
+collusion;secret agreement
+unfriendliness;dislike experienced as an absence of friendliness
+first harmonic;the lowest tone of a harmonic series
+rote;memorization by repetition
+despondence;feeling downcast and disheartened and hopeless
+musical perception;the auditory perception of musical sounds
+cognitive operation;"the performance of some composite cognitive activity. an operation that affects mental contents. 'the process of thinking'. 'the act of remembering'"
+irritability;an irritable petulant feeling
+peacefulness;the absence of mental stress or anxiety
+ambition;a cherished desire. 'his ambition is to own his own business'
+confusion;a feeling of embarrassment that leaves you confused
+dolor;painful grief. a poetic term
+mastering;becoming proficient in the use of something. having mastery of. 'his mastering the art of cooking took a long time'
+systems analysis;analysis of all aspects of a project along with ways to collect information about the operation of its parts
+gratefulness;warm friendly feelings of gratitude
+music;any agreeable (pleasing and harmonious) sounds. 'he fell asleep to the music of the wind chimes'
+recollection;the ability to recall past occurrences
+fulfilment;a feeling of satisfaction at having achieved your desires
+rapture;a state of being carried away by overwhelming emotion: 'listening to sweet music in a perfect rapture'- charles dickens
+realization;coming to understand something by thinking about it. 'a growing realization of the risk involved'. 'a sudden consciousness of the problem he faced'
+underrating;a calculation that results in an estimate that is too low
+hobson s choice;the choice of taking what is offered or nothing at all
+aspiration;a cherished desire. 'his ambition is to own his own business'
+trade stoppage;a government order imposing a trade barrier
+cult;an interest followed with exaggerated zeal: 'he always follows the latest fads'. 'it was all the rage that season'
+stm;what you can repeat immediately after perceiving it
+developmental learning;learning that takes place as a normal part of cognitive development
+envy;a feeling of grudging admiration and desire to have something possessed by another
+serenity;the absence of mental stress or anxiety
+rationalisation;the cognitive process of making something seem consistent with or based on reason
+sorrow;the state of being sad. 'she tired of his perpetual sadness'
+fearlessness;feeling no fear
+solacement;the comfort you feel when consoled in times of disappointment. 'second place was no consolation to him'
+pyromania;a desire to set fire to things
+compulsion;an irrational motive for performing trivial or repetitive actions against your will
+ardor;feelings of great warmth and intensity. 'he spoke with great ardor'
+alleviation;the feeling that comes when something burdensome is removed or reduced. 'as he heard the news he was suddenly flooded with relief'
+disquiet;a feeling of mild anxiety about possible developments
+fury;a feeling of intense anger. 'hell hath no fury like a woman scorned'. 'his face turned red with rage'
+revulsion;intense aversion
+regard;a feeling of friendship and esteem. 'she mistook his manly regard for love'. 'he inspires respect'
+construction;the creation of a construct. the process of combining ideas into a congruous object of thought
+hesitance;a feeling of diffidence about doing something
+pruritus ani;chronic itching of the skin around the anus
+rapport;a feeling of sympathetic understanding
+coldheartedness;an absence of concern for the welfare of others
+penance;remorse for your past conduct
+self reproach;a feeling of deep regret (usually for some misdeed)
+sentimentality;extravagant or affected feeling or emotion
+placidity;a feeling of calmness. a quiet and undisturbed feeling
+savour;the taste experience when a savoury condiment is taken into the mouth
+humor;a characteristic (habitual or relatively temporary) state of feeling. 'whether he praised or cursed me depended on his temper at the time'. 'he was in a bad humor'
+suspense;apprehension about what is going to happen
+hopefulness;the feeling you have when you have hope
+reject;the person or thing rejected or set aside as inferior in quality
+research;a search for knowledge. 'their pottery deserves more research than it has received'
+afterthought;thinking again about a choice previously made. 'he had second thoughts about his purchase'
+tranquillity;a state of peace and quiet
+acidity;the taste experience when something acidic is taken into the mouth
+conjecture;reasoning that involves the formation of conclusions from incomplete evidence
+line of thought;a particular way of thinking that is characteristic of some individual or group
+brightness constancy;the tendency for a visual object to be perceived as having the same brightness under widely different conditions of illumination
+ruthfulness;a state of gloomy sorrow
+trade barrier;any regulation or policy that restricts international trade
+tine test;a tuberculin test in which a disk with several times bearing tuberculin antigen is used to puncture the skin. development of a hard red area indicates past or present exposure to tubercle bacilli and the need for further testing
+extrapolation;(mathematics) calculation of the value of a function outside the range of known values
+sexiness;the arousal of feelings of sexual desire
+abience;(psychology) an urge to withdraw or avoid a situation or an object
+anger;a strong emotion. a feeling that is oriented toward some real or supposed grievance
+embarrassment;the state of being embarrassed (usually by some financial inadequacy). 'he is currently suffering financial embarrassments'
+tone;a steady sound without overtones. 'they tested his hearing with pure tones of different frequencies'
+olfactory sensation;the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form. 'she loved the smell of roses'
+reek;a distinctive odor that is offensively unpleasant
+noninterference;a foreign policy of staying out of other countries' disputes
+infatuation;temporary love of an adolescent
+thought;the process of thinking (especially thinking carefully). 'thinking always made him frown'. 'she paused for thought'
+casuistry;argumentation that is specious or excessively subtle and intended to be misleading
+exultation;a feeling of extreme joy
+cer;an emotional response that has been acquired by conditioning
+motivation;"the psychological feature that arouses an organism to action. the reason for the action. 'we did not understand his motivation'. 'he acted with the best of motives'"
+gloom;a feeling of melancholy apprehension
+rendition;an explanation of something that is not immediately obvious. 'the edict was subject to many interpretations'. 'he annoyed us with his interpreting of parables'
+longing;prolonged unfulfilled desire or need
+lemon;a distinctive tart flavor characteristic of lemons
+association;the process of bringing ideas or events together in memory or imagination. 'conditioning is a form of learning by association'
+cutaneous sensation;a sensation localized on the skin
+heraldry;the study and classification of armorial bearings and the tracing of genealogies
+admiration;a feeling of delighted approval and liking
+zest;vigorous and enthusiastic enjoyment
+loyalty;feelings of allegiance
+partitioning;an analysis into mutually exclusive categories
+chorionic villus biopsy;a prenatal test to detect birth defects at an early stage of pregnancy. tissue from the chorionic villi is assayed
+unemotionality;apathy demonstrated by an absence of emotional reactions
+premeditation;planning or plotting in advance of acting
+maleficence;doing or causing evil
+reasoning;thinking that is coherent and logical
+instrumental conditioning;conditioning that pairs a response with a reinforcement
+morals;motivation based on ideas of right and wrong
+quick temper;a feeling of resentful anger
+test;trying something to find out about it. 'a sample for ten days free trial'. 'a trial of progesterone failed to relieve the pain'
+immediate memory;what you can repeat immediately after perceiving it
+vocational training;training for a specific vocation in industry or agriculture or trade
+ltm;your general store of remembered information
+life;a motive for living. 'pottery was his life'
+self importance;an inflated feeling of pride in your superiority to others
+regard;paying particular notice (as to children or helpless people). 'his attentiveness to her wishes'. 'he spends without heed to the consequences'
+choice;an alternative action. 'what option did i have?' or 'there no other alternative' or 'my only choice is to refuse'
+touch;the sensation produced by pressure receptors in the skin. 'she likes the touch of silk on her skin'. 'the surface had a greasy feeling'
+realisation;coming to understand something by thinking about it. 'a growing realization of the risk involved'. 'a sudden consciousness of the problem he faced'
+pity;a feeling of sympathy and sorrow for the misfortunes of others. 'the blind are too often objects of pity'
+foetor;a distinctive odor that is offensively unpleasant
+acidulousness;the taste experience when something acidic is taken into the mouth
+soul;deep feeling or emotion
+motive;"the psychological feature that arouses an organism to action. the reason for the action. 'we did not understand his motivation'. 'he acted with the best of motives'"
+brotherhood;the feeling that men should treat one another like brothers
+gall;a feeling of deep and bitter anger and ill-will
+snellen test;a test of visual acuity using a snellen chart
+murderousness;a bloodthirsty hatred arousing murderous impulses
+inclination;that toward which you are inclined to feel a liking. 'her inclination is for classical music'
+blitheness;a feeling of spontaneous good spirits. 'his cheerfulness made everyone feel better'
+trade policy;a government's policy controlling foreign trade
+dander;a feeling of anger and animosity. 'having one's hackles or dander up'
+worry;a strong feeling of anxiety. 'his distress as the prospect of being fired'. 'it is not work but worry that kills'. 'he wanted to die and end his troubles'
+mirth;great merriment
+thread;the connections that link the various parts of an event or argument together. 'i couldn't follow his train of thought'. 'he lost the thread of his argument'
+esteem;a feeling of delighted approval and liking
+brinkmanship;the policy of pushing a dangerous situation to the brink of disaster (to the limits of safety)
+conditioned emotional response;an emotional response that has been acquired by conditioning
+skin test;any test to determine immunity or sensitivity to a disease by introducing small amounts on or into the skin
+premonition;a feeling of evil to come: 'a steadily escalating sense of foreboding'. 'the lawyer had a presentiment that the judge would dismiss the case'
+mind;recall or remembrance. 'it came to mind'
+solicitude;a feeling of excessive concern
+titillation;an aroused excitement (as from teasing)
+smugness;an excessive feeling of self-satisfaction
+occasion;reason. 'there was no occasion for complaint'
+qualm;uneasiness about the fitness of an action
+deductive reasoning;reasoning from the general to the particular (or from cause to effect)
+diffidence;lack of self-confidence
+flavor;the taste experience when a savoury condiment is taken into the mouth
+beholding;perception by means of the eyes
+hankering;a yearning for something or to do something
+critique;a serious examination and judgment of something. 'constructive criticism is always appreciated'
+inquiry;a search for knowledge. 'their pottery deserves more research than it has received'
+default;an option that is selected automatically unless an alternative is specified
+field trial;a test to display the performance of some new product
+low spiritedness;a feeling of lowness of spirits
+favourite;something regarded with special favor or liking. 'that book is one of my favorites'
+agglutination test;a blood test used to identify unknown antigens. blood with the unknown antigen is mixed with a known antibody and whether or not agglutination occurs helps to identify the antigen. used in tissue matching and blood grouping and diagnosis of infections
+assessment;the classification of someone or something with respect to its worth
+choler;an irritable petulant feeling
+warmth;the sensation caused by heat energy
+culture;the tastes in art and manners that are favored by a social group
+tuberculin test;a skin test to determine past or present infection with the tuberculosis bacterium. based on hypersensitivity of the skin to tuberculin
+bitter;the taste experience when quinine or coffee is taken into the mouth
+want;a specific feeling of desire. 'he got his wish'. 'he was above all wishing and desire'
+scruples;motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions
+feeling of identity;the attribution to yourself of the characteristics of others. 'his identification with his father shaped his entire life'
+sense datum;an unelaborated elementary awareness of stimulation. 'a sensation of touch'
+amativeness;the arousal of feelings of sexual desire
+typification;a representational form or model
+gnosis;intuitive knowledge of spiritual truths. said to have been possessed by ancient gnostics
+torment;a feeling of intense annoyance caused by being tormented. 'so great was his harassment that he wanted to destroy his tormentors'
+decision making;the cognitive process of reaching a decision. 'a good executive must be good at decision making'
+fundamental;the lowest tone of a harmonic series
+social action;a policy of socioeconomic reform
+umbrage;a feeling of anger caused by an offence. 'give or take umbrage or offense'
+resolution;analysis into clear-cut components
+nightmare;a terrifying or deeply upsetting dream
+derivation;a line of reasoning that shows how a conclusion follows logically from accepted propositions
+liking;a feeling of pleasure and enjoyment. 'i've always had a liking for reading'. 'she developed a liking for gin'
+entailment;something that is inferred (deduced or entailed or implied). 'his resignation had political implications'
+affect;the conscious subjective aspect of feeling or emotion
+speed reading;reading at speeds significantly faster than normal
+outrage;a feeling of righteous anger
+difference limen;the smallest change in stimulation that a person can detect
+good temper;a cheerful and agreeable mood
+sinking;a feeling caused by uneasiness or apprehension. 'with a sinking heart'. 'a sinking feeling in the pit of my stomach'
+eclecticism;making decisions on the basis of what seems best instead of following some single doctrine or style
+remembering;the cognitive processes whereby past experience is remembered. 'he can do it from memory'. 'he enjoyed remembering his father'
+disquietude;feelings of anxiety that make you tense and irritable
+apprehension;fearful expectation or anticipation: 'the student looked around the examination room with apprehension'
+sugariness;the taste experience when sugar dissolves in the mouth
+tuberculin skin test;a skin test to determine past or present infection with the tuberculosis bacterium. based on hypersensitivity of the skin to tuberculin
+poll;an inquiry into public opinion conducted by interviewing a random sample of people
+pleasantness;the feeling caused by agreeable stimuli. one pole of a continuum of states of feeling
+ire;a strong emotion. a feeling that is oriented toward some real or supposed grievance
+perusal;reading carefully with intent to remember
+schooling;the process of being formally educated at a school. 'what will you do when you finish school?'
+sensualism;desire for sensual pleasures
+planning;the cognitive process of thinking about what you will do in the event of something happening. 'his planning for retirement was hindered by several uncertainties'
+sulk;a mood or display of sullen aloofness or withdrawal: 'stayed home in a sulk'
+pall;a sudden numbing dread
+reevaluation;the evaluation of something a second time (or more)
+conflict;opposition between two simultaneous but incompatible feelings. 'he was immobilized by conflict and indecision'
+discomfiture;anxious embarrassment
+necrophilia;an irresistible sexual attraction to dead bodies
+panic attack;a sudden attack of fear
+torment;intense feelings of suffering. acute mental or physical pain. 'an agony of doubt'. 'the torments of the damned'
+leaning;an inclination to do something. 'he felt leanings toward frivolity'
+cathexis;(psychoanalysis) the libidinal energy invested in some idea or person or object. 'freud thought of cathexis as a psychic analog of an electrical charge'
+hero worship;admiration for great men (or their memory)
+fashion;the latest and most admired style in clothes and cosmetics and behavior
+language;the cognitive processes involved in producing and understanding linguistic communication. 'he didn't have the language to express his feelings'
+eagerness;a positive feeling of wanting to push ahead with something
+velleity;a mere wish, unaccompanied by effort to obtain
+disconcertion;anxious embarrassment
+anxiety;a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune
+self love;feelings of excessive pride
+assault;turning your attention to a problem or a job etc.. 'his attack on the problem was misguided'. 'he did not make a direct assault on her affections'
+haptic sensation;a sensation localized on the skin
+veneration;a profound fear inspired by a deity
+emotionlessness;apathy demonstrated by an absence of emotional reactions
+irritation;a sudden outburst of anger. 'his temper sparked like damp firewood'
+aroma;a distinctive odor that is pleasant
+ill humor;an angry and disagreeable mood
+gloominess;a feeling of melancholy apprehension
+rage;an interest followed with exaggerated zeal: 'he always follows the latest fads'. 'it was all the rage that season'
+satisfaction;the contentment you feel when you have done something right. 'the chef tasted the sauce with great satisfaction'
+intradermal test;a form of skin test in which the suspected allergen is injected into the skin
+zestfulness;vigorous and enthusiastic enjoyment
+tetchiness;feeling easily irritated
+shamefacedness;feeling embarrassed about yourself
+mentation;the process of thinking (especially thinking carefully). 'thinking always made him frown'. 'she paused for thought'
+crystal gazing;staring into a crystal ball to arouse visions of future or distant events
+kleptomania;an irresistible impulse to steal in the absence of any economic motive
+synthesis;reasoning from the general to the particular (or from cause to effect)
+score;grounds. 'don't do it on my account'. 'the paper was rejected on acount of its length'. 'he tried to blame the victim but his success on that score was doubtful'
+stage fright;fear that affects a person about to face an audience
+misoneism;hatred of change or innovation
+ecstasy;a state of being carried away by overwhelming emotion: 'listening to sweet music in a perfect rapture'- charles dickens
+estimation;an approximate calculation of quantity or degree or worth. 'an estimate of what it would cost'. 'a rough idea how long it would take'
+knowingness;having knowledge of. 'he had no awareness of his mistakes'. 'his sudden consciousness of the problem he faced'. 'their intelligence and general knowingness was impressive'
+tingle;an almost pleasurable sensation of fright. 'a frisson of surprise shot through him'
+weight;an oppressive feeling of heavy force. 'bowed down by the weight of responsibility'
+probe;an inquiry into unfamiliar or questionable activities. 'there was a congressional probe into the scandal'
+eye;attention to what is seen. 'he tried to catch her eye'
+deciding;the cognitive process of reaching a decision. 'a good executive must be good at decision making'
+compassionateness;a deep awareness of and sympathy for another's suffering
+wildness;extreme emotional intensity. 'the wildness of his anger'
+downheartedness;a feeling of lowness of spirits
+ambivalence;mixed feelings or emotions
+examen;a critical study (as of a writer's work)
+coldness;the sensation produced by low temperatures. 'he shivered from the colda'. 'the cold helped clear his head'
+categorization;the basic cognitive process of arranging into classes or categories
+glee;malicious satisfaction
+underevaluation;an appraisal that underestimates the value of something
+disheartenment;the feeling of despair in the face of obstacles
+throes;violent pangs of suffering. 'death throes'
+moodiness;a sullen gloomy feeling
+provision;the cognitive process of thinking about what you will do in the event of something happening. 'his planning for retirement was hindered by several uncertainties'
+phlegm;apathy demonstrated by an absence of emotional reactions
+compassion;a deep awareness of and sympathy for another's suffering
+discontent;a longing for something better than the present situation
+computation;problem solving that involves numbers or quantities
+prejudgment;a judgment reached before the evidence is available
+assimilation;in the theories of jean piaget: the application of a general schema to a particular instance
+insight;grasping the inner nature of things intuitively
+supposal;the cognitive process of supposing
+gusto;vigorous and enthusiastic enjoyment
+depicting;a representation by picture or portraiture
+notice;the act of noticing or paying attention. 'he escaped the notice of the police'
+omphaloskepsis;contemplation of one's navel
+weepiness;sadness expressed by weeping
+closeness;a feeling of being intimate and belonging together. 'their closeness grew as the night wore on'
+delectation;a feeling of extreme pleasure or satisfaction. 'his delight to see her was obvious to all'
+thing;a persistent illogical feeling of desire or aversion: 'he has a thing about seafood'. 'she has a thing about him'
+pins and needles;a sharp tingling sensation from lack of circulation
+critical analysis;an appraisal based on careful analytical evaluation
+ground;a rational motive for a belief or action. 'the reason that war was declared'. 'the grounds for their declaration'
+dipsomania;an intense persistent desire to drink alcoholic beverages to excess
+contempt;lack of respect accompanied by a feeling of intense dislike
+limen;the smallest detectable sensation
+blue devils;a fit of despondency
+sense impression;an unelaborated elementary awareness of stimulation. 'a sensation of touch'
+trial balloon;a test of public opinion
+fad;an interest followed with exaggerated zeal: 'he always follows the latest fads'. 'it was all the rage that season'
+new deal;the economic policy of f. d. roosevelt
+disapproval;a feeling of disliking something or what someone is doing
+line of reasoning;methodical reasoning. 'i can't follow your line of reasoning'
+recognition;the process of recognizing something or someone by remembering
+tumult;violent agitation
+phaneromania;an irresistible desire to pick a superficial body parts (as in obsessive nail-biting)
+shock;a sudden state of violent emotional disturbance. 'the shock of his mother's death'
+wistfulness;a sadly pensive longing
+calculation;problem solving that involves numbers or quantities
+pain;a somatic sensation of acute discomfort. 'as the intensity increased the sensation changed from tickle to pain'
+brainstorm;the clear (and often sudden) understanding of a complex situation
+semantic memory;your memory for meanings and general (impersonal) facts
+externalization;attributing to outside causes
+homesickness;a longing to return home
+lovesickness;a pining for a loved one
+prearrangement;an arrangement in advance
+judgement;the cognitive process of reaching a decision or drawing conclusions
+agromania;an intense desire to be alone or out in the open
+examen;examination of conscience (as done daily by jesuits)
+exemplification;a representational form or model
+mantoux test;tuberculin (a derivative of tubercle bacillus) is injected intradermally. a red area appearing 1-3 days later signifies an exposure (past or present) to tubercle bacilli and the need for further testing
+disaffection;the feeling of being alienated from other people
+cheerfulness;a feeling of spontaneous good spirits. 'his cheerfulness made everyone feel better'
+underestimation;a calculation that results in an estimate that is too low
+gladfulness;experiencing joy and pleasure
+fortune telling;prophecy by supernatural means
+manifest destiny;a policy of imperialism rationalized as inevitable (as if granted by god)
+bashfulness;feeling embarrassed due to modesty
+wonder;the feeling aroused by something strange and surprising
+shot;an estimate based on little or no information
+introspection;the contemplation of your own thoughts and desires and conduct
+gravity;a solemn and dignified feeling
+logical argument;methodical reasoning. 'i can't follow your line of reasoning'
+hurt;feelings of mental or physical pain
+alcoholism;an intense persistent desire to drink alcoholic beverages to excess
+rationalization;the cognitive process of making something seem consistent with or based on reason
+abstract thought;thinking that is coherent and logical
+necrophilism;an irresistible sexual attraction to dead bodies
+temper;a characteristic (habitual or relatively temporary) state of feeling. 'whether he praised or cursed me depended on his temper at the time'. 'he was in a bad humor'
+open door;the policy of granting equal trade opportunities to all countries
+hate;the emotion of hate. a feeling of dislike so strong that it demands action
+foreshadowing;providing advance indications
+love;a deep feeling of sexual desire and attraction. 'their love left them indifferent to their surroundings'. 'she was his first love'
+hope;the general feeling that some desire will be fulfilled. 'in spite of his troubles he never gave up hope'
+ataraxis;the absence of mental stress or anxiety
+joylessness;a feeling of dismal cheerlessness
+vexation;anger produced by some annoying irritation
+venom;feeling a need to see other suffer
+cap;an upper limit on what is allowed: 'they established a cap for prices'
+pride;a feeling of self-respect and personal worth
+light within;a divine presence believed by quakers to enlighten and guide the soul
+satisfaction;state of being gratified. great satisfaction: 'dull repetitious work gives no gratification'. 'to my immense gratification he arrived on time'
+self distrust;lack of self-confidence
+bandwagon;a popular trend that attracts growing support. 'when they saw how things were going everybody jumped on the bandwagon'
+gustatory perception;the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus. 'the candy left him with a bad taste'. 'the melon had a delicious taste'
+lovingness;a loving feeling
+long term memory;your general store of remembered information
+synthetic thinking;the combination of ideas into a complex whole
+earnestness;an earnest and sincere feeling
+irrational impulse;a strong spontaneous and irrational motivation. 'his first impulse was to denounce them'. 'the urge to find out got him into trouble'
+defeatism;acceptance of the inevitability of defeat
+mourning;state of sorrow over the death or departure of a loved one
+symbolizing;something visible that by association or convention represents something else that is invisible. 'the eagle is a symbol of the united states'
+typifying;a representational form or model
+contemplation;a calm lengthy intent consideration
+bathos;insincere pathos
+afterglow;the pleasure of remembering some pleasant event. 'he basked in the afterglow of his victory'
+differential limen;the smallest change in stimulation that a person can detect
+caprice;a sudden desire. 'he bought it on impulse'
+assay;an appraisal of the state of affairs. 'they made an assay of the contents'. 'a check on its dependability under stress'
+sensualness;desire for sensual pleasures
+excogitation;thinking something out with care in order to achieve complete understanding of it
+abstraction;the process of formulating general concepts by abstracting common properties of instances
+salinity;the taste experience when salt is taken into the mouth
+sullenness;a gloomy ill-tempered feeling
+tingling;a pricking somatic sensation
+relaxation;a state of refreshing tranquility
+gaiety;a festive merry feeling
+underreckoning;a calculation that results in an estimate that is too low
+distraction;an obstacle to attention
+heed;paying particular notice (as to children or helpless people). 'his attentiveness to her wishes'. 'he spends without heed to the consequences'
+trouble;a strong feeling of anxiety. 'his distress as the prospect of being fired'. 'it is not work but worry that kills'. 'he wanted to die and end his troubles'
+anthropomorphism;the representation of objects (especially a god) as having human form or traits
+self esteem;a feeling of pride in yourself
+choice;the person or thing chosen or selected. 'he was my pick for mayor'
+enjoyment;the pleasure felt when having a good time
+think;(informal) an instance of deliberate thinking: 'i need to give it a good think'
+account;grounds. 'don't do it on my account'. 'the paper was rejected on acount of its length'. 'he tried to blame the victim but his success on that score was doubtful'
+odor;the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form. 'she loved the smell of roses'
+awe;a profound fear inspired by a deity
+pap test;a method of examining stained cells in a cervical smear for early diagnosis of uterine cancer
+horror;intense and profound fear
+ardour;intense feeling of love
+biopsy;examination of tissues or liquids from the living body to determine the existence or cause of a disease
+nervousness;the anxious feeling you have when you have the jitters
+interference;a policy of intervening in the affairs of other countries
+self pride;a feeling of pride in yourself
+deliberation;planning something carefully and intentionally. 'it was the deliberation of his act that was insulting'
+incitement;a means of arousing or stirring to action
+anaphrodisia;decline or absence of sexual desire
+self torment;self-imposed distress
+foreign policy;a policy governing international relations
+assimilation;the process of assimilating new ideas into an existing cognitive structure
+muscle memory;your memory for motor skills
+fussiness;an irritable petulant feeling
+bright side;a consoling aspect of a difficult situation. 'every cloud has a silver lining' or 'look on the bright side of it'
+ken;range of what one can know or understand
+light;mental understanding as an enlightening experience. 'he finally saw the light'. 'can you shed light on this problem?'
+guilt feelings;remorse cause by feeling responsible for some offence
+envisioning;visual imagery
+buoyancy;cheerfulness that bubbles to the surface
+imputation;the attribution to a source or cause. 'the imputation that my success was due to nepotism meant that i was not taken seriously'
+superego;(psychoanalysis) that part of the unconscious mind that acts as a conscience
+test;an appraisal of the state of affairs. 'they made an assay of the contents'. 'a check on its dependability under stress'
+self contemplation;the contemplation of your own thoughts and desires and conduct
+word splitting;making too fine distinctions of little importance. 'they didn't take his hairsplitting seriously'
+amorousness;a feeling of sexual love
+sadness;emotions experienced when not in a state of well-being
+prediction;reasoning about the future
+prognostication;knowledge of the future (usually obtained from a divine source)
+perception;the process of perceiving
+studying;reading carefully with intent to remember
+reconsideration;thinking again about a choice previously made. 'he had second thoughts about his purchase'
+guestimate;an estimate that combines reasoning with guessing
+sadness;the state of being sad. 'she tired of his perpetual sadness'
+solicitousness;a feeling of excessive concern
+sensitiveness;sensitivity to emotional feelings (of self and others)
+captivation;a feeling of great liking for something wonderful and unusual
+score;a resentment strong enough to justify retaliation. 'holding a grudge'. 'settling a score'
+quiver;an almost pleasurable sensation of fright. 'a frisson of surprise shot through him'
+choler;a strong emotion. a feeling that is oriented toward some real or supposed grievance
+prevision;a prophetic vision (as in a dream)
+forlornness;sadness resulting from being forsaken or abandoned
+ascription;assigning to a cause or source
+discomposure;anxious embarrassment
+dudgeon;a feeling of intense indignation (now used only in the phrase 'in high dudgeon')
+approbation;official approval
+raison d etre;reason for being
+sorrowfulness;a state of gloomy sorrow
+intimacy;a feeling of being intimate and belonging together. 'their closeness grew as the night wore on'
+obsession;an irrational motive for performing trivial or repetitive actions against your will
+suffering;feelings of mental or physical pain
+pride;satisfaction with your (or another's) achievements. 'he takes pride in his son's success'
+guilt;remorse cause by feeling responsible for some offence
+discombobulation;a feeling of embarrassment that leaves you confused
+placidness;a feeling of calmness. a quiet and undisturbed feeling
+discontentedness;a longing for something better than the present situation
+surrender;acceptance of despair
+dick test;a skin test to determine your susceptibility to scarlet fever
+mental anguish;sustained dull painful emotion
+insight;a feeling of understanding
+intuition;instinctive knowing (without the use of rational processes)
+self cultivation;the process of educating yourself
+anxiousness;a feeling of mild anxiety about possible developments
+irritation;an uncomfortable feeling in some part of the body
+pretermission;letting pass without notice
+sense;a general conscious awareness. 'a sense of security'. 'a sense of happiness'. 'a sense of danger'. 'a sense of self'
+deliberation;careful consideration. 'a little deliberation would have deterred them'
+evocation;imaginative re-creation
+phlegm;calm and unruffled self-assurance. 'he performed with all the coolness of a veteran'
+critical appraisal;an appraisal based on careful analytical evaluation
+perceptiveness;a feeling of understanding
+passion;a feeling of strong sexual desire
+furor;an interest followed with exaggerated zeal: 'he always follows the latest fads'. 'it was all the rage that season'
+bereavement;state of sorrow over the death or departure of a loved one
+mysophilia;abnormal attraction to filth
+expectancy;pleasurable expectation
+relish;vigorous and enthusiastic enjoyment
+world weariness;sadness on thinking about the evils of the world
+impossible action;an alternative that is not available
+favour;a feeling of favorable regard
+possibility;a possible alternative. 'bankruptcy is always a possibility'
+grasping;understanding with difficulty. 'the lecture was beyond his most strenuous graspings'
+necromania;an irresistible sexual attraction to dead bodies
+beta test;a second test of an experimental product (such as computer software) carried out by an outside organization
+blessedness;a state of supreme happiness
+education;the gradual process of acquiring knowledge. 'education is a preparation for life'. 'a girl's education was less important than a boy's'
+line;methodical reasoning. 'i can't follow your line of reasoning'
+jitteriness;the anxious feeling you have when you have the jitters
+sex;all of the feelings resulting from the urge to gratify sexual impulses. 'he wanted a better sex life'. 'the film contained no sex or violence'
+emotion;any strong feeling
+turmoil;violent agitation
+misanthropy;hatred of mankind
+fusion;the combining of images from the two eyes to form a single visual percept
+jubilancy;a feeling of extreme joy
+short temper;a feeling of resentful anger
+delicacy;refined taste. tact
+demarcation;a conceptual separation or demarcation: 'there is a narrow line between sanity and insanity'
+masochism;sexual pleasure obtained from receiving punishment (physical or psychological)
+regret;sadness associated with some wrong done or some disappointment. 'he drank to drown his sorrows'. 'he wrote a note expressing his regret'
+subsuming;incorporating something under a more general category. 'he is a lawyer' is subsumed under 'he is a professional'
+assuagement;the feeling that comes when something burdensome is removed or reduced. 'as he heard the news he was suddenly flooded with relief'
+unpleasantness;the feeling caused by disagreeable stimuli. one pole of a continuum of states of feeling
+self consciousness;self-awareness plus the additional realization that others are similarly aware of you
+classical conditioning;conditioning that pairs a neutral stimulus with a stimulus that evokes a reflex. the neutral stimulus comes to evoke the reflex
+chill;an almost pleasurable sensation of fright. 'a frisson of surprise shot through him'
+odium;hate coupled with disgust
+poignancy;a state of deeply felt distress or sorrow: 'a moment of extraordinary poignancy'
+sensing;the perception that something has occurred or some state exists. 'early detection can often lead to a cure'
+theanthropism;the representation of objects (especially a god) as having human form or traits
+browse;reading superficially or at random
+pricing;the evaluation of something in terms of its price
+analytic thinking;the abstract separation of a whole into its constituent parts for study
+charge;the release of a store of affective force. 'they got a great bang out of it'. 'what a rush!'. 'he does it for kicks'
+line of inquiry;an ordering of questions so as to develop a particular argument
+despondency;feeling downcast and disheartened and hopeless
+enviousness;a feeling of grudging admiration and desire to have something possessed by another
+feelings;emotional or moral sensitivity (especially in relation to personal principles or dignity). 'the remark hurt his feelings'
+itch;a strong restless desire. 'why this urge to travel?'
+druthers;the right or chance to choose: 'given my druthers, i'd eat cake'
+complex;(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior
+rating;an appraisal of the value of something
+wassermann test;a blood test to detect syphilis. a complement fixation test is used to detect antibodies to the syphilis organism treponema. a positive reaction indicates the presence of antibodies and therefore syphilis infection
+impassiveness;apathy demonstrated by an absence of emotional reactions
+easiness;a state of refreshing tranquility
+high fashion;trend-setting fashions
+heart;a positive feeling of liking. 'he had trouble expressing the affection he felt'. 'the child won everyone's heart'
+compatibility;a feeling of sympathetic understanding
+vision;a vivid mental image. 'he had a vision of his own death'
+tenderheartedness;warm compassionate feelings
+self education;the process of educating yourself
+road test;a test to insure that a vehicle is roadworthy
+maliciousness;feeling a need to see other suffer
+thrill;an almost pleasurable sensation of fright. 'a frisson of surprise shot through him'
+settlement;something settled or resolved. the outcome of decision making. 'the finally reached a settlement with the union'. 'they never did achieve a final resolution of their differences'
+alienation;the feeling of being alienated from other people
+kindheartedness;sympathy arising from a kind heart
+timorousness;fear of the unknown or unfamiliar and of making decisions
+free association;a thought process in which ideas (words or images) suggest other ideas in a sequence
+sweet;the taste experience when sugar dissolves in the mouth
+pleasure;a formal expression. 'he serves at the pleasure of the president'
+avidness;a positive feeling of wanting to push ahead with something
+wrath;intense anger (usually on an epic scale)
+knock;negative criticism
+good humor;a cheerful and agreeable mood
+warmheartedness;a positive feeling of liking. 'he had trouble expressing the affection he felt'. 'the child won everyone's heart'
+painfulness;emotional distress. a fundamental feeling that people try to avoid. 'the pain of loneliness'
+differential threshold;the smallest change in stimulation that a person can detect
+malodor;a distinctive odor that is offensively unpleasant
+condensation;(psychoanalysis) an unconscious process whereby two ideas or images combine into a single symbol. especially in dreams
+dismay;the feeling of despair in the face of obstacles
+anticipation;reasoning about the future
+unhappiness;emotions experienced when not in a state of well-being
+cruelty;feelings of extreme heartlessness
+appetency;a feeling of craving something. 'an appetite for life'. 'the object of life is to satisfy as many appetencies as possible'- granville hicks
+class feeling;feelings of envy and resentment of one social or economic class for toward another
+pure tone;a steady sound without overtones. 'they tested his hearing with pure tones of different frequencies'
+dream;a cherished desire. 'his ambition is to own his own business'
+friendliness;a feeling of liking for another person. enjoyment in their company
+stewing;an extreme state of worry and agitation. 'his stewing over the fight kept him awake most of the night'
+prejudgement;a judgment reached before the evidence is available
+comprehension;an ability to understand the meaning or importance of something (or the knowledge acquired as a result). 'how you can do that is beyond my comprehension'. 'he was famous for his comprehension of american literature'
+eroticism;the arousal of feelings of sexual desire
+uncomfortableness;embarrassment deriving from the feeling that others are critically aware of you
+fire;feelings of great warmth and intensity. 'he spoke with great ardor'
+dead reckoning;an estimate based on little or no information
+hatred;the emotion of hate. a feeling of dislike so strong that it demands action
+quota;a limitation on imports. 'the quota for japanese imports was negotiated'
+hilarity;great merriment
+inducement;a positive motivational influence
+experiment;the testing of an idea. 'it was an experiment in living'. 'not all experimentation is done in laboratories'
+foreboding;a feeling of evil to come: 'a steadily escalating sense of foreboding'. 'the lawyer had a presentiment that the judge would dismiss the case'
+infuriation;a feeling of intense anger
+somatic sensation;the perception of tactual or proprioceptive or gut sensations. 'he relied on somesthesia to warn him of pressure changes'. 'he had a queasy feeling'
+lasciviousness;feeling morbid sexual desire
+urge;a strong restless desire. 'why this urge to travel?'
+ardour;feelings of great warmth and intensity. 'he spoke with great ardor'
+musk;the scent of musk
+respect;a feeling of friendship and esteem. 'she mistook his manly regard for love'. 'he inspires respect'
+trial;trying something to find out about it. 'a sample for ten days free trial'. 'a trial of progesterone failed to relieve the pain'
+cognitive process;"the performance of some composite cognitive activity. an operation that affects mental contents. 'the process of thinking'. 'the act of remembering'"
+cognizance;range of what one can know or understand
+emulation;ambition to equal or excel
+daze;a sudden state of violent emotional disturbance. 'the shock of his mother's death'
+anticipation;pleasurable expectation
+love;a strong positive emotion of regard and affection. 'his love for his work'. 'children need a lot of love'
+torment;extreme mental distress
+inspiration;a sudden intuition as part of solving a problem
+import barrier;any regulation or policy that restricts international trade
+diagonalization;(matrix algebra) changing a square matrix to diagonal form (with all non-zero elements on the principal diagonal). 'the diagonalization of a normal matrix by a unitary transformation'
+touch sensation;the sensation produced by pressure receptors in the skin. 'she likes the touch of silk on her skin'. 'the surface had a greasy feeling'
+egotism;an inflated feeling of pride in your superiority to others
+public opinion poll;an inquiry into public opinion conducted by interviewing a random sample of people
+find;a productive insight
+rancor;a feeling of deep and bitter anger and ill-will
+taste sensation;the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus. 'the candy left him with a bad taste'. 'the melon had a delicious taste'
+check;an appraisal of the state of affairs. 'they made an assay of the contents'. 'a check on its dependability under stress'
+uneasiness;feelings of anxiety that make you tense and irritable
+addiction;an abnormally strong craving
+libido;(psychoanalysis) a freudian term for sexual urge or desire
+why;the cause or intention underlying an action or situation esp in the phrase 'the whys and wherefores'
+warmth;a warmhearted feeling
+cult of personality;intense devotion to a particular person
+despair;the feeling that everything is wrong and nothing will turn out well
+scare;a sudden attack of fear
+enragement;a feeling of intense anger
+syllogism;deductive reasoning in which a conclusion is derived from two premises
+madness;a feeling of intense anger. 'hell hath no fury like a woman scorned'. 'his face turned red with rage'
+line of questioning;an ordering of questions so as to develop a particular argument
+sensuousness;a sensuous feeling
+wee small voice;an inner voice that judges your behavior
+symbolization;something visible that by association or convention represents something else that is invisible. 'the eagle is a symbol of the united states'
+factoring;(mathematics) the resolution of an integer or polynomial into factors such that when multiplied together they give the integer or polynomial
+nature study;the study of animals and plants in the natural world (usually at an elementary level)
+disgust;strong feelings of dislike
+connoisseurship;love of or taste for fine objects of art
+motor memory;your memory for motor skills
+experimental extinction;a learning process in which the reinforcer is removed and a conditioned response becomes independent of the conditioned stimulus
+exaltation;a state of being carried away by overwhelming emotion: 'listening to sweet music in a perfect rapture'- charles dickens
+principle;an explanation of the working of some device in terms of laws of nature. 'the principles of internal-combusiton engines'
+learning;the cognitive process of acquiring skill or knowledge. 'the child's acquisition of language'
+monomania;a mania restricted to one thing or idea
+disincentive;a negative motivational influence
+schick test;a skin test for immunity to diphtheria
+despisal;a feeling of scornful hatred
+attack;turning your attention to a problem or a job etc.. 'his attack on the problem was misguided'. 'he did not make a direct assault on her affections'
+beneficence;doing good. feeling beneficent
+optimism;the optimistic feeling that all is going to turn out well
+urge;an instinctive motive. 'profound religious impulses'
+self hatred;shame resulting from strong dislike of yourself or your actions
+jealousy;a feeling of jealous envy (especially of a rival)
+belligerency;hostile or warlike attitude or nature
+vanity;feelings of excessive pride
+affection;a positive feeling of liking. 'he had trouble expressing the affection he felt'. 'the child won everyone's heart'
+insouciance;the cheerful feeling you have when nothing is troubling you
+exploration;a systematic consideration. 'he called for a careful exploration of the consequences'
+turnaround;a decision to reverse an earlier decision
+humour;a characteristic (habitual or relatively temporary) state of feeling. 'whether he praised or cursed me depended on his temper at the time'. 'he was in a bad humor'
+commiseration;a feeling of sympathy and sorrow for the misfortunes of others. 'the blind are too often objects of pity'
+wanderlust;very strong or irresistible impulse to travel
+craze;an interest followed with exaggerated zeal: 'he always follows the latest fads'. 'it was all the rage that season'
+advertency;the process of being heedful
+overvaluation;too high a value or price assigned to something
+dreaming;a series of mental images and emotions occurring during sleep. 'i had a dream about you last night'
+self complacency;the feeling you have when you are satisfied with yourself. 'his complacency was absolutely disgusting'
+attending;the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others
+jubilation;a feeling of extreme joy
+acquisition;the cognitive process of acquiring skill or knowledge. 'the child's acquisition of language'
+classification;the basic cognitive process of arranging into classes or categories
+clock watching;paying excessive attention to the clock (in anticipation of stopping work)
+penitence;remorse for your past conduct
+humiliation;strong feelings of embarrassment
+abandon;extreme emotional intensity. 'the wildness of his anger'
+creeps;(informal) a feeling of fear and revulsion. 'he gives me the creeps'
+guessing;an estimate based on little or no information
+perceptiveness;delicate discrimination (especially of aesthetic values). 'arrogance and lack of taste contributed to his rapid success'. 'to ask at that particular time was the ultimate in bad taste'
+audio lingual acquisition;system of language acquisition focusing intensively on listening and speaking
+green eyed monster;a feeling of jealous envy (especially of a rival)
+abomination;hate coupled with disgust
+electricity;keen and shared excitement. 'the stage crackled with electricity whenever she was on it'
+isolationism;a policy of nonparticipation in international economic and political relations
+identification;the process of recognizing something or someone by remembering
+irresistible impulse;an urge to do or say something that might be better left undone or unsaid
+mercifulness;the feeling that motivates compassion
+sound perception;the perception of sound as a meaningful phenomenon
+logorrhea;pathologically excessive (and often incoherent) talking
+bang;the release of a store of affective force. 'they got a great bang out of it'. 'what a rush!'. 'he does it for kicks'
+high dudgeon;a feeling of intense indignation (now used only in the phrase 'in high dudgeon')
+memorization;learning so as to be able to remember verbatim. 'the actor's memorization of his lines'
+self knowledge;an understanding of yourself and your goals and abilities
+imprinting;a learning process in early life whereby species specific patterns of behavior are established
+haute couture;trend-setting fashions
+excitement;the feeling of lively and cheerful joy. 'he could hardly conceal his excitement when she agreed'
+grief;intense sorrow caused by loss of a loved one (especially by death)
+synaesthesia;a sensation that normally occurs in one sense modality occurs when another modality is stimulated
+whim;a sudden desire. 'he bought it on impulse'
+terror;an overwhelming feeling of fear and anxiety
+indifference;apathy demonstrated by an absence of emotional reactions
+rubicon;a line that when crossed permits of no return and typically results in irrevocable commitment
+touchiness;feeling easily irritated
+inadvertence;omission resulting from failure to notice something
+tranquility;a state of peace and quiet
+animosity;a feeling of ill will arousing active hostility
+analogy;(logic) inference that if things agree in some respects they probably agree in others
+remorse;a feeling of deep regret (usually for some misdeed)
+carry over;generalization of a skill learned in one situation to a different but similar situation
+zeal;excessive fervor to do something or accomplish some end. 'he had an absolute zeal for litigation'
+oversight;omission resulting from failure to notice something
+need;"the psychological feature that arouses an organism to action. the reason for the action. 'we did not understand his motivation'. 'he acted with the best of motives'"
+investigation;an inquiry into unfamiliar or questionable activities. 'there was a congressional probe into the scandal'
+emotional state;the state of a person's emotions (especially with regard to pleasure or dejection). 'his emotional state depended on her opinion'. 'he was in good spirits'. 'his spirit rose'
+hindsight;understanding the nature of an event after it has happened. 'hindisght is always better than foresight'
+vengefulness;a malevolent desire for revenge
+mass culture;the culture that is widely disseminated via the mass media
+concern;a feeling of sympathy for someone or something. 'she felt strong concern for those less fortunate'
+first derivative;the result of mathematical differentiation. the instantaneous change of one quantity relative to another. df(x)/dx
+carnality;feeling morbid sexual desire
+undertow;an inclination contrary to the strongest or prevailing feeling. 'his account had a poignant undertow of regret'
+digitization;conversion of analog information into digital information
+jocularity;a feeling facetious merriment
+hope;a specific instance of feeling hopeful. 'it revived their hope of winning the pennant'
+imagery;the ability to form mental images of things or events. 'he could still hear her in his imagination'
+frustration;the feeling that accompanies an experience of being thwarted in attaining your goals
+hopelessness;the despair you feel when you have abandoned hope of comfort or success
+bad blood;a feeling of ill will arousing active hostility
+sweetness;the taste experience when sugar dissolves in the mouth
+trend;the popular taste at a given time. 'leather is the latest vogue'. 'he followed current trends'. 'the 1920s had a style of their own'
+glumness;a gloomy ill-tempered feeling
+fever;intense nervous anticipation. 'in a fever of resentment'
+pensiveness;persistent morbid meditation on a problem
+examination;examination of conscience (as done daily by jesuits)
+ruthlessness;feelings of extreme heartlessness
+alpha test;a first test of an experimental product (such as computer software) carried out by the developer
+apprehension;the cognitive condition of someone who understands. 'he has virtually no understanding of social cause and effect'
+imaging;the ability to form mental images of things or events. 'he could still hear her in his imagination'
+puppy love;temporary love of an adolescent
+racket;the auditory experience of sound that lacks musical quality. sound that is a disagreeable auditory experience. 'modern music is just noise to me'
+reasoning backward;the reasoning involved when you assume the conclusion is true and reason backward to the evidence
+gustatory sensation;the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus. 'the candy left him with a bad taste'. 'the melon had a delicious taste'
+style;the popular taste at a given time. 'leather is the latest vogue'. 'he followed current trends'. 'the 1920s had a style of their own'
+misocainea;hatred of new ideas
+harmonic;a tone that is a component of a complex sound
+reconstruction;recall via mental reconstruction
+mercy;the feeling that motivates compassion
+joyousness;the emotion of great happiness
+tactual sensation;the sensation produced by pressure receptors in the skin. 'she likes the touch of silk on her skin'. 'the surface had a greasy feeling'
+party line;the policy of a political group. 'he won in a vote along party lines'
+preference;a strong liking. 'my own preference is for good literature'. 'the irish have a penchant for blarney'. 'martinis are an acquired taste'
+apgar score;an assessment of the physical condition of a newborn infant. involves heart rate and muscle tone and respiratory effort and color and reflex responsiveness
+sorrowfulness;the state of being sad. 'she tired of his perpetual sadness'
+presentiment;a feeling of evil to come: 'a steadily escalating sense of foreboding'. 'the lawyer had a presentiment that the judge would dismiss the case'
+provocation;a means of arousing or stirring to action
+opening;a possible alternative. 'bankruptcy is always a possibility'
+chill;a sudden numbing dread
+generalization;generalization of a skill learned in one situation to a different but similar situation
+discretion;refined taste. tact
+angst;an acute but unspecific feeling of anxiety. usually reserved for philosophical anxiety about the world or about personal freedom
+mind;attention. 'don't pay him any mind'
+spleen;a feeling of resentful anger
+shudder;an almost pleasurable sensation of fright. 'a frisson of surprise shot through him'
+beatitude;a state of supreme happiness
+make believe;an imaginative pretence
+reversal;a decision to reverse an earlier decision
+national trading policy;a government's policy controlling foreign trade
+infatuation;foolish and usually extravagant passion or love or admiration
+mysticism;obscure or irrational thought
+calf love;temporary love of an adolescent
+relish;the taste experience when a savoury condiment is taken into the mouth
+amazement;the feeling that accompanies something extremely surprising. 'he looked at me in astonishment'
+attribution;assigning to a cause or source
+subsumption;incorporating something under a more general category. 'he is a lawyer' is subsumed under 'he is a professional'
+intimidation;the feeling of being intimidated
+frisson;an almost pleasurable sensation of fright. 'a frisson of surprise shot through him'
+gloating;malicious satisfaction
+quietude;a state of peace and quiet
+neglect;lack of attention and due care
+exclusion;a deliberate act of omission. 'with the exception of the children, everyone was told the news'
+monroe doctrine;an american foreign policy opposing interference in the western hemisphere from outside powers
+price control;restriction on maximum prices that is established and maintained by the government (as during periods of war or inflation)
+palmistry;telling fortunes by lines on the palm of the hand
+selection;the person or thing chosen or selected. 'he was my pick for mayor'
+personal memory;memory for episodes in your own life
+devotedness;feelings of ardent love. 'their devotion to each other was beautiful'
+logomania;pathologically excessive (and often incoherent) talking
+stupor;a sudden state of violent emotional disturbance. 'the shock of his mother's death'
+odour;the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form. 'she loved the smell of roses'
+impulse;an instinctive motive. 'profound religious impulses'
+aphrodisia;a desire for heterosexual intimacy
+poignance;a state of deeply felt distress or sorrow: 'a moment of extraordinary poignancy'
+uncheerfulness;a feeling of dreary or pessimistic sadness
+fright;an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+misology;hatred of reasoning
+contrition;sorrow for sin arising from fear of damnation
+test drive;test of the roadworthiness of a vehicle one is considering buying
+loathing;hate coupled with disgust
+depiction;a representation by picture or portraiture
+nausea;disgust so strong it makes you feel sick
+tenderness;warm compassionate feelings
+consternation;fear resulting from the awareness of danger
+petulance;an irritable petulant feeling
+disconsolateness;feeling downcast and disheartened and hopeless
+pessimism;the feeling that things will turn out badly
+belligerence;hostile or warlike attitude or nature
+aggressiveness;a feeling of hostility that arouses thoughts of attack
+understanding;the cognitive condition of someone who understands. 'he has virtually no understanding of social cause and effect'
+pleasance;a fundamental feeling that is hard to define but that people desire to experience. 'he was tingling with pleasure'
+mania;an irrational but irresistible motive for a belief or action
+triumph;the exultation of victory
+gleefulness;great merriment
+acathexis;(psychoanalysis) a lack of cathexis. a condition in which significant objects or memories arouse no emotion in an individual
+pruriency;feeling morbid sexual desire
+definite integral;the integral of a function over a definite interval
+forgiveness;compassionate feelings that support a willingness to forgive
+attrition;sorrow for sin arising from fear of damnation
+supposition;the cognitive process of supposing
+coolness;calm and unruffled self-assurance. 'he performed with all the coolness of a veteran'
+colored audition;a form of chromesthesia in which experiences of color accompany auditory stimuli
+somesthesia;the perception of tactual or proprioceptive or gut sensations. 'he relied on somesthesia to warn him of pressure changes'. 'he had a queasy feeling'
+annoyance;anger produced by some annoying irritation
+theorisation;the production or use of theories
+sense of duty;a motivating awareness of ethical responsibility
+fear;an anxious feeling. 'care had aged him'. 'they hushed it up out of fear of public reaction'
+heartlessness;an absence of concern for the welfare of others
+aloofness;indifference by personal withdrawal. 'emotional distance'
+fervour;feelings of great warmth and intensity. 'he spoke with great ardor'
+antagonism;an actively expressed feeling of dislike and hostility
+disgruntlement;a feeling of sulky discontent
+option;an alternative action. 'what option did i have?' or 'there no other alternative' or 'my only choice is to refuse'
+pilot experiment;a preliminary experiment whose outcome can lead to a more extensive experiment
+gladness;experiencing joy and pleasure
+appetence;a feeling of craving something. 'an appetite for life'. 'the object of life is to satisfy as many appetencies as possible'- granville hicks
+intervention;a policy of intervening in the affairs of other countries
+chiromancy;telling fortunes by lines on the palm of the hand
+impossible;something that cannot be done. 'his assignment verged on the impossible'
+fellow feeling;sharing the feelings of others (especially feelings of sorrow or anguish)
+stink;a distinctive odor that is offensively unpleasant
+animatism;the attribution of consciousness and personality to natural phenomena such as thunderstorms and earthquakes and to objects such as plants and stones
+generalization;reasoning from detailed facts to general principles
+scorn;lack of respect accompanied by a feeling of intense dislike
+quest;a search for an alternative that meets cognitive criteria
+sorrow;an emotion of great sadness associated with loss or bereavement. 'he tried to express his sorrow at her loss'
+tartness;the taste experience when vinegar or lemon juice is taken into the mouth
+morality;motivation based on ideas of right and wrong
+stupefaction;a feeling of stupefied astonishment
+sinking feeling;a feeling caused by uneasiness or apprehension. 'with a sinking heart'. 'a sinking feeling in the pit of my stomach'
+ardor;intense feeling of love
+conscience;motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions
+stolidity;apathy demonstrated by an absence of emotional reactions
+mercilessness;feelings of extreme heartlessness
+sorting;the basic cognitive process of arranging into classes or categories
+scent;an odor left in passing by which a person or animal can be traced
+criticism;a serious examination and judgment of something. 'constructive criticism is always appreciated'
+portraying;a representation by picture or portraiture
+relief;the feeling that comes when something burdensome is removed or reduced. 'as he heard the news he was suddenly flooded with relief'
+mood;a characteristic (habitual or relatively temporary) state of feeling. 'whether he praised or cursed me depended on his temper at the time'. 'he was in a bad humor'
+theorization;the production or use of theories
+symbol;something visible that by association or convention represents something else that is invisible. 'the eagle is a symbol of the united states'
+self depreciation;a feeling of being of little worth
+prefiguration;providing advance indications
+acid test;a rigorous or crucial appraisal
+working memory;memory for intermediate results that must be held during thinking
+nonaggression;a policy of not initiating hostilities. 'they signed a nonagression pact'
+fervidness;feelings of great warmth and intensity. 'he spoke with great ardor'
+enchantment;a feeling of great liking for something wonderful and unusual
+itching;an irritating cutaneous sensation that produces a desire to scratch
+soreness;an uncomfortable feeling in some part of the body
+rage;a feeling of intense anger. 'hell hath no fury like a woman scorned'. 'his face turned red with rage'
+remark;explicit notice. 'it passed without remark'
+self awareness;awareness of your own individuality
+defeat;the feeling that accompanies an experience of being thwarted in attaining your goals
+jubilance;a feeling of extreme joy
+huffishness;a feeling of sulky resentment
+acculturation;the process of assimilating new ideas into an existing cognitive structure
+sulkiness;a mood or display of sullen aloofness or withdrawal: 'stayed home in a sulk'
+episodic memory;memory for episodes in your own life
+knowing;clear and certain mental apprehension
+melody;the perception of pleasant arrangements of musical notes
+lividity;a state of fury so great the face becomes discolored
+playfulness;a festive merry feeling
+craving;an intense desire for some particular thing
+chimaera;a grotesque product of the imagination
+letters;the literary culture. 'this book shows american letters at its best'
+feeling;the sensation produced by pressure receptors in the skin. 'she likes the touch of silk on her skin'. 'the surface had a greasy feeling'
+sense of right and wrong;motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions
+sadism;sexual pleasure obtained by inflicting harm (physical or psychological) on others
+mirror;a faithful depiction or reflection. 'the best mirror is an old friend'
+wishfulness;an unrealistic yearning
+reason;a rational motive for a belief or action. 'the reason that war was declared'. 'the grounds for their declaration'
+consciousness;having knowledge of. 'he had no awareness of his mistakes'. 'his sudden consciousness of the problem he faced'. 'their intelligence and general knowingness was impressive'
+browsing;reading superficially or at random
+kick;the release of a store of affective force. 'they got a great bang out of it'. 'what a rush!'. 'he does it for kicks'
+anguish;extreme mental distress
+smell;the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form. 'she loved the smell of roses'
+exception;a deliberate act of omission. 'with the exception of the children, everyone was told the news'
+reminiscence;a mental impression retained and recalled
+interpolation;(mathematics) calculation of the value of a function between the values already known
+light;a divine presence believed by quakers to enlighten and guide the soul
+self pity;a feeling of sorrow (often self-indulgent) over your own sufferings
+standing for;something visible that by association or convention represents something else that is invisible. 'the eagle is a symbol of the united states'
+oppression;a feeling of being oppressed
+hairsplitting;making too fine distinctions of little importance. 'they didn't take his hairsplitting seriously'
+malice;feeling a need to see other suffer
+ideation;the process of forming and relating ideas
+warmheartedness;a warmhearted feeling
+colored hearing;a form of chromesthesia in which experiences of color accompany auditory stimuli
+solemnity;a solemn and dignified feeling
+ill humour;an angry and disagreeable mood
+pursuit;a search for an alternative that meets cognitive criteria
+inference;the reasoning involved in making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation
+ravishment;a feeling of delight at being filled with wonder and enchantment
+empirical research;an empirical search for knowledge
+hunt;a search for an alternative that meets cognitive criteria
+seeing;perception by means of the eyes
+visual space;the visual perception of space
+lassitude;a feeling of lack of interest or energy
+flash;a sudden brilliant understanding. 'he had a flash of intuition'
+advertence;the process of being heedful
+ungratefulness;a lack of gratitude
+visual perception;perception by means of the eyes
+overestimate;a calculation that results in an estimate that is too high
+fond regard;a feeling of affection for a person or an institution
+resentment;a feeling of deep and bitter anger and ill-will
+cynicism;a cynical feeling of distrust
+brainwave;the clear (and often sudden) understanding of a complex situation
+gratification;state of being gratified. great satisfaction: 'dull repetitious work gives no gratification'. 'to my immense gratification he arrived on time'
+canvass;an inquiry into public opinion conducted by interviewing a random sample of people
+unconscious process;"a mental process that you are not directly aware of. 'the process of denial'"
+cacoethes;an irrational but irresistible motive for a belief or action
+believing;the cognitive process that leads to convictions. 'seeing is believing'
+musing;a calm lengthy intent consideration
+shiver;an almost pleasurable sensation of fright. 'a frisson of surprise shot through him'
+indignation;a feeling of righteous anger
+painful sensation;a somatic sensation of acute discomfort. 'as the intensity increased the sensation changed from tickle to pain'
+consideration;the process of giving careful thought to something
+favor;a feeling of favorable regard
+insight;the clear (and often sudden) understanding of a complex situation
+possession;a mania restricted to one thing or idea
+resolution;something settled or resolved. the outcome of decision making. 'the finally reached a settlement with the union'. 'they never did achieve a final resolution of their differences'
+scene;a display of bad temper. 'he had a fit'. 'she threw a tantrum'. 'he made a scene'
+woe;intense mournfulness
+mental imagery;the ability to form mental images of things or events. 'he could still hear her in his imagination'
+social policy;a policy of for dealing with social issues
+nirvana;(hinduism and buddhism) the beatitude that transcends the cycle of reincarnation. characterized by the extinction of desire and individual consciousness
+papanicolaou test;a method of examining stained cells in a cervical smear for early diagnosis of uterine cancer
+chromaesthesia;a form of synesthesia in which nonvisual stimulation results in the experience of color sensations
+joyfulness;the emotion of great happiness
+presage;a foreboding about what is about to happen
+imagination;the ability to form mental images of things or events. 'he could still hear her in his imagination'
+wherefore;the cause or intention underlying an action or situation esp in the phrase 'the whys and wherefores'
+fondness;a predisposition to like something. 'he had a fondness for whiskey'
+judging;the cognitive process of reaching a decision or drawing conclusions
+underestimate;a calculation that results in an estimate that is too low
+sensuality;desire for sensual pleasures
+dismay;fear resulting from the awareness of danger
+observation;explicit notice. 'it passed without remark'
+shadow;a premonition of something adverse. 'a shadow over his happiness'
+conditioned emotion;an emotional response that has been acquired by conditioning
+fervor;feelings of great warmth and intensity. 'he spoke with great ardor'
+change of mind;a decision to reverse an earlier decision
+stir;emotional agitation and excitement
+astringence;a sharp astringent taste. the taste experience when a substance causes the mouth to pucker
+sulkiness;a feeling of sulky resentment
+exuberance;joyful enthusiasm
+illation;the reasoning involved in making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation
+abashment;feeling embarrassed due to modesty
+language learning;learning to use a language
+christ within;a divine presence believed by quakers to enlighten and guide the soul
+economic policy;a government policy for maintaining economic growth and tax revenues
+pressure sensation;the somatic sensation of pressure. 'the sensitivity of his skin to pressure and temperature was normal'
+natural history;the systematic account of natural phenomena
+dynamic;an efficient incentive. 'they hoped it would act as a spiritual dynamic on all churches'
+impulse;a sudden desire. 'he bought it on impulse'
+empathy;understanding and entering into another's feelings
+enmity;the feeling of a hostile person. 'he could no longer contain his hostility'
+abhorrence;hate coupled with disgust
+misgiving;uneasiness about the fitness of an action
+hardheartedness;an absence of concern for the welfare of others
+turnabout;a decision to reverse an earlier decision
+sensation;an unelaborated elementary awareness of stimulation. 'a sensation of touch'
+niff;(british slang) an unpleasant smell
+state;(informal) a state of depression or agitation. 'he was in such a state you just couldn't reason with him'
+impossibility;an alternative that is not available
+colour constancy;the tendency for a color to look the same under widely different viewing conditions
+smattering;a slight or superficial understanding of a subject
+grade;a number or letter indicating quality (especially of a student's performance). 'she made good marks in algebra'. 'grade a milk'. 'what was your score on your homework?'
+happiness;emotions experienced when in a state of well-being
+neutralism;a policy of neutrality or nonalignment in international affairs
+introjection;(psychoanalysis) the internalization of the parent figures and their values. leads to the formation of the superego
+sour;the taste experience when vinegar or lemon juice is taken into the mouth
+dread;fearful expectation or anticipation: 'the student looked around the examination room with apprehension'
+auditory perception;the perception of sound as a meaningful phenomenon
+hackles;a feeling of anger and animosity. 'having one's hackles or dander up'
+good humour;a cheerful and agreeable mood
+oppressiveness;a feeling of being oppressed
+mawkishness;insincere pathos
+temperature;the somatic sensation of cold or heat
+trade embargo;a government order imposing a trade barrier
+dissatisfaction;the feeling of being displeased and discontent. 'he was never slow to express his dissatistfaction with the service he received'
+dislike;a feeling of aversion or antipathy. 'my dislike of him was instinctive'
+soul searching;a penetrating examination of your own beliefs and motives
+applecart;the planning that is disrupted when someone 'upsets the applecart'
+vision;the perceptual experience of seeing. 'the runners emerged from the trees into his clear vision'. 'he had a visual sensation of intense light'
+physical attraction;a desire for sexual intimacy
+lecherousness;a strong sexual desire
+trepidation;a feeling of alarm or dread
+testiness;feeling easily irritated
+dividing line;a conceptual separation or demarcation: 'there is a narrow line between sanity and insanity'
+rejoicing;a feeling of great happiness
+reappraisal;a new appraisal or evaluation
+ethics;motivation based on ideas of right and wrong
+dissection;a minute and critical analysis
+immediate apprehension;immediate intuitive awareness
+discernment;delicate discrimination (especially of aesthetic values). 'arrogance and lack of taste contributed to his rapid success'. 'to ask at that particular time was the ultimate in bad taste'
+sharpness;having a sharp bitter flavor
+nymphomania;abnormally intense sexual desire in women
+restlessness;a feeling of agitation expressed in continual motion. 'he's got the fidgets'. 'waiting gave him a feeling of restlessness'
+study;applying the mind to learning and understanding a subject (especially by reading). 'mastering a second language requires a lot of work'. 'no schools offer graduate study in interior design'
+point of no return;a line that when crossed permits of no return and typically results in irrevocable commitment
+fancy;a predisposition to like something. 'he had a fondness for whiskey'
+nativism;the policy of perpetuating native cultures (in opposition to acculturation)
+ingratitude;a lack of gratitude
+floor;a lower limit: 'the government established a wage floor'
+ill will;the feeling of a hostile person. 'he could no longer contain his hostility'
+pitilessness;feelings of extreme heartlessness
+difference threshold;the smallest change in stimulation that a person can detect

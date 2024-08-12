@@ -1,0 +1,5 @@
+physical-endurant
+particular
+Thing
+endurant
+spatio-temporal-particular

@@ -1,0 +1,13 @@
+control-task
+particular
+Thing
+non-physical-endurant
+course
+non-physical-object
+non-agentive-social-object
+task
+elementary-task
+social-object
+concept
+endurant
+spatio-temporal-particular

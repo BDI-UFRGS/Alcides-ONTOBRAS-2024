@@ -1,0 +1,62 @@
+independent continuant;human migratory population;a migratory population of humans, travelling with the intention of settling in a new area.
+independent continuant;taxon as collection of organisms;a collection of organisms that has as members every organism of a taxon and no organisms of any other equal or higher ranked taxon. the taxon may be at any level. if the taxon is species, then this is the same as the class species as a collection of organisms. when defining a taxon, it is generally understood that members include both living organisms and dead organisms that are known through specimens or observations.
+independent continuant;household;an organismal entity that consists of one or more people who live in the same dwelling and also share at meals or living accommodation, and may consist of a single family or some other grouping of people.
+independent continuant;species as a collection of organisms;a collection of organisms that has as members every organism of given species and no organisms of any other species.
+independent continuant;single-species collection of organisms;a material entity that has as parts two or more organisms, viruses, or viroids of the same species and no members of any other species.
+independent continuant;collection of organisms;a material entity that consists of two or more organisms, viruses, or viroids.
+independent continuant;parasite isolate population;a microbial population of parasites that is defined by shared features such as genetic markers reflecting a common origin and distinguishing the population from other related parasite populations.
+independent continuant;microbial population;a population of organisms consisting of only microbes of the same species, that live in the same place.
+independent continuant;agricultural household;a household in which the majority of the income of its members is derived from agricultural activities.
+independent continuant;ecological community;a multi-species collection of organisms of at least two different species, living in a particular area. must have at least two populations of different species as members.
+independent continuant;organismal entity;a material entity that is one or more organisms, viruses or viroids.
+independent continuant;microbial parasite;an organism or virus or viroid that is a microbe and a parasite.
+independent continuant;family;a domestic group, or a number of domestic groups linked through descent (demonstrated or stipulated) from a common ancestor, marriage, or adoption.
+independent continuant;microbial community;an ecological community which is composed of co-existing populations of microbial organisms that interact, directly or indirectly, such that they impact one another's ecological fitness.
+independent continuant;species as a collection of organisms;a collection of organisms that has as parts every organism of a species and no organisms of any other species.
+independent continuant;multi-species collection of microbes;a multi-species collection of organisms that consists of two or more microbes from at least two species.
+independent continuant;migratory population;a population which is participating in a migration process.
+independent continuant;multi-species collection of organisms;a collection of organisms that consists of two or more organisms from at least two species.
+independent continuant;tidal mangrove shrubland community;an ecological community which is composed primarily of dwarf or short mangroves, often populations of laguncularia racemosa, avicennia germinans, sarcocornia pacifica, or batis maritima.
+independent continuant;collection of humans;a collection of organisms of the same species that has as members only humans.
+independent continuant;alga excluding cyanobacteria;an organism that is part of a polyphyletic group of mostly photosynthetic eukaryotes encompassing green plants excluding embriophyta (land plants). included organisms range from unicellular microalgae, such as chlorella and diatoms to multicellular forms such as giant kelp.
+independent continuant;biological family;a collection of organisms of the same species whose members are all either genealogically related to each other or have mated with each other.
+independent continuant;pair of interacting organisms of the same species;a pair of interacting organisms that consists of exactly two organism, viruses, or viroids of the same species that are interacting with each other.
+independent continuant;population of organisms;a collection of organisms, all of the same species, that live in the same place.
+independent continuant;pair of interacting organisms;a collection of organisms that consists of exactly two organism, viruses, or viroids that are interacting with each other.
+specifically dependent continuant;quality of a population;a quality that inheres in a population of organisms.
+specifically dependent continuant;overcrowded population;an increased mass density of a population of organisms such that the density of organisms in an area is increased beyond sustainable levels.
+specifically dependent continuant;population growth rate;the rate of growth of a population.
+specifically dependent continuant;gamma diversity;a community species diversity that is the total species diversity in a landscape. the area or landscape of interest may be of very different sizes in different situations, but it should encompass multiple sites or habitats as measured by alpha diversity.
+specifically dependent continuant;population birth rate;the rate of birth of a population of organisms.
+specifically dependent continuant;seedling density;the density of seedlings in an ecological community or population, often measured as the number of seedlings per area.
+specifically dependent continuant;invisible to unaided eye;a physical object quality that is inhered in a material entity that is too small to be viewed by the unaided eye.
+specifically dependent continuant;inverse simpson diversity index;a community species diversity metric that is quantified via the following formula: the sum of squared proportion of species i relative to the total number of species (pi).
+specifically dependent continuant;alpha diversity;a community species diversity that is the mean species diversity at a site or within a specific habitat.
+specifically dependent continuant;plant density of an ecological community;the density of plants in an ecological community (multiple species), often measured as the number of plants per area.
+specifically dependent continuant;shannon diversity index;a community species diversity metric that accounts for both the abundance and evenness of the species present quantified via the following formula: the negative sum of, the product of the proportion of species i relative to the total number of species (pi) multiplied by the natural logarithm of this proportion (ln pi).
+specifically dependent continuant;seedling density of a population;the density of seedlings in a population or organisms (a single species), often measured as the number of seedlings per area.
+specifically dependent continuant;plant density of a population;the density of plants in a population or organisms (a single species), often measured as the number of plants per area.
+specifically dependent continuant;community species richness;the number of different species represented in an ecological community.
+specifically dependent continuant;simpson diversity index;a community species diversity metric that is quantified via the following formula: the reciprocal of the sum of squared proportion of species i relative to the total number of species (pi).
+specifically dependent continuant;quality of an ecological community;a quality that inheres in a community.
+specifically dependent continuant;community species evenness;a quality of an ecological community that reflects how close in abundance all species in a community are.
+specifically dependent continuant;beta diversity;a community species diversity that is the ratio between regional and local species diversity.
+specifically dependent continuant;population death rate;the rate of death of a population of organsisms.
+specifically dependent continuant;seedling density of an ecological community;the density of seedlings in an ecological community (multiple species), often measured as the number of plants per area.
+specifically dependent continuant;overcrowded human population;a quality of a human population such that the density humans in an area is increased beyond sustainable levels.
+specifically dependent continuant;community species diversity;the number of different species that are represented in a given community, weighted by their abundance. community species diversity can be calculated in different ways, but consists of two components: species richness and species evenness.
+generically dependent continuant;number of generations of multicellular organism;a count data item of the number of steps in the line of descent from a common ancestor for a multicellular organism.
+process;population extinction;a population process that ultimately leads to the death of all individuals in a population.
+process;human population migration;a population migration during which a population of humans moves from one area to another with the intention of settling permanently in the new location.
+process;party;a human social gathering in which the intention is to have a good time. often the intention is to celebrate something like a birthday, anniversary, or holiday, but there is not always a purpose.
+process;baby shower;a human social gathering at which the key participant is an expectant parent and other guests bring presents for the soon to be born baby.
+process;logistic population growth;a population process that leads to an increase in the numbers of individuals in a population following a logistic (s-shaped) curve. generally occurs when the population has a carrying capacity in a particular habitat.
+process;wedding;a human social gathering at which two people are married. may include a legal or social ceremony.
+process;population migration;a population process during which a population moves from one area to another.
+process;population growth;a process that leads to a change in the number of individuals (positive or negative) in a population.
+process;species extinction;a process that ultimately leads to the death of all individuals in a population.
+process;exponential population growth;a population growth process that leads to an exponential increase in the number of individuals in a population.
+process;population process;a process that has as primary participant a population. includes processes such as population growth, extinction, evolution, selection, and adaptation. population processes may depend on the processes of individual organisms {e.g., population growth reflects the cumulative multicellular organism reproduction (go:0032504) and death (go:0016265) of all individuals in a population}, but cannot be described for an individual organism. some of these processes (e.g., evolution, extinction) can also occur at the species level, so pco distinguishes between, for example, population extinction and species extinction.
+process;human community event;a human social event in which humans living in the same area or neighborhood gather to carry out activiites relevent to the people living in the area.
+process;potluck;a human social gathering at which each participant is expected to bring food to share. a potluck also can be party, a social meal, or some other type of social gathering.
+process;human social gathering activity;a type of social behavior in which a collection of humans intentionally gathers together on a temporary basis to engage socially.

@@ -1,0 +1,7 @@
+spatio-temporal-region
+physical-region
+particular
+Thing
+abstract
+space-region
+region

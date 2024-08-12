@@ -1,0 +1,4 @@
+depiction
+particular
+Thing
+spatio-temporal-particular

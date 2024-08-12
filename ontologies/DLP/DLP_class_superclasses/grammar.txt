@@ -1,0 +1,12 @@
+grammar
+particular
+Thing
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+social-object
+description
+combinatorial-system
+endurant
+spatio-temporal-particular
+information-encoding-system

@@ -1,0 +1,7 @@
+chemical-object
+particular
+Thing
+physical-endurant
+endurant
+spatio-temporal-particular
+physical-object

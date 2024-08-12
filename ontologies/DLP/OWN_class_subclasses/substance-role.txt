@@ -1,0 +1,343 @@
+nickel steel;an alloy steel containing nickel
+coagulase;an enzyme that induces coagulation
+nutrient agar;any culture medium that uses agar as the gelling agent
+deuterium oxide;water containing a substantial proportion of deuterium atoms, used in nuclear reactors
+drumlin;a mound of glacial drift
+mao;an enzyme that catalyzes the oxidation of many body compounds (e.g., epinephrine and norepinephrine and serotonin)
+sediment;"matter deposited by water or ice or wind"
+hunk;"a large piece of something without definite shape. 'a hunk of bread' or 'a lump of coal'"
+alnico;an alloy used to make high-energy permanent magnets. contains aluminum and iron and nickel plus cobalt or copper or titanium
+eutectoid steel;a steel that contains 0.9% carbon (the eutectic point in the iron-carbon system). a carbon steel with 0.9% carbon is pure pearlite
+copper base alloy;any alloy whose principal component is copper
+lick;a salt deposit that animals regularly lick
+pearlite;a lamellar mixture of cementite and ferrite formed during the cooling of austenite. a micro-constituent of steel and cast iron
+liquid nitrogen;nitrogen in a liquid state
+electrum;an alloy of gold and silver
+enzyme;any of several complex proteins that are produced by cells and act as catalysts in specific biochemical reactions
+brass;an alloy of copper and zinc
+composition;a mixture of ingredients
+precipitant;"a substance that causes a precipitate to form"
+bell metal;bronze with 3 or 4 parts copper to 1 part tin. used in making bells
+mouthwash;a medicated solution used for gargling and rinsing the mouth
+roughcast;a coarse plaster for the surface of external walls
+babbitt metal;a alloy of tin with some copper and antimony. an anti-friction lining for bearings
+carcinogen;"any substance that produces cancer"
+slurry;a suspension of insoluble particles (as plaster of paris or lime or clay etc.) usually in water
+invar;(trademark) an alloy of iron and nickel having a low coefficient of thermal expansion. used in tuning forks and measuring tapes and other instruments
+aluminium bronze;a copper-aluminum alloy with high tensile strength and resistance to corrosion
+thromboplastin;an enzyme liberated from blood platelets that converts prothrombin into thrombin as blood starts to clot
+platinum black;a fine black powder of platinum. used as a catalyst in chemical reactions
+globular pearlite;if steel or iron cool very slowly the cementite may occur in globules instead of in layers
+alluvium;clay or slit or gravel carried by rushing streams and deposited where the stream slows down
+nickel bronze;a bronze containing up to 30% nickel
+fly ash;fine solid particles of ash that are carried into the air when fuel is combusted
+ptyalin;an amylase secreted in saliva
+silica gel;a porous form of silica that is highly absorbent
+starting buffer;buffer solution at the start of a reaction
+bleach liquor;a solution containing bleaching agents that is used to bleach textiles or paper pulp
+silver solder;a solder that contains silver
+black catechu;extract of the heartwood of acacia catechu used for dying and tanning and preserving fishnets and sails. formerly used medicinally
+sour mash;a mash with optimum acidity for yeast fermentation. a mixture of old and new mash. used in distilling some whiskeys
+carbon steel;steel whose characteristics are determined by the amount of carbon it contains
+freezing mixture;a mixture of substances (usually salt and ice) to obtain a temperature below the freezing point of water
+solid solution;a homogeneous solid that can exist over a range of component chemicals. a constituent of alloys that is formed when atoms of an element are incorporated into the crystals of a metal
+soup;(informal) any composition having a consistency suggestive of soup
+guinea gold;brass with enough copper to give it a reddish tint. used for plumbing pipe and other brass hardware and in cheap jewelry
+agar;any culture medium that uses agar as the gelling agent
+phosphor bronze;a corrosion-resistant bronze containing phosphorus. used in bearings and gears
+papain;a proteolytic enzyme obtained from the unripe papaya. used as a meat tenderizer
+molybdenum steel;steel containing 10-15% molybdenum. properties are similar to tungsten steel
+sapropel;sludge (rich in organic matter) that accumulates at the bottom of lakes or oceans
+ballast;"used to stabilize a ship or airship"
+sap;a watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant
+suspension;a mixture in which fine particles are suspended in a fluid where they are supported by buoyancy
+high brass;brass with 35% zinc
+alloy steel;steel who characteristics are determined by the addition of other elements in addition to carbon
+mild steel;steel with less than 0.15% carbon
+sample;"a small part of something intended as representative of the whole"
+gunk;"any thick messy substance"
+tambac;an alloy of copper and zinc (and sometimes arsenic) used to imitate gold in cheap jewelry and for gilding
+naval brass;alpha-beta brass containing tin. resistant to sea water. admiralty metal is a trademark
+gilding metal;a brass that is rich in copper. used to make articles that were to be gilded
+spindrift;spray blown up from the surface of the sea
+monell metal;an alloy of nickel and copper and other metals (such as iron and/or manganese and/or aluminum)
+water vapor;water in a vaporous form diffused in the atmosphere but below boiling temperature
+gunmetal;a type of bronze used for parts subject to wear or corrosion (especially corrosion by sea water)
+steam;water at boiling temperature diffused in the atmosphere
+steel;an alloy of iron with small amounts of carbon and manganese. widely used in construction. mechanical properties can be varied over a wide range
+thrombokinase;an enzyme liberated from blood platelets that converts prothrombin into thrombin as blood starts to clot
+plasminogen;an inactive form of plasmin that occurs in plasma and is converted to plasmin by organic solvents
+sea spray;spray from ocean waves
+polymerase;an enzyme that catalyzes the formation of dna and rna from an existing strand of dna or rna
+austenite;a solid solution of ferric carbide or carbon in iron. cools to form pearlite or martensite
+deposit;"matter deposited by water or ice or wind"
+heavy water;water containing a substantial proportion of deuterium atoms, used in nuclear reactors
+cryogen;a liquid that boils at below -160 c and is used as a refrigerant
+hyper eutectoid steel;a steel that contains more than 0.9% carbon
+finishing coat;the final coat of plaster applied to walls and ceilings. 'we can't paint until they put on the finishing coat'
+formalin;a 10% solution of formaldehyde in water. used as a disinfectant or to preserve biological specimens
+nugget;a solid lump of a precious metal (especially gold) as found in the earth
+leaded bronze;bronze to which 1-4% lead is added
+eureka;a copper-nickel alloy with high electrical resistance and a low temperature coefficient. used as resistance wire
+red brass;brass with enough copper to give it a reddish tint. used for plumbing pipe and other brass hardware and in cheap jewelry
+moderator;any substance used to slow down neutrons in nuclear reactors
+plaster;a mixture of lime or gypsum with sand and water. hardens into a smooth solid. used to cover walls and ceilings
+soft cast steel;steel with less than 0.15% carbon
+dilution;a diluted solution
+chrome nickel steel;elinvar is a trademark for a kind of nickel-chromium steel used for watch springs because its elasticity is constant over a wide range of temperatures
+ragweed pollen;pollen of the ragweed plant is a common allergen
+solute;"the dissolved substance in a solution. the component of a solution that changes its state"
+extract;a solution obtained by steeping or soaking a substance (usually in water)
+ambrosia;a mixture of nectar and pollen prepared by worker bees and fed to larvae
+plasmin;an enzyme that dissolves the fibrin of blood clots
+rennin;an enzyme that occurs in gastric juice. causes milk to coagulate
+britannia metal;an alloy similar to pewter
+permalloy;an 80/20 alloy of nickel and iron. easily magnetized and demagnetized
+histamine;stimulates gastric secretions and dilates blood vessels. released during allergic reactions
+lamellar mixture;a mixture in which substances occur in distinct layers
+pewter;any of various alloys of tin with small amounts of other metals (especially lead)
+tombac;an alloy of copper and zinc (and sometimes arsenic) used to imitate gold in cheap jewelry and for gilding
+complement;one of a series of enzymes in the blood serum that are part of the immune response
+rochelle salts;a double salt used in seidlitz powder. acts as a cathartic
+formol;a 10% solution of formaldehyde in water. used as a disinfectant or to preserve biological specimens
+manganese steel;a steel with a relatively large component (10-14%) of manganese. highly resistant to wear and shock
+double salt;a solid solution of two simple salts
+soft solder;solder that melts at a relatively low temperature
+inhibitor;"a substance that retards or stops an activity"
+thrombin;an enzyme that acts on fibrinogen in blood causing it to clot
+admiralty brass;alpha-beta brass containing tin. resistant to sea water. admiralty metal is a trademark
+pargeting;used to coat outer walls and line chimneys
+structural steel;a strong steel that is rolled into shapes that are used in construction
+medium;"a liquid with which pigment is mixed by a painter"
+quenched steel;steel that has been hardened by immersing it in water or oil to cool it
+shiner;"something that shines"
+chlorine water;an aqueous solution of chlorine used as a bleaching agent
+compost;a mixture of decaying vegetation and manure. used as a fertilizer
+grounds;sediment that has settled at the bottom of a liquid
+manna;hardened suggary exudation of various trees
+parget;used to coat outer walls and line chimneys
+lump;"a large piece of something without definite shape. 'a hunk of bread' or 'a lump of coal'"
+lipase;an enzyme secreted in the digestive tract that catalyzes the breakdown of fats
+pounder;"something weighing a given number of pounds. 'the fisherman caught a 10-pounder' or 'their linemen are all 300-pounders'"
+fibrinogen;a globulin present in blood plasma. converts to fibrin when blood clots
+chromium steel;steel containing chromium that makes it resistant to corrosion
+prothrombin;a protein in blood plasma that is the inactive precursor of thrombin
+refrigerant;"a substance used to provide cooling (as in a refrigerator)"
+silver protein;a colloidal preparation of protein (albumin or gelatin) and silver oxide. used in aqueous solution as an antibacterial agent
+stellite;(trademark) a cobalt-base alloy with chromium and other metals. very hard. used to make cutting tools and for surfaces subject to heavy wear
+eutectic;a mixture of substances having a minimum melting point
+denaturant;"any substance that serves as a denaturing agent"
+spray;water in small drops in the atmosphere. blown from waves or thrown up by a waterfall
+babbitt;a alloy of tin with some copper and antimony. an anti-friction lining for bearings
+pinchbeck;an alloy of copper and zinc that is used in cheap jewelry to imitate gold
+admiralty metal;alpha-beta brass containing tin. resistant to sea water. admiralty metal is a trademark
+nickel alloy;an alloy whose main constituent is nickel
+beebread;a mixture of nectar and pollen prepared by worker bees and fed to larvae
+ectoplasm;(in spiritualism) the substance supposed to emanate from the body of the medium during a trance
+solvate;"a compound formed by solvation (the combination of solvent molecules with molecules or ions of the solute)"
+hard solder;solder that contains copper. melts at a relatively high temperature. used for brazing
+soda lime;a mixture of sodium and calcium hydroxides. absorbs liquids and gases
+fibrinase;an enzyme that dissolves the fibrin of blood clots
+gook;"any thick messy substance"
+sludge;"any thick messy substance"
+alpha bronze;a copper-tin alloy that can be worked
+cupronickel;a 60/40 alloy of copper and nickel
+dental amalgam;an alloy of metal with another metal (usually silver) used by dentists to fill cavities in teeth
+constantan;a copper-nickel alloy with high electrical resistance and a low temperature coefficient. used as resistance wire
+streptodornase;an enzyme produced by some hemolytic strains of streptococcus that dissolves fibrinous secretions from infections. used medicinally (often in combination with streptokinase)
+ormolu;brass that looks like gold. used to decorate furniture
+nickel base alloy;an alloy whose main constituent is nickel
+placer;an alluvial deposit that contains particles of some valuable mineral
+lees;the sediment from fermentation of an alcoholic beverage
+contrast medium;a substance that is opaque to x rays. when administered orally or intravenously it allows a radiologist to examine the organ or tissue it fills
+primary solid solution;a homogeneous solid that can exist over a range of component chemicals. a constituent of alloys that is formed when atoms of an element are incorporated into the crystals of a metal
+aluminum bronze;a copper-aluminum alloy with high tensile strength and resistance to corrosion
+spoondrift;spray blown up from the surface of the sea
+liquid air;air in a liquid state
+grout;a thin mortar that can be poured and used to fill cracks in masonry or brickwork
+ferrocerium;a pyrophoric alloy of iron with cerium. used for lighter flints
+fusible metal;an alloy with a low melting point and used as solder and in safety plugs and sprinkler fuses
+emanation;"something that is produced by emanation"
+colloidal solution;a colloid that has a continuous liquid phase in which a solid is suspended in a liquid
+water vapour;water in a vaporous form diffused in the atmosphere but below boiling temperature
+alpha brass;a brass-zinc alloy. used mainly for cold working
+case hardened steel;steel with a surface that is much harder than the interior metal
+pepsin;an enzyme produced in the stomach. when activated by acid it splits proteins into peptones
+megilp;a medium for oil-paints. linseed oil mixed with mastic varnish or turpentine
+oil hardened steel;steel that is quenched in oil
+hard steel;steel with more than 0.3% carbon
+vapour;a visible suspension in the air of particles of some substance
+infusion;a solution obtained by steeping or soaking a substance (usually in water)
+duralumin;(trademark) an aluminum-based alloy
+silicon bronze;a bronze with 2-3% silicon that is resistant to corrosion
+amylase;any of a group of proteins found in saliva and pancreatic juice and parts of plants. help convert starch to sugar
+chrome tungsten steel;a steel alloy made with chromium and tungsten
+protease;any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis
+crucible steel;steel made by the mixture of molten wrought iron, charcoal, and other substances in a crucible
+zymase;a complex of enzymes that cause glycolysis. originally found in yeast but also present in higher organisms
+cotton cake;the solid matter remaining after oil has been pressed from cottonseeds
+oxidase;any of the enzymes that catalyze biological oxidation
+transaminase;a class of enzymes that cause transamination
+blood agar;a culture medium containing whole blood as the nutrient
+activating agent;(mineral extraction) a surface-active chemical used in flotation process to increase the attraction to a specific mineral
+yellow metal;a brass that has more zinc and is stronger than alpha brass. used in making castings and hot-worked products
+bedding;"material used to provide a bed for animals"
+mechanical mixture;a mixture whose components can be separated by mechanical means
+carboloy;(trademark) an alloy based on tungsten with cobalt or nickel as a binder. used in making metal-cutting tools
+oxygenase;an oxidoreductase that catalyzes the incorporation of molecular oxygen
+ligand;"an atom or molecule or radical or ion that forms a complex around a central atom"
+injection;any solution that is injected (as into the skin)
+colloid;a mixture with properties between those of a solution and fine suspension
+wood s metal;a fusible bismuth-base alloy. melts at about 160 degrees fahrenheit
+chisel steel;steel used in making chisels
+injectant;any solution that is injected (as into the skin)
+toner;a solution containing chemicals that can change the color of a photographic print
+brine;a strong solution of salt and water used for pickling
+tobin bronze;alpha-beta brass containing tin. resistant to sea water. admiralty metal is a trademark
+histaminase;catalyst in converting histidine to histamine
+culture medium;"(bacteriology) a nutrient substance (solid or liquid) that is used to cultivate micro-organisms"
+white gold;a pale alloy of gold usually with platinum or nickel or palladium
+muck;"any thick messy substance"
+emulsion;(chemistry) a colloid in which both phases are liquids. 'an oil-in-water emulsion'
+coagulation factor;"any of the factors in the blood whose actions are essential for blood coagulation"
+spackling compound;a plastic paste to fill cracks and holes in plaster
+eluate;a liquid solution that results from elution
+misch metal;a pyrophoric alloy made from a mixture of rare-earth metals
+coffee grounds;the dregs remaining after brewing coffee
+evaporite;the sediment that is left after the evaporation of seawater
+wolfram steel;a very hard heat-resistant steel containing tungsten
+coupon;a test sample of some substance
+gummite;a gummy orange mixture of uranium oxides and silicates occurring naturally in the hydration and oxidation of pitchblende
+paste;any mixture of a soft and malleable consistencypastes the contents of the clipboard into the view at the insertion point.
+martensite;a solid solution of carbon in alpha-iron that is formed when steel is cooled so rapidly that the change from austenite to pearlite is suppressed. responsible for the hardness of quenched steel
+gargle;a medicated solution used for gargling and rinsing the mouth
+ash;the residue that remains when something is burned
+sensitizer;(chemistry) a substance other than a catalyst that facilitates the start of a catalytic reaction. (physics) an impurity that augments luminescence in a mineral
+vanadium steel;steel alloyed with vanadium for greater strength and high-temperature stability
+spackle;a plastic paste to fill cracks and holes in plaster
+oxyacetylene;a mixture of oxygen and acetylene. used to create high temperatures for cutting or welding metals
+proteolytic enzyme;any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis
+alluvial sediment;clay or slit or gravel carried by rushing streams and deposited where the stream slows down
+electrolyte;a solution that conducts electricity
+tool steel;alloy steel that is suitable for making tools. is hard a tough and can retain a cutting edge
+medium;"(biology) a substance in which specimens are preserved or displayed"
+tungsten steel;a very hard heat-resistant steel containing tungsten
+colloidal suspension;a colloid that has a continuous liquid phase in which a solid is suspended in a liquid
+grinding;"matter resulting from the process of grinding. 'vegetable grindings clogged the drain'"
+gel;a colloid is a more solid form than a sol
+streptokinase;an enzyme produced by some strains of streptococcus that can liquefy blood clots by converting plasminogen to plasmin. used medicinally in some cases of myocardial infarction and pulmonary embolism
+glutamic oxalacetic transaminase;an enzyme involved in transamination
+alpha beta brass;a brass that has more zinc and is stronger than alpha brass. used in making castings and hot-worked products
+fibrinolysin;an enzyme that dissolves the fibrin of blood clots
+hypo eutectoid steel;a steel that contains less that 0.9% carbon
+volatile;"a volatile substance. a substance that changes readily from solid or liquid to a vapor. 'it was heated to evaporate the volatiles'"
+beryllium bronze;a copper-base alloy containing beryllium
+oxidoreductase;an enzyme that catalyzes oxidation-reduction
+system;"(physical chemistry) a sample of matter in which substances in different phases are in equilibrium. 'in a static system oil cannot be replaced by water on a surface'. 'a system generating hydrogen peroxide'"
+alloy;a mixture of two or more metals or of metallic and nonmetallic elements usually fused together or dissolving into each other when molten
+salt lick;a salt deposit that animals regularly lick
+wood s alloy;a fusible bismuth-base alloy. melts at about 160 degrees fahrenheit
+sterling silver;a silver alloy with no more than 7.5% copper
+bedding material;"material used to provide a bed for animals"
+residue;"matter that remains after something has been removed"
+pyrophoric alloy;an alloy that emits sparks when struck or scratched with steel. used in lighter flints
+isosmotic solution;a solution having the same osmotic pressure as blood
+beef tea;an extract of beef (given to people who are ill)
+saline;an isotonic solution of sodium chloride and distilled water
+damascus steel;a hard resilient steel often decorated and used for sword blades
+muntz metal;a brass that has more zinc and is stronger than alpha brass. used in making castings and hot-worked products
+resuspension;a suspension after precipitation
+cutting;"a piece cut off from the main part of something"
+catalyst;(chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected
+reverse transcriptase;a polymerase that catalyzes the formation of dna using rna as a template. found especially in retroviruses
+goo;"any thick messy substance"
+pruning;something that has been pruned off of a plant
+monoamine oxidase;an enzyme that catalyzes the oxidation of many body compounds (e.g., epinephrine and norepinephrine and serotonin)
+mash;a mixture of mashed malt grains and hot water. used in brewing
+high speed steel;an alloy steel that remains hard at a red heat. used to make metal-cutting tools
+white metal;an alloy, often of lead or tin base, used for bearings
+greek fire;a mixture used by byzantine greeks that was often shot at adversaries. catches fire when wetted
+austenitic manganese steel;a steel with a relatively large component (10-14%) of manganese. highly resistant to wear and shock
+allergen;"any substance that can cause an allergy"
+rochelle salt;a double salt used in seidlitz powder. acts as a cathartic
+liquid bleach;a solution containing bleaching agents. used for laundry
+grab sample;a sample grabbed at random
+saline solution;an isotonic solution of sodium chloride and distilled water
+bearing brass;a brass bushing or a lining for a bearing
+stainless steel;steel containing chromium that makes it resistant to corrosion
+tombak;an alloy of copper and zinc (and sometimes arsenic) used to imitate gold in cheap jewelry and for gilding
+biocatalyst;a biochemical catalyst such as an enzyme
+drift;"something heaped up by the wind or current"
+ferrite;a solid solution in which alpha iron is the solvent
+live steam;steam coming from a boiler at full pressure
+austenitic steel;steel that has enough nickel and chromium or manganese to retain austenite at atmospheric temperatures
+conjugate;a mixture of two partially miscible liquids a and b produces two conjugate solutions: one of a in b and another of b in a
+accelerator;(chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected
+anticatalyst;(chemistry) a substance that retards a chemical reaction or diminishes the activity of a catalyst
+activator;"any agency bringing about activation. (biology) a molecule that increases the activity of an enzyme or a protein that increases the production of a gene product in dna transcription"
+high strength brass;a brass with from 1-4% manganese to harden it
+shot metal;an alloy that is 98% lead and 2% arsenic. used in making small shot
+medium;"(bacteriology) a nutrient substance (solid or liquid) that is used to cultivate micro-organisms"
+chymosin;an enzyme that occurs in gastric juice. causes milk to coagulate
+polyelectrolyte;an electrolyte of high molecular weight
+low brass;brass with 30% (or less) zinc
+guck;"any thick messy substance"
+manganese bronze;a brass with from 1-4% manganese to harden it
+snowdrift;a mass of snow heaped up by the wind
+peptidase;any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis
+aqueous solution;a solution in water
+solution;a homogeneous mixture of two or more substances. frequently (but not necessarily) a liquid solution. 'he used a solution of peroxide and water'
+ooze;"any thick messy substance"
+litter;"material used to provide a bed for animals"
+antioxidant;substance that inhibits oxidation
+inconel;(trademark) an nickel-base alloy with chromium and iron. used in gas-turbine blades
+random sample;a sample grabbed at random
+essence;"any substance possessing to a high degree the predominant properties of a plant or drug or other natural product from which it is extracted"
+conjugate solution;a mixture of two partially miscible liquids a and b produces two conjugate solutions: one of a in b and another of b in a
+vapor;a visible suspension in the air of particles of some substance
+spirits of ammonia;a solution of ammonium carbonate in ammonia water and alcohol
+cartridge brass;a copper-zinc alloy (containing about 30% zinc) that is wrought into cartridges or tubing
+sal volatile;a solution of ammonium carbonate in ammonia water and alcohol
+nickel silver;a silver-white alloy containing copper and zinc and nickel
+bone ash;ash left when bones burn. high in calcium phosphate. used as fertilizer and in bone china
+bovril;an extract of beef (given to people who are ill)
+amalgam;an alloy of metal with another metal (usually silver) used by dentists to fill cavities in teeth
+drill steel;carbon steel used for rock drills and dowels
+granular pearlite;if steel or iron cool very slowly the cementite may occur in globules instead of in layers
+pbs;a solution containing a phosphate buffer
+metabolite;"any substance involved in metabolism (either as a product of metabolism or as necessary for metabolism)"
+cheoplastic metal;any low-fusing alloy used in cheoplasty (molding artificial teeth)
+low carbon steel;steel with less than 0.15% carbon
+type metal;an alloy of tin and lead and antimony used to make printing type
+catechu;extract of the heartwood of acacia catechu used for dying and tanning and preserving fishnets and sails. formerly used medicinally
+bronze;an alloy of copper and tin and sometimes other elements. also any copper-base alloy containing other elements in place of tin
+alluvial deposit;clay or slit or gravel carried by rushing streams and deposited where the stream slows down
+slime;"any thick messy substance"
+proteinase;any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis
+catalase;enzyme found in most plant and animal cells that functions as an oxidative catalyst. decomposes hydrogen peroxide into hydrogen and water
+isotonic solution;a solution having the same osmotic pressure as blood
+drill rod;carbon steel used for rock drills and dowels
+phosphate buffer solution;a solution containing a phosphate buffer
+ferment;"a substance capable of bringing about fermentation"
+elinvar;elinvar is a trademark for a kind of nickel-chromium steel used for watch springs because its elasticity is constant over a wide range of temperatures
+hot work steel;an alloy steel that remains hard at a red heat. used to make metal-cutting tools
+cottonseed cake;the solid matter remaining after oil has been pressed from cottonseeds
+adulterant;"any substance that adulterates (lessens the purity or effectiveness of a substance). 'it is necessary to remove the adulterants before use'"
+buffer solution;a solution containing a buffer
+monel metal;an alloy of nickel and copper and other metals (such as iron and/or manganese and/or aluminum)
+solder;an alloy (usually of lead and tin) used when melted to join two metal surfaces
+mixture;"(chemistry) a substance consisting of two or more substances mixed together (not in fixed proportions and not with chemical bonding)"
+dottle;the residue of partially burnt tobacco left caked in the bowl of a pipe after smoking
+nichrome;(trademark) a nickel-chromium alloy with high electrical resistance and an ability to withstand high temperatures. used for resistance heating elements
+megalp;a medium for oil-paints. linseed oil mixed with mastic varnish or turpentine
+damask steel;a hard resilient steel often decorated and used for sword blades
+medium steel;steel with 0.15-0.3% carbon
+german silver;a silver-white alloy containing copper and zinc and nickel
+dregs;sediment that has settled at the bottom of a liquid
+glutamic oxaloacetic transaminase;an enzyme involved in transamination
+sol;a colloid that has a continuous liquid phase in which a solid is suspended in a liquid
+paris green;a toxic double salt of copper arsenate and copper acetate
+de iodinase;an enzyme that removes the iodine radical
+stucco;a plaster now made mostly from portland cement and sand and lime. applied while soft to cover exterior walls or surfaces
+dental gold;an alloy of gold used in dentistry
+finish coat;the final coat of plaster applied to walls and ceilings. 'we can't paint until they put on the finishing coat'

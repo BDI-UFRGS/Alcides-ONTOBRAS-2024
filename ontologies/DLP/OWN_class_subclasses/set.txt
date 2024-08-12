@@ -1,0 +1,28 @@
+field;a set of elements such that addition and multiplication are commutative and associative and multiplication is distributive over addition and there are two elements 0 and 1. 'the set of all rational numbers is a field'
+set;"an abstract collection of numbers or symbols. 'the set of prime numbers is infinite'"
+closed interval;an interval that includes its endpoints
+null set;a set that is empty. a set with no members
+null space;a space that contains no points. and empty space
+solution;the set of values that give a true statement when substituted into an equation
+abelian group;a group that satisfies the commutative law
+sub interval;an interval that is included in another interval
+subgroup;(mathematics) a subset (that is not empty) of a mathematical group
+open interval;an interval that does not include its endpoints
+commutative group;a group that satisfies the commutative law
+root;the set of values that give a true statement when substituted into an equation
+bounded interval;an interval that includes its endpoints
+unbounded interval;an interval that does not include its endpoints
+euclidean space;a space in which euclid's axioms and definitions apply. a metric space that is linear and finite-dimensional
+hilbert space;a metric space that is linear and complete and (usually) infinite-dimensional
+subset;a set whose members are members of another set. a set contained within another set
+domain;the set of values of the independent variable for which a function is defined
+subspace;a space that is contained within another space
+metric space;a set of points such that for every pair of points there is a nonnegative real number called their distance that is symmetric and satisfies the triangle inequality
+group;a set that is closed, associative, has an identity element and every element has an inverse
+topological space;(mathematics) any set of points that satisfy a set of postulates of some kind. 'assume the vector space is finite dimensional'
+space;(mathematics) any set of points that satisfy a set of postulates of some kind. 'assume the vector space is finite dimensional'
+intersection;a point or set of points common to two or more geometric configurations
+interval;a set containing all points (or all real numbers) between two given endpoints
+scalar field;a field of scalars
+origin;the point of intersection of coordinate axes. where the values of the coordinates are all zeroreturns the coordinates of the upper-left point in the window's content region.
+mathematical group;a set that is closed, associative, has an identity element and every element has an inverse

@@ -1,0 +1,19 @@
+loan collection;a number of pictures loaned by their owners for exhibition
+aggregation;several things grouped together
+raree show;an exhibition of pictures or objects viewed through a small hole or magnifying glass
+fair;a competitive exhibition of farm products. 'she won a blue ribbon for her baking at the county fair'
+assemblage;several things grouped together
+repertory;"the entire range of skills or aptitudes or devices used in a particular field or occupation: 'the repertory of the supposed feats of mesmerism'. 'has a large repertory of dialects and characters'"
+accumulation;several things grouped together
+expo;"a collection of things (goods or works of art etc.) for public display"
+grouping;any number of entities (members) considered as a unit
+retrospective;an exhibition of a representative selection of an artist's life work
+exposition;"a collection of things (goods or works of art etc.) for public display"
+art collection;"a collection of art works"
+collection;several things grouped together
+group;any number of entities (members) considered as a unit
+art exhibition;an exhibition of art objects (paintings or statues)
+exhibition;"a collection of things (goods or works of art etc.) for public display"
+peepshow;an exhibition of pictures or objects viewed through a small hole or magnifying glass
+repertoire;"a collection of works that an artist or company can perform"
+repertoire;"the entire range of skills or aptitudes or devices used in a particular field or occupation: 'the repertory of the supposed feats of mesmerism'. 'has a large repertory of dialects and characters'"

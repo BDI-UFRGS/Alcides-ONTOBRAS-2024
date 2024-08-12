@@ -1,0 +1,5 @@
+temporal-region
+particular
+Thing
+abstract
+region

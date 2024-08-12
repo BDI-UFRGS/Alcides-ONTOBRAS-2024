@@ -1,0 +1,4 @@
+proposition
+particular
+Thing
+abstract

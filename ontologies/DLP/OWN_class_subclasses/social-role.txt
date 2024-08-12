@@ -1,0 +1,478 @@
+stockpile;something kept back or saved for future use or a special purpose
+net;the excess of revenues over outlays in a given period of time
+c note;a us bill worth 100 dollars
+conditional sale;a security interest taken by the seller in return for credit
+stake;a right or legal share of something. a financial involvement with something. 'they have interests all over the world'. 'a stake in the company's future'
+pot;the cumulative stake in a game (such as poker)
+reacquired stock;stock that has been bought back by the issuing corporation and is available for retirement or resale. it is issued but not outstanding. it cannot vote and pays no dividends
+petty cash;a small fund of cash that a firm keeps for the payment of incidental expenses
+charge plate;a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller receives payment for the merchandise delivered
+tenpence;(brit) uk decimal coin worth ten pennies
+reversion;(law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death of the grantee)
+peag;small beads made from polished shells and formerly used as money by native americans
+ninepence;a coin worth nine pennies
+allowance account;a reserve fund created by a charge against profits in order to provide for changes in the value of a company's assets
+m3;a measure of the money supply. m2 plus deposits at institutions that are not banks (such as savings and loan associations)
+government income;income available to the government
+bill;a piece of paper money (especially one issued by a central bank). 'he peeled off five one-thousand-zloty notes'
+monetary system;anything that is generally accepted as a standard of value and a measure of wealth
+silver dollar;a dollar made of silver
+earning per share;the portion of a company's profit allocated to each outstanding share of common stock
+cartwheel;a dollar made of silver
+common stock equivalent;preferred stock or convertible bonds or stock warrants that can be converted into common stock
+liquid asset;assets in the form of money (or easily convertible into money)
+economic rent;the return derived from cultivated land in excess of that derived from the poorest land cultivated under similar conditions
+treasury shares;stock that has been bought back by the issuing corporation and is available for retirement or resale. it is issued but not outstanding. it cannot vote and pays no dividends
+net sales;gross sales reduced by customer discounts, returns, freight out, and allowances
+maintenance;means of maintenance of a family or group
+ducat;formerly a gold coin of various european countries
+banknote;a piece of paper money (especially one issued by a central bank). 'he peeled off five one-thousand-zloty notes'
+greenback;a piece of paper money (especially one issued by a central bank). 'he peeled off five one-thousand-zloty notes'
+hot issue;newly issued stock that is in great public demand
+wager;the money risked on a gamble
+commercial credit;credit granted by a bank to a business concern for commercial purposes
+home equity credit;a loan secured by equity value in the borrower's home
+support;financial resources provided to make some project possible. 'the foundation provided support for the experiment'
+store;a supply of something available for future use. 'he brought back a large store of cuban cigars'
+venture;an investment that is very risky but could yield great profits. 'he knew the stock was a speculation when he bought it'
+hundred dollar bill;a us bill worth 100 dollars
+capital;the material wealth owned by a person or a business
+trough;a treasury for government funds
+unearned increment;an unearned rise in the market value of property resulting from general market factors
+accumulation;(finance) profits that are not paid out as dividends but are added to the capital base of the corporation
+m1;a measure of the money supply. includes currency in circulation plus demand deposits or checking account balances
+yield;the income arising from land or other property. 'the average return was about 5%'
+wherewithal;the necessary means (especially financial means)
+issue;supplies (as food or clothing or ammunition) issued by the government
+net income;the excess of revenues over outlays in a given period of time
+money supply;the total stock of money in the economy. currency held by the public plus money in accounts in banks
+installment credit;a loan repaid with interest in equal periodic payments
+material resource;assets in the form of material possessions
+swag;(informal) valuable goods
+gain;the amount by which the revenue of a business exceeds its cost of operating
+capital stock;the maximum number of shares authorized under the the terms of a corporations articles of incorporation
+security;defense against financial failure. 'his pension gave him security in his old age'. 'insurance provided protection against loss of wages due to illness'
+dime;a us coin worth one tenth of a dollar
+insurance;promise of reimbursement in the case of loss. paid to people or companies so concerned about hazards that they have made prepayments to an insurance company
+reserve;something kept back or saved for future use or a special purpose
+chantry;an endowment for the singing of masses
+check overdraft credit;credit provided by a bank in honoring a customer's overdrafts
+means;considerable capital (wealth or income). 'he is a man of means'
+doubloon;a former spanish gold coin
+cummulative preferred stock;preferred stock whose dividends if omitted accumulate until paid out
+king s ransom;a very large treasure
+profit sharing;a system in which employees receive a share of the net profits of the business
+soil bank;land retired from crop cultivation and planted with soil-building crops. government subsidies are paid to farmers for their retired land
+loss;the amount by which the cost of a business exceeds its revenue. 'the company operated at a loss last year'
+hot stock;newly issued stock that is in great public demand
+federal reserve note;a piece of paper money (especially one issued by a central bank). 'he peeled off five one-thousand-zloty notes'
+sou;a former french coin of low denomination. often used of any small amount of money. 'he hasn't a sou to his name'
+shilling;an english coin worth one twentieth of a pound
+resource;available source of wealth. a new or reserve supply that can be drawn upon when needed
+controlling interest;ownership of more than 50% of a corporation's voting shares
+fourpence;a former english silver coin worth four pennies
+pelf;informal terms for money
+groat;a former english silver coin worth four pennies
+gross profit margin;(corporate finance) net sales minus the cost of goods and services sold
+token money;coins of regular issue whose face value is greater than their intrinsic value
+equity;the ownership interest of shareholders in a corporation
+patrimony;a church endowment
+treasury;the funds of a government or institution or individual
+fund;a supply of something available for future use. 'he brought back a large store of cuban cigars'
+pocket;a supply of money. 'they dipped into the taxpayers' pockets'
+classified stock;common stock classified as a or b where a has certain advantages (e.g., voting power) that b does not
+bank;a supply or stock held in reserve especially for future use (especially in emergencies)
+sum of money;a quantity of money. 'he borrowed a large sum'. 'the amount he had in cash was insufficient'
+killing;(informal) a very large profit
+blue chip;a common stock of a nationally known company whose value and dividends are reliable. typically have high price and low yield
+growth stock;stock of a corporation that has had faster than average gains in earnings and is expected to continue to
+tax revenue;government income due to taxation
+centime;a coin worth one-hundredth of the value of the basic unit
+natural resources;resources (actual and potential) supplied by nature
+paysheet;the total amount of money paid in wages. 'the company had a large payroll'
+stakes;the money risked on a gamble
+proceeds;the income arising from land or other property. 'the average return was about 5%'
+line;the maximum credit that a customer is allowed
+quarter stock;stock with a par value of __25/share
+allotment;a share set aside for a specific purpose
+disposable income;income (after taxes) that is available to you for saving or spending
+half dollar;a us coin worth half of a dollar
+quota;a proportional share assigned to each participant
+good will;(accounting) an intangible asset valued according to the advantage or reputation a business has acquired (over and above its tangible assets)
+issue;the income arising from land or other property. 'the average return was about 5%'
+gravy train;income obtained with a minimum of effort
+livelihood;the financial means whereby one lives. 'each child was expected to pay for their keep'. 'he applied to the state for support'. 'he could no longer earn his own livelihood'
+preferred stock;stock whose holders are guaranteed priority in the payment of dividends
+substance;considerable capital (wealth or income). 'he is a man of means'
+labor resources;resources of available manpower
+amount;a quantity of money. 'he borrowed a large sum'. 'the amount he had in cash was insufficient'
+per capita income;the total national income divided by the number of people in the nation
+support;the financial means whereby one lives. 'each child was expected to pay for their keep'. 'he applied to the state for support'. 'he could no longer earn his own livelihood'
+copper;a copper penny
+financial backing;financial resources provided to make some project possible. 'the foundation provided support for the experiment'
+revolving fund;a fund which, if borrowed or used, is intended to be replenished so it may be loaned or spent repeatedly
+charge account credit;a consumer credit line that can be used up to a certain limit or paid down at any time
+escrow funds;funds held in escrow
+stock;the capital raised by a corporation through the issue of shares entitling holders to partial ownership. 'he owns a controlling share of the company's stock'
+pecuniary resource;assets in the form of money
+seed corn;good quality seeds (as kernels of corn) that are reserved for planting
+term insurance;low-cost life insurance. valid only for a stated period of time
+gross profit;(corporate finance) net sales minus the cost of goods and services sold
+pension fund;a fund reserved to pay workers' pensions
+trust fund;a fund held in trust
+banker s bill;a piece of paper money (especially one issued by a central bank). 'he peeled off five one-thousand-zloty notes'
+subsistence;minimal (or marginal) resources for subsisting. 'social security provided only a bare subsistence'
+guinea;a former british gold coin worth 21 chillings
+charge account;credit extended by a business to a customer
+bread and butter;the financial means whereby one lives. 'each child was expected to pay for their keep'. 'he applied to the state for support'. 'he could no longer earn his own livelihood'
+easy money;income obtained with a minimum of effort
+share;an asset belonging to or due to or contributed by an individual person or group. 'he wanted his share in cash'
+coinage;coins collectively
+open end credit;a consumer credit line that can be used up to a certain limit or paid down at any time
+earnings;the excess of revenues over outlays in a given period of time
+pork barrel;a legislative appropriation designed to ingratiate legislators with their constituents
+intangible asset;an asset that is saleable though not material or physical
+kale;informal terms for money
+paper money;currency issued by a government or central bank and consisting of printed paper that can circulate as a substitute for specie
+profit;the excess of revenues over outlays in a given period of time
+coverage;promise of reimbursement in the case of loss. paid to people or companies so concerned about hazards that they have made prepayments to an insurance company
+backlog;something kept back or saved for future use or a special purpose
+taxation;government income due to taxation
+bet;the money risked on a gamble
+contribution;an amount of money contributed. 'he expected his contribution to be repaid with interest'
+traveler s check;a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer
+paper gold;reserve assets in the international money fund. designed to supplement reserves of gold and convertible currencies used to maintain stability in the foreign exchange market
+payoff;the income arising from land or other property. 'the average return was about 5%'
+equity credit line;a loan secured by equity value in the borrower's home
+crown jewel;the most desirable assets of a corporation. 'their crown jewels figured prominently in the takeover attempt'
+health maintenance organization;group insurance that entitles members to services of participating hospitals and clinics and physicians
+lucre;the excess of revenues over outlays in a given period of time
+windfall profit;profit that occurs unexpectedly as a consequence of some event not controlled by those who profit from it
+funding;financial resources provided to make some project possible. 'the foundation provided support for the experiment'
+capital;assets available for use in the production of further assets
+change;the balance of money received when the amount you tender is greater than the amount due. 'i paid with a twenty and pocketed the change'
+operating capital;capital available for the operations of a firm (e.g. manufacturing or transportation) as distinct from financial transactions and long-term improvements
+treasury stock;stock that has been bought back by the issuing corporation and is available for retirement or resale. it is issued but not outstanding. it cannot vote and pays no dividends
+pool;the combined stakes of the betters
+cent;a coin worth one-hundredth of the value of the basic unit
+small change;a trifling sum of money
+monetary resource;assets in the form of money
+shekels;informal terms for money
+value;the amount (of money or goods or services) that is considered to be a fair equivalent for something else. 'he tried to estimate the value of the produce at normal prices'
+dollar;a us coin worth one dollar. 'the dollar coin has never been popular in the united states'
+quarter;a us coin worth one fourth of a dollar. 'he fed four quarters into the slot machine'
+ordinary shares;stock other than preferred stock
+coin;a metal piece (usually a disc) used as money
+unearned revenue;(taxes) personal income that you did not earn (e.g., dividends or interest or rent income)
+automobile insurance;insurance against loss due to traffic accidents
+banker s check;a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer
+mineral resources;natural resources in the form of minerals
+shiplaster;paper money of little value issued on insufficient security
+piece;a share of something. 'a slice of the company's revenue'
+kitty;the cumulative stake in a game (such as poker)
+hoarded wealth;accumulated wealth in the form of money or jewels etc.. 'the pirates hid their treasure on a small island in the west indies'
+winnings;something won (especially money)
+margin;(corporate finance) net sales minus the cost of goods and services sold
+reserve fund;funds taken out of earnings to provide for anticipated future payments
+government note;a piece of paper money (especially one issued by a central bank). 'he peeled off five one-thousand-zloty notes'
+fiver;a us bill worth 5 dollars
+privy purse;allowance for a monarch's personal expenses
+money;the official currency issued by a government or national bank. 'he changed his money into francs'
+economic value;the amount (of money or goods or services) that is considered to be a fair equivalent for something else. 'he tried to estimate the value of the produce at normal prices'
+tax base;collective value of taxable assets
+tontine;a form of life insurance whereby on the death or default of a participant his share is distributed to the remaining members
+dividend;that part of the earnings of a corporation that is distributed to its shareholders. usually paid quarterly
+five dollar bill;a us bill worth 5 dollars
+valuable;something of value. 'all our valuables were stolen'
+wampum;small beads made from polished shells and formerly used as money by native americans
+ante;(in poker) the initial contribution that each player makes to the pot
+allowance;a reserve fund created by a charge against profits in order to provide for changes in the value of a company's assets
+open account;credit extended by a business to a customer
+fund;a reserve of money set aside for some purpose
+investment funds;money that is invested with an expectation of profit
+five spot;a us bill worth 5 dollars
+creature comforts;things that make you comfortable and at ease. 'all the comforts of home'
+fivepence;a five-cent piece
+undivided right;the interest in property owned by tenants whereby each tenant has an equal right to enjoy the entire property
+threepence;(brit) former cupronickel coin of uk equal to three pennies
+one dollar bill;(united states) a piece of paper money worth one dollar
+valuation reserve;a reserve fund created by a charge against profits in order to provide for changes in the value of a company's assets
+tanner;a small british coin worth six pennies. not minted since 1970
+twopence;a former uk silver coin. uk bronze decimal coin worth two pennies
+credit account;credit extended by a business to a customer
+overdraft credit;credit provided by a bank in honoring a customer's overdrafts
+louis d or;a former french gold coin
+sterling;british money. especially the pound sterling as the basic monetary unit of the uk
+amenities;things that make you comfortable and at ease. 'all the comforts of home'
+traveller s letter of credit;a letter of credit given to a traveler
+half eagle;a former gold coin in us worth 5 dollars
+escheat;a reversion to the state (as the ultimate owner of property) in the absence of legal heirs
+change;coins of small denomination regarded collectively. 'he had a pocketful of change'
+percentage;an asset belonging to or due to or contributed by an individual person or group. 'he wanted his share in cash'
+goodwill;(accounting) an intangible asset valued according to the advantage or reputation a business has acquired (over and above its tangible assets)
+possession;anything owned or possessed
+bank;the funds held by a gambling house or the dealer in some gambling games. 'he tried to break the bank at monte carlo'
+dough;informal terms for money
+equity;the difference between the market value of a property and the claims held against it
+budget;a sum of money allocated for a particular purpose. 'the laboratory runs on a budget of a million a year'
+win;something won (especially money)
+sum;a quantity of money. 'he borrowed a large sum'. 'the amount he had in cash was insufficient'
+take;the income arising from land or other property. 'the average return was about 5%'
+food bank;a place where food is contributed and made available to those in need. 'they set up a food bank for the flood victims'
+speculation;an investment that is very risky but could yield great profits. 'he knew the stock was a speculation when he bought it'
+riches;an abundance of material possessions and resources
+farthing;a former british bronze coin worth a quarter of a penny
+stock;a supply of something available for future use. 'he brought back a large store of cuban cigars'
+fiat money;money that the government declares to be legal tender although it cannot be converted into standard specie
+hmo;group insurance that entitles members to services of participating hospitals and clinics and physicians
+government issue;supplies (as food or clothing or ammunition) issued by the government
+keep;the financial means whereby one lives. 'each child was expected to pay for their keep'. 'he applied to the state for support'. 'he could no longer earn his own livelihood'
+moolah;informal terms for money
+nest egg;a fund of money put by as a reserve
+special drawing rights;reserve assets in the international money fund. designed to supplement reserves of gold and convertible currencies used to maintain stability in the foreign exchange market
+way;a portion of something divided into shares: 'the split the loot three ways'
+penny;a coin worth one-hundredth of the value of the basic unit
+folding money;currency issued by a government or central bank and consisting of printed paper that can circulate as a substitute for specie
+conveniences;things that make you comfortable and at ease. 'all the comforts of home'
+government revenue;income available to the government
+tax income;government income due to taxation
+pork;a legislative appropriation designed to ingratiate legislators with their constituents
+dispensation;a share that has been dispensed or distributed
+assurance;a british term for some kinds of insurance
+seed stock;a supply of seeds (or tubers) reserved for planting
+export credit;a credit opened by an importer with a bank in an exporter's country to finance an export operation
+return;the income arising from land or other property. 'the average return was about 5%'
+tontine insurance;a form of life insurance whereby on the death or default of a participant his share is distributed to the remaining members
+allocation;a share set aside for a specific purpose
+import credit;credit opened by an importer at a bank in his own country upon which an exporter may draw
+mintage;coins collectively
+undivided interest;the interest in property owned by tenants whereby each tenant has an equal right to enjoy the entire property
+income;the financial gain (earned or unearned) accruing over a given period of time
+authorized stock;the maximum number of shares authorized under the the terms of a corporations articles of incorporation
+eagle;a former gold coin in us worth 10 dollars
+matching funds;funds that will be supplied in an amount matching the funds available from other sources
+protection;defense against financial failure. 'his pension gave him security in his old age'. 'insurance provided protection against loss of wages due to illness'
+seed grain;good quality seeds (as kernels of corn) that are reserved for planting
+investment;money that is invested with an expectation of profit
+unearned income;(taxes) personal income that you did not earn (e.g., dividends or interest or rent income)
+cash advance;an amount paid before it is earned
+change;money received in return for its equivalent in a larger denomination or a different currency. 'he got change for a twenty and used it to pay the taxi driver'
+pin money;cash for day-to-day spending on incidental expenses
+halfpenny;an english coin worth half a penny
+food stamp;government-issued stamps used in exchange for food
+backing;financial resources provided to make some project possible. 'the foundation provided support for the experiment'
+currency;the metal or paper medium of exchange that is presently used
+blood bank;a place for storing whole blood or blood plasma. 'the red cross created a blood bank for emergencies'
+real;an old small silver spanish coin
+pledge;a deposit of personal property as security for a debt. 'his saxophone was in pledge'
+poverty line;a level of personal income defining the state of poverty
+gross;the entire amount of income before any deductions are made
+purse;a sum of money offered as a prize. 'the purse barely covered the winner's expenses'
+split;a promised or claimed share of loot or money. 'he demanded his split before they disbanded'
+profits;something won (especially money)
+medium of exchange;anything that is generally accepted as a standard of value and a measure of wealth
+principal;capital as contrasted with the income derived from it
+traveler s letter of credit;a letter of credit given to a traveler
+slice;a share of something. 'a slice of the company's revenue'
+nickel;a us coin worth one twentieth of a dollar
+purse;a sum of money spoken of as the contents of a money purse. 'he made the contribution out of his own purse'. 'he and his wife shared a common purse'
+intangible;an asset that is saleable though not material or physical
+medicaid funds;public funds used to pay for medicaid
+living;the financial means whereby one lives. 'each child was expected to pay for their keep'. 'he applied to the state for support'. 'he could no longer earn his own livelihood'
+dinero;informal terms for money
+gross revenue;income (at invoice values) received for goods and services over some given period of time
+metal money;coins collectively
+finances;assets in the form of money
+figure;an amount of money expressed numerically. 'a figure of 17 was suggested'
+life insurance;insurance paid to named beneficiaries when the insured person dies. 'in england they call life insurance life assurance'
+stock dividend;a dividend paid in stock rather than in cash
+bursary;the treasury of a public institution or religious order
+bezant;a gold coin of the byzantine empire. widely circulated in europe in the middle ages
+till;a treasury for government funds
+box office;total admission receipts for an entertainment
+cheap money;credit available at low rates of interest
+paper currency;currency issued by a government or central bank and consisting of printed paper that can circulate as a substitute for specie
+personal income;the income received by a single individual
+bank deposit;money deposited in a bank
+silver certificate;formerly a bank note issued by the us treasury and redeemable in silver
+money;the most common medium of exchange. functions as legal tender. 'we tried to collect the money he owed us'
+bank note;a piece of paper money (especially one issued by a central bank). 'he peeled off five one-thousand-zloty notes'
+stash;a secret store of valuables or money
+twenty dollar bill;a us bill worth 20 dollars
+demand deposit;a bank deposit from which withdrawals can be made without notice
+letter of credit;a document issued by a bank that guarantees the payment of a customer's draft. substitutes the bank's credit for the customer's credit
+silver;coins made of silver
+lien;the right to take another's property if an obligation is not discharged
+rent;the return derived from cultivated land in excess of that derived from the poorest land cultivated under similar conditions
+comforts;things that make you comfortable and at ease. 'all the comforts of home'
+takings;the income arising from land or other property. 'the average return was about 5%'
+dollar;(united states) a piece of paper money worth one dollar
+pocket money;cash for day-to-day spending on incidental expenses
+operating budget;a budget for current expenses as distinct from financial transactions or permanent improvements
+part;an asset belonging to or due to or contributed by an individual person or group. 'he wanted his share in cash'
+reserve account;funds taken out of earnings to provide for anticipated future payments
+treasure;accumulated wealth in the form of money or jewels etc.. 'the pirates hid their treasure on a small island in the west indies'
+reallocation;a share that has been allocated again
+accounts receivable;a creditor's accounts of money owed to him. normally arise from the sale of products or services
+bullion;a mass of precious metal (usually in the form of bars or ingots)
+wealth;an abundance of material possessions and resources
+portion;an asset belonging to or due to or contributed by an individual person or group. 'he wanted his share in cash'
+roll;a roll of currency notes (often taken as the resources of a person or business etc.). 'he shot his roll on a bob-tailed nag'
+common shares;stock other than preferred stock
+wampumpeag;used as currency in massachusetts
+credit line;the maximum credit that a customer is allowed
+cut;a share of the profits. 'everyone got a cut of the earnings'
+gate;total admission receipts at a sports event
+bread;informal terms for money
+cleanup;(informal) a very large profit
+right;(frequently plural) the interest possessed by law or custom in some intangible thing: 'mineral rights'. 'film rights'
+fortune;a large amount of wealth or prosperity
+bawbee;an old scottish coin of little value
+sustenance;the financial means whereby one lives. 'each child was expected to pay for their keep'. 'he applied to the state for support'. 'he could no longer earn his own livelihood'
+trove;treasure of unknown ownership found hidden (usually in the earth)
+payroll;the total amount of money paid in wages. 'the company had a large payroll'
+no par stock;stock with no par value specified kin the corporate charter or on the stock certificate
+reserve asset;capital held back from investment in order to meet probable or possible demands
+cache;a secret store of valuables or money
+credit card;a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller receives payment for the merchandise delivered
+charge card;a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller receives payment for the merchandise delivered
+financial gain;the amount of monetary gain
+gross sales;income (at invoice values) received for goods and services over some given period of time
+gelt;informal terms for money
+m2;a measure of the money supply. m1 plus net time deposits (other than large certificates of deposit)
+coinsurance;insurance issued jointly by two or more underwriters
+tender;something used as an official medium of payment
+fractional currency;paper currency in denominations less than the basic monetary unit
+divvy;(british) short for dividend. especially one paid by a cooperative society
+dollar bill;(united states) a piece of paper money worth one dollar
+credit;money available for a client to borrow
+susan b anthony dollar;a us coin worth one dollar
+bank bill;a piece of paper money (especially one issued by a central bank). 'he peeled off five one-thousand-zloty notes'
+eightpence;a coin worth eight pennies
+treasure trove;treasure of unknown ownership found hidden (usually in the earth)
+clam;(united states) a piece of paper money worth one dollar
+pool;any communal combination of funds. 'everyone contributed to the pool'
+bankroll;a roll of currency notes (often taken as the resources of a person or business etc.). 'he shot his roll on a bob-tailed nag'
+venture capital;wealth available for investment in new or speculative enterprises
+hole card;any asset that is concealed until it can be used advantageously
+tuppence;a former uk silver coin. uk bronze decimal coin worth two pennies
+life assurance;insurance paid to named beneficiaries when the insured person dies. 'in england they call life insurance life assurance'
+watered stock;stock representing ownership of overvalued assets. stock of a corporation whose total worth is less than its invested capital
+stores;a store or supply (especially of food or clothing or arms)
+control stock;shares owned by shareholders who have a controlling interest
+sinking fund;a fund accumulated regularly in a separate account and used to redeem debt securities
+deposit;money deposited in a bank
+car insurance;insurance against loss due to traffic accidents
+net profit;the excess of revenues over outlays in a given period of time
+ha penny;an english coin worth half a penny
+bezzant;a gold coin of the byzantine empire. widely circulated in europe in the middle ages
+receivables;money that you currently expect to receive from notes or accounts
+fee tail;a fee limited to a particular line of heirs. they are not free to sell it or give it away
+corpus;capital as contrasted with the income derived from it
+subtreasury;a subordinate treasury or place of deposit
+note;a piece of paper money (especially one issued by a central bank). 'he peeled off five one-thousand-zloty notes'
+fisc;a royal treasury
+unearned income;(accounting) income received but not yet earned (usually considered a current liability on a company's balance sheet)
+health insurance;insurance against loss due to ill health
+public treasury;a treasury for government funds
+deductible;an amount that can be deducted (especially for the purposes of calculating income tax)
+profits;the excess of revenues over outlays in a given period of time
+new penny;a coin used in great britain since 1971 worth one hundredth of a pound
+float;the number of shares outstanding and available for trading by the public
+spending money;cash for day-to-day spending on incidental expenses
+fire insurance;insurance against loss due to fire
+ration;a fixed portion alloted (especially in times of scarcity)
+risk capital;wealth available for investment in new or speculative enterprises
+receipts;the entire amount of income before any deductions are made
+personal credit line;the maximum credit that a customer is allowed
+self insurance;insuring oneself by setting aside money to cover possible losses rather than by purchasing an insurance policy
+common stock;stock other than preferred stock
+hoard;a secret store of valuables or money
+cash;money in the form of bills or coins
+endowment fund;the capital that provides income for an institution
+financial support;financial resources provided to make some project possible. 'the foundation provided support for the experiment'
+mortgage;a conditional conveyance of property as security for the repayment of a loan
+gold;coins made of gold
+fee;an interest in land capable of being inherited
+revolving credit;a consumer credit line that can be used up to a certain limit or paid down at any time
+cabbage;informal terms for money
+security interest;any interest in a property that secures the payment of an obligation
+blue chip stock;a common stock of a nationally known company whose value and dividends are reliable. typically have high price and low yield
+crown;an english coin worth 5 shillings
+valuation account;a reserve fund created by a charge against profits in order to provide for changes in the value of a company's assets
+endowment;the capital that provides income for an institution
+fee simple;a fee without limitation to any class of heirs. the can sell it or give it away
+gamble;money that is risked for possible monetary gain
+stake;the money risked on a gamble
+pawn;an article deposited as security
+extra dividend;a dividend paid in addition to the regular dividend
+dole;a share of money or food or clothing that has been charitably given
+natural resource;resources (actual and potential) supplied by nature
+authorized shares;the maximum number of shares authorized under the the terms of a corporations articles of incorporation
+gold;great wealth. 'whilst that for which all virtue now is sold, and almost every vice--almighty gold'--ben jonson
+jackpot;the cumulative stake in a game (such as poker)
+two dollar bill;a us bill worth 2 dollars
+revenue;the entire amount of income before any deductions are made
+military issue;supplies (as food or clothing or ammunition) issued by the government
+cummulative preferred;preferred stock whose dividends if omitted accumulate until paid out
+internal revenue;government revenue from domestic sources (excluding customs)
+traveller s check;a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer
+voting stock;shares in a corporation that entitle the shareholder to voting and proxy rights
+preference shares;stock whose holders are guaranteed priority in the payment of dividends
+appropriation;money set aside (as by a legislature) for a specific purpose
+cash in hand;assets in the form of money
+no par value stock;stock with no par value specified kin the corporate charter or on the stock certificate
+vested interest;an interest in which there is a fixed right to present or future enjoyment
+working capital;assets available for use in the production of further assets
+capital gain;the amount by which the selling price of an asset exceeds the purchase price
+stock of record;stock held by stockholders of record on a given date
+asset;"anything of material value or usefulness"
+sales;income (at invoice values) received for goods and services over some given period of time
+revolving charge account;a charge account that does not have to be paid to zero balance
+slush fund;a fund for buying votes or bribing public officials
+fifty cent piece;a us coin worth half of a dollar
+advance;an amount paid before it is earned
+loot;informal terms for money
+commercial letter of credit;a letter of credit given to a business concern for commercial purposes
+chickenfeed;a trifling sum of money
+second mortgage;a mortgage that is subordinate to a first mortgage
+supplies;a store or supply (especially of food or clothing or arms)
+personal line of credit;the maximum credit that a customer is allowed
+principal sum;capital as contrasted with the income derived from it
+terminable interest;an interest in property that terminates under specific conditions
+bank card;a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller receives payment for the merchandise delivered
+legal tender;something used as an official medium of payment
+reinsurance;sharing the risk by insurance companies. part or all of the insurer's risk is assumed by other companies in return for part of the premium paid by the insured. 'reinsurance enables a client to get coverage that would be too great for any one company to assume'
+sixpence;a small british coin worth six pennies. not minted since 1970
+hedging;taking two positions that will offset each other if prices change and so limiting financial risk
+provisions;a store or supply (especially of food or clothing or arms)
+monetary fund;a reserve of money set aside for some purpose
+markup;the amount added to the cost to determine the asking price
+amount of money;a quantity of money. 'he borrowed a large sum'. 'the amount he had in cash was insufficient'
+war chest;a fund accumulated to finance a war (or a political campaign)
+half crown;an english coin worth half a crown
+allowance;an amount allowed or granted (as during a given period): 'travel allowance'. 'my weekly allowance of two eggs'. 'a child's allowance should not be too generous'
+consumer credit;a line of credit extended for personal or household use
+land resources;natural resources in the form or arable land
+precious metal;any of the less common and valuable metals often used to make coins or jewelry
+line of credit;the maximum credit that a customer is allowed
+kitty;the combined stakes of the betters
+first mortgage;a mortgage that has priority over all mortgages and liens except those imposed by law
+equalizing dividend;a dividend paid to compensate shareholders for losses resulting from a change in the dividend schedule
+piece of eight;an old silver spanish coin. worth 8 reales
+grubstake;funds advanced to a prospector or to someone starting a business in return for a share of the profits
+uneraned revenue;(accounting) income received but not yet earned (usually considered a current liability on a company's balance sheet)
+bank line;the maximum credit that a customer is allowed
+interest;a right or legal share of something. a financial involvement with something. 'they have interests all over the world'. 'a stake in the company's future'
+savings;a fund of money put by as a reserve
+buck;(united states) a piece of paper money worth one dollar
+smart money;money bet or invested by experienced gamblers or investors (especially if they have inside information)
+specie;coins collectively
+revenue;government income due to taxation
+lucre;informal terms for money
+funds;assets in the form of money
+byzant;a gold coin of the byzantine empire. widely circulated in europe in the middle ages
+preferred shares;stock whose holders are guaranteed priority in the payment of dividends
+rake off;a percentage (of winnings or loot or profit) taken by an operator or gangster
+hedge;taking two positions that will offset each other if prices change and so limiting financial risk
+exchequer;the funds of a government or institution or individual

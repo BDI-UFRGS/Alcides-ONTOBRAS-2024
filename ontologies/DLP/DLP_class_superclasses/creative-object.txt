@@ -1,0 +1,10 @@
+creative-object
+particular
+Thing
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+social-object
+information-object
+endurant
+spatio-temporal-particular

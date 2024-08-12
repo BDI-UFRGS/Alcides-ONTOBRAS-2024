@@ -1,0 +1,826 @@
+high noon;the middle of the day
+extremely high frequency;30 to 300 gigahertz
+kit and caboodle;everything available. usually preceded by 'the'. 'we saw the whole shebang'. 'a hotdog with the works'. 'we took on the whole caboodle'. 'for 10 you get the full treatment'
+time lag;time during which some action is awaited. 'instant replay caused too long a delay'. 'he ordered a hold in the action'
+jejuneness;lacking and evidencing lack of experience of life
+distance;the interval between two times. 'the distance from birth to death'. 'it all happened in the space of 10 minutes'
+uneasiness;physical discomfort (as mild sickness or depression)
+extent;the point or degree to which something extends. 'the extent of the damage'. 'the full extent of the law'. 'a mistake would have to that extent let the whole world know'
+male patterned baldness;loss of hair on the crown of the head
+letup;a pause during which things are calm or activities are diminished. 'there was never a letup in the noise'
+relative frequency;the ratio of the number of observations in a statistical category to the total number of observations
+biserial correlation;a correlation coefficient in which one variable is many-valued and the other is dichotomous
+clinocephalism;a congenital defect in which the top of the head is depressed (concave instead of convex)
+gross margin;the ratio gross profits divided by net sales
+luminous flux;the rate of flow of light energy
+miles per hour;a speedometer reading for the momentary rate of travel
+caesura;a pause or interruption (as in a conversation). 'after an ominous caesura the preacher continued'
+commensurateness;the relation of correspondence in degree or size or amount
+filthiness;a state characterized by foul or disgusting dirt and refuse
+reflective power;the ratio of reflected to incident light
+chance half correlation;a correlation coefficient calculated between scores on two halves of a test. taken as an indication of the reliability of the test
+congenital defect;a defect that is present at birth
+relative humidity;the ratio of the amount of water in the air at a give temperature to the maximum amount it could hold at that temperature. expressed as a percentage
+time;the time as given by a clock. 'do you know what time it is?'. 'the time is 10 o'clock'
+predisposition;susceptibility to a pathogen
+relief;a pause for relaxation. 'people actually accomplish more when they take time for short rests'
+am;(latin: before midday) the time interval from midnight to midday
+solitude;a state of social isolation
+latent period;the time that elapses before the presence of a disease is manifested by symptoms
+atrial septal defect;an abnormal opening between the left and right atria of the heart
+statistic;"a datum that can be represented numerically"
+mph;the ratio of the distance traveled (in miles) to the time spent traveling (in hours)
+arithmetic mean;the sum of the values of a random variable divided by the number of values
+vacuity;total absence of matter
+spotlessness;the state of being spotlessly clean
+anencephaly;a defect in brain development resulting in small or missing brain hemispheres
+dirtiness;the state of containing dirty impurities
+musketry;the technique of using small arms (especially in battle)
+deviation;the difference between an observed value and the expected value of a variable or function
+prime;the second canonical hour. about 6 a.m.
+dinnertime;the time for the evening meal
+surfeit;the state of being more than full
+guiltlessness;a state of innocence
+whole works;everything available. usually preceded by 'the'. 'we saw the whole shebang'. 'a hotdog with the works'. 'we took on the whole caboodle'. 'for 10 you get the full treatment'
+grime;the state of being covered with unclean things
+imperfection;"the state or an instance of being imperfect"
+second moment;the expected value of the square of the deviations of a random variable from the point of origin
+inculpability;a state of innocence
+tierce;the third canonical hour. about 9 a.m.
+time slot;a time assigned on a schedule or agenda. 'the tv program has a new time slot'
+freedom;immunity from an obligation or duty
+infant mortality;the death rate during the first year of life
+extremity;the greatest or utmost degree: 'the extremity of despair'
+velocity;distance travelled per unit time
+flaw;an imperfection in a device or machine. 'if there are any defects you should send it back to the manufacturer'
+midnight;12 o'clock at night. the middle of the night. 'young children should not be allowed to stay up until midnight'
+comfort;"a state of being relaxed and feeling no pain. 'he is a man who enjoys his comfort'. 'she longed for the comfortableness of her armchair'"
+bug;a fault or defect in a system or machine
+meningocele;a congenital anomaly of the central nervous system in which a sac protruding from the brain or the spinal meninges contains cerebrospinal fluid (but no nerve tissue)
+solace;comfort in disappointment or misery
+cheerfulness;"the quality of being cheerful and dispelling gloom. 'flowers added a note of cheerfulness to the drab room'"
+wave number;the reciprocal of the wavelength of a wave
+solar constant;the rate at which radiant solar energy is received at the outer layer of the earth's atmosphere
+canonical hour;(roman catholic church) one of seven specified times for prayer
+tongue tie;a congenital anomaly in which the mucous membrane under the tongue is too short limiting the mobility of the tongue
+phalacrosis;"the condition of having no hair (especially on the top of the head)"
+basal metabolic rate;the rate at which heat is produced by an individual in a resting state
+susceptibility;"the state of being susceptible. easily affected"
+delayed allergy;an allergic reaction that becomes apparent only hours after contact
+metabolic rate;rate of metabolism. the amount of energy expended in a give period
+expertness;skillfulness by virtue of possessing special knowledge
+totality;the state of being total: 'appalled by the totality of the destruction'
+harelip;a congenital cleft in the middle of the upper lip
+prime time;the hours between 7 and 11 p.m. when the largest tv audience is available
+smuttiness;the state of being dirty with soot
+m.m.;(music) the pace of music measured by the number of beats occurring in 60 seconds
+insufficiency;a lack of competence. 'pointed out the insufficiencies in my report'. 'juvenile offenses often reflect an inadequacy in the parents'
+low frequency;30 to 300 kilohertz
+quickness;skillful performance without difficulty. 'his quick adeptness was a product of good design'
+expectation;wishing with confidence of fulfillment
+lapse;a break or intermission in the occurrence of something. 'a lapse of three weeks between letters'
+breathing space;a short respite
+coccidiosis;(veterinary medicine) infestation with coccidia
+data rate;the rate at which circuits or other devices operate when handling digital information
+color blindness;genetic inability to distinguish differences in hue
+flow rate;the amount of fluid that flows in a given time
+sanitariness;the state of being conducive to health
+unease;physical discomfort (as mild sickness or depression)
+septal defect;a congenital abnormality in the septum between the left and right sides of the heart
+juvenility;lacking and evidencing lack of experience of life
+callowness;lacking and evidencing lack of experience of life
+standard deviation;the square root of the variance
+i.q.;a measure of a person's intelligence as indicated by an intelligence test. the ratio of a person's mental age to their chronological age (multiplied by 100)
+magnitude relation;"a relation between magnitudes"
+heart rate;the rate at which the heart beats
+allergic rhinitis;rhinitis caused by an allergic reaction
+suppertime;the time for the evening meal
+dexterity;adroitness in using the hands
+plane;a level of existence or development. 'he lived on a worldly plane'
+muscle tone;normal tonicity of the muscles. 'exercise improves muscle tone'
+silence;"the state of being silent (as when no one is speaking). 'there was a shocked silence': 'he gestured for silence'"
+forthcomingness;"the state of being imminent and liable to happen soon"
+break of the day;the first light of day. 'we got up before dawn'. 'they talked until morning'
+works;everything available. usually preceded by 'the'. 'we saw the whole shebang'. 'a hotdog with the works'. 'we took on the whole caboodle'. 'for 10 you get the full treatment'
+processing time;the time it takes to complete a prescribed procedure. 'they increased output by decreasing processing time'
+focal ratio;the ratio of the focal length to the diameter of a (camera) lens system
+average;a statistic describing the location of a distribution: 'it set the norm for american homes'
+magnification;the ratio of the size of an image to the size of the object
+attrition rate;the rate of shrinkage in size or number
+distinctness;the state of being several and distinct
+fatigue;(of materials (especially metals)) the state of being weakened by long stress: 'metal fatigue'
+correlation;a statistic representing how closely two variables co-vary. it can vary from -1 (perfect negative correlation) through 0 (no correlation) to +1 (perfect positive correlation). 'what is the correlation between those two variables?'
+acid rain;rain containing acids that form in the atmosphere when industrial gas emissions combine with water
+hf;3 to 30 megahertz
+nonparametric statistic;a statistic computed without knowledge of the parameters of the distribution from which observations are drawn
+integrity;"an unreduced or unbroken completeness or totality"
+expectation;the sum of the values of a random variable divided by the number of values
+dryness;"the condition of not containing or being covered by a liquid (especially water)"
+birth rate;the ratio of live births in an area to the population of that area. expressed per 1000 population per year
+alopecia;loss of hair (especially on the head) or wool or feathers. in humans it can result from heredity or hormonal imbalance or certain diseases or drugs and treatments (chemotherapy for cancer)
+imminency;"the state of being imminent and liable to happen soon"
+peak;the highest level or degree attainable: 'his landscapes were deemed the acme of beauty'. 'the artist's gifts are at their acme'. 'at the height of her career'. 'the peak of perfection'. 'summer was at its peak'. '...catapulted einstein to the pinnacle of fame'. 'the summit of his ambition'. 'so many highest superlatives achieved by man'. 'at the top of his profession'
+profit margin;the ratio gross profits divided by net sales
+night;a shortening of nightfall. 'they worked from morning to night'
+tensity;"the physical condition of being stretched or strained. 'it places great tension on the leg muscles'. 'he could feel the tenseness of her body'. 'the violinist adjusted the tension of the strings'"
+separateness;the state of being several and distinct
+catatonia;extreme tonus. muscular rigidity. a common symptom in catatonic schizophrenia
+geometric mean;the mean of n numbers expressed as the n-th root of their product
+gloominess;excessive sadness and mournfulness
+type i allergic reaction;an allergic reaction that becomes apparent in a sensitized person only minutes after contact
+drought;a temporary shortage of rainfall
+reading;"the data presented to a user by a meter or similar instrument. 'he could not believe the meter reading'"
+groundspeed;the speed of an aircraft relative to the ground
+preparedness;"the state of being ready or prepared for use or action (especially military action). 'putting them in readiness'"
+bps;(computer science) the rate at which data is transferred (as by a modem)
+tritanopia;inability to distinguish blue and yellow
+inculpableness;a state of innocence
+hay fever;a seasonal rhinitis resulting from an allergic reaction to pollen
+ankyloglossia;a congenital anomaly in which the mucous membrane under the tongue is too short limiting the mobility of the tongue
+sound pollution;annoying and potentially harmful environmental noise
+eccentricity;(geometry) a ratio describing the shape of a conic section. the ratio of the distance between the foci to the length of the major axis. 'a circle is an ellipse with zero eccentricity'
+atony;"lack of normal muscular tension or tonus"
+parameter;"any factor that defines a system and determines (or limits) its performance"
+alienation;separation resulting from hostility
+elevation;the highest level or degree attainable: 'his landscapes were deemed the acme of beauty'. 'the artist's gifts are at their acme'. 'at the height of her career'. 'the peak of perfection'. 'summer was at its peak'. '...catapulted einstein to the pinnacle of fame'. 'the summit of his ambition'. 'so many highest superlatives achieved by man'. 'at the top of his profession'
+dawning;the first light of day. 'we got up before dawn'. 'they talked until morning'
+space;the interval between two times. 'the distance from birth to death'. 'it all happened in the space of 10 minutes'
+stain;the state of being covered with unclean things
+impunity;exemption from punishment or loss
+rydberg constant;a wave number characteristic of the wave spectrum of each element
+escape velocity;the minimum velocity needed to escape a gravitational field
+pct;a proportion multiplied by 100
+superlative;the highest level or degree attainable: 'his landscapes were deemed the acme of beauty'. 'the artist's gifts are at their acme'. 'at the height of her career'. 'the peak of perfection'. 'summer was at its peak'. '...catapulted einstein to the pinnacle of fame'. 'the summit of his ambition'. 'so many highest superlatives achieved by man'. 'at the top of his profession'
+unemployment rate;the percentage of the work force that is unemployed at any given date
+anencephalia;a defect in brain development resulting in small or missing brain hemispheres
+ascariasis;infestation of the human intestine with ascaris roundworms
+proportion;the quotient obtained when the magnitude of a part is divided by the magnitude of the whole
+beats per minute;(music) the pace of music measured by the number of beats occurring in 60 seconds
+variance;the second moment around the mean. the expected value of the square of the deviations of a random variable from its mean value
+pause;a time interval during which there is a temporary cessation of something
+disjuncture;state of being disconnected
+suggestibility;susceptibility or responsiveness to suggestion
+odds;the ratio by which one better's wager is greater than that of another. 'he offered odds of two to one'
+expected value;the sum of the values of a random variable divided by the number of values
+separability;the capability of being separated
+post meridiem;the time interval from midday to midnight
+zero hour;the time set for the start of an action or operation
+elf;below 3 kilohertz
+slot;a time assigned on a schedule or agenda. 'the tv program has a new time slot'
+phocomelia;an abnormality of development in which the upper part of an arm or leg is missing so the hands or feet are attached to the body like stumps. rare condition that results from taking thalidomide during pregnancy
+mean deviation from the mean;the arithmetic mean of the absolute values of deviations from the mean of a distribution
+congenital disorder;a defect that is present at birth
+productivity;(economics) the ratio of the quantity and quality of units produced to the labor per unit of time
+rate of inflation;the rate of change of prices (as indicated by a price index) calculated on a monthly or annual basis
+sensitivity;susceptibility to a pathogen
+incoherence;lack of cohesion or clarity or organization
+tone;the elastic tension of living muscles, arteries, etc. that facilitate response to stimuli. 'the doctor tested my tonicity'
+mean;an average of n numbers computed by adding some function of the numbers and dividing by some function of n
+light speed;the speed at which light travels in a vacuum. 300,000 km per second. a universal constant
+high frequency;3 to 30 megahertz
+shapelessness;"an amorphous or indefinite shape. 'a shapeless mass'"
+quotient;the ratio of two quantities to be divided
+macroglossia;a congenital disorder characterized by an abnormally large tongue. often seen in cases of down's syndrome
+respite;a (temporary) relief from harm or discomfort
+mongolism;a congenital disorder caused by having an extra 21st chromosome. results in a flat face and short stature and mental retardation
+mc;one million periods per second
+disconnection;state of being disconnected
+noonday;the middle of the day
+bedtime;the time you go to bed
+vacuousness;total absence of matter
+correspondence;the relation of correspondence in degree or size or amount
+confidentiality;the state of being secret. 'you must respect the confidentiality of your client's communications'
+immaculateness;the state of being spotlessly clean
+mortality rate;the ratio of deaths in an area to the population of that area. expressed per 1000 per year
+miasma;unhealthy vapors rising from the ground or other sources. 'the miasma of the marshes' or 'a miasma of cigar smoke'
+tetrachoric correlation;a correlation coefficient computed for two normally distributed variables that are both expressed as a dichotomy
+puerility;the state of a child between infancy and adolescence
+cycles second;the unit of frequency. one hertz has a periodic interval of one second
+height;the highest level or degree attainable: 'his landscapes were deemed the acme of beauty'. 'the artist's gifts are at their acme'. 'at the height of her career'. 'the peak of perfection'. 'summer was at its peak'. '...catapulted einstein to the pinnacle of fame'. 'the summit of his ambition'. 'so many highest superlatives achieved by man'. 'at the top of his profession'
+filth;a state characterized by foul or disgusting dirt and refuse
+greenness;the state of not being ripe
+sereness;a withered dryness
+muzzle velocity;the velocity of a projectile as it leaves the muzzle of a gun
+morning;the first light of day. 'we got up before dawn'. 'they talked until morning'
+debasement;being mixed with extraneous material
+incompleteness;the state of being incomplete and imperfect
+harmonic mean;the mean of n numbers expressed as the reciprocal of the arithmetic mean of the reciprocals of the numbers
+breath;a short respite
+ultimateness;the state or degree of being ultimate. the final or most extreme in degree or size or time or distance: 'the ultimacy of these social values'
+occupancy rate;the percentage of all rental units (as in hotels) are occupied or rented at a given time
+hygiene;a condition promoting sanitary practices. 'personal hygiene'
+anomie;personal state of isolation and anxiety resulting from a lack of social control and regulation
+ripeness;the state of being ripe
+defectiveness;the state of being defective
+bpm;(music) the pace of music measured by the number of beats occurring in 60 seconds
+reprieve;a (temporary) relief from harm or discomfort
+epispadias;a congenital abnormality in males in which the urethra is on the upper surface of the penis
+befoulment;the state of being polluted
+state of the art;the highest degree of development of an art or technique at a particular time. 'the state of the art in space travel'
+diathesis;constitutional predisposition to a particular disease or abnormality
+cranial index;ratio (in percent) of the maximum breadth to the maximum length of a skull
+break;a time interval during which there is a temporary cessation of something
+fertility;the ratio of live births in an area to the population of that area. expressed per 1000 population per year
+discontinuity;lack of connection of continuity
+fullness;"the condition of being filled to capacity"
+regression coefficient;when the regression line is linear (y = ax + b) the regression coefficient is the constant (a) that represents the rate of change of one variable (y) as a function of changes in the other (x). it is the slope of the regression line
+pace;the rate of some repeating event
+noise pollution;annoying and potentially harmful environmental noise
+active immunity;a form of acquired immunity in which the body produces its own antibodies against disease-causing antigens
+norm;a statistic describing the location of a distribution: 'it set the norm for american homes'
+atopy;an allergic reaction that becomes apparent in a sensitized person only minutes after contact
+infant mortality rate;the death rate during the first year of life
+borderline intelligence;the minimal iq required for someone to function normally and independently in the world (without some form of institutional assistance)
+pollinosis;a seasonal rhinitis resulting from an allergic reaction to pollen
+latency;(computer science) the time it takes for a specific block of data on a data track to rotate around to the read/write head
+parametric statistic;any statistic computed by procedures that assume the data were drawn from a particular distribution
+loss ratio;the ratio of the annual claims paid by an insurance company to the premiums received
+estrangement;separation resulting from hostility
+isolation;a state of separation between persons or groups
+radio frequency;an electromagnetic wave frequency between audio and infrared
+lag;the time between one event, process, or period and another
+very high frequency;30 to 300 megahertz
+inadequacy;a lack of competence. 'pointed out the insufficiencies in my report'. 'juvenile offenses often reflect an inadequacy in the parents'
+dunghill;a foul or degraded condition
+rotational latency;(computer science) the time it takes for a specific block of data on a data track to rotate around to the read/write head
+cleft palate;a congenital fissure of the hard palate
+spinocerebellar disorder;any of several congenital disorders marked by degeneration of the cerebellum and spinal cord resulting in spasticity and ataxia
+age norm;the average age at which particular performances are expected to appear
+cleft lip;a congenital cleft in the middle of the upper lip
+breathing time;a short respite
+biserial correlation coefficient;a correlation coefficient in which one variable is many-valued and the other is dichotomous
+colour blindness;genetic inability to distinguish differences in hue
+growth rate;the rate of increase in size per unit time
+pearson product moment correlation coefficient;the most commonly used method of computing a correlation coefficient between variables that are linearly related
+sedimentation rate;the rate at which red blood cells settle out in a tube of blood under standardized conditions. a high rate usually indicates the presence of inflammation
+ultimacy;the state or degree of being ultimate. the final or most extreme in degree or size or time or distance: 'the ultimacy of these social values'
+coefficient of correlation;a statistic representing how closely two variables co-vary. it can vary from -1 (perfect negative correlation) through 0 (no correlation) to +1 (perfect positive correlation). 'what is the correlation between those two variables?'
+overhead;(computer science) the processing time required by a device prior to the execution of a command
+comfortableness;"a state of being relaxed and feeling no pain. 'he is a man who enjoys his comfort'. 'she longed for the comfortableness of her armchair'"
+pediculosis;infestation with lice (pediculus humanus) resulting in severe itching
+green blindness;inability to distinguish green and purplish-red
+extremely low frequency;below 3 kilohertz
+margin of profit;the ratio gross profits divided by net sales
+ready;poised for action. 'their guns were at the ready'
+admixture;the state of impairing the quality or reducing the value of something
+frequence;the number of occurrences within a given time period (usually 1 second). 'the frequency of modulation was 40 cycles per second'
+unsanitariness;a state that is not conducive to health
+river blindness;infestation with slender threadlike roundworms (filaria) deposited under the skin by the bite of black fleas. when the eyes are involved it can result in blindness. common in africa and tropical america
+lugubriousness;excessive sadness and mournfulness
+a.m.;(latin: before midday) the time interval from midnight to midday
+index of refraction;the ratio of the velocity of light in a vacuum to that in a medium
+rank order correlation coefficient;the most commonly used method of computing a correlation coefficient between the ranks of scores on two variables
+kit and boodle;everything available. usually preceded by 'the'. 'we saw the whole shebang'. 'a hotdog with the works'. 'we took on the whole caboodle'. 'for 10 you get the full treatment'
+suspension;a time interval during which there is a temporary cessation of something
+audio;an audible acoustic wave frequency
+lf;30 to 300 kilohertz
+acme;the highest level or degree attainable: 'his landscapes were deemed the acme of beauty'. 'the artist's gifts are at their acme'. 'at the height of her career'. 'the peak of perfection'. 'summer was at its peak'. '...catapulted einstein to the pinnacle of fame'. 'the summit of his ambition'. 'so many highest superlatives achieved by man'. 'at the top of his profession'
+efficiency;skillfulness in avoiding wasted time and effort. 'she did the work with great efficiency'
+twilight;the time of day immediately following sunset. 'he loved the twilight'. 'they finished before the fall of night'
+amnesty;a period during which offenders are exempt from punishment
+time of day;clock time. 'the hour is getting late'
+echinococcosis;infestation with echinococci (tapeworms)
+scale;the ratio between the size of something and a representation of it. 'the scale of the map'. 'the scale of the model'
+sketchiness;incompleteness of details
+filth;the state of being covered with unclean things
+insularity;the state of being insulated
+hollowness;the state of being hollow: having an empty space within
+discomfort;"the state of being tense and feeling pain"
+birth defect;a defect that is present at birth
+defect;an imperfection in a bodily system. 'visual defects'. 'this device permits detection of defects in the lungs'
+rest;a pause for relaxation. 'people actually accomplish more when they take time for short rests'
+prematureness;the state of being premature
+superhigh frequency;3 to 30 gigahertz
+unsusceptibility;"the state of not being susceptible: 'unsusceptibility to rust'. 'immunity to disease'"
+sensitization;the state of being sensitive (as to an antigen)
+frequency;the ratio of the number of observations in a statistical category to the total number of observations
+seek time;(computer science) the time it takes for a read/write head to move to a specific data track
+ratability;(british) the state of being liable to assessment or taxation
+gait;the rate of moving (especially walking or running)
+interlude;an intervening period or episode
+overabundance;the state of being more than full
+vlf;3 to 30 kilohertz
+tragic flaw;a failing in the character of a tragic hero that leads to his downfall
+whole shebang;everything available. usually preceded by 'the'. 'we saw the whole shebang'. 'a hotdog with the works'. 'we took on the whole caboodle'. 'for 10 you get the full treatment'
+nones;the fifth of the seven canonical hours. about 3 p.m.
+good temperedness;a cheerful willingness to be obliging
+trombiculiasis;infestation with chiggers
+pinnacle;the highest level or degree attainable: 'his landscapes were deemed the acme of beauty'. 'the artist's gifts are at their acme'. 'at the height of her career'. 'the peak of perfection'. 'summer was at its peak'. '...catapulted einstein to the pinnacle of fame'. 'the summit of his ambition'. 'so many highest superlatives achieved by man'. 'at the top of his profession'
+exemption;immunity from an obligation or duty
+tautness;"the physical condition of being stretched or strained. 'it places great tension on the leg muscles'. 'he could feel the tenseness of her body'. 'the violinist adjusted the tension of the strings'"
+uhf;300 to 3000 megahertz
+impendency;"the state of being imminent and liable to happen soon"
+delay;time during which some action is awaited. 'instant replay caused too long a delay'. 'he ordered a hold in the action'
+mode;the most frequent value of a random variable
+time constant;(electronics) the time required for the current or voltage in a circuit to rise or fall exponentially through approximately 63 per cent of its amplitude
+sclk;the clock time given by a clock carried on board a spacecraft
+hole;a fault. 'he shot holes in my argument'
+orbit period;the time it takes to complete one full orbit around a celestial body. 'the orbit period depends on the altitude of the satelite'
+morbidity;the ratio of deaths in an area to the population of that area. expressed per 1000 per year
+infancy;the earliest state of immaturity
+loading;the ratio of the gross weight of an airplane to some factor determining its lift
+disjunction;state of being disconnected
+access time;(computer science) the interval between the time data is requested by the system and the time the data is provided by the drive. 'access time is the sum of seek time and rotational latency and command processing overhead'
+correlation coefficient;a statistic representing how closely two variables co-vary. it can vary from -1 (perfect negative correlation) through 0 (no correlation) to +1 (perfect positive correlation). 'what is the correlation between those two variables?'
+golden section;the proportional relation between two divisions of line or two dimension of a plane figure such that short : long :: long : (short + long)
+turnover;the ratio of the number of workers that had to be replaced in a given time period to the average number of workers
+acceleration;(physics) a rate of change of velocity
+morning prayer;the first canonical hour. at daybreak
+immediate allergy;an allergic reaction that becomes apparent in a sensitized person only minutes after contact
+break of day;the first light of day. 'we got up before dawn'. 'they talked until morning'
+satiety;the state of being satisfactorily full and unable to take on more
+span loading;the ratio of the weight of an airplane to its wingspan
+multiple correlation coefficient;an estimate of the combined influence of two or more variables on the observed (dependent) variable
+acariasis;infestation with itch mites
+hypervelocity;excessive velocity. 'the meteorites struck the earth with hypervelocity impacts'
+excess;the state of being more than full
+lull;a pause during which things are calm or activities are diminished. 'there was never a letup in the noise'
+aridity;a permanent absence of rainfall
+privateness;the condition of being concealed or hidden
+pm;the time interval from midday to midnight
+myotonia;abnormally long muscular contractions. slow relaxation of a muscle after a contraction
+hypersensitivity;pathological sensitivity
+phi coefficient;an index of the relation between any two sets of scores that can both be represented on ordered binary dimensions (e.g., male-female)
+dessication;dryness resulting from the removal of water
+latency;the time that elapses between a stimulus and the response to it"the time that elapses between a stimulus and the response to it"
+hives;an itchy skin eruption characterized by weals with pale interiors and well-defined red margins. usually the result of an allergic response to insect bites or food or drugs
+cosiness;a state of warm snug comfort
+anaphylactic shock;a severe and rapid and sometimes fatal hypersensitivity reaction to a substance (especially a vaccine or penicillin or shellfish or insect venom) to which the organism has become sensitized by previous exposure
+matins;the first canonical hour. at daybreak
+uncleanness;the state of being unsanitary
+blue blindness;inability to distinguish blue and yellow
+babyhood;the earliest state of immaturity
+urticaria;an itchy skin eruption characterized by weals with pale interiors and well-defined red margins. usually the result of an allergic response to insect bites or food or drugs
+discreteness;the state of being several and distinct
+disassociation;the state of being separate and unconnected
+kph;the ratio of the distance traveled (in kilometers) to the time spent traveling (in hours)
+convenience;the state of being suitable or opportune. 'chairs arranged for his own convenience'
+absence;the time interval during which something or somebody is away. 'he visited during my absence'
+cleanness;the state of being clean. without dirt or other impurities
+revolutions per minute;rate of revolution of a motor. 'the engine was doing 6000 revs'
+dose rate;the quantity of radiation absorbed per unit time
+bosom;(archaic) the chest considered as the place where secret thoughts are kept. 'his bosom was bursting with the secret'
+mph;a speedometer reading for the momentary rate of travel
+cycle;"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'
+absentee rate;the percentage of workers who do not report to work
+imminence;"the state of being imminent and liable to happen soon"
+asepsis;(of non-living objects) the state of being free of pathogenic organisms
+vacuity;the absence of matter
+griminess;the state of being grimy
+manual dexterity;adroitness in using the hands
+mf;300 to 3000 kilohertz
+demographic;a statistic characterizing human populations (or segments of human populations broken down by age or sex or income etc.)
+blamelessness;a state of innocence
+manhood;the state of being a man. manly qualities
+count per minute;frequency per minute
+secrecy;the condition of being concealed or hidden
+intelligence quotient;a measure of a person's intelligence as indicated by an intelligence test. the ratio of a person's mental age to their chronological age (multiplied by 100)
+clinocephaly;a congenital defect in which the top of the head is depressed (concave instead of convex)
+vacancy rate;the percentage of all rental units (as in hotels) that are unoccupied or not rented at a given time
+water pollution;pollution of the water
+oftenness;the number of occurrences within a given time period (usually 1 second). 'the frequency of modulation was 40 cycles per second'
+percent;a proportion multiplied by 100
+maturity;"state of being mature. full development"
+professionalism;the expertness characteristic of a professional person
+down syndrome;a congenital disorder caused by having an extra 21st chromosome. results in a flat face and short stature and mental retardation
+touch;deftness in handling matters. 'he has a master's touch'
+incidence;the relative frequency of occurrence of something
+impureness;"the condition of being impure"
+centripetal acceleration;the acceleration toward the center that holds a satellite in elliptical orbit
+round;"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'
+matureness;"state of being mature. full development"
+rhythm;"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'
+iq;a measure of a person's intelligence as indicated by an intelligence test. the ratio of a person's mental age to their chronological age (multiplied by 100)
+point;"a specific identifiable position in a continuum or series or especially in a process. 'a remarkable degree of frankness'. 'at what stage are the social sciences?'"
+adolescence;in the state between puberty and adulthood
+allergic reaction;hypersensitivity reaction to a particular allergen. symptoms can vary greatly in intensity
+time interval;a definite length of time marked off by two instants
+airspeed;the speed of an aircraft relative to the air in which it is flying
+rate of growth;the rate of increase in size per unit time
+dayspring;the first light of day. 'we got up before dawn'. 'they talked until morning'
+kendall partial rank correlation;a nonparametric measure of partial correlation
+level;"a specific identifiable position in a continuum or series or especially in a process. 'a remarkable degree of frankness'. 'at what stage are the social sciences?'"
+baldness;"the condition of having no hair (especially on the top of the head)"
+technique;skillfulness in the command of fundamentals deriving from practice and familiarity. 'practice greatly improves proficiency'
+pollution;the state of being polluted
+aridness;a permanent absence of rainfall
+cardiac output;the amount of blood pumped out by the ventricles in a given period of time. 'a resting adult has a cardiac output of about three quarts a minute'
+whole kit;everything available. usually preceded by 'the'. 'we saw the whole shebang'. 'a hotdog with the works'. 'we took on the whole caboodle'. 'for 10 you get the full treatment'
+meter reading;"the data presented to a user by a meter or similar instrument. 'he could not believe the meter reading'"
+speed of light;the speed at which light travels in a vacuum. 300,000 km per second. a universal constant
+breather;a short respite
+cps;the unit of frequency. one hertz has a periodic interval of one second
+gigacycle per second;1,000,000,000 periods per second
+vhf;30 to 300 megahertz
+signal to noise ratio;the ratio of signal intensity to noise intensity
+metronome marking;(music) the pace of music measured by the number of beats occurring in 60 seconds
+region;the extended spatial location of something. 'the farming regions of france'. 'religions in all parts of the world'. 'regions of outer space'
+cryesthesia;hypersensitivity to cold
+alopecia areata;patchy baldness
+proportionality;the quotient obtained when the magnitude of a part is divided by the magnitude of the whole
+entirety;the state of being total: 'appalled by the totality of the destruction'
+anaphylaxis;hypersensitivity reaction to the ingestion or injection of a substance (a protein or drug) resulting from prior contact with a substance
+contamination;the state of being contaminated
+skillfulness;"the state of being cognitively skillful"
+turnover rate;the ratio of the number of workers that had to be replaced in a given time period to the average number of workers
+medium frequency;300 to 3000 kilohertz
+frequency;the number of occurrences within a given time period (usually 1 second). 'the frequency of modulation was 40 cycles per second'
+squalor;sordid dirtiness
+pace;the rate of moving (especially walking or running)
+mach number;the ratio of the speed of a moving body to the speed of sound
+golden mean;the proportional relation between two divisions of line or two dimension of a plane figure such that short : long :: long : (short + long)
+content;the proportion of a substance that is contained in a mixture or alloy etc.
+megacycle;one million periods per second
+dirt;the state of being covered with unclean things
+degree;"a specific identifiable position in a continuum or series or especially in a process. 'a remarkable degree of frankness'. 'at what stage are the social sciences?'"
+percentage;a proportion multiplied by 100
+wholeheartedness;undivided purpose or will or enthusiasm
+vacuum;the absence of matter
+common denominator;"an attribute that is common to all members of a category"
+s n;the ratio of signal intensity to noise intensity
+readiness;"the state of being ready or prepared for use or action (especially military action). 'putting them in readiness'"
+susceptibleness;"the state of being susceptible. easily affected"
+period;the interval taken to complete one cycle of a regularly repeating phenomenon
+ablepharia;a congenital absence of eyelids (partial or complete)
+waterlessness;"the condition of not containing or being covered by a liquid (especially water)"
+oxycephaly;a congenital abnormality of the skull. the top of the skull assumes a cone shape
+mastery;great skillfulness and knowledge of some subject or activity. 'a good command of french'
+bmr;the rate at which heat is produced by an individual in a resting state
+relative incidence;the relative frequency of occurrence of something
+tension;"the physical condition of being stretched or strained. 'it places great tension on the leg muscles'. 'he could feel the tenseness of her body'. 'the violinist adjusted the tension of the strings'"
+signal noise;the ratio of signal intensity to noise intensity
+reaction time;the time that elapses between a stimulus and the response to it"the time that elapses between a stimulus and the response to it"
+womanhood;the state of being a woman. womanly qualities
+megahertz;one million periods per second
+erythrocyte sedimentation rate;the rate at which red blood cells settle out in a tube of blood under standardized conditions. a high rate usually indicates the presence of inflammation
+uncheerfulness;"not conducive to cheer or good spirits"
+weakness;a flaw or weak point. 'he was quick to point out his wife's failings'
+daltonism;inability to distinguish green and purplish-red
+hangover;disagreeable aftereffects from the use of drugs (especially alcohol)
+atonicity;"lack of normal muscular tension or tonus"
+breadth index;ratio (in percent) of the maximum breadth to the maximum length of a skull
+pollution;the state of being contaminated with harmful substances
+terce;the third canonical hour. about 9 a.m.
+emptiness;"the state of containing nothing"
+rate of attrition;the rate of shrinkage in size or number
+ante meridiem;(latin: before midday) the time interval from midnight to midday
+gigacycle;1,000,000,000 periods per second
+lights out;a prescribed bedtime
+deuteranopia;inability to distinguish green and purplish-red
+facility;skillfulness in the command of fundamentals deriving from practice and familiarity. 'practice greatly improves proficiency'
+infant deathrate;the death rate during the first year of life
+hertz;the unit of frequency. one hertz has a periodic interval of one second
+terminal velocity;the constant maximum velocity reached by a body falling through the atmosphere under the attraction of gravity
+megacycle per second;one million periods per second
+tempo;the rate of some repeating event
+breakfast time;the time for eating breakfast
+indemnity;legal exemption from liability for damages
+hairlessness;"the condition of having no hair (especially on the top of the head)"
+command overhead;(computer science) the processing time required by a device prior to the execution of a command
+bits per second;(computer science) the rate at which data is transferred (as by a modem)
+rate of acceleration;(mechanics) the rate of change of velocity
+ski conditions;"the amount and state of snow for skiing"
+kc;one thousand periods per second
+double time;a fast marching pace (180 steps/min) or slow jog
+top;the highest level or degree attainable: 'his landscapes were deemed the acme of beauty'. 'the artist's gifts are at their acme'. 'at the height of her career'. 'the peak of perfection'. 'summer was at its peak'. '...catapulted einstein to the pinnacle of fame'. 'the summit of his ambition'. 'so many highest superlatives achieved by man'. 'at the top of his profession'
+breathing spell;a short respite
+interval;a definite length of time marked off by two instants
+fault;an imperfection in a device or machine. 'if there are any defects you should send it back to the manufacturer'
+aurora;the first light of day. 'we got up before dawn'. 'they talked until morning'
+intermission;a time interval during which there is a temporary cessation of something
+kilocycle;one thousand periods per second
+magnitude;a number assigned to the ratio of two quantities. two quantities are of the same order of magnitude if one is less than 10 times as large as the other. the number of magnitudes that the quantities differ is specified to within a power of 10
+severalty;the state of being several and distinct
+loneliness;the state of being alone in solitary isolation
+activity;(chemistry) the capacity of a substance to take part in a chemical reaction. 'catalytic activity'
+expertise;skillfulness by virtue of possessing special knowledge
+detachment;the state of being insulated
+coziness;a state of warm snug comfort
+adactyly;congenital absence of fingers and/or toes
+economy;the efficient use of resources. 'economy of effort'
+sunup;the first light of day. 'we got up before dawn'. 'they talked until morning'
+sterileness;(of non-living objects) the state of being free of pathogenic organisms
+foulness;a state characterized by foul or disgusting dirt and refuse
+cephalic index;ratio (in percent) of the maximum breadth to the maximum length of a skull
+interruption;a time interval during which there is a temporary cessation of something
+adroitness;skillful performance without difficulty. 'his quick adeptness was a product of good design'
+dirtiness;the state of being unsanitary
+parenthood;the state of being a parent
+end point;the final point in a process
+smogginess;air pollution by a mixture of smoke and fog
+clinodactyly;a congenital defect in which one or more toes or fingers are abnormally positioned
+mechanical advantage;the ratio of the force exerted by a machine to the force applied to it
+wpm;the rate at which words are produced (as in speaking or typing)
+muscular tonus;normal tonicity of the muscles. 'exercise improves muscle tone'
+sterility;(of non-living objects) the state of being free of pathogenic organisms
+concealment;the condition of being concealed or hidden
+mean deviation;the arithmetic mean of the absolute values of deviations from the mean of a distribution
+grubbiness;the state of being grimy
+grease;the state of being covered with unclean things
+whole caboodle;everything available. usually preceded by 'the'. 'we saw the whole shebang'. 'a hotdog with the works'. 'we took on the whole caboodle'. 'for 10 you get the full treatment'
+ehf;30 to 300 gigahertz
+immaturity;"not having reached maturity"
+good naturedness;a cheerful willingness to be obliging
+inconvenience;an inconvenient discomfort
+separation;the state of lacking unity
+atopic allergy;an allergic reaction that becomes apparent in a sensitized person only minutes after contact
+coefficient of concordance;a coefficient of agreement (concordance) between different sets of rank orderings of the same set of things
+safety factor;the ratio of the breaking stress of a structure to the estimated maximum stress in ordinary use
+adactylism;congenital absence of fingers and/or toes
+gloaming;the time of day immediately following sunset. 'he loved the twilight'. 'they finished before the fall of night'
+rate of flow;the amount of fluid that flows in a given time
+unity;"an unreduced or unbroken completeness or totality"
+efficiency;the ratio of the output to the input of any system
+crabs;infestation by crab lice
+kilocycle per second;one thousand periods per second
+congenital anomaly;a defect that is present at birth
+schistorrhachis;a not uncommon congenital defect in which a vertebra is malformed. unless several vertebrae are affected or there is myelomeningocele there are few symptoms. can be diagnosed by amniocentesis
+dehydration;dryness resulting from the removal of water
+smog;air pollution by a mixture of smoke and fog
+mhz;one million periods per second
+time out;a brief suspension of play. 'each team has two time-outs left'
+nastiness;a state characterized by foul or disgusting dirt and refuse
+rank difference correlation coefficient;the most commonly used method of computing a correlation coefficient between the ranks of scores on two variables
+pulse;the rate at which the heart beats
+neutron flux;the rate of flow of neutrons. the number of neutrons passing through a unit area in unit time
+esr;the rate at which red blood cells settle out in a tube of blood under standardized conditions. a high rate usually indicates the presence of inflammation
+rate;"a magnitude or frequency relative to a time unit. 'they traveled at a rate of 55 miles per hour'. 'the rate of change was faster than expected'"
+privacy;the condition of being concealed or hidden
+kilometers per hour;the ratio of the distance traveled (in kilometers) to the time spent traveling (in hours)
+reactivity;ready susceptibility to chemical change
+qui vive;condition of heightened watchfulness or preparation for action: 'bombers were put on alert during the crisis'
+moratorium;a legally authorized postponement before some obligation must be discharged
+achromatic vision;genetic inability to distinguish differences in hue
+batting average;(baseball) the percentage of times a batter gets a hit. number of base hits divided by the number of times at bat
+infestation;the state of being overrun in unpleasantly large numbers (as by parasites)
+daybreak;the first light of day. 'we got up before dawn'. 'they talked until morning'
+acrocephaly;a congenital abnormality of the skull. the top of the skull assumes a cone shape
+early morning hour;an hour early in the morning
+power loading;the ratio of the weight of an airplane to its engine power
+scaphocephaly;congenital malformation of the skull which is long and narrow. frequently accompanied by mental retardation
+mileage;the ratio of the number of miles traveled to the number of gallons of gasoline burned
+satiation;the state of being satisfactorily full and unable to take on more
+respiratory quotient;the ratio of the volume of carbon dioxide expired to the volume of oxygen consumed by an organism or cell in a given period of time
+command processing overhead;(computer science) the processing time required by a device prior to the execution of a command
+spacing;the time between occurrences of a repeating event. 'some women do not control the spacing of their children'
+midday;the middle of the day
+youth;early maturity. the state of being young or immature or inexperienced
+wholeness;"an unreduced or unbroken completeness or totality"
+seal limbs;an abnormality of development in which the upper part of an arm or leg is missing so the hands or feet are attached to the body like stumps. rare condition that results from taking thalidomide during pregnancy
+syndactylism;a birth defect (in humans) in which there is partial or total webbing connecting two or more fingers or toes
+atonia;"lack of normal muscular tension or tonus"
+fielding average;(baseball) the percentage of times a fielder handles a batted ball properly. number of assists and putouts divided by the number of chances
+acaridiasis;infestation with itch mites
+order of magnitude;a number assigned to the ratio of two quantities. two quantities are of the same order of magnitude if one is less than 10 times as large as the other. the number of magnitudes that the quantities differ is specified to within a power of 10
+full treatment;everything available. usually preceded by 'the'. 'we saw the whole shebang'. 'a hotdog with the works'. 'we took on the whole caboodle'. 'for 10 you get the full treatment'
+disconnectedness;state of being disconnected
+antisepsis;(of non-living objects) the state of being free of pathogenic organisms
+impendence;"the state of being imminent and liable to happen soon"
+hopefulness;"full of hope"
+kilohertz;one thousand periods per second
+infrared;the infrared part of the electromagnetic spectrum. electromagnetic wave frequencies below the visible range. 'they could sense radiation in the infrared'
+time constant;the ratio of the inductance of a circuit in henries to its resistance in ohms
+immatureness;"not having reached maturity"
+sanitation;the state of being clean and conducive to health
+adult intelligence;the average iq of the adults in a given population
+fall;the time of day immediately following sunset. 'he loved the twilight'. 'they finished before the fall of night'
+purdah;a state of social isolation
+distribution free statistic;a statistic computed without knowledge of the parameters of the distribution from which observations are drawn
+brushwork;an artist's distinctive technique of applying paint with a brush
+postponement;time during which some action is awaited. 'instant replay caused too long a delay'. 'he ordered a hold in the action'
+hold;time during which some action is awaited. 'instant replay caused too long a delay'. 'he ordered a hold in the action'
+channel capacity;the maximum data rate that can be attained over a given channel
+failing;a flaw or weak point. 'he was quick to point out his wife's failings'
+defect;an imperfection in a device or machine. 'if there are any defects you should send it back to the manufacturer'
+tonus;the elastic tension of living muscles, arteries, etc. that facilitate response to stimuli. 'the doctor tested my tonicity'
+eternity;a seemingly endless time interval (waiting)
+adactylia;congenital absence of fingers and/or toes
+myelomeningocele;a congenital defect of the central nervous system in which a sac containing part of the spinal cord and its meninges protrude through a gap in the vertebral column. frequently accompanied by hydrocephalus and mental retardation
+cryaesthesia;hypersensitivity to cold
+squalidness;sordid dirtiness
+adulteration;being mixed with extraneous material
+kendall rank correlation;a nonparametric measure of the agreement between two rankings
+fourfold point correlation;an index of the relation between any two sets of scores that can both be represented on ordered binary dimensions (e.g., male-female)
+facial index;the ratio (in percent) of the maximum width the the maximum height of the face
+embolism;an insertion into a calendar
+control;great skillfulness and knowledge of some subject or activity. 'a good command of french'
+proportionateness;the relation of correspondence in degree or size or amount
+red blindness;inability to distinguish red and purplish blue
+infrared frequency;the infrared part of the electromagnetic spectrum. electromagnetic wave frequencies below the visible range. 'they could sense radiation in the infrared'
+hypersensitivity reaction;an inappropriate and excessive reaction to an allergen (as pollen or dust or animal hair or certain foods). severity ranges from mild allergy to severe systemic reactions leading to anaphylactic shock
+serum disease;a delayed allergic reaction to the injection of an antiserum caused by an antibody reaction to an antigen in the donor serum
+wing loading;the ratio of the weight of an airplane to its wing area
+signal noise ratio;the ratio of signal intensity to noise intensity
+blankness;the state of being blank. void. emptiness
+audio frequency;an audible acoustic wave frequency
+spacecraft clock time;the clock time given by a clock carried on board a spacecraft
+snugness;a state of warm snug comfort
+albinism;the congenital absence of pigmentation in the eyes and skin and hair
+comprehensiveness;completeness over a broad scope
+childhood;the state of a child between infancy and adolescence
+crime rate;the ratio of crimes in an area to the population of that area. expressed per 1000 population per year
+down s syndrome;a congenital disorder caused by having an extra 21st chromosome. results in a flat face and short stature and mental retardation
+command;great skillfulness and knowledge of some subject or activity. 'a good command of french'
+adeptness;skillful performance without difficulty. 'his quick adeptness was a product of good design'
+miles per gallon;the ratio of the number of miles traveled to the number of gallons of gasoline burned
+hz;the unit of frequency. one hertz has a periodic interval of one second
+impurity;"the condition of being impure"
+evensong;the sixth of the seven canonical hours of the divine office. early evening. now often made a public service on sundays
+flow;the amount of fluid that flows in a given time
+rpm;rate of revolution of a motor. 'the engine was doing 6000 revs'
+evenfall;the time of day immediately following sunset. 'he loved the twilight'. 'they finished before the fall of night'
+rank order correlation;the most commonly used method of computing a correlation coefficient between the ranks of scores on two variables
+complin;last of the seven canonical hours
+sanitary condition;"the state of sanitation (clean or dirty)"
+proficiency;skillfulness in the command of fundamentals deriving from practice and familiarity. 'practice greatly improves proficiency'
+very low frequency;3 to 30 kilohertz
+aspect ratio;the ratio of the width to the height of a tv picture
+entr acte;the interlude between two acts of a play
+median;the value below which 50% of the cases fall
+outlier;an extreme deviation from the mean
+acariosis;infestation with itch mites
+jerk;(mechanics) the rate of change of velocity
+fullness;completeness over a broad scope
+glitch;a fault or defect in a system or machine
+ametria;congenital absence of the uterus
+partialness;the state of being only a part. not total. incomplete
+confidence;a state of confident hopefulness that events will be favorable. 'public confidence in the economy'
+coordination;the skillful and effective interaction of movements
+command processing overhead time;(computer science) the processing time required by a device prior to the execution of a command
+rev;rate of revolution of a motor. 'the engine was doing 6000 revs'
+clear;deletes the text of the current selection fromwindow-or-item without saving it on the kill ring. window-or-item is a fred window or fred dialog item.the state of being free of suspicion: 'investigation showed that he was in the clear'
+noon;the middle of the day
+defilement;the state of being polluted
+stop number;the ratio of the focal length to the diameter of a (camera) lens system
+track to track seek time;(computer science) the time it takes for a read/write head to move to an adjacent data track
+miles per hour;the ratio of the distance traveled (in miles) to the time spent traveling (in hours)
+birthrate;the ratio of live births in an area to the population of that area. expressed per 1000 population per year
+flux;the rate of flow of energy or particles across a given surface
+rush hour;the times at the beginning and end of the working day when many people are traveling to or from work
+uncomfortableness;"the state of being tense and feeling pain"
+liability;the state of being legally obliged and responsible
+sleight;adroitness in using the hands
+sootiness;the state of being dirty with soot
+bugginess;the state of having bugs
+lousiness;infestation with lice (pediculus humanus) resulting in severe itching
+latent period;the time that elapses between a stimulus and the response to it"the time that elapses between a stimulus and the response to it"
+moment;the n-th moment of a distribution is the expected value of the n-th power of the deviations from a fixed value
+lunchtime;the time for eating lunch. 'he observed a regular lunchtime'
+happy hour;the time of day when a bar sells alcoholic drinks at a reduced price
+air pollution;pollution of the air
+incommodiousness;an inconvenient discomfort
+adulthood;the state (and responsibilities) of a person who has attained maturity
+twelve noon;the middle of the day
+halftime;an intermission between the first and second half of a game
+mongolianism;a congenital disorder caused by having an extra 21st chromosome. results in a flat face and short stature and mental retardation
+nettle rash;an itchy skin eruption characterized by weals with pale interiors and well-defined red margins. usually the result of an allergic response to insect bites or food or drugs
+dinginess;discoloration due to dirtiness
+fluency;skillfulness in speaking or writing
+f number;the ratio of the focal length to the diameter of a (camera) lens system
+mortality;the ratio of deaths in an area to the population of that area. expressed per 1000 per year
+relief;the condition of being comfortable or relieved (especially after being relieved of distress). 'he enjoyed his relief from responsibility'. 'getting it off his conscience gave him some ease'
+signal to noise;the ratio of signal intensity to noise intensity
+nightfall;the time of day immediately following sunset. 'he loved the twilight'. 'they finished before the fall of night'
+kendall test;any of several nonparametric measures of correlation (used when the assumptions of standard correlational analysis are not met)
+hour;clock time. 'the hour is getting late'
+acromyotonia;myotonia of the extremities only. causes spastic deformity of the hand or foot
+putridity;the state of being putrid
+deftness;skillful performance without difficulty. 'his quick adeptness was a product of good design'
+taint;the state of being contaminated
+dawn;the first light of day. 'we got up before dawn'. 'they talked until morning'
+first light;the first light of day. 'we got up before dawn'. 'they talked until morning'
+inflation rate;the rate of change of prices (as indicated by a price index) calculated on a monthly or annual basis
+whole kit and boodle;everything available. usually preceded by 'the'. 'we saw the whole shebang'. 'a hotdog with the works'. 'we took on the whole caboodle'. 'for 10 you get the full treatment'
+good humoredness;a cheerful willingness to be obliging
+sed rate;the rate at which red blood cells settle out in a tube of blood under standardized conditions. a high rate usually indicates the presence of inflammation
+small hours;the hours just after midnight
+imperfectness;"the state or an instance of being imperfect"
+serum sickness;a delayed allergic reaction to the injection of an antiserum caused by an antibody reaction to an antigen in the donor serum
+words per minute;the rate at which words are produced (as in speaking or typing)
+tau coefficient of correlation;a nonparametric measure of the agreement between two rankings
+rest period;a pause for relaxation. 'people actually accomplish more when they take time for short rests'
+disjointedness;lacking order or coherence
+extension;a mutually agreed delay in the date set for the completion of a job or payment of a debt. 'they applied for an extension of the loan'
+resistance;the condition in which an organism can resist disease
+alert;condition of heightened watchfulness or preparation for action: 'bombers were put on alert during the crisis'
+gc;1,000,000,000 periods per second
+ultrahigh frequency;300 to 3000 megahertz
+alloy;the state of impairing the quality or reducing the value of something
+p.m.;the time interval from midday to midnight
+counts minute;frequency per minute
+quarantine;enforced isolation to prevent spread of disease
+solitariness;the state of being alone in solitary isolation
+amorphous shape;an ill-defined or arbitrary shape
+protanopia;inability to distinguish red and purplish blue
+completeness;the state of being complete and entire. having everything that is needed
+kmh;the ratio of the distance traveled (in kilometers) to the time spent traveling (in hours)
+facility;skillful performance without difficulty. 'his quick adeptness was a product of good design'
+deathrate;the ratio of deaths in an area to the population of that area. expressed per 1000 per year
+dust contamination;state of being contaminated with dust
+whole kit and caboodle;everything available. usually preceded by 'the'. 'we saw the whole shebang'. 'a hotdog with the works'. 'we took on the whole caboodle'. 'for 10 you get the full treatment'
+interim;the time between one event, process, or period and another
+wait;time during which some action is awaited. 'instant replay caused too long a delay'. 'he ordered a hold in the action'
+cycle;the unit of frequency. one hertz has a periodic interval of one second
+stage;"a specific identifiable position in a continuum or series or especially in a process. 'a remarkable degree of frankness'. 'at what stage are the social sciences?'"
+part;the extended spatial location of something. 'the farming regions of france'. 'religions in all parts of the world'. 'regions of outer space'
+onchocerciasis;infestation with slender threadlike roundworms (filaria) deposited under the skin by the bite of black fleas. when the eyes are involved it can result in blindness. common in africa and tropical america
+gigahertz;1,000,000,000 periods per second
+vacancy;being unoccupied
+good humouredness;a cheerful willingness to be obliging
+ease;the condition of being comfortable or relieved (especially after being relieved of distress). 'he enjoyed his relief from responsibility'. 'getting it off his conscience gave him some ease'
+float;the time interval between the deposit of a check in a bank and its payment
+refractive index;the ratio of the velocity of light in a vacuum to that in a medium
+resultant;the final point in a process
+tonicity;the elastic tension of living muscles, arteries, etc. that facilitate response to stimuli. 'the doctor tested my tonicity'
+entireness;the state of being total: 'appalled by the totality of the destruction'
+solidity;state of having the interior filled with matter
+rydberg;a wave number characteristic of the wave spectrum of each element
+passive immunity;an impermanent form of acquired immunity in which antibodies against a disease are acquired naturally (as through the placenta to an unborn child) or artificially (as by injection of antiserum)
+ratio;"the relative magnitudes of two quantities (usually expressed as a quotient)"
+fertility rate;the ratio of live births in an area to the population of that area. expressed per 1000 population per year
+late night hour;the latter part of night
+per centum;a proportion multiplied by 100
+faultiness;the state of being defective
+quick time;a normal marching pace of 120 steps per minute
+capability;the susceptibility of something to a particular treatment. 'the capability of a metal to be fused'
+first moment;the sum of the values of a random variable divided by the number of values
+dusk;the time of day immediately following sunset. 'he loved the twilight'. 'they finished before the fall of night'
+rank difference correlation;the most commonly used method of computing a correlation coefficient between the ranks of scores on two variables
+shf;3 to 30 gigahertz
+rydberg unit;a wave number characteristic of the wave spectrum of each element
+syndactyly;a birth defect (in humans) in which there is partial or total webbing connecting two or more fingers or toes
+incoherency;lack of cohesion or clarity or organization
+solacement;comfort in disappointment or misery
+cycle per second;the unit of frequency. one hertz has a periodic interval of one second
+malaise;physical discomfort (as mild sickness or depression)
+noontide;the middle of the day
+intercalation;an insertion into a calendar
+rateability;(british) the state of being liable to assessment or taxation
+sext;the fourth of the seven canonical hours. about noon
+khz;one thousand periods per second
+soil;the state of being covered with unclean things
+cockcrow;the first light of day. 'we got up before dawn'. 'they talked until morning'
+split half correlation;a correlation coefficient calculated between scores on two halves of a test. taken as an indication of the reliability of the test
+meromelia;congenital absence of part of an arm or leg
+acquired immunity;immunity to a particular disease that is not innate but has been acquired during life. immunity can be acquired by the development of antibodies after an attack of an infectious disease or by a pregnant mother passing antibodies through the placenta to a fetus or by vaccination
+allergy;hypersensitivity reaction to a particular allergen. symptoms can vary greatly in intensity
+grandfather clause;an exemption based on circumstances existing prior to the adoption of some policy. used to enfranchise illiterate whites in us south after the civil war
+capacity;the susceptibility of something to a particular treatment. 'the capability of a metal to be fused'
+scale;"relative magnitude. 'they entertained on a grand scale'"
+cheer;"the quality of being cheerful and dispelling gloom. 'flowers added a note of cheerfulness to the drab room'"
+c;the speed at which light travels in a vacuum. 300,000 km per second. a universal constant
+repletion;the state of being satisfactorily full and unable to take on more
+factor of safety;the ratio of the breaking stress of a structure to the estimated maximum stress in ordinary use
+type iv allergic reaction;an allergic reaction that becomes apparent only hours after contact
+cheiloschisis;a congenital cleft in the middle of the upper lip
+radiant flux;the rate of flow of radiant energy (electromagnetic waves)
+output to input ratio;the output power of a transducer divided by the input power
+urtication;an itchy skin eruption characterized by weals with pale interiors and well-defined red margins. usually the result of an allergic response to insect bites or food or drugs
+mealtime;the time for eating a meal
+compline;last of the seven canonical hours
+batting average;(an extension of the baseball term) the proportion of times some effort succeeds. 'the salesman's batting average was 7 out of 12'
+speed;the ratio of the focal length to the diameter of a (camera) lens system
+sunrise;the first light of day. 'we got up before dawn'. 'they talked until morning'
+sunset;the time in the evening at which the sun begins to fall below the horizon
+steerageway;(nautical) the minimum rate of motion needed for a vessel to be maneuvered
+noise conditions;"the condition of being noisy (as in a communication channel)"
+vespers;the sixth of the seven canonical hours of the divine office. early evening. now often made a public service on sundays
+blackout;a suspension of radio or tv broadcasting
+relaxation time;the time constant of an exponential return of a system to equilibrium after a disturbance
+ventricular septal defect;a common congenital heart defect. an abnormal opening in the septum dividing the ventricles allows blood to pass directly from the left to the right ventricle. large openings may cause congestive heart failure
+trisomy;a congenital disorder caused by having an extra 21st chromosome. results in a flat face and short stature and mental retardation
+kendall s tau;a nonparametric measure of the agreement between two rankings
+congenital abnormality;a defect that is present at birth
+acid precipitation;rain containing acids that form in the atmosphere when industrial gas emissions combine with water
+taxability;liability to taxation
+breathing place;a short respite
+morbidity;the relative incidence of a particular disease
+spina bifida;a not uncommon congenital defect in which a vertebra is malformed. unless several vertebrae are affected or there is myelomeningocele there are few symptoms. can be diagnosed by amniocentesis
+tetrachoric correlation coefficient;a correlation coefficient computed for two normally distributed variables that are both expressed as a dichotomy
+product moment correlation coefficient;the most commonly used method of computing a correlation coefficient between variables that are linearly related
+immunity;"the state of not being susceptible: 'unsusceptibility to rust'. 'immunity to disease'"
+amyotonia;"lack of normal muscular tension or tonus"
+anticipation;wishing with confidence of fulfillment
+quickening;the stage of pregnancy at which the mother first feels movements of the fetus
+phi correlation;an index of the relation between any two sets of scores that can both be represented on ordered binary dimensions (e.g., male-female)
+insulation;the state of being insulated
+dissociation;the state of being separate and unconnected
+amelia;congenital absence of an arm or leg
+response time;the time that elapses between a stimulus and the response to it"the time that elapses between a stimulus and the response to it"
+lunitidal interval;interval between the moon's transit of a particular meridian and the next high tide at that meridian
+insularism;the state of being insulated
+clock time;the time as given by a clock. 'do you know what time it is?'. 'the time is 10 o'clock'
+tenseness;"the physical condition of being stretched or strained. 'it places great tension on the leg muscles'. 'he could feel the tenseness of her body'. 'the violinist adjusted the tension of the strings'"
+sundown;the time in the evening at which the sun begins to fall below the horizon
+prematurity;the state of being premature
+versatility;having a wide variety of skills
+climax;the most severe stage of a disease
+sordidness;sordid dirtiness
+summit;the highest level or degree attainable: 'his landscapes were deemed the acme of beauty'. 'the artist's gifts are at their acme'. 'at the height of her career'. 'the peak of perfection'. 'summer was at its peak'. '...catapulted einstein to the pinnacle of fame'. 'the summit of his ambition'. 'so many highest superlatives achieved by man'. 'at the top of his profession'
+ghz;1,000,000,000 periods per second
+interregnum;the time between two reigns, governments, etc.
+covariance;statistical measure of the variance of two random variables measured in the same mean time period
+innocence;"a state or condition of being innocent of a specific crime or offense. 'the trial established his innocence'"
+speed;distance travelled per unit time
+albedo;the ratio of reflected to incident light
+respite;a pause for relaxation. 'people actually accomplish more when they take time for short rests'

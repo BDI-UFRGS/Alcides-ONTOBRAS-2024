@@ -1,0 +1,63 @@
+people;"the body of citizens of a state or country. 'the spanish people'"
+humans;"all of the inhabitants of the earth. 'all the world loves a lover'"
+fauna;"all the animal life in a particular region"
+bier patch;tangled mass of prickly plants
+flora;"all the plant life in a particular region"
+brake;an area thickly overgrown usually with one kind of plant
+copse;a dense growth of bushes
+vegetation;"all the plant life in a particular region"
+underbrush;the brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest
+soleirolia soleirolii;prostrate or creeping corsican herb with mosslike small round short-stemmed leaves
+garden;the flowers or vegetables or fruits or herbs that are cultivated in a garden
+thicket;a dense growth of bushes
+biology;"all the plant and animal life of a particular region"
+groundcover;small plants other than saplings growing on a forest floor
+canebrake;a dense growth of cane (especially giant cane)
+ground cover;small plants other than saplings growing on a forest floor
+woods;the trees and other plants in a large densely wooded area
+overpopulation;too much population
+brush;a dense growth of bushes
+citizenry;"the body of citizens of a state or country. 'the spanish people'"
+overspill;too much population
+old growth;forest or woodland having a mature or overmature ecosystem more or less uninfluenced by human activity
+helxine soleirolia;prostrate or creeping corsican herb with mosslike small round short-stemmed leaves
+brier;tangled mass of prickly plants
+hernaria glabra;common prostrate old world herb often used as a ground cover. formerly reputed to cure ruptures
+grove;a small growth of trees without underbrush
+mankind;"all of the inhabitants of the earth. 'all the world loves a lover'"
+wood;the trees and other plants in a large densely wooded area
+spinney;(british) a copse that shelters game
+whitlowwort;any of various low-growing tufted plants of the genus paronychia having tiny greenish flowers and usually whorled leaves. widespread throughout warm regions of both old and new worlds. formerly thought to cure whitlows (suppurative infections around a fingernail)
+virgin forest;forest or woodland having a mature or overmature ecosystem more or less uninfluenced by human activity
+shrubbery;a collection of shrubs growing together
+humanity;"all of the inhabitants of the earth. 'all the world loves a lover'"
+second growth;a second growth of trees covering an area where the original stand was destroyed by fire or cutting
+pearlwort;any of various low-growing plants of the genus sagina having small spherical flowers resembling pearls
+ground cover;low-growing plants planted in deep shade or on a steep slope where turf is difficult to grow
+governed;the body of people who are citizens of a particular government. 'governments derive their just powers from the consent of the governed'--declaration of independence
+forest;the trees and other plants in a large densely wooded area
+world;"all of the inhabitants of the earth. 'all the world loves a lover'"
+chaparral;dense vegetation consisting of stunted trees or bushes
+baby s tears;prostrate or creeping corsican herb with mosslike small round short-stemmed leaves
+baby tears;prostrate or creeping corsican herb with mosslike small round short-stemmed leaves
+coppice;a dense growth of bushes
+man;"all of the inhabitants of the earth. 'all the world loves a lover'"
+population;"a group of organisms of the same species populating a given area. 'they hired hunters to keep down the deer population'"
+brushwood;a dense growth of bushes
+rupturewort;common prostrate old world herb often used as a ground cover. formerly reputed to cure ruptures
+human beings;"all of the inhabitants of the earth. 'all the world loves a lover'"
+humankind;"all of the inhabitants of the earth. 'all the world loves a lover'"
+undergrowth;small plants other than saplings growing on a forest floor
+growth;vegetation that has grown. 'a growth of trees'. 'the only growth was some salt grass'
+groundcover;low-growing plants planted in deep shade or on a steep slope where turf is difficult to grow
+brierpatch;tangled mass of prickly plants
+bush;dense vegetation consisting of stunted trees or bushes
+stand;a growth of similar plants (usually trees) in a particular area. 'they cut down a stand of trees'
+biota;"all the plant and animal life of a particular region"
+pearlweed;any of various low-growing plants of the genus sagina having small spherical flowers resembling pearls
+undergrowth;the brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest
+human race;"all of the inhabitants of the earth. 'all the world loves a lover'"
+scrub;dense vegetation consisting of stunted trees or bushes
+electorate;the body of enfranchised citizens. those qualified to vote
+underwood;the brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest
+avifauna;the birds of a particular region or period

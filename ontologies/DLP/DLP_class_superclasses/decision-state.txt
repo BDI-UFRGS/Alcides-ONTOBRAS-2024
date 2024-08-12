@@ -1,0 +1,7 @@
+decision-state
+state
+particular
+Thing
+perdurant
+spatio-temporal-particular
+stative

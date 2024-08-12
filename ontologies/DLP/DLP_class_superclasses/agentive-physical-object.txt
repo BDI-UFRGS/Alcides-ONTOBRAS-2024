@@ -1,0 +1,8 @@
+agentive-physical-object
+agent
+particular
+Thing
+physical-endurant
+endurant
+spatio-temporal-particular
+physical-object

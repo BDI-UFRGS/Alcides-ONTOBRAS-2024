@@ -1,0 +1,16 @@
+{
+    "AGRO": 30,
+    "STATO": 3,
+    "ENVO": 5,
+    "GO": 5,
+    "CHEBI": 2,
+    "OBI": 2,
+    "PSDO": 1,
+    "ECOCORE": 1,
+    "EUPATH": 3,
+    "OBCS": 2,
+    "SV": 1,
+    "PCO": 3,
+    "FOODON": 4,
+    "DOID": 1
+}

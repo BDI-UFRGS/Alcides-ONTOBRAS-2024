@@ -1,0 +1,13 @@
+socially-constructed-person
+agent
+figure
+agentive-social-object
+agentive-figure
+particular
+Thing
+rational-agent
+non-physical-endurant
+non-physical-object
+social-object
+endurant
+spatio-temporal-particular

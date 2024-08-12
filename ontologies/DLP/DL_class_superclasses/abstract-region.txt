@@ -1,0 +1,5 @@
+abstract-region
+particular
+Thing
+abstract
+region

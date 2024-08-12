@@ -1,0 +1,547 @@
+process;1,6-dimethylsulfonoxy l-mannitol exposure;the treatment involving use of 1,6-dimethylsulfonoxy l-mannitol for mutagenesis process.
+process;antimicrobial agent exposure;obo sf2 peco:70
+process;salicylic acid exposure;obo sf2 peco:63
+process;natural gas exposure;the treatment involving use of natural gas for mutagenesis process.
+process;other animals exposure;treatment involving the exposure of plant to the pests that do not falll under the well known classes of birds, mammals, insects, nematode and molluscs.
+process;castor meal exposure;a natural fertilizer exposure (peco:0007087) which is the application of castor meal.
+process;fungicide exposure;peco git:73
+process;cadmium exposure;peco git:30
+process;benzyladenine exposure;peco git:71
+process;insecticide exposure;a pesticide exposure (peco:0007167) involving the application of an insecticide. a chemical entity or mixture of chemical entities.
+process;ethylphosphine exposure;chebi:35889
+process;pseudomonas fluorescens exposure;ncbi taxid:294
+process;urea exposure;treatment involving the use of urea as source of nitrogen supplement to study various types of responses.
+process;xanthomonas oryzae pv. oryzicola exposure;the treatment involving exposure of plant to the pathogen xanthomonas oryzae pv. oryzicola. it is a causal agent for rice bacterial blight disease.
+process;erwinia chrysanthemi exposure;the treatment involving exposure of plant to the pathogen erwinia chrysanthemi. it is a causal agent for rice foot rot disease.
+process;kinetin exposure;obo sf2 peco:72
+process;ascomycota exposure;ncbi taxon id:4890
+process;achlya spp. exposure;the treatment involving an exposure of plant to the achlya spp.
+process;maliarpha separatella exposure;the treatment involving exposure of plant to the pest white rice borer.
+process;xanthomonas plant exposure;a bacterial plant exposure (peco:0007246) involving the exposure to bacteria of the genus xanthomonas.
+process;pseudaletia unipuncta exposure;ncbi taxid:42880
+process;peroxide exposure;obo sf2 peco:73
+process;sagittaria longiloba exposure;an exposure of a reference or experimental plant to the monocot plant sagittaria longiloba, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;rice stripe virus exposure;the treatment involving exposure of plant to the rice stripe virus. it is a causal agent for rice stripe disease.
+process;polyethylene glycol exposure;an organic chemical exposure (peco:0001003) involving the application of polyethylene glycol (chebi:46793).
+process;hygromycin exposure;peco git:69
+process;manganese nutrient exposure;the treatment involving exposure of plant to micronutrient manganese as supplement to study various types of responses.
+process;kinetin exposure;a cytokinin exposure (peco:0007066) involving use of kinetin, a cytokinin homolog.
+process;transposable element insert exposure;the treatment involving use of transposable element as an insert for mutagenesis process.
+process;pseudaletia separata exposure;the treatment involving exposure of plant to the pest pseudaletia separata.
+process;salt exposure;chebi:24866
+process;leptochloa fascicularis exposure;an exposure of a reference or experimental plant to the monocot plant leptochloa fascicularis, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;aminopterin exposure;the treatment involving use of aminopterin for mutagenesis process.
+process;sarocladium oryzae exposure;ncbi taxon id:284135
+process;sodium chloride exposure;a salt exposure (peco:0007185) involving the use of sodium chloride salt as supplement to liquid and soil growth media to study various types of responses on its application.
+process;pythium graminicola exposure;the treatment involving exposure of plant to the pythium graminicola. it is a causal agent for rice feeder root necrosis disease.
+process;limited zinc exposure;a zinc nutrient exposure (peco:0007309) involving exposure to limiting amounts or absence of zinc (chebi:27363).
+process;pseudomonas avenae exposure;the treatment involving exposure of plant to the pathogen pseudomonas avenae. it is a causal agent for rice bacterial brown stripe disease.
+process;nitrogen mustard exposure;the treatment involving use of nitrogen mustard for mutagenesis process.
+process;dibromothymoquinone exposure;peco git:74
+process;rice grassy stunt 1 virus exposure;the treatment involving exposure of plant to the rice grassy stunt 1 virus. it is a causal agent for rice grassy stunt disease.
+process;formaldehyde exposure;the treatment involving use of formaldehyde for mutagenesis process.
+process;inorganic anion exposure;an inorganic chemical exposure (peco:0001004) involving the application of an anion or a mixture of anions (chebi:22563).
+process;indigo light exposure;the treatment using indigo light either exclusively or as part of a supplemental light treatment involving indigo color light in the wavelength range of 450-440 nm.
+process;nematicide exposure;peco git:113
+process;sogatodes oryzicola exposure;the treatment involving exposure of plant to the pest rice delpahcid.
+process;cytokinin exposure;peco git:71
+process;glucose exposure;peco git:10
+process;growth hormone exposure;obo sf2 peco:72
+process;ethylphosphine exposure;an herbicide exposure (peco:0007183) involving the use of ethylphosphine (ccp).
+process;indole acetic acid exposure;an auxin exposure (peco:0007074) involving the use of iaa (or its homolog) growth hormone.
+process;spodoptera spp. exposure;treatment involving the exposure of plant to the pest spodoptera spp.
+process;sodium hydroxide exposure;obo sf2 peco:88
+process;short day length exposure;the treatment involving exposure of plant to short day light duration followed by a long night cycle.
+process;scirpus fluviatilis exposure;an exposure of a reference or experimental plant to the monocot plant scirpus fluviatilis, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;growth hormone exposure;an exposure to a chemical that has the role of growth hormone
+process;methyl jasmonate exposure;obo sf2 peco:62
+process;limited manganese exposure;a manganese nutrient exposure (peco:0007387) involving exposure to limiting amounts or the absence of manganese (chebi:18291).
+process;pseudomonas plant exposure;a bacterial plant exposure (peco:0007246) involving the exposure to bacteria of the genus pseudomonas.
+process;hemiptera insect plant exposure;an insect plant exposure (peco:0007333) involving the exposure of a plant to an insect(s) of the hemiptera order.
+process;sodium chloride exposure;chebi:26710
+process;limited iron exposure;an iron nutrient exposure (peco:0007242) involving exposure to limiting amounts or the absence of iron (chebi:18248).
+process;pomacea canaliculata exposure;the treatment involving exposure of plant to the pest pomacea canaliculata.
+process;carbohydrate exposure;an organic chemical exposure (peco:0001003) involving the application of a carbohydrate (chebi:16646) or mixture of carbohydrates.
+process;air temperature exposure;the treatment involving an exposure to wind with varying degree of temperature, which may depend on the study type or the regional environment.
+process;carbon dioxide exposure;an inorganic gas exposure (peco:0001055) that involves the application of carbon dioxide (chebi:16526).
+process;carbohydrate exposure;peco git:9
+process;nymphula depunctalis exposure;the treatment involving exposure of plant to the pest rice caseworm.
+process;herbicide exposure;peco git:73
+process;scirpus spp. exposure;the treatment involving an exposure of reference/experimental plant to monocot plant genus scirpus found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;ozone exposure;an inorganic anion exposure (peco:0001009) involving the application of ozone (chebi:29382).
+process;jasmonic acid exposure;obo sf2 peco:72
+process;n-nitrosodimethylamine exposure;the treatment involving use of n-nitrosodimethylamine for mutagenesis process.
+process;potassium fertilizer exposure;a chemical fertilizer exposure (peco:0007086) involving the use of potassium fertilizer as a supplement to study plant responses.
+process;glucose exposure;a hexose exposure (peco:0001012) involving the application of glucose (chebi:17234).
+process;nilaparvata lugens exposure;the treatment involving exposure of plant to the pest brown planthopper.
+process;dibromothymoquinone exposure;an herbicide exposure (peco:0007183) involving the use of dibromothymoquinone (dbmib).
+process;peroxide exposure;a chemical exposure (peco:0007189) involving exposure of plant to a peroxide to study various types of oxidative stress responses.
+process;gibberellic acid exposure;obo sf2 peco:72
+process;herbicide exposure;a pesticide exposure (peco:0007167) involving the application of a herbicide. a chemical entity or mixture of chemical entities.
+process;echinodorus berteroi exposure;an exposure of a reference or experimental plant to the monocot plant echinodorus berteroi, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;rice grassy stunt 2 virus exposure;the treatment involving exposure of plant to the rice grassy stunt 2 virus. it is a causal agent for rice grassy stunt disease.
+process;abscisic acid exposure;obo sf2 peco:72
+process;inorganic cation exposure;an inorganic chemical exposure (peco:0001004) involving the application of a cation (chebi:36916) or mixture of cations .
+process;rice grassy stunt virus exposure;the treatment involving exposure of plant to the rice grassy stunt virus. it is a causal agent for rice grassy stunt disease.
+process;uv light exposure;the treatment using uv-b light either exclusively or as part of a supplemental light involving electromagnetic radiation in the wavelength range of 315-10nm.
+process;sodium chloride exposure;obo sf2 peco:77
+process;cnaphalocrocis medinalis exposure;the treatment involving exposure of plant to the pest cnaphalocrocis medinalis.
+process;radiation quality exposure;the treatment involving an exposure to a given type of radiation. often it is in the form of electromagnetic and ionizing radiation such as light (infrared, visible or ultraviolet), x-rays, gamma rays, etc.
+process;monosaccharide exposure;peco git:56
+process;long day length exposure;the treatment involving exposure of plant to long day light duration followed by a short night cycle.
+process;limited zinc exposure;obo sf2 peco:23
+process;p-n,n-di-(2-chloroethyl)amino-dl-phenylalanine exposure;the treatment involving use of p-n,n-di-(2-chloroethyl)amino-dl-phenylalanine for mutagenesis process.
+process;continuous light exposure;the treatment involving continuous exposure of light to the plant.
+process;actinomycin d exposure;obo sf2 peco:70
+process;scirpus mucronatus exposure;an exposure of a reference or experimental plant to the monocot plant scirpus mucronatus, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;actinomycin d exposure;peco git:69
+process;echinodorus spp. exposure;the treatment involving an exposure of reference/experimental plant to monocot plant genus echinodorus found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;diuron exposure;chebi:116509
+process;leptocorisa oratorius exposure;the treatment involving exposure of plant to the pest paddy bug.
+process;sodium fluoride exposure;the treatment involving use of sodium fluoride for mutagenesis process.
+process;echinochloa crus-galli exposure;an exposure of a reference or experimental plant to the monocot plant echinochloa crus-galli, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;mineral exposure;obo sf2 peco:52
+process;green manure exposure;a natural fertilizer exposure (peco:0007087) which is the application of a green manure.
+process;limited molybdenum exposure;peco git:18
+process;rapeseed meal exposure;a natural fertilizer exposure (peco:0007087) which is the application of rapeseed meal.
+process;alternaria padwickii exposure;the treatment involving exposure of plant to the pathogen alternaria padwickii. it is a causal agent for rice seedling blight (fungal) disease and/or stackburn disease also called as alternaria leaf spot disease.
+process;antibiotic exposure;peco git:69
+process;red light exposure;the treatment using red light either exclusively or as part of a supplemental light treatment involving red color light in the wavelength range of 780-622 nm.
+process;eysarcoris trimaculatus exposure;treatment involving the exposure of plant to the pest rice spotting bug.
+process;thysanoptera exposure;treatment involving the exposure of plant to the pest of thysanoptera class.
+process;meloidogyne oryzae exposure;the treatment involving exposure of plant to the pest meloidogyne oryzae. it is a causal agent for rice root knot nematode disease.
+process;parasitic wasp insect plant exposure;obo sf2 peco:38
+process;antimicrobial agent exposure;an exposure to a chemical that has the role of antimicrobial agent
+process;mitomycin c exposure;obo sf2 peco:70
+process;ethylene oxide exposure;the treatment involving use of ethylene oxide for mutagenesis process.
+process;pesticide exposure;obo sf2 peco:74
+process;gibberellic acid exposure;a growth hormone exposure (peco:0007165) involving the use of ga (or its homolog) growth hormone.
+process;orange light exposure;the treatment using orange light either exclusively or as part of a supplemental light treatment involving orange color light in the wavelength range of 622-597 nm.
+process;ethylphosphine exposure;peco git:74
+process;micronutrient exposure;an exposure to a chemical that has the role of micronutrient
+process;cochliobolus miyabeanus exposure;the treatment involving exposure of plant to the pathogen cochliobolus miyabeanus. it is a causal agent for rice brown spot diseaseand/or seedling blight (fungal) disease.
+process;typha spp. exposure;an exposure of a reference or experimental plant to the monocot plants of genus typha spp., found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;nickel exposure;a mineral exposure (peco:0007044) involving exposure of plant to nickel (chebi:28112).
+process;molybdenum nutrient exposure;the treatment involving exposure of plant to micronutrient molybdenum as supplement to study various types of responses.
+process;pesticide exposure;a chemical exposure (peco:0007189) involving the application of a pesticide. a chemical entity or mixture of chemical entities.
+process;hexamethylphosphoramide exposure;the treatment involving use of hexamethylphosphoramide for mutagenesis process.
+process;sogatella furcifera exposure;the treatment involving exposure of plant to the pest white-backed planthopper.
+process;brassinosteroid exposure;obo sf2 peco:72
+process;chilo exposure;treatment involving the exposure of plant to the pest chilo.
+process;athelia rolfsii exposure;the treatment involving exposure of plant to the pathogen athelia rolfsii. it is a causal agent for rice seedling blight (fungal) disease.
+process;alisma plantago-aquatica exposure;an exposure of a reference or experimental plant to the monocot plant alisma plantago-aquatica, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;hydrellia philippina exposure;the treatment involving exposure of plant to the pest rice whorl maggot.
+process;alternaria spp. exposure;the treatment involving exposure of plant to the pathogenic alternaria sp.
+process;pythium myriotylum exposure;suggests the exposure of plant to the pythium myriotylum. it is a causal agent for rice feeder root necrosis disease.
+process;2-chloroethyl methanesulfonate exposure;the treatment involving use of 2-chloroethyl methanesulfonate for mutagenesis process.
+process;pythium spinosum exposure;the treatment involving an exposure of plant to the pythium spinosum. it is a causal agent for rice seedling blight (fungal) or feeder root necrosis or water mold dieases. water mold diease is also called as seed rot or seedling damping-off disease.
+process;gibberella spp. exposure;treatment involving the exposure of plant to the pathogen gibberella spp.
+process;sodium chloride exposure;peco git:76
+process;2,4-dichlorophenoxyacetic acid exposure;an auxin exposure (peco:0007074) involving use of 2,4-d growth hormone and herbicide.
+process;monosaccharide exposure;a carbohydrate exposure (peco:0001010) involving the application of monosaccharide(s)(chebi:35381).
+process;cisplatin exposure;the treatment involving use of cisplatin for mutagenesis process.
+process;elevated carbon dioxide exposure;obo sf2 peco:1
+process;mineral exposure;peco git:52
+process;antibiotic exposure;an exposure to a chemical that has the role of antimicrobial agent
+process;marasmia patnalis exposure;the treatment involving exposure of plant to the pest marasmia patnalis .
+process;aphelenchoides besseyi exposure;the treatment involving exposure of plant to the pest aphelenchoides besseyi. it is a causal agent for rice white tip nematode disease.
+process;rice gall dwarf virus exposure;the treatment involving exposure of plant to the rice gall dwarf virus. it is a causal agent for rice gall dwarf disease.
+process;actinomycin d exposure;an antibiotic exposure (peco:0007041) involving use of actinomycin d for mutagenesis process.
+process;urethane exposure;the treatment involving use of urethane for mutagenesis process.
+process;radiation mutagen exposure;peco git:42
+process;nitrosomethyl urea exposure;the treatment involving use of nitrosomethyl urea for mutagenesis process.
+process;limited phosphate exposure;obo sf2 peco:26
+process;meloidogyne incognita exposure;the treatment involving exposure of plant to the pest meloidogyne oryzae. it is a causal agent for rice root knot nematode disease.
+process;ethylphosphine exposure;obo sf2 peco:75
+process;insecticide exposure;chebi:24852
+process;radiation mutagen exposure;a radiation exposure (peco:0007151) involving exposure of plant to chemicals or radiation resulting in perturbations to the genome.
+process;carbon dioxide exposure;peco git:28
+process;violet light exposure;the treatment using violet light either exclusively or as part of a supplemental light treatment involving violet color light in the wavelength range of 455-390 nm.
+process;5-bromouracil exposure;the treatment involving use of 5-bromouracil for mutagenesis process.
+process;hexose exposure;a monosaccharide exposure (peco:0001011) involving the application of hexose (chebi:18133) sugar(s).
+process;mollusca exposure;the treatment involving exposure of plant to the pest molluscs.
+process;meloidogyne graminicola exposure;the treatment involving exposure of plant to the pest meloidogyne oryzae. it is a causal agent for rice root knot nematode disease.
+process;limited sulfate exposure;obo sf2 peco:27
+process;hirschmaniella spinicaudata exposure;the treatment involving exposure of plant to the pest hirschmaniella spinicaudata. it is a causal agent for rice root nematode disease.
+process;5-bromouridine exposure;the treatment involving use of 5-bromouridine for mutagenesis process.
+process;nematoda exposure;the treatment involving exposure of plant to the nematode pests.
+process;flood prone region exposure;a treatment in terms of plant's exposure to the regional conditions found in the vicinity of the water bodies like, sea, river, lake etc. growth conditions may include aerobic to anaerobic soil, salinity or toxicity in tidal areas. treatment may include standing or flash flooding.
+process;benzyladenine exposure;obo sf2 peco:72
+process;pythium irregulare exposure;the treatment involving exposure of plant to the pythium irregulare. it is a causal agent for rice feeder root necrosis disease.
+process;sucrose exposure;peco git:11
+process;methoxy diethylnitrosamine exposure;the treatment involving use of methoxy diethylnitrosamine for mutagenesis process.
+process;rice dwarf virus exposure;the treatment involving exposure of plant to the pathogen rice dwarf virus. it is a causal agent for rice dwarf phytoreo virus disease.
+process;limited phosphate exposure;peco git:20
+process;basidiomycota exposure;ncbi taxon id:5204
+process;rapeseed meal exposure;peco git:117
+process;potassium sulfate exposure;treatment involving the use of potassium sulfate supplement to study various types of responses.
+process;oebalus pugnax exposure;the treatment involving exposure of plant to the pest rice stink bug.
+process;fungicide exposure;obo sf2 peco:74
+process;metazoan plant exposure;a biotic plant exposure (peco:0007357) involving exposure of a plant to a metazoan organism (animal).
+process;1-naphthaleneacetic acid exposure;peco git:71
+process;near infra-red light exposure;the treatment using infra-red light either exclusively or as part of a supplemental light of near ir band that contains energy in the range of wavelengths 750-1300nm, which is closest to the visible light.
+process;gamma radiation exposure;a radiation quality exposure (peco:0007154) involving the exposure to gamma radiation.
+process;boron nutrient exposure;the treatment involving exposure of plant to micronutrient boron as supplement to study various types of responses.
+process;xanthomonas oryzae exposure;the treatment involving an exposure of plant to the pathogen xanthomonas oryzae. it is a causal agent for rice bacterial blight disease.
+process;diuron exposure;obo sf2 peco:75
+process;antimicrobial agent exposure;a chemical exposure (peco:0007189) involving the use of antibiotic for selection purposes.
+process;mineral salt exposure;a mineral exposure (peco:0007044) involving exposure of the plant(s) to mineral salts (chebi:24866).
+process;bone meal exposure;a natural fertilizer exposure (peco:0007087) which is the application of bone meal.
+process;fertilizer exposure;an exposure to a chemical that has the role of fertilizer
+process;5-methyltryptophan exposure;an organic chemical exposure (peco:0001003) involving the application of the tryptophan (trp) analog 5-methyltryptophan (5mt. chebi: 52446).
+process;uv-a light exposure;the exposure using uv-a light either exclusively or as part of a supplemental electromagnetic radiation in the wavelength range of 380-315nm.
+process;sclerospora graminicola exposure;the treatment involving exposure of plant to the pathogen sclerophthora graminicola. it is a causal agent for downy mildew disease.
+process;limited manganese exposure;obo sf2 peco:24
+process;echinodorus cordifolius exposure;an exposure of a reference or experimental plant to the monocot plant echinodorus cordifolius, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;basidiomycota exposure;a fungal plant exposure (peco:0007233) involving the exposure of plant to the pathogen belonging to basidiomycetes class.
+process;fungicide exposure;an exposure to a chemical that has the role of fungicide
+process;npk fertilizer exposure;treatment involving the use of nitrogen, phosphorus and potassium supplements to study various types of responses.
+process;radiation quantity exposure;in biological experiments it refer to the treatment involving radiation in terms of length of the exposure time. it also includes the quantity of radiation falling on a per unit area. this is expressed in the units of luminous flux or the lumens.
+process;herbicide exposure;chebi:24527
+process;dipteran insect plant exposure;an insect plant exposure (peco:0007333) involving the exposure of a plant to an insect(s) of the diptera order.
+process;dimethyl sulfoxide exposure;the treatment involving use of dimthyl sulfate for mutagenesis process.
+process;meloidogyne salasi exposure;the treatment involving exposure of plant to the pest meloidogyne salasi. it is a causal agent for rice root knot nematode disease.
+process;cupric sulfate exposure;the treatment involving use of cupric sulfate for mutagenesis process.
+process;n-methyl-n'-nitro-n-nitrosoguanidine exposure;the treatment involving use of n-methyl-n'-nitro-n-nitrosoguanidine for mutagenesis process.
+process;carbohydrate exposure;obo sf2 peco:9
+process;sesamia inferens exposure;the treatment involving exposure of plant to the pest purple stem borer.
+process;pesticide exposure;an exposure to a chemical that has the role of pesticide
+process;uv-c light exposure;the treatment using uv-c light either exclusively or as part of a supplemental electromagnetic radiation in the wavelength range of 280-10nm.
+process;sarocladium oryzae exposure;a plant fungal exposure (peco:0007233) involving exposure of plant to the pathogen sarocladium oryzae. it is a causal agent for rice seedling blight (fungal) disease and/or sheath rot disease.
+process;boric acid exposure;the treatment involving use of boric acid for mutagenesis process.
+process;ammonium exposure;an inorganic cation exposure (peco:0001016) involving the application of ammonium (nh4+) (chebi:28938).
+process;achlya klebsiana exposure;the treatment involving exposure of plant to the heterokont achlya klebsiana. it is a causal agent for rice water mold diease which is also called as seed rot or seedling damping-off disease.
+process;auxin exposure;obo sf2 peco:72
+process;achlya conspicua exposure;the treatment involving exposure of plant to the heterokont achlya conspicua. it is a causal agent for rice water mold diease which is also called as seed rot or seedling damping-off disease.
+process;pseudomonas syringae plant exposure;obo sf2 peco:40
+process;imidazolinone exposure;an herbicide exposure (peco:0007183) involving the use of an imidazolinone herbicide.
+process;ethylene exposure;a growth hormone exposure (peco:0007165) involving the use of ethylene (or its homolog) growth hormone.
+process;nickel exposure;obo sf2 peco:6
+process;benzothiadiazole exposure;peco git:75
+process;1-bromo-2-chloroethane exposure;the treatment involving use of 1-bromo-2-chloroethane for mutagenesis process.
+process;ascomycota exposure;a fungal plant exposure (peco:0007233) involving the exposure of plant to the pathogen belonging to ascomycetes class.
+process;s-2-chloroethylcysteine exposure;the treatment involving use of s-2-chloroethylcysteine for mutagenesis process.
+process;salt exposure;peco git:76
+process;nematicide exposure;a pesticide exposure (peco:0007167) involving the application of a nematicide. a chemical entity or mixture of chemical entities to kill plant-parasitic nematodes.
+process;sclerospora spp. exposure;the treatment involving exposure of plant to the pathogenic sclerospora sp.
+process;p-n,n-di-(2-chloroethyl)amino-d-phenylalanine exposure;the treatment involving use of p-n,n-di-(2-chloroethyl)amino-d-phenylalanine for mutagenesis process.
+process;salicylic acid exposure;an organic chemical exposure (peco:0001003) involving the application of salicylic acid (chebi:16914).
+process;x-ray exposure;the treatment using x-ray either exclusively or as part of a supplemental electromagnetic radiation in the wavelength range of 5pm-10nm.
+process;ammonium nitrate exposure;treatment involving the use of ammonium nitrate supplement to study various types of responses.
+process;ceratobasidium oryzae-sativae exposure;treatment involving the exposure of plant to the pathogen ceratobasidium oryzae-sativae. it is a causal agent for rice aggregate sheath spot disease, which is also known as brown sclerotial disease.
+process;5-methyltryptophan exposure;peco git:61
+process;microdochium oryzae exposure;an exposure involving the growth of a plant with the pathogen microdochium oryzae. it is a causal agent for rice various forms of leaf scald disease such as brown leaf blight disease , leaf sheath browning disease, leaf tip blight disease and leaf tip dying disease.
+process;green manure exposure;peco git:116
+process;indole acetic acid exposure;obo sf2 peco:72
+process;mineral exposure;an inorganic chemical exposure (peco:0001004) involving the application of a mineral or a combination of minerals.
+process;hirschmaniella oryzae exposure;the treatment involving exposure of plant to the pest hirschmaniella oryzae. it is a causal agent for rice root nematode disease.
+process;radiation intensity exposure;the treatment involving amount of energy of any radiation incident upon (or flowing through) unit area, perpendicular to the radiation source, in unit time.
+process;cyperus spp. exposure;the treatment involving an exposure of reference/experimental plant to monocot plant genus cyperus found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;light exposure;the treatment involving day light as the light of the sun or the artificial light in a growth chamber.
+process;warm/hot air temperature exposure;the treatment involving an exposure to above optimal air temperature, which may depend on the study type or the regional environment.
+process;diopsis macrophthalma exposure;the treatment involving exposure of plant to the pest commonly calles as rice stem borer.
+process;pythium catenulatum exposure;the treatment involving exposure of plant to the pythium catenulatum. it is a causal agent for rice feeder root necrosis disease.
+process;rice black streak dwarf virus exposure;the treatment involving exposure of plant to the pathogen rice black streak dwarf virus. it is a causal agent for rice blast steak dwarf disease.
+process;light-induced photooxidative stress exposure;peco git:44
+process;light intensity exposure;the treatment involving exposure of plant or a plant part to the amount of light energy incident upon (or flowing through) unit area, perpendicular to the radiation source, in unit time.
+process;herbicide exposure;obo sf2 peco:74
+process;imidazolinone exposure;obo sf2 peco:75
+process;sulfate exposure;peco git:8
+process;sagittaria spp. exposure;the treatment involving an exposure of reference/experimental plant to monocot plant genus sagittaria found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;mitomycin c exposure;peco git:69
+process;2-fluoroethyl methanesulfonate exposure;the treatment involving use of 2-fluoroethyl methanesulfonate for mutagenesis process.
+process;manganese sulfate exposure;the treatment involving exposure of plant to micronutrient manganese by adding mnso4 supplement to study various types of responses.
+process;micronutrient exposure;the treatment involving exposure of plant to elements that are required in tiny quantities for growth, as supplement to study various types of responses.
+process;rodentia exposure;the treatment involving exposure of plant to the pest rats and mouse.
+process;hydrogen exposure;an exposure involving exposure of plant to molecular or ionic forms of hydrogen to study various types of responses.
+process;ethyl nitrosourea exposure;the treatment involving use of ethyl nitrosourea for mutagenesis process.
+process;ir light exposure;the treatment using infra red (ir) light either exclusively or as part of a supplemental light treatment involving ir light in the wavelength range of 700nm-1mm.
+process;auxin exposure;a growth hormone exposure (peco:0007165) involving the use of auxin (or its homolog).
+process;light quantity exposure;in biological experiments often it refer to the length of the exposure time. the treatment also includes the quantity of light falling on a per unit area. this may be expressed either in terms of hours for which teh radiation was available or in the units of luminous flux or the lumens.
+process;far red light exposure;the treatment using far red light either exclusively or as part of a supplemental light treatment involving red color light in the wavelength range of 800-700 nm.
+process;parasitic wasp insect plant exposure;peco git:38
+process;limited iron exposure;peco git:14
+process;sulfate fertilizer exposure;treatment involving the use of sulfate fertilizer and its components as supplements to study various types of responses.
+process;blue light exposure;the treatment using blue light either exclusively or as part of a supplemental light treatment involving blue color light in the wavelength range of 492-455 nm.
+process;pseudomonas glumae exposure;the treatment involving exposure of plant to the pathogen pseudomonas glumae. it is a causal agent for rice grain rot disease.
+process;gamma radiation exposure;peco git:41
+process;gerlachia oryzae exposure;the treatment involving exposure of plant to the pathogen gerlachia oryzae. it is a causal agent for a form of rice seedling blight (fungal) disease.
+process;rupela albinella exposure;the treatment involving exposure of plant to the pest rice stemborer, rupela albinella.
+process;dicladispa armigera exposure;the treatment involving exposure of plant to the pest dicladispa armigera.
+process;elevated carbon dioxide exposure;peco git:1
+process;pesticide exposure;peco git:73
+process;light-induced photooxidative stress exposure;a light intensity exposure (peco:0007224) involving use of light-dependent generations of reactive oxygen species.
+process;ethylene exposure;peco git:71
+process;limited zinc exposure;peco git:23
+process;cadmium chloride exposure;a cadmium exposure (peco:0001018) involving use of cdcl2 (chebi:35456).
+process;spodoptera praefica exposure;the treatment involving exposure of plant to the pest commonly called as western yellowstriped armyworm.
+process;benzothiadiazole exposure;chebi:48864
+process;phosphate fertilizer exposure;treatment involving the use of phosphate fertilizer and its components as supplements to study various types of responses.
+process;scirpophaga innotata exposure;the treatment involving exposure of plant to the pest scirpophaga innotata.
+process;magnaporthe grisea exposure;the treatment involving exposure of plant to the pathogen magnaporthe grisea. it is a causal agent for rice various forms of blast diseases such as collar blast, leaf blast, neck blast, panicle blast and nodal blast disease.
+process;methyl jasmonate exposure;an organic chemical exposure (peco:0001003) involving the application of methyl jasmonate (meja. chebi:15929).
+process;hexose exposure;peco git:57
+process;cochliobolus spp. exposure;an exposure involving the growth of a plant with the pathogen cochliobolus spp.
+process;limited boron exposure;obo sf2 peco:15
+process;erwinia plant exposure;a bacterial plant exposure (peco:0007246) involving the exposure to bacteria of the genus erwinia.
+process;auxin exposure;an exposure to a chemical that has the role of auxin
+process;hexose exposure;obo sf2 peco:57
+process;freezing air temperature exposure;the treatment involving an exposure to frost or freezing air temperature, which may depend on the study type or the regional environment. this temperature is either below or around 4c.
+process;quinhydrone exposure;the treatment involving use of quinhydrone for mutagenesis process.
+process;middle infra-red light exposure;the treatment using middle infra-red light either exclusively or as part of a supplemental light treatment involving middle ir band that contains energy in the range of wavelengths 1300-3000nm.
+process;ethyl methanesulfonate exposure;the treatment involving use of ems as a mutagen by damaging dna and is used experimentally for that effect.
+process;fusarium exposure;the treatment involving exposure of plant to the pathogenic fusarium spp. it is a causal agent for rice water mold disease also called as seed rot disease or seedling damping-off disease.
+process;glucose exposure;obo sf2 peco:10
+process;herbicide exposure;an exposure to a chemical that has the role of herbicide
+process;inorganic anion exposure;peco git:54
+process;ozone exposure;peco git:29
+process;hirschmaniella caudacrena exposure;the treatment involving exposure of plant to the pest hirschmaniella imamuri. it is a causal agent for rice root nematode disease.
+process;p-n,n-di-(2-chloroethyl)aminophenylbutyric acid exposure;the treatment involving use of p-n,n-di-(2-chloroethyl)aminophenylbutyric acid for mutagenesis process.
+process;calcium nitrate exposure;treatment involving the use of calcium nitrate supplement to study various types of responses.
+process;limited manganese exposure;peco git:24
+process;1,4-dimethanesulfonoxybutane exposure;the treatment involving use of 1,4-dimethanesulfonoxybutane for mutagenesis process.
+process;dibromothymoquinone exposure;chebi:19371
+process;1,6-dimethylsulfonoxy d-mannitol exposure;the treatment involving use of 1,6-dimethylsulfonoxy d-mannitol for mutagenesis process.
+process;pelopidas mathias exposure;the treatment involving exposure of plant to the pest pelopidas mathias.
+process;p-n,n-di-(2-chloroethyl)amino-l-phenylalanine exposure;the treatment involving use of p-n,n-di-(2-chloroethyl)amino-l-phenylalanine for mutagenesis process.
+process;continuous dark (no light) exposure;the treatment involving continuous exposure to darkness (no light) to the plant.
+process;wood ash exposure;a natural fertilizer exposure (peco:0007087) which is the application of wood ash.
+process;limited iron exposure;obo sf2 peco:14
+process;t-dna insert exposure;the treatment involving use of t-dna in the flanking regions of a dna insert for mutagenesis process.
+process;echinochloa spp. exposure;the treatment involving an exposure of reference/experimental plant to monocot plant genus echinochloa found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;sodium nitrate exposure;treatment involving the use of sodium nitrate supplement to study various types of responses.
+process;limited boron exposure;peco git:15
+process;pyrenochaeta oryzae exposure;the treatment involving exposure of plant to the pathogen pyrenochaeta oryzae. it is a causal agent for rice sheath blotch disease.
+process;icr 170 exposure;the treatment involving use of icr 170 for mutagenesis process.
+process;antibiotic exposure;obo sf2 peco:70
+process;chilo suppressalis exposure;the treatment involving exposure of plant to the pest rice striped stemborer.
+process;cadmium exposure;a mineral exposure (peco:0007044) involving exposure of plant to cadmium (chebi:22977).
+process;drechslera gigantea exposure;the treatment involving exposure of plant to the pathogen drechslera gigantea. it is a causal agent for rice eyespot disease.
+process;chlorine nutrient exposure;the treatment involving exposure of plant to micronutrient chlorine as supplement to study various types of responses.
+process;orseolia oryzae exposure;the treatment involving exposure of plant to the pest rice gall midge.
+process;mineral salt exposure;peco git:53
+process;fertilizer exposure;a plant nutrient exposure (peco:0007241) involving the use of a fertilizer, a combination of plant nutrients.
+process;cold air temperature exposure;the treatment involving an exposure to cold or sub-optimal air temperature, which may depend on the study type or the regional environment.
+process;ditylenchus angustus exposure;the treatment involving exposure of plant to the pest ditylenchus angustus. it is a causal agent for rice ufra disease.
+process;antimicrobial agent exposure;peco git:69
+process;bovinae exposure;the treatment involving exposure of plant to the cattle.
+process;zinc nutrient exposure;the treatment involving exposure of plant to micronutrient zinc as supplement to study various types of responses.
+process;meloidogyne spp. exposure;treatment involving the exposure of plant to the pest meloidogyne spp. it is a causal agent for rice root knot nematode disease.
+process;mammalia exposure;an exposure of a plant to mammalian animals that may damage the plant due to grazing or feeding practices.
+process;2,4-dichlorophenoxyacetic acid exposure;obo sf2 peco:72
+process;limited glucose exposure;obo sf2 peco:16
+process;ammonium exposure;obo sf2 peco:5
+process;limited phosphate exposure;a phosphate exposure (peco:0001006) involving exposure to limiting amounts or absence of phosphate (chebi:18367).
+process;stenchaetothrips biformis exposure;the treatment involving exposure of plant to the pest commonly called as oriental rice thrips.
+process;sphaerulina oryzina exposure;a plant fungal exposure (peco:0007233) involving the exposure of plant to the pathogen sphaerulina oryzina.
+process;hygromycin exposure;an antibiotic exposure (peco:0007041) involving use of hygromycin b antibiotic for selection purposes.
+process;cyperus iria exposure;an exposure of a reference or experimental plant to the monocot plant cyperus difformis, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;dsrna virus exposure;treatment involving the exposure of plant to the pathogenic double stranded rna virus.
+process;salt exposure;obo sf2 peco:77
+process;potassium nitrate exposure;treatment involving the use of potassiumium nitrate supplement to study various types of responses.
+process;ozone exposure;obo sf2 peco:29
+process;elevated carbon dioxide exposure;a carbon dioxide exposure (peco:0001020) involving an increased concentration of carbon dioxide (chebi:16526).
+process;brassinosteroid exposure;peco git:71
+process;sclerospora macrospora exposure;the treatment involving exposure of plant to the pathogen sclerophthora macrospora. it is a causal agent for rice downy mildew disease.
+process;triaziquone exposure;the treatment involving use of triaziquone for mutagenesis process.
+process;kinetin exposure;peco git:71
+process;auxin exposure;peco git:71
+process;diuron exposure;peco git:74
+process;tilletia barclayana exposure;treatment involving the exposure of plant to the pathogen tilletia barclayana. it is a causal agent for rice kernel smut disease.
+process;disaccharide exposure;peco git:58
+process;tos-17 transposable element exposure;the use of tos-17 transposable element for mutagenesis process.
+process;coleoptera exposure;treatment involving the exposure of plant to the pest commonly called as beetles or coleoptera.
+process;brassinosteroid exposure;a growth hormone exposure (peco:0007165) involving the use of brassinosteroid (or its homolog).
+process;diepoxybutane exposure;the treatment involving use of diepoxybutane for mutagenesis process.
+process;methyl methanesulfonate exposure;the treatment involving use of methyl methanesulfonate for mutagenesis process.
+process;nitrogen fertilizer exposure;treatment involving the use of nitrogen fertilizer and its components as supplements to study various types of responses.
+process;potassium fertilizer exposure;peco git:112
+process;visible light exposure;the treatment using visible light in the wavelength range of 380-780 nm.
+process;iodine exposure;the treatment involving use of iodine for mutagenesis process.
+process;cytokinin exposure;obo sf2 peco:72
+process;1,4-dimethanesulfonoxy-1:4-dimethylbutane exposure;the treatment involving use of 1,4-dimethanesulfonoxy-1:4-dimethylbutane for mutagenesis process.
+process;fungicide exposure;a pesticide exposure (peco:0007167) involving the application of a fungicide. a chemical entity or mixture of chemical entities.
+process;limited boron exposure;a boron nutrient exposure (peco:0007273) involving exposure to limiting amounts or absence of boron (chebi:27560).
+process;ammonium sulfate exposure;treatment involving the use of ammonium sulfate supplement to study various types of responses.
+process;pseudomonas plantarii exposure;the treatment involving exposure of plant to the pathogen pseudomonas plantarii. it is a causal agent for rice seedling blight (bacterial) disease.
+process;sulfur mustard exposure;the treatment involving use of sulfur mustard for mutagenesis process.
+process;phoma sorghina exposure;ncbi taxid:73005
+process;limited glucose exposure;a glucose exposure (peco:0001013) involving exposure to limiting amounts or the absence of glucose (chebi:17234).
+process;parasitic wasp insect plant exposure;a hymenoptera insect plant exposure (peco:0001032) that involves exposure to parasitic wasps.
+process;aves exposure;the treatment involving exposure of plants to the birds.
+process;salicylic acid exposure;peco git:63
+process;insect plant exposure;a metazoan plant treatment (peco:0007349) involving exposure of a plant to an insect or a mixture of insects.
+process;phomopsis oryzae-sativae exposure;the treatment involving exposure of plant to the pathogen phomopsis oryzae-sativae.
+process;seaweed extract exposure;a natural fertilizer exposure (peco:0007087) which is the application of seaweed extract.
+process;nickel exposure;peco git:6
+process;superphosphate exposure;treatment involving the use of super phosphate supplement to study various types of responses.
+process;limited phosphate exposure;peco git:26
+process;rainfall exposure;the treatment involving an exposure to a given amount of rainfall.
+process;fish meal exposure;a natural fertilizer exposure (peco:0007087) which is the application of fish meal.
+process;copper nutrient exposure;the treatment involving exposure of plant to micronutrient copper as supplement to study various types of responses.
+process;dibromothymoquinone exposure;obo sf2 peco:75
+process;magnaporthe spp. exposure;the treatment involving an exposure of plant to the pathogen magnaporthe spp.
+process;1,2-dichloroethane exposure;the treatment involving use of 1,2-dichloroethane for mutagenesis process.
+process;hexamethylmelamine exposure;the treatment involving use of hexamethylmelamine for mutagenesis process.
+process;potassium chloride exposure;peco git:112
+process;cyperus difformis exposure;an exposure of a reference or experimental plant to a monocot plant cyperus difformis, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;pseudaletia unipuncta exposure;the treatment involving exposure of plant to the pest pseudaletia unipuncta.
+process;gibberella zeae exposure;the treatment involving exposure of plant to the pathogen gibberella zeae. it is a causal agent for rice scab disease.
+process;rhizoctonia oryzae exposure;the treatment involving exposure of plant to the pathogen rhizoctonia oryzae. it is a causal agent for rice sheath spot disease such as bordered sheath spot disease, red sclerotial disease and rhizoctonia sheath spot disease.
+process;sulfate exposure;an inorganic anion exposure (peco:0001009) involving the application of sulfate (chebi:35175).
+process;liliopsida exposure;an exposure of a reference or experimental plant to monocot plants found in its growth environment. these plants may be growing as a weed or as part of normal farming practices.
+process;sodium bisulfite exposure;the treatment involving use of sodium bisulfite for mutagenesis process.
+process;1,2:5,6-dibenzanthracene exposure;the treatment involving use of 1,2:5,6-dibenzanthracene for mutagenesis process.
+process;janus green b exposure;the treatment involving use of janus green b for mutagenesis process.
+process;limited sulfate exposure;peco git:27
+process;limited glucose exposure;peco git:16
+process;pythium spp. exposure;the treatment involving exposure of plant to the heterokont pythium.
+process;magnaporthe salvinii exposure;the treatment involving exposure of plant to the pathogen magnaporthe salvinii. it is a causal agent for rice stem rot disease and seedling blight (fungal) disease.
+process;indole acetic acid exposure;peco git:71
+process;1,4-dimethanesulfonoxybut-2-yne exposure;the treatment involving use of 1,4-dimethanesulfonoxybut-2-yne for mutagenesis process.
+process;p-p'-n,n-di(2-chloroethyl)aminophenoxyphenylalanine exposure;the treatment involving use of p-p'-n,n-di(2-chloroethyl)aminophenoxyphenylalanine for mutagenesis process.
+process;rice ragged stunt virus exposure;the treatment involving exposure of plant to the rice ragged stunt virus. it is a causal agent for rice ragged stunt disease.
+process;limited molybdenum exposure;obo sf2 peco:18
+process;ethylenimine exposure;the treatment involving use of ethylenimine for mutagenesis process.
+process;radiation exposure;a physical plant exposure (peco:0007316) involving an exposure with a radiation type, intensity or quantity.
+process;disaccharide exposure;a carbohydrate exposure (peco:0001010) involving the application of disaccharide(s)(chebi:36233).
+process;ammonium exposure;peco git:5
+process;green light exposure;the treatment using green light either exclusively or as part of a supplemental light treatment involving green color light in the wavelength range of 577-492 nm.
+process;phosphate exposure;an inorganic anion exposure (peco:0001009) involving the application of phosphate (chebi:18367).
+process;sodium hydroxide exposure;peco git:87
+process;abscisic acid exposure;a growth hormone exposure (peco:0007165) involving the use of abscisic acid (or its homolog).
+process;peroxide exposure;peco git:72
+process;mustard gas exposure;the treatment involving use of mustard gas for mutagenesis process.
+process;thanatephorus cucumeris exposure;the treatment involving exposure of plant to the pathogen thanatephorus cucumeris.
+process;inorganic anion exposure;obo sf2 peco:54
+process;limited molybdenum exposure;a molybdenum nutrient exposure (peco:0007253) involving exposure to limiting amounts or the absence of molybdenum (chebi:28685).
+process;sulfate exposure;obo sf2 peco:8
+process;limited sulfate exposure;a sulfate exposure (peco:0001008) involving exposure to limiting amounts or the absence of sulfate (chebi:35175).
+process;1-amino-2-naphthol-4-sulfonic acid exposure;the treatment involving use of 1-amino-2-naphthol-4-sulfonic acid for mutagenesis process.
+process;rice hoja blanca virus exposure;the treatment involving exposure of plant to the rice hoja blanca virus. it is a causal agent for rice hoja blanca disease.
+process;hymenoptera insect plant exposure;an insect plant exposure (peco:0007333) involving the exposure of a plant to an insect(s) of the hymenoptera order.
+process;radiation mutagen exposure;obo sf2 peco:42
+process;arid region exposure;the treatment involving the plant or the populations grown in regions where the land is excessively dry and receives insufficient rainfall to support agriculture.
+process;pseudomonas fluorescens exposure;a pseudomonas plant exposure (peco:0007144) involving the exposure to bacteria of the pseudomonas fluorescens group.
+process;hygromycin exposure;obo sf2 peco:70
+process;2-methoxyethanol exposure;the treatment involving use of 2-methoxyethanol for mutagenesis process.
+process;p-n,n-di(2-chloroethyl)aminophenylvaleric acid exposure;the treatment involving use of p-n,n-di(2-chloroethyl)aminophenylvaleric acid for mutagenesis process.
+process;zinc sulphate exposure;the treatment involving exposure of plant to micronutrient zinc by adding znso4 as supplement to study various types of responses.
+process;pseudomonas fuscovaginae exposure;ncbi taxid:50340
+process;iron nutrient exposure;the treatment involving exposure of plant to micronutrient iron as supplement to study various types of responses.
+process;carbon dioxide exposure;obo sf2 peco:28
+process;methyl jasmonate exposure;peco git:62
+process;stramenopiles exposure;treatment involving the exposure of plant to the stramenopiles (heterokonts) present in the growth environment.
+process;light-induced photooxidative stress exposure;obo sf2 peco:44
+process;scirpophaga spp. exposure;the treatment involving an exposure of plant to the pest scirpophaga spp.
+process;benzyladenine exposure;a cytokinin exposure (peco:0007066) involving use of benzyladenine, a cytokinin homolog.
+process;phosphate exposure;obo sf2 peco:7
+process;cadmium chloride exposure;obo sf2 peco:60
+process;limited nitrate exposure;a nitrate exposure (peco:0007406) involving exposure to limiting amounts or the absence of nitrate (chebi:17632).
+process;balansia oryzae-sativae exposure;the treatment involving exposure of plant to the pathogen balansia oryzae-sativae. it is a causal agent for rice udbatta diesase which is also called as black choke disease, false ergot disease, incense rod disease.
+process;potassium chloride exposure;a potassium fertilizer exposure (peco:0001064) involving the use of potassium chloride fertilizer as a supplement to study plant responses.
+process;hydrogen peroxide exposure;peco git:72
+process;imidazolinone exposure;peco git:74
+process;salt exposure;a chemical exposure (peco:0007189) involving use of salts as supplement to liquid and soil growth media to study various types of responses on their application.
+process;xanthomonas oryzae pv. oryzae exposure;the treatment involving exposure of plant to the pathogen xanthomonas oryzae pv. oryzae. it is a causal agent for rice bacterial blight disease.
+process;mitomycin c exposure;an antibiotic exposure (peco:0007551) involving use of mitomycin c for mutagenesis process.
+process;cochliobolus lunatus exposure;the treatment involving exposure of plant to the pathogen cochliobolus lunatus.
+process;cytokinin exposure;an exposure to a chemical that has the role of cytokinin
+process;benzothiadiazole exposure;obo sf2 peco:76
+process;heteranthera limosa exposure;an exposure of a reference or experimental plant to the monocot plant heteranthera limosa, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;day light exposure;the treatment involving an exposure of plant to the scheduled or natural exposure of day light and night cycles to the plant.
+process;jasmonic acid exposure;a growth hormone exposure (peco:0007165) involving the use of ja (or its homolog).
+process;erwinia herbicola exposure;the treatment involving exposure of plant to the pathogen erwinia herbicola. the susceptible plants suffer from bacterial palea browning disease.
+process;natural fertilizer exposure;treatment involving the use of organic fertilizer and its component as supplements to study various types of responses.
+process;hydrogen peroxide exposure;obo sf2 peco:73
+process;chemical fertilizer exposure;treatment involving the use of inorganic fertilizer and its components as supplements to study various types of responses.
+process;pseudomonas syringae pv. panici exposure;the treatment involving exposure of plant to the pathogen pseudomonas syringae pathovar panici.
+process;mineral salt exposure;obo sf2 peco:53
+process;cadmium chloride exposure;peco git:60
+process;monochoria vaginalis exposure;an exposure of a reference or experimental plant to the monocot plant monochoria vaginalis, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;dna exposure;the treatment involving use of dna fragment insertion or deletion as part of mutagenesis.
+process;2,4-dichlorophenoxyacetic acid exposure;peco git:71
+process;cadmium exposure;obo sf2 peco:30
+process;pythium dissotocum exposure;the treatment involving exposure of plant to the pythium dissotocum. it is a causal agent for rice seedling blight (fungal) or water mold dieases. water mold diease is also called as seed rot or seedling damping-off disease.
+process;gibberella fujikuroi exposure;the treatment involving exposure of plant to the pathogen gibberella fujikuroi.
+process;pseudaletia separata exposure;ncbi taxid:7105
+process;sphaerulina oryzina exposure;ncbi taxon id:706553
+process;pseudaletia spp. exposure;treatment involving the exposure of plant to the pest rice army worm.
+process;uv-b light exposure;the exposure using uv-b light either exclusively or as part of a supplemental electromagnetic radiation in the wavelength range of 315-280nm.
+process;caffeine exposure;the treatment involving use of caffeine for mutagenesis process.
+process;hirschmaniella spp. exposure;treatment involving the exposure of plant to the pest hirschmaniella spp. it is a causal agent for rice root nematode disease.
+process;fungicide exposure;chebi:24127
+process;limited phosphate exposure;obo sf2 peco:20
+process;fagaronine exposure;the treatment involving use of fagaronine for mutagenesis process.
+process;calcium carbonate exposure;a salt exposure (peco:0007185) which is a treatment with calcium carbonate (chebi:3311) in order to raise the ph of the growing media.
+process;gaeumannomyces graminis exposure;the treatment involving exposure of plant to the pathogen gaeumannomyces graminis. it is a causal agent for rice crown sheath rot disease also called as arkansas foot rot disease, black sheath rot disease and brown sheath rot disease.
+process;5-methyltryptophan exposure;obo sf2 peco:61
+process;1,2-dibromoethane exposure;the treatment involving use of 1,2-dibromoethane for mutagenesis process.
+process;rice yellow mottle virus exposure;the treatment involving exposure of plant to the rice yellow mottle virus. it is a causal agent for rice yellow mottle disease.
+process;meloidogyne arenaria exposure;the treatment involving exposure of plant to the pest meloidogyne oryzae. it is a causal agent for rice root knot nematode disease.
+process;lepidoptera exposure;treatment involving the exposure of plant to the pest of lepidoptera class.
+process;1-diethylaminoethylethylamino-4-methyl-thioxanthenone exposure;the treatment involving use of 1-diethylaminoethylethylamino-4-methyl-thioxanthenone for mutagenesis process.
+process;vinyl carbamate exposure;the treatment involving use of vinyl carbamate for mutagenesis process.
+process;styryl quinoline exposure;the treatment involving use of styryl quinoline for mutagenesis process.
+process;monosaccharide exposure;obo sf2 peco:56
+process;2,5,-bisethylene-imine-1,4-benzoquinone exposure;the treatment involving use of 2,5,-bisethylene-imine-1,4-benzoquinone for mutagenesis process.
+process;sodium hydroxide exposure;an inorganic anion exposure (peco:0001009) involving the application of sodium hydroxide (chebi:32145).
+process;spodoptera litura exposure;the treatment involving exposure of plant to the pest commonly calles as cutworm.
+process;chilo polychrysus exposure;the treatment involving exposure of plant to the pest dark-headed stemborer.
+process;disaccharide exposure;obo sf2 peco:58
+process;insecticide exposure;an exposure to a chemical that has the role of insecticide
+process;scirpophaga incertulas exposure;the treatment involving exposure of plant to the pest scirpophaga incertulas.
+process;hirschmaniella mucronata exposure;the treatment involving exposure of plant to the pest hirschmaniella mucronata. it is a causal agent for rice root nematode disease.
+process;colchicine exposure;the treatment involving use of colchicine for mutagenesis process.
+process;diethyl sulfate exposure;the treatment involving use of diethyl sulfate for mutagenesis process.
+process;phoma sorghina exposure;treatment involving the exposure of plant to the pathogen phoma sorghina.
+process;ac/ds transposable element exposure;the treatment involving use of ac/ds transposable system for mutagenesis process.
+process;sucrose exposure;obo sf2 peco:11
+process;ethyl ether exposure;the treatment involving use of ethyl ether for mutagenesis process.
+process;rice dwarf virus exposure;ncbi taxid:10991
+process;intermittent light exposure;in biological experiments it refer to the intermittent exposure of plant to the cycles of light and dark or one light vs the another type of light.
+process;antibiotic exposure;a chemical exposure (peco:0007189) involving the use of antibiotic for selection purposes.
+process;sagittaria montevidensis exposure;an exposure of a reference or experimental plant to the monocot plant sagittaria montevidensis, found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;1-naphthaleneacetic acid exposure;an auxin exposure (peco:0007074) involving use of 1-naphthaleneacetic acid growth hormone and herbicide.
+process;oxygen exposure;the treatment involving exposure of plant to oxygen to study various types of responses.
+process;hydrogen peroxide exposure;a peroxide exposure (peco:0007414) involving exposure of plant to h2o2 to study various types of oxidative stress responses.
+process;yellow light exposure;the treatment using yellow light either exclusively or as part of a supplemental light treatment involving yellow color light in the wavelength range of 597-577 nm.
+process;sucrose exposure;a disaccharide exposure (peco:0001014) involving the application of sucrose (chebi:17992).
+process;scirpophaga incertulas exposure;ncbi taxid:72366
+process;p-n,n-di-(2-chloroethyl)aminophenylethylamine exposure;the treatment involving use of p-n,n-di-(2-chloroethyl)aminophenylethylamine for mutagenesis process.
+process;pesticide exposure;chebi:25944
+process;diuron exposure;a herbicide exposure (peco:0007183) involving the use of diuron (dcmu).
+process;phosphate exposure;peco git:7
+process;pseudomonas syringae plant exposure;peco git:40
+process;pseudomonas syringae plant exposure;a pseudomonas plant exposure (peco:0007144) involving the exposure to bacteria of the pseudomonas syringae group.
+process;bacterial plant exposure;a biotic plant exposure (peco:0007357) involving exposure of a plant to bacteria.
+process;spodoptera mauritia exposure;the treatment involving exposure of plant to the pest commonly calles as lawn armyworm.
+process;growth hormone exposure;a chemical exposure (peco:0007189) involving the application of one or more plant growth hormones.
+process;cylindrocladium scoparium exposure;the treatment involving exposure of plant to the pathogen cylindrocladium scoparium. it is a causal agent for rice sheath net blotch disease.
+process;jasmonic acid exposure;peco git:71
+process;hirschmaniella imamuri exposure;the treatment involving exposure of plant to the pest hirschmaniella imamuri. it is a causal agent for rice root nematode disease.
+process;entyloma oryzae exposure;an exposure involving the growth of a plant with the pathogen entyloma oryzae. it is a causal agent for rice leaf smut disease.
+process;barley yellow dwarf virus exposure;the treatment involving exposure of plant to the barley yellow dwarf virus. it is a causal agent for rice giallume disease.
+process;insecticide exposure;obo sf2 peco:74
+process;nephotettix spp exposure;the treatment involving exposure of plant to the pest green leaf hopper.
+process;pythium arrhenomanes exposure;the treatment involving exposure of plant to the pythium arrhenomanes. it is a causal agent for rice feeder root necrosis disease.
+process;gibberellic acid exposure;peco git:71
+process;growth hormone exposure;peco git:71
+process;benzothiadiazole exposure;a fungicide exposure (peco:0007268) involving use of benzothiadiazole to study various types of responses on its application.
+process;abscisic acid exposure;peco git:71
+process;recilia dorsalis exposure;the treatment involving exposure of plant to the pest zigzag leafhopper.
+process;far infra-red light exposure;the treatment using far infra-red light either exclusively or as part of a supplemental light treatment involving far ir band that contains energy in the range of wavelengths 3000-14000nm.
+process;1-naphthaleneacetic acid exposure;obo sf2 peco:72
+process;castor meal exposure;peco git:115
+process;insecticide exposure;peco git:73
+process;ferrous sulfate exposure;treatment involving the use of ferrous sulfate supplement to study various types of responses.
+process;pseudomonas fuscovaginae exposure;the treatment involving exposure of plant to the pathogen pseudomonas fuscovaginae. it is a causal agent for rice sheath brown rot disease.
+process;meloidogyne javanica exposure;the treatment involving exposure of plant to the pest meloidogyne oryzae. it is a causal agent for rice root knot nematode disease.
+process;echinochloa glabrescens exposure;an exposure of a reference or experimental plant to the monocot plant echinochloa glabrescens found in its growth environment. this plant may be growing as a weed or as part of normal farming practices.
+process;cytokinin exposure;a growth hormone exposure (peco:0007165) involving the use of cytokinin (or its homolog) growth hormone.
+process;triethylenemelamine exposure;the treatment involving use of triethylenemelamine for mutagenesis process.
+process;ethylene exposure;obo sf2 peco:72
+process;gamma radiation exposure;obo sf2 peco:41
+process;nematicide exposure;an exposure to a chemical that has the role of nematicide
+process;ustilaginoidea virens exposure;the treatment involving exposure of plant to the pathogen ustilaginoidea virens. it is a causal agent for rice false smut disease also called as green smut disease.
+process;mycovellosiella oryzae exposure;the treatment involving exposure of plant to the pathogen mycovellosiella oryzae. it is a causal agent for rice white leaf streak disease.

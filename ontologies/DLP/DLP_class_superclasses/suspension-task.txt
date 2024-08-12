@@ -1,0 +1,15 @@
+suspension-task
+Thing
+task
+elementary-task
+endurant
+ending-task
+particular
+non-physical-endurant
+course
+non-physical-object
+non-agentive-social-object
+social-object
+control-task
+concept
+spatio-temporal-particular

@@ -1,0 +1,28 @@
+target;the goal intended to be attained (and which is believed to be attainable). 'the sole object of her trip was to see her children'
+sake;the purpose of achieving or obtaining. 'for the sake of argument'
+object;the goal intended to be attained (and which is believed to be attainable). 'the sole object of her trip was to see her children'
+terminus;the ultimate goal for which something is done
+aim;an anticipated outcome that is intended or guides your planned actions. 'his intent was to provide a new translation'. 'it was created with the conscious aim of answering immediate needs'. 'he made no secret of his designs'
+intention;an anticipated outcome that is intended or guides your planned actions. 'his intent was to provide a new translation'. 'it was created with the conscious aim of answering immediate needs'. 'he made no secret of his designs'
+mind;your intention. what you intend to do. 'he had in mind to see his old teacher'. 'the idea of the game is to capture all the pieces'
+idea;your intention. what you intend to do. 'he had in mind to see his old teacher'. 'the idea of the game is to capture all the pieces'
+point;the object of an activity. 'what is the point of discussing it?'
+thing;a special objective: 'the thing is to stay in bounds'
+intent;an anticipated outcome that is intended or guides your planned actions. 'his intent was to provide a new translation'. 'it was created with the conscious aim of answering immediate needs'. 'he made no secret of his designs'
+design;an anticipated outcome that is intended or guides your planned actions. 'his intent was to provide a new translation'. 'it was created with the conscious aim of answering immediate needs'. 'he made no secret of his designs'
+no goal;a nonexistent goal. 'he lived without a reason progressing toward no-goal'
+business;an immediate objective. 'gossip was the main business of the evening'
+occasions;something you have to do. 'he minded his own specialized occasions'
+end all;the ultimate goal. 'human beings are not the end-all of evolution'
+goal;"the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it. 'the ends justify the means'"
+will;a fixed and persistent intent or purpose. 'where there's a will there's a way'
+bourne;an archaic term for a goal or destination
+view;the phrase 'with a view to' means 'with the intention of'. 'he took the computer with a view to pawning it'
+cross purpose;a contrary aim. 'at cross-purposes'
+purpose;an anticipated outcome that is intended or guides your planned actions. 'his intent was to provide a new translation'. 'it was created with the conscious aim of answering immediate needs'. 'he made no secret of his designs'
+destination;the ultimate goal for which something is done
+bourn;an archaic term for a goal or destination
+objective;the goal intended to be attained (and which is believed to be attainable). 'the sole object of her trip was to see her children'
+end;"the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it. 'the ends justify the means'"
+aim;the goal intended to be attained (and which is believed to be attainable). 'the sole object of her trip was to see her children'
+intention;(usually plural) the goal with respect to a marriage proposal. 'his intentions are entirely honorable'

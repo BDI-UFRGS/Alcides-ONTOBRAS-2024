@@ -1,0 +1,105 @@
+utility revenue bond;a bond issued to finance the construction of public utility services
+time deposit;a certificate of deposit from which withdrawals can be made only after advance notice or at a specified future date
+ledger;a record in which commercial accounts are recorded. 'they got a subpoena to examine our books'
+visible balance;the difference in value over a period of time of a country's imports and exports of merchandise. 'a nation's balance of trade is favorable when its exports exceed its imports'
+debenture;a bond that is backed by the credit of the issuer but not by any specific collateral
+document;"a written account of ownership or obligation"
+book;a record in which commercial accounts are recorded. 'they got a subpoena to examine our books'
+accounting;a bookkeeper's chronological list of related debits and credits of a business. forms part of a ledger of accounts
+trade balance;the difference in value over a period of time of a country's imports and exports of merchandise. 'a nation's balance of trade is favorable when its exports exceed its imports'
+general ledger;the ledger that contains all of the financial accounts of a business. contains offsetting debit and credit accounts (including control accounts)
+certificate of deposit;a debt instrument issued by a bank. usually pays interest
+entry;a written record of a commercial transaction
+corporate bond;a bond issued by a corporation. 'a corporate bond is a safer investment than common stock in the same company'
+pooling of interest;an accounting method used in the merging of companies. the balance sheets are added together item by item. this method is tax-free
+registered bond;a bond whose owner is recorded on the books of the issuer. can be transferred to another owner only when endorsed by the registered owner
+passbook;a record of deposits and withdrawals and interest held by depositors at certain banks
+certificate of indebtedness;a written promise to repay a debt
+carry over;(british) the accumulated and undivided profits of a corporation after provision has been made for dividends and reserves
+expense record;a written record of money spent
+traveler s check;a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer
+coupon bond;a bond issued with detachable coupons that must be presented to the issuer for interest payments
+payroll;a list of employees and their salaries. 'the company had a long payroll'
+noncallable bond;a bond containing a provision that the holder cannot redeem the security before a specific date (usually at maturity)
+junk bond;a (speculative) bond with a credit rating of bb or lower. issued for leveraged buyouts and other takeovers by companies with questionable credit
+secured bond;a bond that is back by collateral
+government bond;a bond that is an iou on the us treasury. considered the safest security in the investment world
+account book;a record in which commercial accounts are recorded. 'they got a subpoena to examine our books'
+note receivable;your right in a promissory note in which the maker promises to pay a certain amount of money at a certain time
+paysheet;a list of employees and their salaries. 'the company had a long payroll'
+subsidiary ledger;details of an account supporting the amount stated in the general ledger
+demand note;a note payable on demand
+invisible balance;the difference in value over a period of time of a country's imports and exports of services and payments of property incomes
+credit side;account of payments received. usually the right side of a financial statement
+floater;a debt instrument with a variable interest rate tied to some other interest rate (e.g. the rate paid by t-bills)
+register;a book in which names and transactions are listed
+cd;a debt instrument issued by a bank. usually pays interest
+debit side;account of payments owed. usually the left side of a financial statement
+trade gap;the difference in value over a period of time of a country's imports and exports of merchandise. 'a nation's balance of trade is favorable when its exports exceed its imports'
+convertible bond;a bond that can be converted to other securities under certain conditions
+control account;an account that shows totals of amounts entered in a subsidiary ledger
+treasury obligations;negotiable debt obligations of the us government secured by its full faith and credit
+time note;a note that specifies the time (or times) of repayment
+bond;an interest-bearing (or discounted) certificate of debt issued by a government or corporation in order to raise money
+banker s check;a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer
+traveler s letter of credit;a letter of credit given to a traveler
+chequebook;a book issued to holders of checking accounts
+treasury bill;a short-term noninterest-bearing obligation that can be traded on a discount basis for 91 days
+ledger entry;a written record of a commercial transaction
+analytical review;an auditing procedure based on ratios among accounts and tries to identify significant changes
+accrual basis;a method of accounting in which each item is entered as it is earned or incurred regardless of when actual payments are received or made
+bankbook;a record of deposits and withdrawals and interest held by depositors at certain banks
+journal;a ledger in which transactions have been recorded as they occurred
+note;a promise to pay a specified amount on demand or at a certain time. 'i had to co-sign his note at the bank'
+quittance;a document or receipt certifying release from an obligation or debt
+zero coupon bond;a bond (corporate or government) that is issued at a deep discount from its value at maturity and pays no interest during the life of the bond
+leger;a record in which commercial accounts are recorded. 'they got a subpoena to examine our books'
+traveller s check;a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer
+audited account;an inspection of the accounting procedures and records by a trained accountant
+treasury note;securities with maturities of 1 to 10 years. sold for cash or in exchange for maturing issues or at auction
+treasuries;negotiable debt obligations of the us government secured by its full faith and credit
+savings bond;non-negotiable government bond. cannot be bought and sold once the original purchase is made
+post obit bond;a bond made by a reversioner to secure a loan. payable out of his reversion
+record;a document that can serve as legal evidence of a transaction. 'they could find no record of the purchase'
+review;(accounting) an accounting service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
+limited audit;an audit of limited scope (limited in time span or confined to particular accounts etc.)
+revenue bond;a bond issued by an agency that is commissioned to finance public works. revenue from the public property is used to pay off the bond
+treasury bond;a debt instrument with maturities of 10 years or longer
+credit entry;an accounting entry acknowledging income or capital items
+note payable;a note promising to pay a certain amount of money at a certain time
+cash basis;a method of accounting in which each item is entered as payments are received or made
+checkbook;a book issued to holders of checking accounts
+book of account;a record in which commercial accounts are recorded. 'they got a subpoena to examine our books'
+letter of credit;a document issued by a bank that guarantees the payment of a customer's draft. substitutes the bank's credit for the customer's credit
+inventory;(accounting) the value of a firm's current assets including raw materials and work in progress and finished goods
+iou;an informal debt instrument. representing 'i owe you'
+performance bond;a bond given to protect the recipient against loss in case the terms of a contract are not filled. a surety company assumes liability for nonperformance
+commercial letter of credit;a letter of credit given to a business concern for commercial purposes
+debenture bond;a bond that is backed by the credit of the issuer but not by any specific collateral
+balance sheet;a record of the financial situation of an institution on a particular date by listing its assets and the claims against those assets
+debt instrument;a written promise to repay a debt
+note of hand;a promise to pay a specified amount on demand or at a certain time. 'i had to co-sign his note at the bank'
+debit entry;an accounting entry acknowledging sums that are owing
+municipal bond;a bond issued by a state or local government
+method of accounting;a bookkeeper's chronological list of related debits and credits of a business. forms part of a ledger of accounts
+municipal note;a municipal debt instrument with a maturity of less than 2 years
+limited review;(accounting) an accounting service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
+payslip;a slip of paper included with your pay that records how much money you have earned and how much tax or insurance etc. has been taken out
+t bill;a short-term noninterest-bearing obligation that can be traded on a discount basis for 91 days
+surety bond;a bond given to protect the recipient against loss in case the terms of a contract are not filled. a surety company assumes liability for nonperformance
+traveller s letter of credit;a letter of credit given to a traveler
+credit;an accounting entry acknowledging income or capital items
+carry forward;(british) the accumulated and undivided profits of a corporation after provision has been made for dividends and reserves
+utility bond;a bond issued to finance the construction of public utility services
+bond certificate;an interest-bearing (or discounted) certificate of debt issued by a government or corporation in order to raise money
+accounting system;a bookkeeper's chronological list of related debits and credits of a business. forms part of a ledger of accounts
+bearer bond;a bond issued with detachable coupons that must be presented to the issuer for interest payments
+unsecured bond;a bond that is backed by the credit of the issuer but not by any specific collateral
+balance of trade;the difference in value over a period of time of a country's imports and exports of merchandise. 'a nation's balance of trade is favorable when its exports exceed its imports'
+promissory note;a promise to pay a specified amount on demand or at a certain time. 'i had to co-sign his note at the bank'
+audit;an inspection of the accounting procedures and records by a trained accountant
+daybook;a ledger in which transactions have been recorded as they occurred
+trial balance;a balance of debits and credits in double-entry bookkeeping. drawn up to test their equality
+balance;an amount on the credit side of an account
+commercial paper;short-term obligations issued by institutional borrowers to investors with temporarily idle cash
+debit;an accounting entry acknowledging sums that are owing

@@ -1,0 +1,17 @@
+biological-object
+chemical-object
+organization
+agentive-figure
+information-gathering
+geographical-object
+situation
+natural-person
+non-agentive-figure
+planning-activity
+agentive-social-object
+description
+information-object
+speech
+concept
+collection
+system-as-artifact

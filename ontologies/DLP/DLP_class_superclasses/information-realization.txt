@@ -1,0 +1,5 @@
+information-realization
+particular
+Thing
+physical-realization
+spatio-temporal-particular

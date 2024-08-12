@@ -1,0 +1,13 @@
+material-artifact
+spatial-feature
+socially-constructed-person
+bodily-motion
+physical-place
+voicing
+figure
+reconstructed-flux
+activity
+non-agentive-social-object
+rational-physical-object
+physical-phenomenon
+physical-body

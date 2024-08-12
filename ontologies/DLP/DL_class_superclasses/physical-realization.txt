@@ -1,0 +1,4 @@
+physical-realization
+particular
+Thing
+spatio-temporal-particular

@@ -1,0 +1,239 @@
+euphuism;any artificially elegant style of language
+luridness;the journalistic use of subject matter that appeals to vulgar tastes. 'the tabloids relied on sensationalism to maintain their circulation'
+rhythm;the arrangement of spoken words alternating stressed and unstressed elements. 'the rhythm of frost's poetry'
+undertone;a quiet or hushed tone of voice: 'spoke in undertones'
+paper;a scholarly article describing the results of observations or stating hypotheses. 'he has written many scientific papers'
+tone;the quality of a person's voice. 'he began in a conversational tone'. 'he spoke in a nervous tone of voice'
+succinctness;terseness achieved by expressing a great deal in just a few words
+catachresis;strained or paradoxical use of words either in error (as 'blatant' to mean 'flagrant') or deliberately (as in a mixed metaphor: 'blind mouths')
+metalepsis;substituting metonymy of one figurative sense for another
+trope;language used in a figurative or nonliteral sense
+metaphor;a figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity
+anacoluthia;an abrupt change within a sentence from one syntactic structure to another
+irony;a trope that involves incongruity between what is expected and what occurs
+address;the manner of speaking to another individual. 'he failed in his manner of address to the captain'
+claptrap;pompous or pretentious talk or writing
+poesy;literature in metrical form
+hypozeugma;use of a series of subjects with a single predicate
+britishism;an expression that is limited to english as spoken by englishmen (especially as contrasted with american english)
+hysteron proteron;reversal of normal order of two words or sentences etc. (as in 'bred and born')
+epanaphora;repetition of a word or phrase as the beginning of successive clauses
+anacoluthon;an abrupt change within a sentence from one syntactic structure to another
+repetitiveness;verboseness resulting from excessive repetitions
+figure;language used in a figurative or nonliteral sense
+sentence stress;the distribution of stresses within a sentence
+emphasis;the relative prominence of a syllable (especially with regard to stress or pitch). 'he put the stress on the wrong syllable'
+paralipsis;suggesting by deliberately concise treatment that much of significance is omitted
+feature article;a special or prominent article in a newspaper or magazine. 'they ran a feature on retirement planning'
+blah;pompous or pretentious talk or writing
+paraleipsis;suggesting by deliberately concise treatment that much of significance is omitted
+prose;ordinary writing as distinguished from verse
+tragedy;drama in which the protagonist is overcome by some superior force or circumstance. excites terror or pity
+prosody;the patterns of stress and intonation in a language
+zeugma;use of a word to govern two or more words though appropriate to only one. 'mr. pickwick took his hat and his leave' is an example of zeugma'
+poetry;literature in metrical form
+vein;a distinctive style or manner. 'he continued in this vein for several minutes'
+fluency;powerful and effective language
+intonation pattern;intonations characteristic of questions and requests and statements
+figure of speech;language used in a figurative or nonliteral sense
+accent;the relative prominence of a syllable (especially with regard to stress or pitch). 'he put the stress on the wrong syllable'
+anastrophe;the reversal of the normal order of words
+honorific;an expression of respect. 'the japanese use many honorifics'
+choice of words;the manner in which something is expressed in words: 'use concise military verbiage'- g.s.patton
+inflection;the patterns of stress and intonation in a language
+pitch contour;rise and fall of the voice pitch
+onomatopoeia;using words that imitate the sound they denote
+colloquialism;a colloquial expression. characteristic of spoken or written communication that seeks to imitate informal speech
+nonfictional prose;prose writing that is not fictional
+enallage;a substitution of part of speech or gender or number or tense etc. (e.g., editorial 'we' for 'i')
+inversion;the reversal of the normal order of words
+legalese;a style that uses the abstruse technical vocabulary of the law
+verboseness;an expressive style that uses excessive words
+ecphonesis;an exclamatory rhetorical device. 'o tempore! o mores'
+verbosity;an expressive style that uses excessive words
+speech;your characteristic style or manner of expressing yourself orally. 'his manner of speaking was quite abrupt'. 'her speech was barren of southernisms'. 'i detected a slight accent in his speech'
+chiasmus;inversion in the second of two parallel phrases
+expression;the style of expressing yourself. 'he suggested a better formulation'. 'his manner of expression showed how much he cared'
+prolixness;boring verboseness
+feature;a special or prominent article in a newspaper or magazine. 'they ran a feature on retirement planning'
+paralepsis;suggesting by deliberately concise treatment that much of significance is omitted
+stream of consciousness;a literary genre that reveals a characters thoughts and feeling by means of a long soliloquy
+epiplexis;a rhetorical device in which the speaker reproaches the audience in order to incite or convince them
+analysis;the use of closed-class words instead of inflections: e.g., 'the father of the bride' instead of 'the bride's father'
+singsong;a regular and monotonous rising and falling intonation
+situation comedy;a humorous drama based on situations that might arise in day-to-day life
+laconism;terseness of expression
+elocution;an expert manner of speaking involving control of voice and gesture
+apophasis;mentioning something by saying it will not be mentioned
+hypallage;reversal of the syntactic relation of two words (as in 'her beauty's face')
+climax;arrangement of clauses in ascending order of forcefulness
+prolixity;boring verboseness
+formulation;the style of expressing yourself. 'he suggested a better formulation'. 'his manner of expression showed how much he cared'
+caesura;a break or pause (usually for sense) in the middle of a verse line
+journalese;the style in which newspapers are written
+stress;the relative prominence of a syllable (especially with regard to stress or pitch). 'he put the stress on the wrong syllable'
+mot juste;the appropriate word or expression
+tonic accent;emphasis the results from pitch rather than loudness
+wordiness;boring verboseness
+idiom;a manner of speaking that is natural to native speakers of a language
+euphuism;an elegant style of prose of the elizabethan period. characterized by balance and antithesis and alliteration and extended similes with and allusions to nature and mythology
+intonation;rise and fall of the voice pitch
+repetition;the repeated use of the same word or word pattern as a rhetorical device
+litotes;understatement, esp. expressing an affirmative by negating its contrary
+sharp tongue;a bitter or critical manner of speaking
+oxymoron;conjoining contradictory terms (as in 'deafening silence')
+speech rhythm;the arrangement of spoken words alternating stressed and unstressed elements. 'the rhythm of frost's poetry'
+personal;a short newspaper article about a particular person or group
+prose;matter_of_fact, commonplace, or dull expression
+tragicomedy;a comedy with serious elements or overtones
+slapstick;a boisterous comedy with chases and collisions and practical jokes
+article;nonfictional prose forming an independent part of a publication
+sesquipedality;using long words
+boilerplate;a standard formulation of legal documents or news stories
+catch;a break or check in the voice (usually a sign of strong emotion)
+manner of speaking;your characteristic style or manner of expressing yourself orally. 'his manner of speaking was quite abrupt'. 'her speech was barren of southernisms'. 'i detected a slight accent in his speech'
+simile;a figure of speech that expresses a resemblance between things of different kinds (usually formed with 'like' or 'as')
+bathos;triteness or triviality of style
+technobabble;technical jargon from computing and other high-tech subjects
+newspaper article;an article reporting news
+repetitiousness;verboseness resulting from excessive repetitions
+magazine article;an article published in a magazine
+ecobabble;using the technical language of ecology to make the user seem ecologically aware
+psychobabble;using language loaded with psychological terminology
+farce comedy;a comedy characterized by broad satire and improbable situations
+pithiness;terseness achieved by expressing a great deal in just a few words
+archaism;the use of an archaic expression
+device;something in an artistic work designed to achieve a particular effect
+tautology;useless repetition. 'to say that something is 'adequate enough' is a tautology'
+sensationalism;the journalistic use of subject matter that appeals to vulgar tastes. 'the tabloids relied on sensationalism to maintain their circulation'
+epanalepsis;repetition after intervening words
+melodrama;an extravagant comedy in which action is more salient than characterization
+epanorthosis;immediate rephrasing for intensification or justification. 'seems, madam! nay, it is'
+writing style;a style of expressing yourself in writing
+polyptoton;repetition of a word in a different case or inflection in the same sentence. 'my own heart's heart'
+turgidity;pompously embellished language
+americanism;an expression that is characteristic of english as spoken by americans
+circumlocution;a style that involves indirect ways of expressing things
+nonfiction;prose writing that is not fictional
+word accent;the distribution of stresses within a polysyllabic word
+expressive style;"a way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period. 'all the reporters were expected to adopt the style of the newspaper'"
+hypozeuxis;use of a series of parallel clauses (as in 'i came, i saw, i conquered')
+flourish;a display of ornamental language
+redundancy;repetition of messages to reduce the probability of errors in transmission
+prosopopoeia;representing an abstract quality or idea as a person or creature
+anglicism;an expression that is limited to english as spoken by englishmen (especially as contrasted with american english)
+symploce;repetition of a word or phrase at the beginning and another at the end of successive clauses, i.e., simultaneous use of anaphora and epistrophe
+bombast;pompous or pretentious talk or writing
+style;"a way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period. 'all the reporters were expected to adopt the style of the newspaper'"
+terseness;a neatly short and concise expressive style
+aposiopesis;breaking off in the middle of a sentence (as by writers of realistic conversations)
+kenning;conventional metaphoric name for something, used esp. in old english and old norse poetry
+hyperbole;extravagant exaggeration
+news story;an article reporting news
+epiphora;repetition of the ends of two or more successive sentences, verses, etc.
+verbiage;the manner in which something is expressed in words: 'use concise military verbiage'- g.s.patton
+fustian;pompous or pretentious talk or writing
+genre;a style of expressing yourself in writing
+preterition;suggesting by deliberately concise treatment that much of significance is omitted
+gobbledygook;incomprehensible or pompous jargon of specialists
+turgidness;pompously embellished language
+news article;an article reporting news
+jargon;specialized technical terminology characteristic of a particular subject
+synesthetic metaphor;a metaphor that exploits a similarity between experiences in different sense modalities
+laconicism;terseness of expression
+anadiplosis;repetition of the final words of a sentence or line at the beginning of the next
+officialese;the style of writing characteristic of some government officials: formal and obscure
+low comedy;a comedy characterized by slapstick and burlesque
+ploce;repetition to gain special emphasis or extend meaning
+archaicism;the use of an archaic expression
+monotone;an unchanging intonation
+apostrophe;address to an absent or imaginary person
+conciseness;terseness achieved by expressing a great deal in just a few words
+rant;pompous or pretentious talk or writing
+hyperbaton;reversal of normal word order (as in 'cheese i love')
+drama;the literary genre of works intended for the theater
+crispness;a style of expression that is direct and to the point. 'the crispness of his reply'
+briticism;an expression that is limited to english as spoken by englishmen (especially as contrasted with american english)
+paregmenon;juxtaposing words having a common derivation (as in 'sense and sensibility')
+personification;representing an abstract quality or idea as a person or creature
+rhetoric;using language effectively to please or persuade
+brevity;the use of brief expressions
+form;an arrangement of the elements in a composition or discourse. 'the essay was in the form of a dialogue'. 'he first skethes the plot in outline form'
+separate;a separately printed article that originally appeared in a larger publication
+eurobabble;the jargon of european community documents and regulations
+rhetorical device;a use of language that creates a literary effect (but often without regard for literal significance)
+wording;the manner in which something is expressed in words: 'use concise military verbiage'- g.s.patton
+editorial;an article giving opinions or perspectives
+magniloquence;high_flown style. excessive use of verbal ornamentation
+newspaper column;an article giving opinions or perspectives
+prose poem;prose that resembles poetry
+poetry;any communication resembling poetry in beauty or the evocation of feeling
+shibboleth;a manner of speaking that is distinctive of a particular group of people
+delivery;your characteristic style or manner of expressing yourself orally. 'his manner of speaking was quite abrupt'. 'her speech was barren of southernisms'. 'i detected a slight accent in his speech'
+word stress;the distribution of stresses within a polysyllabic word
+polyphonic prose;a rhythmical prose employing the poetic devices of alliteration and assonance
+reprint;a separately printed article that originally appeared in a larger publication
+closet drama;drama more suitable for reading that for performing
+periphrasis;a style that involves indirect ways of expressing things
+rhetoric;high_flown style. excessive use of verbal ornamentation
+seriocomedy;a comedy with serious elements or overtones
+diction;the manner in which something is expressed in words: 'use concise military verbiage'- g.s.patton
+verse;literature in metrical form
+column;an article giving opinions or perspectives
+verbalization;expressing something in words
+metonymy;substituting the name of an attribute or feature for the name of the thing itself (as in 'they counted heads')
+self expression;the expression of one's individuality (usually through creative activities)
+tragicomedy;a dramatic composition involving elements of both tragedy and comedy usually with the tragic predominating
+hendiadys;use of two conjoined nouns instead of a noun and modifier
+sidebar;a short news story presenting sidelights on a major story
+phrasing;the manner in which something is expressed in words: 'use concise military verbiage'- g.s.patton
+grandiloquence;high_flown style. excessive use of verbal ornamentation
+pitch accent;emphasis the results from pitch rather than loudness
+note;a tone of voice that shows what the speaker is feeling. 'there was a note of uncertainty in his voice'
+epistrophe;repetition of the ends of two or more successive sentences, verses, etc.
+epos;a body of poetry that conveys the traditions of a society by treating some epic theme
+epanodos;repetition or recapitulation in reverse order
+tongue;a manner of speaking. 'he spoke with a thick tongue'. 'she has a glib tongue'
+anaphora;repetition of a word or phrase as the beginning of successive clauses
+synecdoche;substituting a more inclusive term for a less inclusive one or vice versa
+exclamation;an exclamatory rhetorical device. 'o tempore! o mores'
+frozen metaphor;a metaphor that has occurred so often that it has become a new meaning of the expression (e.g., 'he is a snake' may once have been a metaphor but after years of use it has died and become a new sense of the word 'snake')
+image;language used in a figurative or nonliteral sense
+droning;an unchanging intonation
+headlinese;using the abbreviated style of headline writers
+grandiosity;high_flown style. excessive use of verbal ornamentation
+antithesis;the juxtaposition of contrasting words or ideas to give a feeling of balance
+lead story;a news story of major importance
+lead;a news story of major importance
+dead metaphor;a metaphor that has occurred so often that it has become a new meaning of the expression (e.g., 'he is a snake' may once have been a metaphor but after years of use it has died and become a new sense of the word 'snake')
+phraseology;the manner in which something is expressed in words: 'use concise military verbiage'- g.s.patton
+verbiage;overabundance of words
+wellerism;a comparison comprising a well-known quotation followed by a facetious sequel
+emphasis;special and significant stress by means of position or repetition e.g.
+prolepsis;anticipating and answering objections in advance
+offprint;a separately printed article that originally appeared in a larger publication
+dramatic irony;(theater) irony that occurs when the meaning of the situation is understood by the audience but not by the characters in the play
+comedy;light and humorous drama with a happy ending
+drone;an unchanging intonation
+pleonasm;using more words than necessary. 'a tiny little child'
+pathos;a style that has the power to evoke feelings
+long windedness;boring verboseness
+parlance;a manner of speaking that is natural to native speakers of a language
+anaphora;using a pronoun or other pro-word instead of repeating a word
+travesty;a comedy characterized by broad satire and improbable situations
+polysyndeton;using several conjunctions in close succession, especially where some might be omitted (as in 'he ran and jumped and laughed for joy')
+literary genre;a style of expressing yourself in writing
+conversion;interchange of subject and predicate of a proposition
+agony column;a newspaper column devoted to personal problems
+antiphrasis;the use of a word in a sense opposite to its normal sense (especially in irony)
+commedia dell arte;italian comedy of the 16th to 18th centuries improvised from standardized situations and stock characters
+flatulence;pompously embellished language
+farce;a comedy characterized by broad satire and improbable situations
+tone of voice;the quality of a person's voice. 'he began in a conversational tone'. 'he spoke in a nervous tone of voice'
+syllepsis;use of a word to govern two or more words though agreeing in number or case etc. with only one
+meiosis;understatement, esp. expressing an affirmative by negating its contrary
+antinomasia;substitution of a title for a name
+exaggeration;extravagant exaggeration
+eloquence;powerful and effective language
+gemination;doubling of a word or words
+accentuation;the relative prominence of a syllable (especially with regard to stress or pitch). 'he put the stress on the wrong syllable'

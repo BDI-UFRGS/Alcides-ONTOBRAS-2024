@@ -1,0 +1,6 @@
+spatial-location_q
+particular
+Thing
+physical-quality
+spatio-temporal-particular
+quality

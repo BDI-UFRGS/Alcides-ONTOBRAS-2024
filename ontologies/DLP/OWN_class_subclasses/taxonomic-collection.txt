@@ -1,0 +1,106 @@
+past tense;a verb tense that expresses actions or states in the past
+person;a grammatical category of pronouns and verb forms. 'stop talking about yourself in the third person'
+case;nouns or pronouns or adjectives (often marked by inflection) related in some way to other words in a sentence
+subject case;the category of nouns serving as the grammatical subject of a verb
+past progressive;a progressive tense used to describe on-going action in the past. 'i had been running' is an example of the past progressive'
+form class;one of the traditional categories of words intended to reflect their functions in a grammatical context
+participle;a non-finite form of the verb. in english it is used adjectivally and to form compound tenses
+perfect;a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)
+continuous tense;a tense of verbs used in describing action that is on-going
+present progressive tense;a tense used to express action that is on-going at the time of utterance
+perfective tense;a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)
+accusative case;the category of nouns serving as the direct object of a verb
+perfect participle;a participle that expresses completed action
+verb;a word that serves as the predicate of a sentence
+mineral kingdom;all inorganic objects. contrasts with animal and plant kingdoms
+instrumental;the case indicating the instrument used in performing the action of the verb
+historical present;the use of the present tense to describe past actions or states
+locative;the case indicating where the action described by the verb occurred
+preterite;a term formerly used to refer to the simple past tense
+malacostraca;largest subclass of crustacea including most of the well-known marine, freshwater, and terrestrial crustaceans: crabs. lobsters. shrimps. sow bugs. beach flies
+vocative;the case (in some inflected languages) used when the referent of the noun is being addressed
+past perfect tense;a perfective tense used to express action completed in the past. 'ihad finished' is an example of the past perfect'
+infinitive;the uninflected form of the verb
+present progressive;a tense used to express action that is on-going at the time of utterance
+oblique;any grammatical case other than the nominative
+major form class;any of the parts of speech of traditional grammar
+present participle;a participle expressing present action. in english is formed by adding -ing
+transitive verb;a verb (or verb construction) that requires an object to be grammatical
+part of speech;one of the traditional categories of words intended to reflect their functions in a grammatical context
+progressive tense;a tense of verbs used in describing action that is on-going
+present;a verb tense that expresses actions or states at the time of speaking
+grammatical case;nouns or pronouns or adjectives (often marked by inflection) related in some way to other words in a sentence
+intransitive verb form;a verb (or verb construction) that does not take an object
+declension;a class of nouns having the same inflectional forms: 'the first declension in latin'
+doubly transitive verb;a transitive verb that takes both a direct and an indirect object
+locative case;the case indicating where the action described by the verb occurred
+stamp;a type or class. 'more men of his stamp are needed'
+aorist;a verb tense in some languages (classical greek. sanskrit) expressing action (especially past) without indicating its completion or continuation
+kingdom;"a basic group of natural objects"
+instrumental case;the case indicating the instrument used in performing the action of the verb
+dative case;the category of nouns serving as the indirect object of a verb
+adverb;the word class that qualifies verbs or clauses
+word class;one of the traditional categories of words intended to reflect their functions in a grammatical context
+pluferfect tense;a perfective tense used to express action completed in the past. 'ihad finished' is an example of the past perfect'
+future progressive;a progressive tense used to express action that will be on-going in the future. 'i will be running' is an example of the future progressive'
+vocative case;the case (in some inflected languages) used when the referent of the noun is being addressed
+syntactic category;a category of words having the same grammatical properties
+present perfect tense;a perfective tense used to express action completed in the present. 'i have finished' is an example of the present perfect'
+third person;pronouns and verbs used to refer to something other than the speaker or addressee of the language in which they occur
+nominative;the category of nouns serving as the grammatical subject of a verb
+ablative case;the case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb
+family;"a collection of things sharing a common attribute. 'there are two classes of detergents'"
+diplopoda;arthropods having the body composed of numerous double somites each with two pairs of legs: millipedes
+objective case;the category of nouns serving as the direct object of a verb
+gender;a grammatical category in inflected languages governing the agreement between nouns and pronouns and adjectives. in some languages it is quite arbitrary but in indo-european languages it is usually based on sex or animateness
+perfect tense;a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)
+past participle;a participle that expresses completed action
+class diplopoda;arthropods having the body composed of numerous double somites each with two pairs of legs: millipedes
+present perfect;a perfective tense used to express action completed in the present. 'i have finished' is an example of the present perfect'
+sex;either of the two categories (male or female) into which most organisms are divided. 'the war between the sexes'
+grammatical category;a category of words having the same grammatical properties
+pluperfect;a perfective tense used to express action completed in the past. 'ihad finished' is an example of the past perfect'
+split infinitive;an infinitive with an adverb between 'to' and the verb (e.g., 'to boldly go')
+future tense;a verb tense that expresses actions or states in the future
+possessive case;the case expressing ownership
+tense;a grammatical category of verbs used to express distinctions of time
+past;a verb tense that expresses actions or states in the past
+class;"a collection of things sharing a common attribute. 'there are two classes of detergents'"
+past perfect;a perfective tense used to express action completed in the past. 'ihad finished' is an example of the past perfect'
+class myriapoda;arthropods having the body composed of numerous double somites each with two pairs of legs: millipedes
+number;(linguistics) the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural). 'in english the subject and the verb must agree in number'
+preterit;a term formerly used to refer to the simple past tense
+grammatical gender;a grammatical category in inflected languages governing the agreement between nouns and pronouns and adjectives. in some languages it is quite arbitrary but in indo-european languages it is usually based on sex or animateness
+transitive verb form;a verb (or verb construction) that requires an object to be grammatical
+category;"a collection of things sharing a common attribute. 'there are two classes of detergents'"
+accusative;the category of nouns serving as the direct object of a verb
+ablative;the case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb
+conjugation;a class of verbs having the same inflectional forms
+second person;pronouns and verbs used to refer to the person addressed by the language in which they occur
+genitive;the case expressing ownership
+masculine;a gender that refers chiefly (but not exclusively) to males or to objects classified as male
+doubly transitive verb form;a transitive verb that takes both a direct and an indirect object
+noun;a word that can serve as the subject or object of a verb
+feminine;a gender that refers chiefly (but not exclusively) to females or to objects classified as female
+genitive case;the case expressing ownership
+subclass malacostraca;largest subclass of crustacea including most of the well-known marine, freshwater, and terrestrial crustaceans: crabs. lobsters. shrimps. sow bugs. beach flies
+intransitive verb;a verb (or verb construction) that does not take an object
+dative;the category of nouns serving as the indirect object of a verb
+perfective;a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)
+imperfect tense;a tense of verbs used in describing action that is on-going
+nominative case;the category of nouns serving as the grammatical subject of a verb
+future perfect tense;a perfective tense used to describe action that will be completed in the future. 'i will have finished' is an example of the future perfect'
+oblique case;any grammatical case other than the nominative
+adjective;the word class that qualifies nouns
+past progressive tense;a progressive tense used to describe on-going action in the past. 'i had been running' is an example of the past progressive'
+class larvacea;small free-swimming tunicates. sometimes classified as an order
+myriapoda;arthropods having the body composed of numerous double somites each with two pairs of legs: millipedes
+neuter;a gender that refers chiefly (but not exclusively) to inanimate objects (neither masculine nor feminine)
+future perfect;a perfective tense used to describe action that will be completed in the future. 'i will have finished' is an example of the future perfect'
+future progressive tense;a progressive tense used to express action that will be on-going in the future. 'i will be running' is an example of the future progressive'
+present tense;a verb tense that expresses actions or states at the time of speaking
+larvacea;small free-swimming tunicates. sometimes classified as an order
+future;a verb tense that expresses actions or states in the future
+imperfect;a tense of verbs used in describing action that is on-going
+progressive;a tense of verbs used in describing action that is on-going
+first person;pronouns and verbs used to refer to the speaker or writer of the language in which they occur

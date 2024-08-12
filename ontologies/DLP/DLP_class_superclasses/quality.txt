@@ -1,0 +1,4 @@
+quality
+particular
+Thing
+spatio-temporal-particular

@@ -1,0 +1,4 @@
+specifically dependent continuant;virulence factor role;a role that is inherited in a pathogen molecule that makes the pathogen virulence in terms of colonization, immunoevasion, immunosuppression, entry into or exit out of host cell, and obtaining nutrient from the host.
+specifically dependent continuant;virulence factor protein role;a virulence factor role that is inherited in a protein
+specifically dependent continuant;virulence factor gene role;a virulence factor role that is inherited in a gene that can encode for a protein, and either the gene or the protein will play the role of a virulence factor.
+process;host pathogen interaction;a process that involves an interaction between a host and a pathogen which can be a virus, bacterium, parasite, fungus, etc.

@@ -1,0 +1,14 @@
+biological-collective
+Thing
+simple-collective
+endurant
+collective
+type-based-collective
+particular
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+simple-collection
+social-object
+spatio-temporal-particular
+collection

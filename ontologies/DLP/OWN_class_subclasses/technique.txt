@@ -1,0 +1,407 @@
+hang;a special way of doing something. 'he had a bent for it'. 'he had a special knack for getting into trouble'. 'he couldn't get the hang of it'
+apollo program;a program of space flights undertaken by us to land a man on the moon. 'the first lunar landing was achieved by the apollo program on july 20, 1969'
+stagecraft;skill in writing or staging plays
+woodcraft;skill in carving or fashioning objects from wood
+current account;that part of the balance of payments recording a nation's exports and imports of goods and services and transfer payments
+imagination;the ability to deal resourcefully with unusual problems. 'a man of resource'
+somesthesia;the faculty of bodily perception. sensory systems associated with the body. includes skin senses and proprioception and the internal organs
+superior skill;the superior ability that is attained by study and practice and observation. 'he had mastered the art of a great craftsman'
+castle in spain;absent-minded dreaming while awake
+vigilance;the process of paying close and continuous attention
+brainpower;mental ability. 'he's got plenty of brains but no common sense'
+module;one of the inherent cognitive or perceptual powers of the mind
+acquisition;an ability that has been acquired by training
+sensory system;a particular sense
+fecundity;the intellectual fruitfulness of a creative imagination
+flair;a natural talent. 'he has a flair for mathematics'. 'he has a genius for interior decorating'
+mental faculty;one of the inherent cognitive or perceptual powers of the mind
+guile;shrewdness as demonstrated by being skilled in deception
+logic;reasoned and reasonable judgment. 'it made a certain kind of logic'
+night vision;the ability to see in reduced illumination (as in moonlight)
+coup de theatre;a sensational bit of stagecraft
+astuteness;the intellectual ability to penetrate deeply into ideas
+breadth;an ability to understand a broad range of topics. 'a teacher must have a breadth of knowledge of the subject'
+particularism;a focus on something particular
+technicolor;a trademarked method of making color motion pictures
+attainment;an ability that has been acquired by training
+wisdom;ability to apply knowledge or experience or understanding or common sense and insight
+nonverbal intelligence;intelligence that is manifested in the performance of tasks requiring little or no use of language
+salesmanship;skill in selling. skill in persuading people to buy. 'he read a book on salesmanship but it didn't help'
+foxiness;shrewdness as demonstrated by being skilled in deception
+numeracy;skill with numbers and mathematics
+sagaciousness;ability to make good judgments
+memory;the power of retaining and recalling past experience. 'he had a good memory when he was younger'
+proprioception;the ability to sense the position and location and orientation and movement of the body and its parts
+indiscreetness;lacking good judgment
+pipe dream;a fantastic but vain hope (from fantasies induced by the opium pipe). 'i have this pipe dream about being emperor of the universe'
+kinaesthesis;the ability to feel movements of the limbs and body
+biofeedback;a training program in which a person is given information about physiological processes (heart rate or blood pressure) that is not normally available with the goal of gaining conscious control of them
+mother wit;sound practical judgment. 'he hasn't got the sense god gave little green apples'
+excitability;excessive sensitivity of an organ or body part
+somatosensory system;the faculty of bodily perception. sensory systems associated with the body. includes skin senses and proprioception and the internal organs
+care;judiciousness in avoiding harm or danger. 'he exercised caution in opening the door'. 'he handled the vase with care'
+system of rules;a complex of methods or rules governing behavior. 'they have to operate under a system they oppose'. 'that language has a complex system for indicating gender'
+language;the mental faculty or power of vocal communication. 'language sets homo sapiens apart from all other animals'
+wiliness;shrewdness as demonstrated by being skilled in deception
+imaginativeness;the power of imagination. 'popular imagination created a world of demons'
+muscle sense;the ability to feel movements of the limbs and body
+theological system;a particular system or school of religious beliefs and teachings. 'jewish theology'. 'roman catholic theology'
+shrewdness;intelligence manifested by being astute (as in business dealings)
+serendipity;accidental sagacity. the faculty of making fortunate discoveries of things you were not looking for
+sight;the ability to see. the faculty of vision
+showmanship;the ability to present something (especially theatrical shows) in an attractive manner
+doxastic logic;the modal logic of belief and disbelief
+wit;mental ability. 'he's got plenty of brains but no common sense'
+phantasy life;an imaginary life lived in a fantasy world
+prevision;the power to foresee the future
+endowment;natural qualities or talents
+gustation;the faculty of taste. 'his cold deprived him of his sense of taste'
+absolute pitch;the ability to identify the pitch of a tone
+sapience;ability to apply knowledge or experience or understanding or common sense and insight
+hearing;the ability to hear. the auditory faculty. 'his hearing was impaired'
+imagination;the power of imagination. 'popular imagination created a world of demons'
+epistemic logic;the modal logic of knowledge and uncertainty and ignorance
+government;the system or form by which a community or other political unit is governed. 'tyrannical government'
+steel trap;an acute intelligence (an analogy based on the well known sharpness of steel traps). 'he's as sharp as a steel trap'. 'a mind like a steel trap'
+woolgathering;an idle indulgence in fantasy
+olfactory modality;the faculty of smell
+hypersensitivity;extreme sensitivity
+modality;a particular sense
+prudence;knowing how to avoid embarrassment or distress. 'the servants showed great tact and discretion'
+horsemanship;skill in handling and riding horses
+inventiveness;the power of creative imagination
+auditory sense;the ability to hear. the auditory faculty. 'his hearing was impaired'
+tactual sensation;the faculty of perceiving (via the skin) pressure or heat or pain
+acuity;the visual ability to resolve fine detail
+unconventionality;originality by virtue of being unconventional
+fantasy;imagination unrestricted by reality. 'a schoolgirl fantasy'
+fantasy world;a place existing solely in the imagination (but often mistaken for reality)
+ear;good hearing. 'he had a keen ear'. 'a good ear for pitch'
+predicate calculus;a system of symbolic logic that represents individuals and predicates and quantification over individuals (as well as the relations between propositions)
+phantasy;imagination unrestricted by reality. 'a schoolgirl fantasy'
+sensation;the faculty through which the external world is apprehended
+discipline;a system of rules of conduct or method of practice. 'he quickly learned the discipline of prison routine' or 'for such a plan to work requires discipline'
+deontic logic;the modal logic of obligation and permissibility
+nose;a natural skill. 'he has a nose for good deals'
+sense of movement;the ability to feel movements of the limbs and body
+method;a way of doing something, esp. a systematic one. implies an orderly logical arrangement (usually in steps)
+fantasy life;an imaginary life lived in a fantasy world
+specialism;the concentration of your efforts on a particular field of study or occupation
+hand;ability. 'he wanted to try his hand at singing'
+tactility;the faculty of perceiving (via the skin) pressure or heat or pain
+bag of tricks;a supply of ways of accomplishing something. 'every good mechanic has a large bag of tricks'
+jealousy;zealous vigilance: 'cherish their official political freedom with fierce jealousy'-paul blanshard
+touch modality;the faculty of touch. 'only sight and touch enable us to locate objects in the space around us'
+intelligence;the ability to comprehend. to understand and profit from experience
+nose;the sense of smell (especially in animals). 'the hound has a good nose'
+modal logic;a system of logic whose formal properties resemble certain moral and epistemological concepts
+sight;the range of vision. 'out of sight of land'
+profoundness;the intellectual ability to penetrate deeply into ideas
+will;the capability of conscious choice and decision and intention: 'the exercise of their volition we construe as revolt'- george meredith
+scientific method;a method of investigation involving observation and theory to test scientific hypotheses
+armoury;a collection of resources. 'he dipped into his intellectual armoryto find an answer'
+slyness;shrewdness as demonstrated by being skilled in deception
+reach;the limit of capability. 'within the compass of education'
+perfectibility;the capability of becoming perfect. 'he believes in the ultimate perfectability of man'
+sharpness;a quick and penetrating intelligence. 'he argued with great acuteness'. 'i admired the keenness of his mind'
+precaution;judiciousness in avoiding harm or danger. 'he exercised caution in opening the door'. 'he handled the vase with care'
+quick wittedness;intelligence as revealed by an ability to give correct responses without delay
+genius;exceptional creative ability
+sagacity;ability to make good judgments
+artistry;the superior ability that is attained by study and practice and observation. 'he had mastered the art of a great craftsman'
+vestibular sense;a sensory system located in structures of the inner ear that registers the orientation of the head
+reactivity;responsive to stimulation
+study;a state of deep mental absorption. 'she is in a deep study'
+stereoscopy;three-dimensional vision
+cunning;shrewdness in deception. 'as cunning as a fox'
+honor system;a system of conduct in which participants are trusted not to take unfair advantage of others. 'the students are on the honor system'
+air castle;absent-minded dreaming while awake
+keenness;a quick and penetrating intelligence. 'he argued with great acuteness'. 'i admired the keenness of his mind'
+defense program;a program for defending a country against its enemies
+brightness;intelligence as manifested in being quick and witty
+injudiciousness;lacking good judgment
+science;ability to produce solutions in some problem domain. 'the skill of a well-trained boxer'. 'the science of pugilism'
+aristotlean logic;the syllogistic logic of aristotle
+sightedness;use of the faculty of vision
+sensibility;(physiology) responsiveness to external stimuli: 'sensitivity to pain'
+compass;the limit of capability. 'within the compass of education'
+swordsmanship;skill in fencing
+equilibrium;a sensory system located in structures of the inner ear that registers the orientation of the head
+talent;natural qualities or talents
+mercury program;a program of rocket-powered flights undertaken by us between 1961 and 1963 with the goal of putting a man in orbit around the earth. 'under the mercury program each flight had one astronaut'
+boatmanship;skill in handling boats
+craft;skill in an occupation or trade
+innovativeness;originality by virtue of introducing new ideas
+dreaming;imaginative thoughts indulged in while awake. 'he lives in a dream that has nothing to do with reality'
+sense modality;a particular sense
+common sense;sound practical judgment. 'he hasn't got the sense god gave little green apples'
+training program;a program designed for training in specific skills
+fruitfulness;the intellectual fruitfulness of a creative imagination
+quickness;intelligence as revealed by an ability to give correct responses without delay
+judiciousness;good judgment
+ethical code;a system of principles governing morality and acceptable conduct
+falconry;the art of training falcons to hunt and return
+invention;the creation of something in the mind
+acuteness;a quick and penetrating intelligence. 'he argued with great acuteness'. 'i admired the keenness of his mind'
+responsiveness;responsive to stimulation
+alertness;the process of paying close and continuous attention
+conception;the creation of something in the mind
+aptitude;inherent ability
+concentration;complete attention. intense mental effort
+watercraft;skill in the management of boats
+discreetness;knowing how to avoid embarrassment or distress. 'the servants showed great tact and discretion'
+visual sense;the ability to see. the faculty of vision
+organon;a system of principles for philosophic or scientific investigations. an instrument for acquiring knowledge
+sense of touch;the faculty of touch. 'only sight and touch enable us to locate objects in the space around us'
+acuity;a quick and penetrating intelligence. 'he argued with great acuteness'. 'i admired the keenness of his mind'
+methodology;the system of methods followed in a particular discipline
+sense of hearing;the ability to hear. the auditory faculty. 'his hearing was impaired'
+touch perception;the faculty of perceiving (via the skin) pressure or heat or pain
+acumen;shrewdness shown by keen insight
+formal logic;any logical system that abstracts the form of statements away from their content in order to establish abstract criteria of consistency and validity
+resource;the ability to deal resourcefully with unusual problems. 'a man of resource'
+intellect;the capacity for rational thought or inference or discrimination. 'we are told that man is endowed with reason and capable of distinguishing good from evil'
+flight;passing above and beyond ordinary bounds. 'a flight of fancy'. 'flights of rhetoric'. 'flights of imagination'
+fancy;fancy was held by coleridge to be more casual and superficial than imagination
+space program;a technological program intended to explore outer space
+balance of international payments;a system of recording all of a country's economic transactions with the rest of the world over a period of one year. 'a favorable balance of payments exists when more payments are coming in than going out'
+volition;the capability of conscious choice and decision and intention: 'the exercise of their volition we construe as revolt'- george meredith
+know how;the (technical) knowledge and skill required to do something
+road sense;good judgment in avoiding trouble or accidents on the road
+vocabulary;the system of techniques or symbols serving as a means of expression (as in arts or crafts). 'he introduced a wide vocabulary of techniques'
+watchfulness;the process of paying close and continuous attention
+cleverness;the power of creative imagination
+comprehensiveness;an ability to understand a broad range of topics. 'a teacher must have a breadth of knowledge of the subject'
+somaesthesia;the faculty of bodily perception. sensory systems associated with the body. includes skin senses and proprioception and the internal organs
+interoception;sensitivity to stimuli originating inside of the body
+merit system;the system of employing and promoting civil servants on the basis of ability
+system;a complex of methods or rules governing behavior. 'they have to operate under a system they oppose'. 'that language has a complex system for indicating gender'
+visual modality;the ability to see. the faculty of vision
+dream;a fantastic but vain hope (from fantasies induced by the opium pipe). 'i have this pipe dream about being emperor of the universe'
+astuteness;intelligence manifested by being astute (as in business dealings)
+discretion;knowing how to avoid embarrassment or distress. 'the servants showed great tact and discretion'
+kinesthesia;the ability to feel movements of the limbs and body
+natural ability;ability that is inherited
+seamanship;skill in sailing
+excogitation;the creation of something in the mind
+precocity;intelligence achieved far ahead of normal developmental schedules
+inherent aptitude;inborn pattern of behavior often responsive to specific stimuli: 'the spawning instinct in salmon'. 'altruistic instincts in social animals'
+audition;the ability to hear. the auditory faculty. 'his hearing was impaired'
+contrivance;the faculty of contriving. inventive skill. 'his skillful contrivance of answers to every problem'
+attention;the faculty or power of mental concentration. 'keeping track of all the details requires your complete attention'
+precociousness;intelligence achieved far ahead of normal developmental schedules
+functional calculus;a system of symbolic logic that represents individuals and predicates and quantification over individuals (as well as the relations between propositions)
+gumption;sound practical judgment. 'he hasn't got the sense god gave little green apples'
+sense;sound practical judgment. 'he hasn't got the sense god gave little green apples'
+perspicacity;intelligence manifested by being astute (as in business dealings)
+sensitiveness;(physiology) responsiveness to external stimuli: 'sensitivity to pain'
+sentience;the faculty through which the external world is apprehended
+labyrinthine sense;a sensory system located in structures of the inner ear that registers the orientation of the head
+perspicaciousness;intelligence manifested by being astute (as in business dealings)
+focussing;the concentration of attention or energy on something. 'the focus of activity shifted to molecular biology'
+cleverness;intelligence as manifested in being quick and witty
+somatatesthesis;the faculty of bodily perception. sensory systems associated with the body. includes skin senses and proprioception and the internal organs
+instinct;inborn pattern of behavior often responsive to specific stimuli: 'the spawning instinct in salmon'. 'altruistic instincts in social animals'
+mental ability;the power to learn or retain knowledge
+priestcraft;the skills involved in the work of a priest
+alethic logic;the modal logic of necessity and possibility and contingency
+christian theology;the teachings of christian churches
+visual acuity;the visual ability to resolve fine detail
+boolean algebra;a system of symbolic logic devised by george boole. used in computers
+resourcefulness;the ability to deal resourcefully with unusual problems. 'a man of resource'
+taxidermy;the art of mounting the skins of animals so that they have lifelike appearance
+fairyland;a place existing solely in the imagination (but often mistaken for reality)
+system of logic;a system of reasoning
+point system;a system of evaluation (in education or industry) based on awarding points according to rules
+discernment;ability to make good judgments
+brain;mental ability. 'he's got plenty of brains but no common sense'
+symbolic logic;any logical system that abstracts the form of statements away from their content in order to establish abstract criteria of consistency and validity
+innovation;the creation of something in the mind
+double standard;an ethical or moral code that applies more strictly to one group than to another
+smell;the faculty of smell
+intellect;knowledge and intellectual ability. 'he reads to improve his mind'. 'he has a keen intellect'
+fuzzy logic;a form of mathematical logic in which truth can assume a continuum of values between 0 and 1
+irritability;excessive sensitivity of an organ or body part
+rehabilitation program;a program for restoring someone to good health
+workmanship;skill in an occupation or trade
+capacity;the power to learn or retain knowledge
+immunofluorescence;(immunology) a technique that uses antibodies linked to a fluorescent dye in order to study antigens in a sample of tissue
+revery;absent-minded dreaming while awake
+inventory;a collection of resources. 'he dipped into his intellectual armoryto find an answer'
+literacy;the ability to read and write
+generalship;the leadership ability of a military general
+brilliance;unusual mental ability
+theology;a particular system or school of religious beliefs and teachings. 'jewish theology'. 'roman catholic theology'
+understanding;the capacity for rational thought or inference or discrimination. 'we are told that man is endowed with reason and capable of distinguishing good from evil'
+accounting;a system that provides quantitative information about finances
+castle in the air;absent-minded dreaming while awake
+confidentiality;discretion in keeping secret information
+ventriloquism;the art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)
+gustatory modality;the faculty of taste. 'his cold deprived him of his sense of taste'
+sense of smell;the faculty of smell
+capableness;an aptitude that may be developed
+jesuitry;the theology or the practices of the jesuits (often considered to be casuistic)
+sensory faculty;the faculty through which the external world is apprehended
+somatic sensory system;the faculty of bodily perception. sensory systems associated with the body. includes skin senses and proprioception and the internal organs
+gift;natural qualities or talents
+pyrotechnics;brilliance of display (as in the performance of music)
+somatic sense;the faculty of bodily perception. sensory systems associated with the body. includes skin senses and proprioception and the internal organs
+somesthesis;the faculty of bodily perception. sensory systems associated with the body. includes skin senses and proprioception and the internal organs
+natural endowment;natural qualities or talents
+homiletics;the art of preaching
+genius;a natural talent. 'he has a flair for mathematics'. 'he has a genius for interior decorating'
+capability;an aptitude that may be developed
+exteroception;sensitivity to stimuli originating outside of the body
+prescience;the power to foresee the future
+cunning;shrewdness as demonstrated by being skilled in deception
+skill;ability to produce solutions in some problem domain. 'the skill of a well-trained boxer'. 'the science of pugilism'
+prowess;the superior ability that is attained by study and practice and observation. 'he had mastered the art of a great craftsman'
+perfect pitch;the ability to identify the pitch of a tone
+soldiership;skills that are required for the life of soldier
+absorption;complete attention. intense mental effort
+seeing;use of the faculty of vision
+oarsmanship;skill as an oarsman
+id;(psychoanalysis) primitive instincts and energies underlying all psychic activity
+vision;the power of imagination. 'popular imagination created a world of demons'
+knowingness;shrewdness demonstrated by knowledge
+learning ability;mental ability. 'he's got plenty of brains but no common sense'
+depth;the intellectual ability to penetrate deeply into ideas
+double standard of sexual behavior;a code that permits greater sexual freedom for men than for women (associated with the subordination of women)
+armory;a collection of resources. 'he dipped into his intellectual armoryto find an answer'
+cutaneous senses;the faculty of touch. 'only sight and touch enable us to locate objects in the space around us'
+soldiering;skills that are required for the life of soldier
+eyesight;use of the faculty of vision
+skin perceptiveness;the faculty of perceiving (via the skin) pressure or heat or pain
+circumspection;knowing how to avoid embarrassment or distress. 'the servants showed great tact and discretion'
+mind;knowledge and intellectual ability. 'he reads to improve his mind'. 'he has a keen intellect'
+forethought;judiciousness in avoiding harm or danger. 'he exercised caution in opening the door'. 'he handled the vase with care'
+sharp sightedness;the visual ability to resolve fine detail
+retentiveness;the power of retaining and recalling past experience. 'he had a good memory when he was younger'
+method of choice;the best method to achieve a desired result
+academic program;a program of education in liberal arts and sciences (usually in preparation for higher education)
+profundity;the intellectual ability to penetrate deeply into ideas
+defence policy;a program for defending a country against its enemies
+insightfulness;shrewdness shown by keen insight
+virtuosity;technical skill or fluency or style exhibited by a virtuoso
+kinesthesia;the perception of body position and movement and muscular tensions etc
+balance of payments;a system of recording all of a country's economic transactions with the rest of the world over a period of one year. 'a favorable balance of payments exists when more payments are coming in than going out'
+bertillon system;"a system or procedure for identifying persons"
+photosensitivity;sensitivity to the action of radiant energy
+propositional logic;a branch of symbolic logic dealing with propositions as units and with their combinations and the connectives that relate them
+kinesthetics;the ability to feel movements of the limbs and body
+creativity;the ability to create
+enology;the art of wine making
+good sense;sound practical judgment. 'he hasn't got the sense god gave little green apples'
+horse sense;sound practical judgment. 'he hasn't got the sense god gave little green apples'
+centering;the concentration of attention or energy on something. 'the focus of activity shifted to molecular biology'
+faculty;one of the inherent cognitive or perceptual powers of the mind
+ethic;a system of principles governing morality and acceptable conduct
+taste;the faculty of taste. 'his cold deprived him of his sense of taste'
+maieutic method;a method of teaching by question and answer. used by socrates to elicit truths from his students
+novelty;originality by virtue of being new and surprising
+potentiality;an aptitude that may be developed
+teaching method;a method of instruction
+musicianship;artistry in performing music
+mental capacity;mental ability. 'he's got plenty of brains but no common sense'
+retention;the power of retaining and recalling past experience. 'he had a good memory when he was younger'
+defence program;a program for defending a country against its enemies
+mathematical logic;any logical system that abstracts the form of statements away from their content in order to establish abstract criteria of consistency and validity
+craftiness;shrewdness as demonstrated by being skilled in deception
+originality;the ability to think and act independently
+perfectability;the capability of becoming perfect. 'he believes in the ultimate perfectability of man'
+art;the superior ability that is attained by study and practice and observation. 'he had mastered the art of a great craftsman'
+sense;the faculty through which the external world is apprehended
+caution;judiciousness in avoiding harm or danger. 'he exercised caution in opening the door'. 'he handled the vase with care'
+kinaesthesia;the perception of body position and movement and muscular tensions etc
+ingenuity;the power of creative imagination
+jesuitism;the theology or the practices of the jesuits (often considered to be casuistic)
+sense of taste;the faculty of taste. 'his cold deprived him of his sense of taste'
+engrossment;complete attention. intense mental effort
+eye;good discernment (either with the eyes or as if with the eyes). 'she has an eye for fresh talent'. 'he has an artist's eye'
+mnemonics;a method or system for improving the memory
+horology;the art of designing and making clocks
+marksmanship;skill in shooting
+technique;a practical method or art applied to some particular task
+velleity;volition in its weakest form
+bonding;(dentistry) a technique for repairing a tooth. resinous material is applied to the surface of the tooth where it adheres to the tooth's enamel
+airmanship;the art of flying airplane
+touch;the faculty of touch. 'only sight and touch enable us to locate objects in the space around us'
+genius;unusual mental ability
+dream;imaginative thoughts indulged in while awake. 'he lives in a dream that has nothing to do with reality'
+radiosensitivity;sensitivity to the action of radiant energy
+wizardry;exceptional creative ability
+skin senses;the faculty of touch. 'only sight and touch enable us to locate objects in the space around us'
+sense of balance;a sensory system located in structures of the inner ear that registers the orientation of the head
+ability;"possession of the qualities (especially mental qualities) required to do something or get something done. 'danger heightened his powers of discrimination'"
+frame of reference;a system of assumptions and standards that sanction behavior and give it meaning
+sentiency;the faculty through which the external world is apprehended
+spoils system;the system of employing and promoting civil servants who are friends and supporters of the group in power
+propositional calculus;a branch of symbolic logic dealing with propositions as units and with their combinations and the connectives that relate them
+verbal intelligence;intelligence in the use and comprehension of language
+somatesthesia;the faculty of bodily perception. sensory systems associated with the body. includes skin senses and proprioception and the internal organs
+experimental method;the use of controlled observations and measurements to test hypotheses
+craftsmanship;skill in an occupation or trade
+auditory modality;the ability to hear. the auditory faculty. 'his hearing was impaired'
+tradecraft;skill acquired through experience in a trade. 'instructional designers are trained in something that might be called tradecraft'. often used to discuss skill in espionage. 'the cia chief of station accepted responsibility for his agents' failures of tradecraft'
+range;the limit of capability. 'within the compass of education'
+reason;the capacity for rational thought or inference or discrimination. 'we are told that man is endowed with reason and capable of distinguishing good from evil'
+vocational rehabilitation program;a program of rehabilitation through job training with an eye to gainful employment
+minstrelsy;the art of a minstrel
+mentality;mental ability. 'he's got plenty of brains but no common sense'
+educational program;a program for providing education
+boolean logic;a system of symbolic logic devised by george boole. used in computers
+defense policy;a program for defending a country against its enemies
+focusing;the concentration of attention or energy on something. 'the focus of activity shifted to molecular biology'
+program;a system of projects or services intended to meet a public need. 'he proposed an elaborate program of public works'. 'working mothers rely on the day care program'
+kinaesthesia;the ability to feel movements of the limbs and body
+power;"possession of the qualities (especially mental qualities) required to do something or get something done. 'danger heightened his powers of discrimination'"
+daydream;absent-minded dreaming while awake
+mental quickness;intelligence as revealed by an ability to give correct responses without delay
+raw talent;powerfully impressive talent
+solution;a method for solving a problem. 'the easy solution is to look it up in the handbook'
+kinesthesis;the ability to feel movements of the limbs and body
+design;the creation of something in the mind
+oenology;the art of wine making
+tax program;a program for setting taxes
+skill;an ability that has been acquired by training
+logic;a system of reasoning
+phantasy world;a place existing solely in the imagination (but often mistaken for reality)
+socratic method;a method of teaching by question and answer. used by socrates to elicit truths from his students
+benday process;a photoengraving technique for adding shading or texture or tone to a printed image
+sense of equilibrium;a sensory system located in structures of the inner ear that registers the orientation of the head
+freshness;originality by virtue of being new and surprising
+vision;the ability to see. the faculty of vision
+acquirement;an ability that has been acquired by training
+night sight;the ability to see in reduced illumination (as in moonlight)
+judgement;ability to make good judgments
+leadership;the ability to lead: 'he believed that leadership can be taught'
+gemini program;a program of space flights undertaken by us in 1965 and 1966. 'under the gemini program each crew had two astronauts'
+works program;a program to provide jobs on public works paid for by government funds
+ventriloquy;the art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)
+knack;a special way of doing something. 'he had a bent for it'. 'he had a special knack for getting into trouble'. 'he couldn't get the hang of it'
+natural theology;a theology that holds that knowledge of god can be acquired by human reason without the aid of divine revelation
+ingeniousness;the power of creative imagination
+gambling system;a system of rules for placing bets that is believed to lead to winning. 'he has a perfect gambling system at roulette'
+olfaction;the faculty of smell
+programme;a system of projects or services intended to meet a public need. 'he proposed an elaborate program of public works'. 'working mothers rely on the day care program'
+creativeness;the ability to create
+housecraft;skill in domestic management
+somaesthesis;the faculty of bodily perception. sensory systems associated with the body. includes skin senses and proprioception and the internal organs
+grasp;the limit of capability. 'within the compass of education'
+smartness;intelligence as manifested in being quick and witty
+feeling of movement;the perception of body position and movement and muscular tensions etc
+bent;a special way of doing something. 'he had a bent for it'. 'he had a special knack for getting into trouble'. 'he couldn't get the hang of it'
+sensitivity;(physiology) responsiveness to external stimuli: 'sensitivity to pain'
+vocational program;a program of vocational education
+logical system;a system of reasoning
+speech;the mental faculty or power of vocal communication. 'language sets homo sapiens apart from all other animals'
+somatosense;any of the sensory systems that mediate sensations of pressure and tickle and warmth and cold and vibration and limb position and limb movement and pain
+judgment;ability to make good judgments
+accomplishment;an ability that has been acquired by training
+craft;shrewdness as demonstrated by being skilled in deception
+preemployment training program;a training program to prepare you for employment
+reverie;absent-minded dreaming while awake
+nous;(british) common sense. 'she has great social nous'
+puppetry;the art of making puppets and presenting puppet shows
+focus;the concentration of attention or energy on something. 'the focus of activity shifted to molecular biology'
+tax policy;a program for setting taxes

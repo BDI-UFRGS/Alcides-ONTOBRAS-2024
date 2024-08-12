@@ -1,0 +1,109 @@
+independent continuant;physical sign;an abnormal material entity that is part of a patient and hypothesized to be clinically relevant.
+independent continuant;disorder;a material entity which is clinically abnormal and part of an extended organism. disorders are the physical basis of disease.
+independent continuant;pathological anatomical structure;an anatomical structure (fma) is pathological whenever (1) it has come into being as a result of changes in some pre-existing canonical anatomical structure, (2) through processes other than the expression of the normal complement of genes of an organism of the given type, and (3) is predisposed to have health-related consequences for the organism in question manifested by symptoms and signs.
+independent continuant;epigenetic disorder;a disorder whose etiology involves (1) a modification to the patient's genomic dna which leads to alterations in the normal expression pattern of the genome, but is (2) not a change in the nucleotide sequence.
+independent continuant;pathological formation;todo: define, relate to disorder, and place in the ogms hierarchy.
+independent continuant;tissue disorder;a disorder of some macroscopic part of a tissue
+independent continuant;neoplasm;a tissue disorder that has resulted from a dysregulation of cell proliferation leading to a net increase in mass
+independent continuant;congenital infection;a congenital disorder arising as a result of an infectious process
+independent continuant;genetic disorder;a disorder whose etiology involves an abnormality in the nucleotide sequence of an organism's genome.
+independent continuant;extended organism;an object aggregate consisting of an organism and all material entities located within the organism, overlapping the organism, or occupying sites formed in part by the organism.
+independent continuant;acquired genetic disorder;a genetic disorder acquired by a single cell in an organism that leads to a population of cells within the organism bearing the disorder.
+independent continuant;organism population;an aggregate of organisms of the same type.
+independent continuant;portion of pathological body substance;todo: define, relate to disorder, and place in the ogms hierarchy.
+independent continuant;constitutional genetic disorder;a genetic disorder inherited during conception that is part of all cells in the organism.
+independent continuant;drug induced congenital malformation;a congenital disorder arising as a result of a drug exposure causing an anatomical abnormality
+independent continuant;congenital disorder;a structurally anomalous part of an organism acquired during fetal development and present at birth (but not necessarily hereditary) which is hypothesized to be harmful for the organism.
+independent continuant;vital sign;a physical sign in which a non-zero value is standardly considered to be an indication that the organism is alive.
+independent continuant;injury;a disorder that involves some structural damage that is immediately caused by a catastrophic external force.
+specifically dependent continuant;phenotype;a (combination of) quality(ies) of an organism determined by the interaction of its genetic make-up and environment that differentiates specific instances of a species from other instances of the same species.
+specifically dependent continuant;constitutional genetic disease;a disease whose physical basis is a constitutional genetic disorder.
+specifically dependent continuant;disease phenotype;a clinically abnormal phenotype that is characteristic of a single disease.
+specifically dependent continuant;abnormal homeostasis;homeostasis that is clinically abnormal for an organism of a given type and age in a given environment.
+specifically dependent continuant;clinical phenotype;a clinically abnormal phenotype.
+specifically dependent continuant;syndrome;a pattern of signs and symptoms that typically co-occur.
+specifically dependent continuant;clinical manifestation of a disease;a manifestation of a disease that is detectable in a clinical history taking or physical examination.
+specifically dependent continuant;genetic predisposition to disease of type x;a predisposition to disease of type x whose physical basis is a constitutional abnormality in an organism's genome. this abnormality is the physical basis for the increased risk of acquiring the disease x.
+specifically dependent continuant;medication role;a role borne by some material entity which can be delivered/administrated into some organism and the role is realized during a clinical treatment process aiming to treat symptoms, signs or diagnosed disease.
+specifically dependent continuant;acquired genetic disease;a disease whose physical basis is an acquired genetic disorder.
+specifically dependent continuant;configuration;a quality which is an spatial arrangement or distribution of a(n) independent continuant(s) across a three dimensional region.
+specifically dependent continuant;manifestation of a disease;a quality of a patient that is (a) a deviation from clinical normality that exists in virtue of the realization of a disease and (b) is observable.
+specifically dependent continuant;recovered from disease;a quality in which complete clearance of the disorder is attained. however, physiological 'memory' may persist
+specifically dependent continuant;preclinical manifestation of a disease;a manifestation of a disease that exists prior to the time at which it would be detected in a clinical history taking or physical examination, if the patient were to present to a clinician. a realization of a disease that exists prior to its becoming detectable in a clinical history taking or physical examination.
+specifically dependent continuant;qualitative sign;an abnormal observable quality of a part of a patient that is hypothesized to be clinically relevant.
+specifically dependent continuant;normal homeostasis;homeostasis of a type that is not clinically abnormal.
+specifically dependent continuant;disease;a disposition (i) to undergo pathological processes that (ii) exists in an organism because of one or more disorders in that organism.
+specifically dependent continuant;pathological physical configuration;a configuration which deviates in some way from a canonical configuration for a particular organism.
+specifically dependent continuant;predisposition to disease of type x;a disposition in an organism that constitutes an increased risk of the organism's subsequently developing the disease x.
+generically dependent continuant;patient symptom report;a communication from a patient about something they perceive as being abnormal about their body or life.
+generically dependent continuant;laboratory finding;a representation of a quality of a specimen that is the output of a laboratory test and that can support an inference to an assertion about some quality of the patient.
+generically dependent continuant;prognosis;a hypothesis about some future part of a disease course.
+generically dependent continuant;clinical history;a series of statements representing health-relevant qualities of a patient and of a patient's family.
+generically dependent continuant;image finding;a representation of an image that supports an inference to an assertion about some quality of a patient.
+generically dependent continuant;clinical data item;a data item that is about a patient and is the specified output of a health care process assay or diagnostic process
+generically dependent continuant;clinical finding;a representation that is either the output of a clinical history taking or a physical examination or an image finding, or some combination thereof.
+generically dependent continuant;clinical picture;a representation of clinically significant bodily components, dispositions, and/or bodily processes of a human being that is inferred from relevant clinical findings.
+generically dependent continuant;physical examination finding;todo: define.
+generically dependent continuant;diagnosis;the representation of a conclusion of a diagnostic process.
+generically dependent continuant;normal value;a value for a quality reported in a lab report and asserted by the testing lab or the kit manufacturer to be normal based on a statistical treatment of values from a reference population.
+generically dependent continuant;preclinical finding;a representation of a quality of a patient that is (1) recorded by a clinician because the quality is hypothesized to be of clinical significance and (2) refers to qualities obtaining in the patient prior to their becoming detectable in a clinical history taking or physical examination.
+process;infectious disease process;the process in which an infectious disease unfolds
+process;transplantation;a therapeutic procedure in which a body part is transferred into a organism
+process;physical examination;a sequence of acts of observing and measuring qualities of a patient performed by a clinician. measurements may occur with and without elicitation.
+process;ancillary health care process;a planned process that has the objective to support the objective of a health care process without directly involving the treatment, diagnosis, or prevention of disease or injury of a patient.
+process;diagnostic process;a health care process that involves the interpretation of a clinical picture from a given patient (input) and the assertion to the effect that the patient has a disease, disorder, or syndrome of a certain type, or none of these (output).
+process;progressive disease course;a disease course that (a) does not terminate in a return to normal homeostasis and (b) would, absent intervention, involve an increasing deviation from homeostasis.
+process;solid organ transplant;a transplantation in which the body part is a non-fluid tissue
+process;pathological bodily process;a bodily process that is clinically abnormal.
+process;complete remission;a remission which is characterized by a prolonged lack of all manifestations of a disease
+process;follow-up health care encounter;a health care encounter that is scheduled for the purpose of assessing a known set of specific issues
+process;acute onset;a disease stage with a rapid unfolding of signs and symptoms
+process;cancer progression stage i;a cancer progression stage characterized by abnormal cellular growth that extends through normal local tissue boundaries as a contiguous mass.
+process;immunotherapy procedure;a therapeutic procedure that uses immune system derived entities.
+process;health care process;a planned process with the objective to improve the health status of a patient that directly involves the treatment, diagnosis, or prevention of disease or injury of a patient
+process;autoimmune disease process;the process in which an autoimmune disease unfolds.
+process;cancer progression stage ii;a cancer progression stage characterized by abnormal cellular growth that extends well beyond normal local tissue boundaries as a contiguous mass.
+process;processual sign;an abnormal processual entity occuring in a patient that is hypothesized to be clinically relevant.
+process;cancer progression stage 0;a cancer progression stage characterized by abnormal cellular growth contained within normal tissue boundaries (e.g. carcinoma in situ).
+process;pain;a bodily process in an organism s involving two integrated levels: (a) activation of the nociceptive system and associated emotion generating brain components of s, and (b) a simultaneous aversive sensory and emotional experience on the part of s, where (b) is phenomenologically similar to the sort of aversive experience involved in pain with concordant tissue damage.
+process;prophylactic treatment;a treatment whose completion is hypothesized by a health care provider to prevent the signs and symptoms of a disorder or pathological process.
+process;cancer progression stage iv;a cancer progression stage characterized by abnormal cellular growth that extends through normal local tissue boundaries as a contiguous mass and includes metastasis to other distant tissues besides lymph nodes.
+process;acute disease course;a disease course with an acute onset
+process;asymptomatic;a disease stage characterized by the lack of symptoms associated with a given disease
+process;pathological invasion;todo: define.
+process;treatment;a planned process whose completion is hypothesized by a health care provider to eliminate, prevent, or alleviate a disorder, the signs and symptoms of a disorder, or a pathological process
+process;pathological derivation;a pathological bodily process in which matter is reorganized in such a way as to give rise to new pathological formations which take the place of entities existing earlier.
+process;physical therapy procedure;a therapeutic procedure that uses physical conditioning
+process;onset;a disease stage that marks the beginning of a disease
+process;partial remission;a remission which is characterized by a prolonged lack of some manifestations of a disease
+process;disease course;the totality of all processes through which a given disease instance is realized.
+process;disease prophylaxis;a planned process whose completion is hypothesized by a health care provider to reduce the risk of developing a disorder or the signs and symptoms of a disorder.
+process;clinical history taking;a health care process in which a clinician elicits a description of previous sign and symptoms of disease from a patient or from a third party who is reporting on behalf of the patient.
+process;inpatient encounter;a health care encounter involving a patient who has been admitted to a health care facility and remains in a hospital facility for at least one night.
+process;life course;a process which has as parts all the processes in which a given organism is participant.
+process;pathological transformation;a pathological bodily process in which a canonical anatomical structure becomes a pathological anatomical structure.
+process;etiological process;a process in an organism that leads to a subsequent disorder.
+process;convalescence;a processual entity during which a patient participating in a disease course gradually returns to participating in a canonical life course.
+process;chronic disease course;a disease course that (a) does not terminate in a return to normal homeostasis and (b) would, absent intervention, fall within abnormal homeostatic range.
+process;clinical laboratory test;a measurement assay that has as input a patient-derived specimen and as output a data item that is about a quality of the specimen.
+process;chemotherapy procedure;a therapeutic procedure that uses synthetic or naturally-occurring chemicals
+process;inflammatory process;a bodily process caused by some disorder that results in recruitment of leukocytes into a localized tissue site, typically causing localized pain and swelling.
+process;allergic disease process;the process in which an allergic disease unfolds.
+process;health care process assay;a health care process with the objective to produce information about the material entity that is the evaluant, by physically examining it or its proxies.
+process;health care process biomaterial transformation;a health care process which results in physical changes in a specified input material
+process;emergency department encounter;a health care encounter in which care is provided for undifferentiated and unscheduled patients with illnesses or injuries requiring immediate medical attention.
+process;radiation therapy procedure;a therapeutic procedure that uses radiation.
+process;hospitalization;todo
+process;relapse;a disease stage which is preceded by a remission and characterized by the return of a manifestation of a disease.
+process;health care encounter;a temporally-connected health care process that has as participants an organization or person realizing the health care provider role and a person realizing the patient role. the health care provider role and patient are realized during the health care encounter
+process;remission;a disease stage which is characterized by the lack of a manifestation of a disease
+process;transient disease course;a disease course that terminates in a return to normal homeostasis.
+process;routine health care encounter;a health care encounter that is regularly scheduled for the purpose of health monitoring.
+process;transfusion;a transplantation in which the body part is a bodily fluid
+process;symptom;a process experienced by the patient, which can only be experienced by the patient, that is hypothesized to be clinically relevant.
+process;cancer process;the process in which cancer unfolds
+process;cancer progression stage iii;a cancer progression stage characterized by abnormal cellular growth that extends through normal local tissue boundaries as a contiguous mass and includes metastasis to one or more regional draining lymph nodes.
+process;congenital process;a pathological bodily process that occurs in the fetus during fetal development
+process;health care process data transformation;a health care process that produces output from input data
+process;therapeutic procedure;a treatment whose completion is hypothesized by a health care provider to eliminate a disorder or to alleviate the signs and symptoms of a disorder or pathological process.
+process;outpatient encounter;todo

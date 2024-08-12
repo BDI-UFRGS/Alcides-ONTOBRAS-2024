@@ -1,0 +1,612 @@
+biophysics;physics as applied to biological problems
+curvilinear correlation;any correlation in which the rates of change of the variables is not constant
+algebra;the mathematics of generalized arithmetical operations
+allometry;study of the relative growth of a part of an organism in relation to the growth of the whole
+speleology;the scientific study of caves
+metallurgy;the science and technology of metals
+mental hygiene;the branch of psychiatry concerned with psychological methods
+paediatrics;the branch of medicine concerned with the treatment of infants and children
+descriptive geometry;the geometry of properties that remain invariant under projection
+allergology;the branch of medical science that studies the causes and treatment of allergies
+brain science;the branch of neuroscience concerned with the brain
+psychometry;any branch of psychology concerned with psychological measurements
+psychophysics;the branch of psychology concerned with quantitative relations between physical stimuli and their psychological effects
+palaeogeology;the study of geologic features once at the surface of the earth but now buried beneath rocks
+ergonomics;the branch of engineering science in which biological science is used to study the relation between workers and their environments
+paleornithology;the paleobiology of birds
+veterinary medicine;the branch of medicine that deals with the diagnosis and treatment of diseases and injuries of animals (especially domestic animals)
+spherical geometry;the geometry of figures on the surface of a sphere
+math;a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement
+pediatrics;the branch of medicine concerned with the treatment of infants and children
+ichthyology;the branch of zoology that studies fishes
+spurious correlation;a correlation between two variables (e.g., between the number of electric motors in the home and grades at school) that does not result from any direct relation between them (buying electric motors will not raise grades) but from their relation to other variables
+human ecology;the branch of sociology that studies the characteristics of human populations
+cosmetic dentistry;the branch of dentistry dealing with the appearance of the teeth
+underwater archaeology;the archeology of underwater sites
+gestalt psychology;an approach to psychology that emphasizes the importance of configurational properties
+assyriology;archeology of the ancient assyrians
+finance;the branch of economics that studies the management of money and other assets
+computer science;the branch of engineering science that studies (with the aid of computers) computable processes and structures
+physiological psychology;the branch of psychology that is concerned with the physiological bases of psychological processes
+lexicology;the branch of linguistics that studies the lexical component of language
+applied psychology;any of several branches of psychology that seek to apply psychological principles to practical problems of education or industry or marketing etc.
+optics;the study of the physical properties of light
+galois theory;group theory applied to the solution of algebraic equations
+morphology;the branch of biology that deals with the structure of animals and plants
+military science;the discipline dealing with the principles of warfare
+methodology;the branch of philosophy that analyzes the principles and procedures of inquiry in a particular discipline
+geodesy;the branch of geology that studies the shape of the earth and the determination of the exact position of geographical points
+acoustics;the study of the physical properties of sound
+archeology;the branch of anthropology that studies prehistoric people and their cultures
+paleontology;the branch of archeology that studies fossil organisms and related remains
+orthodontia;the branch of dentistry dealing with the prevention or correction of irregularities of the teeth
+calculus of variations;the calculus of maxima and minima of definite integrals
+primatology;the branch of zoology that studies primates
+divinity;the rational and systematic study of religion and its influences and of the nature of religious truth
+subject;"a branch of knowledge. 'in what discipline is his doctorate?'. 'teachers should be well trained in their subject'. 'anthropology is the study of human beings'"
+matter;"some situation or event that is thought about. 'he kept drifting off the topic'. 'he had been thinking about the subject for several years'. 'it is a matter for the police'"
+hydraulics;study of the mechanics of fluids
+ecology;the branch of biology concerned with the relations between organisms and their environment
+cacogenics;the study of the operation of factors causing degeneration in the type of offspring produced
+jurisprudence;the branch of philosophy concerned with the law
+neurobiology;the branch of biology that deals with the anatomy and physiology and pathology of the nervous system
+regression toward the mean;the relation between selected values of x and observed values of y (from which the most probable value of y can be predicted for any value of x)
+palaeogeography;the study of the geography of ancient times or ancient epochs
+sociometry;the quantitative study of social relationships
+architecture;the discipline dealing with the principles of design and construction and ornamentation of fine buildings. 'architecture and eloquence are mixed arts whose end is sometimes beauty and sometimes use'
+electrical engineering;the branch of engineering science that studies the uses of electricity and the equipment for power generation and distribution and the control of machines and communication
+penology;the branch of criminology concerned with prison management and prisoner rehabilitation
+anesthesiology;the branch of medical science that studies and applies anesthetics
+regression;the relation between selected values of x and observed values of y (from which the most probable value of y can be predicted for any value of x)
+palaeodendrology;the branch of paleobotany that studies fossil trees
+geopolitics;the study of the effects of economic geography on the powers of the state
+artificial intelligence;the branch of computer science that deal with writing computer programs that can solve problems creatively. 'workers in ai hope to imitate or duplicate intelligence in computers and robots'the branch of computer science that deal with writing computer programs that can solve problems creatively. 'workers in ai hope to imitate or duplicate intelligence in computers and robots'
+hematology;the branch of medicine that deals with diseases of the blood and blood-forming organs
+developmental psychology;the branch of psychology that studies the social and mental development of children
+paleobiology;a branch of paleontology that deals with the origin and growth and structure of fossil animals and plants as living organisms
+lexicostatistics;a statistical technique used in glottochronology. used to estimate how long ago different languages evolved from a common source language
+natural philosophy;the science of matter and energy and their interactions
+maths;a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement
+aeromechanics;the branch of mechanics that deals with the motion of gases (especially air) and their effects on bodies in the flow
+orthopedics;the branch of surgery concerned with disorders or deformities of the spine and joints
+subject field;"a branch of knowledge. 'in what discipline is his doctorate?'. 'teachers should be well trained in their subject'. 'anthropology is the study of human beings'"
+solid geometry;the geometry of 3-dimensional space
+morphology;studies of the rules for forming admissible words
+romanticism;the principles of romantic literature and art
+electromagnetism;the branch of physics concerned with electromagnetic phenomena
+chronology;the determination of the actual temporal sequence of past events
+thermostatics;the aspect of thermodynamics concerned with thermal equilibrium
+mechanics;the branch of physics concerned with the motion of bodies in a frame of reference
+statistics;a branch of applied mathematics concerned with the collection and interpretation of quantitative data and the use of probability theory to estimate population parameters
+protoarchaeology;the study of prehistoric human artifacts and human fossils
+astronautics;the theory and practice of navigation through air or space
+hygienics;the science concerned with the prevention of illness and maintenance of health
+photochemistry;branch of chemistry that deals with the chemical action of light
+bioengineering;the branch of engineering science in which biological science is used to study the relation between workers and their environments
+aesthetics;the branch of philosophy dealing with beauty and taste
+psycholinguistics;the branch of cognitive psychology that studies the psychological basis of linguistic competence and performance
+biology;the science that studies living organisms
+methodological analysis;the branch of philosophy that analyzes the principles and procedures of inquiry in a particular discipline
+marine archaeology;the archeology of underwater sites
+tectonics;the branch of geology studying the folding and faulting of the earth's crust
+radiochemistry;the chemistry of radioactive substances
+tactics;the branch of military science dealing with detailed maneuvers to achieve objectives set by strategy
+powder metallurgy;the metallurgy of powdered metals. how to produce solid metal objects from powdered metal by compaction and sintering
+philosophy;the rational investigation of questions about existence and knowledge and ethics
+chiropody;the branch of medicine concerned with the feet
+sociobiology;the branch of biology that conducts comparative studies of the social organization of animals (including human beings) with regard to its evolutionary history
+discipline;"a branch of knowledge. 'in what discipline is his doctorate?'. 'teachers should be well trained in their subject'. 'anthropology is the study of human beings'"
+biomedical science;the application of the principles of the natural sciences to medicine
+rheology;the branch of physics that studies the deformation and flow of matter
+economic geography;the branch of geography concerned with the production and distribution of commodities
+radio astronomy;the branch of astronomy that detects and studies the radio waves emitted by celestial bodies
+neurology;the branch of medical science that deals with the nervous system and its disorders
+law;the branch of philosophy concerned with the law
+problem solving;the area of cognitive psychology that studies the processes involved in solving problems
+historical linguistics;the study of linguistic change
+hermeneutics;the branch of theology that deals with principles of exegesis
+least squares;a method of fitting a curve to data points so as to minimize the sum of the squares of the distances of the points from the curve
+magnetics;the branch of science that studies magnetism
+geochemistry;the chemistry of the earth's crust
+psychopathology;the branch of medicine dealing with the diagnosis and treatment of mental disorders
+zymurgy;the branch of chemistry concerned with fermentation (as in making wine or brewing or distilling)
+scientific discipline;a particular branch of scientific knowledge. 'the science of genetics'
+political science;the study of government of states and other political units
+urogenital medicine;the branch of medicine that deals with the diagnosis and treatment of disorders of the urinary tract or urogenital system
+paleoethnography;the ethnography of paleolithic humans
+partial correlation;a correlation between two variables when the effects of one or more related variables are removed
+architectural engineering;the branch of engineering that deals with the construction of buildings (as distinguished from architecture as a design art)
+pharmacology;the science or study of drugs
+kinematics;the branch of mechanics concerned with motion without reference to force or mass
+mythology;the study of myths
+home economics;theory and practice of homemaking
+indirect correlation;a correlation in which large values of one variable are associated with small values of the other. the correlation coefficient is between 0 and -1
+eugenics;the study of methods of improving genetic qualities by selective breeding (especially as applied to human mating)
+interior design;the branch of architecture dealing with the selection and organization of furnishings for an architectural interior
+hydrokinetics;study of fluids in motion
+kinetics;the branch of mechanics concerned with the forces that cause motions of bodies
+hedonsim;an ethical system that evaluates the pursuit of pleasure as the highest good
+psychology;the science of mental life
+agrobiology;the study of plant nutrition and growth especially as a way to increase crop yield
+clinical neurology;the branch of medicine that deals with the nervous system and its disorders
+particle physics;the branch of physics that studies subatomic particles and their interactions
+materia medica;the science or study of drugs
+pharmacy;the art and science of preparing and dispensing drugs and medicines,
+gynaecology;the branch of medicine that deals with the diseases and hygiene of women
+egyptology;archeology of ancient egyptian artifacts
+epidemiology;the branch of medical science dealing with the transmission and control of disease
+physical anthropology;the branch of anthropology dealing with the genesis and variation of human beings
+hydrology;the branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation
+palaeopathology;the study of disease of former times (as inferred from fossil evidence)
+neuropsychiatry;the branch of medicine dealing with mental disorders attributable to diseases of the nervous system
+social anthropology;the branch of anthropology that deals with human culture and society
+psychophysiology;the branch of psychology that is concerned with the physiological bases of psychological processes
+rheumatology;the branch of medicine dealing with the study and treatment of pathologies of the muscles or tendons or joints
+epistemology;the philosophical theory of knowledge
+posology;the pharmacological determination of appropriate doses of drugs and medicines
+astrodynamics;the branch of astronomy that studies the motion of natural and artificial bodies in space
+time series;a series of values of a variable at successive times
+paleomammalogy;the paleobiology of ancient mammals
+neuropsychology;the branch of psychology that is concerned with the physiological bases of psychological processes
+otolaryngology;the branch of medicine concerned with the ear
+regression analysis;the use of regression to make quantitative predictions of one variable from the values of another
+psephology;the branch of sociology that studies election trends (as by opinion polls)
+holography;the branch of optics that deals with the use of coherent light from a laser in order to make a hologram that can then be used to create a three-dimensional image
+exodontics;the branch of dentistry dealing with extraction of teeth
+biogeography;dealing with the geographical distribution of animals and plants
+esthetics;the branch of philosophy dealing with beauty and taste
+direct correlation;a correlation in which large values of one variable are associated with large values of the other and small with small. the correlation coefficient is between 0 and +1
+oncology;the branch of medicine concerned with the study and treatment of tumors
+tocology;the branch of medicine dealing with childbirth and care of the mother
+hydrography;the science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation
+biotechnology;the branch of engineering science in which biological science is used to study the relation between workers and their environments
+strategics;the science or art of strategy
+seismology;the branch of geology that studies earthquakes
+cytology;the branch of biology that studies the structure and function of cells
+ontology;the metaphysical study of the nature of being and existence
+pure mathematics;the branches of mathematics that study and develop the principles of mathematics for their own sake rather than for their immediate usefulness
+moral philosophy;the philosophical study of moral values and rules
+taxonomy;(biology) study of the general principles of scientific classification
+aerodynamics;the branch of mechanics that deals with the motion of gases (especially air) and their effects on bodies in the flow
+bioclimatology;the study of effects of climate on living organisms
+science;a particular branch of scientific knowledge. 'the science of genetics'
+glottochronology;the determination of how long ago different languages evolved from a common source language. 'he mapped the glottochronology of the romance languages'
+naval engineering;the branch of engineering that deals with the design and construction and operation of ships
+animatronics;the construction of robots to look like animals (developed for disneyland)
+civil engineering;the branch of engineering concerned with the design and construction of such public works as dams or bridges
+pneumatics;the branch of mechanics that deals with the mechanical properties of gases
+electromagnetics;the branch of physics concerned with electromagnetic phenomena
+linear algebra;the part of algebra that deals with the theory of linear equations and linear transformation
+newtonian mechanics;the branch of mechanics based on newton's laws of motion
+politics;the study of government of states and other political units
+political economy;the branch of social science that deals with the production and distribution and consumption of goods and services and their management
+immunology;the branch of medical science that studies the body's immune system
+issue;"some situation or event that is thought about. 'he kept drifting off the topic'. 'he had been thinking about the subject for several years'. 'it is a matter for the police'"
+genetic science;the branch of biology that studies heredity and variation in organisms
+correlational statistics;a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the other
+mammalogy;the branch of zoology that studies mammals
+periodontia;the branch of dentistry dealing with diseases of the gums and other structures around the teeth
+traditional knowledge;"knowledge gained through tradition or anecdote: 'early peoples passed on plant and animal lore through legend'"
+spherical trigonometry;the trigonometry of spherical triangles
+non euclidean geometry;geometry based on axioms different from euclid's
+entomology;the branch of zoology that studies insects
+periodontics;the branch of dentistry dealing with diseases of the gums and other structures around the teeth
+physiography;the study of physical features of the earth's surface
+mineralogy;the branch of geology that studies minerals: their structure and properties and the ways of distinguishing them
+proxemics;the study of spatial distances between individuals in different cultures and situations
+marine archeology;the archeology of underwater sites
+phrenology;a now abandoned study of the shape of skull as indicative of the strengths of different faculties
+behaviorism;an approach to psychology that emphasizes observable measurable behavior
+inflectional morphology;the part of grammar that deals with the inflections of words
+chemical engineering;the branch of engineering that is concerned with the design and construction and operation of the plants and machinery used in industrial chemical processes
+nonlinear correlation;any correlation in which the rates of change of the variables is not constant
+palaetiology;the explanation of past events in terms of scientific causes (as geological causes)
+solar physics;the branch of astronomy that deals with the sun
+pharmacological medicine;the science or study of drugs
+general medicine;the branch of medicine that deals with the diagnosis and (nonsurgical) treatment of diseases of the internal organs (especially in adults)
+physical geography;the study of physical features of the earth's surface
+legal philosophy;the branch of philosophy concerned with the law
+differential psychology;the branch of psychology that studies measurable differences between individuals
+endodontia;the branch of dentistry dealing with diseases of the dental pulp
+area;a subject of study. 'it was his area of specialization'. 'areas of interest include...'
+ethics;the philosophical study of moral values and rules
+aerology;meteorology of the total extent of the atmosphere. especially the upper layers
+apologetics;the branch of theology that is concerned with the defense of christian doctrines
+logic;the branch of philosophy that analyzes inference
+aerospace medicine;the study and treatment of disorders associated with flight (especially with space flight)
+toxicology;the branch of pharmacology that deals with the nature and effects and treatments of poisons
+podiatry;the branch of medicine concerned with the feet
+microelectronics;the branch of electronics that deals with miniature components
+elliptic geometry;a non-euclidean geometry that regards space is like a sphere and a line is a great circle
+algorism;computation with arabic figures
+analytical geometry;the use of algebra to study geometric properties. operates on symbols defined in a coordinate system
+dental medicine;the branch of medicine dealing with the teeth
+internal medicine;the branch of medicine that deals with the diagnosis and (nonsurgical) treatment of diseases of the internal organs (especially in adults)
+diagnostics;the branch of medical science dealing with the classification of disease
+behaviouristic psychology;an approach to psychology that emphasizes observable measurable behavior
+plane geometry;the geometry of 2-dimensional figures
+psychotherapeutics;the branch of psychiatry concerned with psychological methods
+syntax;studies of the rules for forming admissible sentences
+aeromedicine;the study and treatment of disorders associated with flight (especially with space flight)
+inorganic chemistry;the chemistry of compounds that do not contain hydrocarbon radicals
+modal logic;the logical study of necessity and possibility
+serology;the branch of medical science that deals with serums. especially with blood serums and disease
+dermatology;the branch of medicine dealing with the skin and its diseases
+poenology;the branch of criminology concerned with prison management and prisoner rehabilitation
+probability theory;the branch of applied mathematics that deals with probabilities
+underwater archeology;the archeology of underwater sites
+biosystematics;use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework
+natural science;the sciences involved in the study of the physical world and its phenomena
+palaeornithology;the paleobiology of birds
+paleozoology;the study of fossil animals
+engineering science;the discipline dealing with the art or science of applying scientific knowledge to practical problems. 'he had trouble deciding which branch of engineering to study'
+compound morphology;the part of grammar that deals with combinations of simple words into compound words
+thermodynamics of equilibrium;the aspect of thermodynamics concerned with thermal equilibrium
+harmonics;the study of musical sound
+robotics;the area of ai concerned with the practical use of robots
+genetic engineering;the technology of preparing recombinant dna in vitro by cutting up dna molecules and splicing together fragments from more than one organism
+homiletics;the branch of theology that deals with sermons and homilies
+decomposition;the analysis of a vector field
+cosmography;the science that maps the general features of the universe. describes both heaven and earth (but without encroaching on geography or astronomy)
+gynecology;the branch of medicine that deals with the diseases and hygiene of women
+linguistic geography;the study of the geographical distribution of linguistic features
+hydrodynamics;study of fluids in motion
+applied mathematics;the branches of mathematics that are involved in the study of of the physical or biological or sociological world
+topography;precise detailed study of the surface features of a region
+petroleum geology;the branch of economic geology that deals with the occurrence and exploitation of oil and gas fields
+gene splicing;the technology of preparing recombinant dna in vitro by cutting up dna molecules and splicing together fragments from more than one organism
+arithmetic;the branch of pure mathematics dealing with the theory of numerical calculations
+immunochemistry;the branch of medical science that studies the body's immune system
+group theory;the branch of mathematics dealing with groups
+electrochemistry;branch of chemistry that deals with the chemical action of electricity and the production of electricity by chemical reactions
+zoological science;the branch of biology that studies animals
+psychotherapy;the branch of psychiatry concerned with psychological methods
+anthropology;the social science that studies the origins and social relationships of human beings
+geophysics;geology that uses physical principles to study properties of the earth
+magnetism;the branch of science that studies magnetism
+dietetics;the scientific study of food preparation and intake
+dynamics;the branch of mechanics concerned with the forces that cause motions of bodies
+pomology;the branch of botany that studies and cultivates fruits
+synchronic linguistics;an explanation of a person's mastery of their native language
+dental orthopaedics;the branch of dentistry dealing with the prevention or correction of irregularities of the teeth
+virology;the branch of medical science that studies viruses and viral diseases
+macrobiotics;the theory of promoting health and longevity by means of diet (especially whole beans and grains)
+paleography;the study of ancient forms of writing (and the deciphering of them)
+psychonomics;the branch of psychology that uses experimental methods to study psychological issues
+high energy physics;the branch of physics that studies subatomic particles and their interactions
+behavioristic psychology;an approach to psychology that emphasizes observable measurable behavior
+urban planning;the branch of architecture dealing with the design and organization of urban space and activities
+applied science;the discipline dealing with the art or science of applying scientific knowledge to practical problems. 'he had trouble deciding which branch of engineering to study'
+neurology;the branch of medicine that deals with the nervous system and its disorders
+environmental science;the branch of biology concerned with the relations between organisms and their environment
+field of study;"a branch of knowledge. 'in what discipline is his doctorate?'. 'teachers should be well trained in their subject'. 'anthropology is the study of human beings'"
+paleology;the study of (especially prehistoric) antiquities
+cladistics;a system of biological taxonomy based on the quantitative analysis of comparative data and used to reconstruct trees summarizing the (assumed) phylogenetic relations and evolutionary history of groups of organisms
+grammar;studies of the formation of basic linguistic units
+pathology;the branch of medical science that studies the causes and nature and effects of diseases
+microscopic anatomy;the study of microscopic structures of tissues and organs
+organic chemistry;the chemistry of compounds containing carbon (originally defined as the chemistry of substances produced by living organisms but now extended to substances synthesized artificially)
+literature;the humanistic study of a body of literature. 'he took a course in french literature'
+landscape architecture;the branch of architecture dealing with the arrangement of land and buildings for human use and enjoyment
+set theory;the branch of pure mathematics that deals with the nature and relations of sets
+protoarcheology;the study of prehistoric human artifacts and human fossils
+nuclear physics;the branch of physics that studies the internal structure of atomic nuclei
+subject area;"a branch of knowledge. 'in what discipline is his doctorate?'. 'teachers should be well trained in their subject'. 'anthropology is the study of human beings'"
+casuistry;moral philosophy based on the application of general ethical principles to resolve moral dilemmas
+metamathematics;the logical analysis of mathematical reasoning
+systematics;the science of systematic classification
+economic science;the branch of social science that deals with the production and distribution and consumption of goods and services and their management
+physical science;the science of matter and energy and their interactions
+chemistry;the branch of the natural sciences dealing with the composition of substances and their properties and reactions
+infinitesimal calculus;the branch of mathematics that is concerned with limits and with the differentiation and integration of functions
+bibliotics;the scientific study of documents and handwriting etc. especially to determine authorship or authenticity
+palaeozoology;the study of fossil animals
+neuroscience;the scientific study of the nervous system
+ballistics;the science of flight dynamics
+electron optics;the branch of electronics that deals with beams of electrons and their focusing and deflection by magnetic fields
+first order correlation;a partial correlation in which the effects of only one variable are removed (held constant)
+trigonometry;the mathematics of triangles and trigonometric functions
+phonemics;the study of the sound system of a given language and the analysis and classification of its phonemes
+psychopharmacology;the study of drugs that affect the mind
+anatomy;the branch of morphology that deals with the structure of animals
+calculus;the branch of mathematics that is concerned with limits and with the differentiation and integration of functions
+morphophonemics;the study of the phonological realization of the allomorphs of the morphemes of a language
+differential calculus;the part of calculus that deals with the variation of a function with respect to changes in the independent variable (or variables) by means of the concepts of derivative and differential
+science;"any domain of knowledge accumulated by systematic study and organized by general principles. 'mathematics is important for science'"
+triangulation;a trigonometric method of determining the position of a fixed point from the angles to it from two fixed points a known distance apart. useful in navigation
+ethnology;the branch of anthropology that deals with the division of humankind into races and with their origins and distribution and distinctive characteristics
+quadratics;a branch of algebra dealing with quadratic equations
+statics;the branch of mechanics concerned with forces in equilibrium
+cognitive science;the field of science concerned with cognition. includes parts of cognitive psychology and linguistics and computer science and neuroscience and philosophy of mind
+mining geology;the branch of economic geology that deals with the applications of geology to mining
+botany;the branch of biology that studies plants
+psychological medicine;the branch of medicine dealing with the diagnosis and treatment of mental disorders
+forestry;the science of planting and caring for forests and the management of growing timber
+literary study;the humanistic study of literature
+the calculus;the branch of mathematics that is concerned with limits and with the differentiation and integration of functions
+eudemonism;an ethical system that evaluates actions by reference to personal well-being through a life based on reason
+dental surgery;the branch of dentistry involving surgical procedures
+physical chemistry;the branch of chemistry dealing with the physical properties of chemical substances
+paletiology;the explanation of past events in terms of scientific causes (as geological causes)
+paleobotany;the study of fossil plants
+surgery;the branch of medical science that treats disease or injury by operative procedures. 'he is professor of surgery at the harvard medical school'
+scientific agriculture;the application of soil and plant sciences to land management and crop production
+classicism;the principles of classical literature and art
+clinical psychology;the branch of psychology that studies abnormal mentation and behavior
+literary criticism;the informed analysis and evaluation of literature
+fourier analysis;analysis of a periodic function into a sum of simple sinusoidal components
+domestic science;theory and practice of homemaking
+genetic psychology;the branch of psychology that studies the social and mental development of children
+group dynamics;the branch of social psychology that studies the dynamics of interaction in social groups
+econometrics;the application of mathematics and statistics to the study of economic and financial data
+ornithology;the branch of zoology that studies birds
+telerobotics;the area of robotics that is concerned with the control of robots from a distance
+humanistic discipline;studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills). 'the college of arts and sciences'
+life science;any of the branches of natural science dealing with the structure and behavior of living organisms
+cryogenics;the branch of physics that studies the phenomena that occur at very low temperatures
+ophthalmology;the branch of medicine concerned with the eye and its diseases
+silviculture;the branch of forestry dealing with the development and care of forests
+gerontology;the branch of medical science that deals with diseases and problems specific to old people
+human paleontology;the scientific study of human fossils
+field;"a branch of knowledge. 'in what discipline is his doctorate?'. 'teachers should be well trained in their subject'. 'anthropology is the study of human beings'"
+mechanical engineering;the branch of engineering that deals with the design and construction and operation of machinery
+plasma physics;the branch of physics concerned with matter in its plasma phase
+palaeobiology;a branch of paleontology that deals with the origin and growth and structure of fossil animals and plants as living organisms
+etiology;the philosophical study of causation
+humanities;studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills). 'the college of arts and sciences'
+parabolic geometry;geometry based on euclid's axioms: e.g., only one line can be drawn through a point parallel to another line
+spelaeology;the scientific study of caves
+cybernetics;the field of science concerned with processes of communication and control (especially the comparison of these processes in biological and artificial systems)
+government;the study of government of states and other political units
+phonetics;the branch of acoustics concerned with speech processes including its production and perception and acoustic analysis
+economics;the branch of social science that deals with the production and distribution and consumption of goods and services and their management
+geography;study of the earth's surface. includes people's responses to topography and climate and soil and vegetation
+meteorology;science dealing with phenomena of the atmosphere. especially weather processes and weather forecasting
+earth science;any of the sciences that deal with the earth or its parts
+quantum mechanics;an extension of statistical mechanics based on quantum theory (especially the pauli exclusion principle). applies to the behavior of atoms and particles
+cultural anthropology;the branch of anthropology that deals with human culture and society
+orthodontics;the branch of dentistry dealing with the prevention or correction of irregularities of the teeth
+psychiatry;the branch of medicine dealing with the diagnosis and treatment of mental disorders
+avionics;science and technology of electronic systems and devices for aeronautics and astronautics: 'avionics has become even more important with the development of the space program'
+geophysical science;geology that uses physical principles to study properties of the earth
+bacteriology;the branch of medical science that studies bacteria in relation to disease
+classical mechanics;the branch of mechanics based on newton's laws of motion
+herpetology;the branch of zoology concerned with reptiles and amphibians
+architectonics;the science of architecture
+vector decomposition;the analysis of a vector field
+obstetrics;the branch of medicine dealing with childbirth and care of the mother
+statistical mechanics;the branch of physics that makes theoretical predictions about the behavior of macroscopic systems on the basis of statistical laws governing its component particles
+integral calculus;the part of calculus that deals with integration and its application in the solution of differential equations and in determining areas or volumes etc.
+ritualism;the study of religious or magical rites and ceremonies
+audiology;the measurement of hearing
+biomedicine;the branch of medical science that applies biological and physiological principles to clinical practice
+memory;the area of cognitive psychology that studies memory processes. 'he taught a graduate course on learning and memory'
+universe;"everything stated or assumed in a given discussion"
+structuralism;linguistics defined as the analysis of formal structures in a text or discourse
+angiology;the branch of medical science that studies the blood and lymph vessels and their disorders
+harmonic analysis;analysis of a periodic function into a sum of simple sinusoidal components
+beaux arts;the study and creation of works of art
+topology;the branch of pure mathematics that deals only with the properties of a figure x that hold for every figure into which x can be transformed with a one-to-one correspondence
+paleogeology;the study of geologic features once at the surface of the earth but now buried beneath rocks
+thermionics;the branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes)
+metaphysics;the philosophical study of being and knowing
+aeronautical engineering;the branch of engineering science concerned with the design and construction of aircraft
+realm;"a knowledge domain that you are interested in or are communicating about. 'it was a limited domain of discourse'. 'here we enter the region of opinion'. 'the realm of the occult'"
+ology;an informal word (abstracted from words with this ending) for some unidentified branch of knowledge
+dentistry;the branch of medicine dealing with the teeth
+volcanology;the branch of geology that studies volcanoes
+paleogeography;the study of the geography of ancient times or ancient epochs
+physchometrika;any branch of psychology concerned with psychological measurements
+telecommunication;(often plural) the branch of electrical engineering concerned with the technology of electronic communication at a distance
+analysis;a branch of mathematics involving calculus and the theory of limits. sequences and series and integration and differentiation
+palaeology;the study of (especially prehistoric) antiquities
+liberal arts;studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills). 'the college of arts and sciences'
+protohistory;the study humans prior to the invention of writing
+phytology;the branch of biology that studies plants
+method of least squares;a method of fitting a curve to data points so as to minimize the sum of the squares of the distances of the points from the curve
+industrial psychology;any of several branches of psychology that seek to apply psychological principles to practical problems of education or industry or marketing etc.
+palaeontology;the branch of archeology that studies fossil organisms and related remains
+simple regression;the relation between selected values of x and observed values of y (from which the most probable value of y can be predicted for any value of x)
+animal psychology;the branch of psychology concerned with the behavior of animals
+technology;the discipline dealing with the art or science of applying scientific knowledge to practical problems. 'he had trouble deciding which branch of engineering to study'
+demography;the branch of sociology that studies the characteristics of human populations
+astrophysics;the branch of astronomy concerned with the physical and chemical properties of celestial bodies
+palaeoethnography;the ethnography of paleolithic humans
+analytic geometry;the use of algebra to study geometric properties. operates on symbols defined in a coordinate system
+paleoclimatology;the study of the climate of past ages
+midwifery;the branch of medicine dealing with childbirth and care of the mother
+biosystematy;use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework
+functionalism;a psychology based on the assumption that all mental process are useful to an organism in adapting to the environment
+sumerology;the archeology of ancient sumerians
+machine translation;the use of computers to translate from one language to another
+poetics;study of poetic works
+elementary geometry;geometry based on euclid's axioms: e.g., only one line can be drawn through a point parallel to another line
+social psychology;the branch of psychology that studies persons and their relationships with others and with groups and with society as a whole
+neurophysiology;the branch of neuroscience that studies the physiology of the nervous system
+dysgenics;the study of the operation of factors causing degeneration in the type of offspring produced
+electronics;the branch of physics that deals with the emission and effects of electrons and with the use of electronic devices
+ethnography;the branch of anthropology that provides scientific description of individual human societies
+crystallography;the branch of science that studies the formation and structure of crystals
+endaemonism;an ethical system that evaluates actions by reference to personal well-being through a life based on reason
+territory;an area of knowledge or interest. 'his questions covered a lot of territory'
+information science;the sciences concerned with gathering and manipulating and storing and retrieving and classifying recorded information
+fine arts;the study and creation of works of art
+petrology;the branch of geology that studies rocks: their origin and formation and composition
+cosmology;the metaphysical study of the origin and nature of the universe
+res judicata;a matter already settled in court. cannot be raised again
+domain;"a knowledge domain that you are interested in or are communicating about. 'it was a limited domain of discourse'. 'here we enter the region of opinion'. 'the realm of the occult'"
+geriatrics;the branch of medical science that deals with diseases and problems specific to old people
+molecular biology;the branch of biology that studies the structure and activity of macromolecules essential to life (and especially with their genetic role)
+tectonics;the science of architecture
+nosology;the branch of medical science dealing with the classification of disease
+arts;studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills). 'the college of arts and sciences'
+pragmatics;the study of language use
+biomedicine;the branch of medical science that studies the ability of organisms to withstand environmental stress (as in space travel)
+bionomics;the branch of biology concerned with the relations between organisms and their environment
+gross anatomy;the study of the structure of the body and its parts without the use of a microscope
+proctology;the branch of medicine dealing with the diagnosis and treatment of disorders of the colon or rectum or anus
+accidence;the part of grammar that deals with the inflections of words
+agronomy;the application of soil and plant sciences to land management and crop production
+descriptive anthropology;the branch of anthropology that provides scientific description of individual human societies
+vulcanology;the branch of geology that studies volcanoes
+immunopathology;the branch of immunology that deals with pathologies of the immune system
+ethology;the branch of zoology that studies the behavior of animals in their natural habitats
+aetiology;the philosophical study of causation
+microbiology;the branch of biology that studies microorganisms and their effects on humans
+lore;"knowledge gained through tradition or anecdote: 'early peoples passed on plant and animal lore through legend'"
+history;the discipline that records and interprets past events involving human beings: 'he teaches medieval history'. 'history takes the long view'
+otology;the branch of medicine concerned with the ear
+biochemistry;the organic chemistry of compounds and processes occuring in organisms
+fluid mechanics;study of the mechanics of fluids
+correlation;a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the other
+analysis situs;the branch of pure mathematics that deals only with the properties of a figure x that hold for every figure into which x can be transformed with a one-to-one correspondence
+hygiene;the science concerned with the prevention of illness and maintenance of health
+supply side economics;the school of economic theory that stresses the costs of production as a means of stimulating the economy. advocates policies that raise capital and labor output by increasing the incentive to produce
+endodontics;the branch of dentistry dealing with diseases of the dental pulp
+skew correlation;any correlation in which the rates of change of the variables is not constant
+universe of discourse;"everything stated or assumed in a given discussion"
+endocrinology;the branch of medicine dealing with the endocrine glands and their secretions
+linear programming;a mathematical technique used in economics. finds the maximum or minimum of linear functions in many variables subject to constraints
+biotechnology;the branch of molecular biology that studies the use of microorganisms to perform specific industrial processes. 'biotechnology produced genetically altered bacteria that solved the problem'
+prosody;the study of poetic meter and the art of versification
+economic geology;the branch of geology that deals with economically valuable geological materials
+myology;the branch of physiology that studies muscles
+positive correlation;a correlation in which large values of one variable are associated with large values of the other and small with small. the correlation coefficient is between 0 and +1
+negative correlation;a correlation in which large values of one variable are associated with small values of the other. the correlation coefficient is between 0 and -1
+pharmaceutics;the art and science of preparing and dispensing drugs and medicines,
+thermodynamics;the branch of physics concerned with the conversion of different forms of energy
+linear regression;the relation between variables when the regression equation is linear: e.g., y = ax + b
+zoology;the branch of biology that studies animals
+garbology;the study of a society by analyzing its garbage
+mathematics;a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement
+branch of knowledge;"a branch of knowledge. 'in what discipline is his doctorate?'. 'teachers should be well trained in their subject'. 'anthropology is the study of human beings'"
+triboloby;the branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication
+hyperbolic geometry;a non-euclidean geometry in which it is assumed that through any point there are two or more parallel lines that do not intersect a given line in the plane
+rhetoric;study of the technique and rules for using language effectively (especially in public speaking)
+orthopaedics;the branch of surgery concerned with disorders or deformities of the spine and joints
+projective geometry;the geometry of properties that remain invariant under projection
+aeronautics;the theory and practice of navigation through air or space
+multiple regression;a statistical technique that predicts values of one variable on the basis of two or more other variables
+cardiology;the branch of medicine dealing with the heart and its diseases
+physics;the science of matter and energy and their interactions
+coordinate geometry;the use of algebra to study geometric properties. operates on symbols defined in a coordinate system
+topic;"some situation or event that is thought about. 'he kept drifting off the topic'. 'he had been thinking about the subject for several years'. 'it is a matter for the police'"
+psychometrics;any branch of psychology concerned with psychological measurements
+comparative psychology;the branch of psychology concerned with the behavior of animals
+palaeoclimatology;the study of the climate of past ages
+eschatology;the branch of theology that is concerned with such final things as death and judgment. heaven and hell. the end of the world
+transcendentalism;any system of philosophy emphasizing the intuitive and spiritual above the empirical and material
+res adjudicata;a matter already settled in court. cannot be raised again
+psychological science;the science of mental life
+plate tectonics;the branch of geology studying the folding and faulting of the earth's crust
+space medicine;the branch of medicine concerned with the effects of space flight on human beings
+configurationism;an approach to psychology that emphasizes the importance of configurational properties
+sinology;the study of chinese history and language and culture
+engineering;the discipline dealing with the art or science of applying scientific knowledge to practical problems. 'he had trouble deciding which branch of engineering to study'
+epigraphy;the study of ancient inscriptions
+morphology;the branch of geology that studies the characteristics and configuration and evolution of rocks and land forms
+axiology;the study of values and value judgments
+protozoology;the branch of zoology that studies protozoans
+classics;study of the literary works of ancient greece and rome
+histology;the branch of biology that studies the microscopic structure of animal or plant tissues
+dialectic;any formal system of reasoning that arrives at the truth by the exchange of logical arguments
+linguistics;the scientific study of language
+deixis;the function of pointing or specifying from the perspective of a participant in an act of speech or writing. aspects of a communication whose interpretation depends on knowledge of the context in which the communication occurs
+mycology;the branch of botany that studies fungi
+recombinant dna technology;the technology of preparing recombinant dna in vitro by cutting up dna molecules and splicing together fragments from more than one organism
+associationism;theory that association is the basic principle of mental activity
+probabilism;a roman catholic system of casuistry that when expert opinions differ an actor can follow any solidly probable opinion that he wishes even though some different opinion might be more probable
+genomics;the branch of genetics that studies organisms in terms of their genomes (their full dna sequences)
+onomastics;the branch of lexicology that studies the origins and history of proper names
+catoptrics;branch of optics dealing with formation of images by mirrors
+derivational morphology;the part of grammar that deals with the derivations of words
+geometry;the pure mathematics of points and lines and curves and surfaces
+micropaleontology;the paleontology of microfossils
+geology;a science that deals with the history of the earth as recorded in rocks
+criminology;the scientific study of crime and criminal behavior and law enforcement
+geomorphology;the branch of geology that studies the characteristics and configuration and evolution of rocks and land forms
+euclidean geometry;geometry based on euclid's axioms: e.g., only one line can be drawn through a point parallel to another line
+strategy;the branch of military science dealing with military command and the planning and conduct of a war
+climatology;meteorology of climates and their phenomena
+embryology;the branch of biology that studies the formation and early development of living organisms
+paleodendrology;the branch of paleobotany that studies fossil trees
+celestial mechanics;the branch of astronomy concerned with the application of newton's laws of motion to the motions of heavenly bodies
+english;the discipline that studies the english language and literature
+astronomy;the branch of physics that studies celestial bodies and the universe as a whole
+study;"a branch of knowledge. 'in what discipline is his doctorate?'. 'teachers should be well trained in their subject'. 'anthropology is the study of human beings'"
+protoanthropology;the study humans prior to the invention of writing
+nonparametric statistics;the branch of statistics dealing with variables without making assumptions about the parameters of their distribution
+archaeology;the branch of anthropology that studies prehistoric people and their cultures
+exodontia;the branch of dentistry dealing with extraction of teeth
+hydrostatics;study of the mechanical properties of fluids that are not in motion
+wave mechanics;the modern form of quantum theory. an extension of of quantum mechanics based on schrodinger's equation. atomic events are explained as interactions between particle waves
+theology;the rational and systematic study of religion and its influences and of the nature of religious truth
+cosmology;the branch of astrophysics that studies the origins and structure of the universe
+metaknowledge;"knowledge about knowledge"
+urology;the branch of medicine that deals with the diagnosis and treatment of disorders of the urinary tract or urogenital system
+bioremediation;the branch of biotechnology that uses biological process to overcome environmental problems
+genetics;the branch of biology that studies heredity and variation in organisms
+cosmogony;the branch of astrophysics that studies the origins and structure of the universe
+behaviourism;an approach to psychology that emphasizes observable measurable behavior
+etymology;the study of the sources and development of words
+child psychology;the branch of psychology that studies the social and mental development of children
+dialect geography;the study of the geographical distribution of linguistic features
+geographics;study of the earth's surface. includes people's responses to topography and climate and soil and vegetation
+limnology;the scientific study of bodies of fresh water for their biological and physical and geological properties
+nuclear engineering;the branch of engineering concerned with the design and construction and operation of nuclear reactors
+paleoanthropology;the scientific study of human fossils
+bionics;application of biological principals to the study and design of engineering systems (especially electronic systems)
+trig;the mathematics of triangles and trigonometric functions
+applied math;the branches of mathematics that are involved in the study of of the physical or biological or sociological world
+sociolinguistics;the study of language in relation to its sociocultural context
+aviation medicine;the study and treatment of disorders associated with flight (especially with space flight)
+scientific knowledge;"any domain of knowledge accumulated by systematic study and organized by general principles. 'mathematics is important for science'"
+palaeobotany;the study of fossil plants
+rectilinear regression;the relation between variables when the regression equation is linear: e.g., y = ax + b
+correlational analysis;the use of statistical correlation to evaluate the strength of the relations between variables
+civics;the social science of municipal affairs
+rocketry;the branch of engineering science that studies rocket design and operation
+phonology;the study of the sound system of a given language and the analysis and classification of its phonemes
+haematology;the branch of medicine that deals with diseases of the blood and blood-forming organs
+transcendental philosophy;any system of philosophy emphasizing the intuitive and spiritual above the empirical and material
+solid state physics;the branch of physics that studies the properties of materials in the solid state: electrical conduction in crystals of semiconductors and metals. superconductivity. photoconductivity
+ee;the branch of engineering science that studies the uses of electricity and the equipment for power generation and distribution and the control of machines and communication
+oceanography;the branch of science dealing with physical and biological aspects of the oceans
+linguistics;the humanistic study of language and literature
+curvilinear regression;the relation between variables when the regression equation is nonlinear (quadratic or higher order)
+sociology;the study and classification of human societies
+agrology;science of soils in relation to crops
+magnetohydrodynamics;the study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal)
+therapeutics;branch of medicine concerned with the treatment of disease
+physiology;the branch of the biological sciences dealing with the functioning of organisms
+subject;"some situation or event that is thought about. 'he kept drifting off the topic'. 'he had been thinking about the subject for several years'. 'it is a matter for the police'"
+experimental psychology;the branch of psychology that uses experimental methods to study psychological issues
+teratology;the branch of biology concerned with the development of malformations or serious deviations from the normal type of organism
+descriptive linguistics;an explanation of a person's mastery of their native language
+atomic physics;the branch of physics that studies the internal structure of atomic nuclei
+region;"a knowledge domain that you are interested in or are communicating about. 'it was a limited domain of discourse'. 'here we enter the region of opinion'. 'the realm of the occult'"
+riemannian geometry;a non-euclidean geometry that regards space is like a sphere and a line is a great circle
+paleopathology;the study of disease of former times (as inferred from fossil evidence)
+fossilology;the branch of archeology that studies fossil organisms and related remains
+folklore;the unwritten literature (stories and proverbs and riddles and songs) of a culture
+neoclassicism;a revival of the classical style in art or literature
+biological science;the science that studies living organisms
+medical science;the science of dealing with the maintenance of health and the prevention and treatment of disease
+frontier;an undeveloped field of study. a topic inviting research and development. 'he worked at the frontier of brain science'
+neuroanatomy;the anatomy of the nervous system
+uranology;the branch of physics that studies celestial bodies and the universe as a whole
+comparative literature;study of literary works from different cultures (often in translation)
+astrometry;the branch of astronomy that deals with the measurement of the position and motion of celestial bodies
+audiometry;the measurement of hearing
+chemical science;the branch of the natural sciences dealing with the composition of substances and their properties and reactions
+vector algebra;the part of algebra that deals with the theory of vectors and vector spaces
+matrix algebra;the part of algebra that deals with the theory of matrices
+social science;the branch of science that studies society and the relationships of individual within a society
+semantics;the study of language meaning
+dental orthopedics;the branch of dentistry dealing with the prevention or correction of irregularities of the teeth
+cryogeny;the branch of physics that studies the phenomena that occur at very low temperatures
+cognitive psychology;an approach to psychology that emphasizes internal mental processes
+medicine;the branches of medical science that deal with nonsurgical techniques
+library science;the study of the principles and practices of library administration
+ai;the branch of computer science that deal with writing computer programs that can solve problems creatively. 'workers in ai hope to imitate or duplicate intelligence in computers and robots'the branch of computer science that deal with writing computer programs that can solve problems creatively. 'workers in ai hope to imitate or duplicate intelligence in computers and robots'
+philology;the humanistic study of language and literature

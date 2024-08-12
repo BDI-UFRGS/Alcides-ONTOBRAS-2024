@@ -1,0 +1,14 @@
+temporally-bound-task
+action-task
+Thing
+task
+elementary-task
+endurant
+particular
+non-physical-endurant
+course
+non-physical-object
+non-agentive-social-object
+social-object
+concept
+spatio-temporal-particular

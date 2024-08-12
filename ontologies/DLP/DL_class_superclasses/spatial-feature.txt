@@ -1,0 +1,8 @@
+spatial-feature
+feature
+relevant-part
+particular
+Thing
+physical-endurant
+endurant
+spatio-temporal-particular

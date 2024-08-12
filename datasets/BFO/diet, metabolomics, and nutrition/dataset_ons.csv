@@ -1,0 +1,266 @@
+independent continuant;commercial starter cultures;microorganisms selected for specific technological and sensory properties that are inoculated directly into food materials used to initiate the fermentation process and in order to bring about desired and predictable changes in the finished product
+independent continuant;kefir grains;a complex matrix composed of a polysaccharide (kefiran) in association with bacteria and yeasts formed during kefir fermentation
+independent continuant;subject of a nutritional study;the subject (human) participating in a nutritional study.
+independent continuant;non starter culture for food fermentation;microbial cultures that do not take part to the fermentation process but contribute to the development of flavours, aroma and organoleptic properties during maturation/ripening through other metabolic pathways
+independent continuant;food;the food is a complex matrix that is consumed by a person through the process of eating or drinking. food are bearer of the nutrients, bioactives and sometimes other food components. food consumption, through the meal consumption, follows a certain dietary pattern, which define the diet. nutrients and bioactives contained in food can be exploited by the human organism thanks to the process of digestion, absorption, metabolization, or through the intervention of the gut microflora
+independent continuant;kefir microbiota;consortium of living microorganisms present in kefir, characterized by bacteria and yeast components (has part)
+independent continuant;starter culture;microbial culture responsible for the beginning of the fermentation process
+independent continuant;raw food;a raw food is an uncooked, unprocessed food that is consumed in its natural state
+independent continuant;microbiota in finished or semi-finished fermented products and in the entire food-chain;this is a high-level term with the purpose of organization of more granular children term. should not be used in annotation, favoring more specific sub-classes
+independent continuant;whey as inoculum;whey from the previous day manufacture containing the consortium of living microorganisms, added to start the fermentation process
+independent continuant;natural starter culture;unselected, autochthonous microbial consortia that initiates the fermentation
+independent continuant;microbial inoculum;the role of a material entity that is the vehicle for introduction of one or more microorganisms (representing starter culture) into a suitable substrate to initiate the fermentation process
+independent continuant;food bioactive;a food bioactive is a food component other than those needed to meet basic human nutritional needs (nutrients). food bioactives modulates one or more metabolic processes, possibly resulting in the promotion of better health. the daily required intake for food bioactives is not established yet, and there is no demonstration that malnutrition occurs when the right amount is not provided
+independent continuant;starting milk mixture;mixture obtained by combining milk from morning milking with milk from previous evening milking and used as initial ingredient in parmigiano reggiano making
+independent continuant;kefiran;water-soluble exopolisaccharide produced by lactobacillus kefiranofaciens during kefir fermentation. it is present in kefir grains
+independent continuant;additive;component added to food to improve or preserve it
+independent continuant;food component entity;any substance that is distributed in foodstuffs. it includes materials derived from plants or animals, such as vitamins or minerals, as well as environmental con-taminants. concept of food component can be viewer both as a role and as a material entity. this class, for convenience, represents the material entity "food component", including all those material entity having the role of "food component"
+independent continuant;fermented food;foods or beverages produced through controlled microbial growth, and the conversion of food components through enzymatic action
+independent continuant;processed food;a processed food is the result of the process of home or industrial food preparation
+independent continuant;starter culture for food fermentation;microbial culture responsible for the beginning of the fermentation process
+independent continuant;parmigiano reggiano;a hard, cooked, brittle cheese with a long ripening time (minimum of 12 months), produced using raw semiskim high-quality cow milk, natural fermented whey, calf rennet and sodium chloride, designed as pdo
+independent continuant;kefir grain as inoculum;complex matrix composed of an exopolysaccharide in association with bacteria and yeast cells added to milk for kefir production
+independent continuant;parmigiano reggiano microbiota;the microbial consortium associated to parmigiano reggiano cheese
+independent continuant;autochthonous food microbiota;microorganisms naturally present in the raw food or processing environment
+independent continuant;contaminant;unwanted food component that makes the food no longer suitable for use
+independent continuant;ingredient;an ingredient is a material entity used as part for the preparatio of food. recipes specify which ingredients are used to prepare a specific food
+independent continuant;starting milk mixture microbiota;consortium of living microrganisms present in milk before processing, characterized by bacteria and yeast components (has part)
+independent continuant;whey microbiota;consortium of living microrganisms present in whey, characterized by bacteria and yeast components (has part)
+independent continuant;inoculum for fermentation;vital biomass containing microorganisms added to start the fermentation process
+independent continuant;shaped cheese;the result of moulding and final pressing in cheese-making
+independent continuant;shaped parmigiano reggiano;the result of moulding and final pressing of parmigiano reggiano mass retrieved from cauldron
+independent continuant;curd microbiota;the microbial consortium associated to curd
+independent continuant;nutrient;a nutrient is a food component used by the body for normal physiologic functions that guarantee survival and growth. it must be supplied in adequate and defined amounts from foods consumed within a diet. malnutrition occurs when the right amount of nutrient is not provided
+independent continuant;mixed milk;mixture of milk originating from different animal species or from different milking times
+specifically dependent continuant;meal;a meal is an eating/drinking occasion which usually accours at certain time during the day. during a meal, through processes of eating and drinking, food are consumed.
+specifically dependent continuant;cook role;cook role is the role of the person responsible for food prepraration
+specifically dependent continuant;cohort study;data are obtained from groups who have been exposed, or not exposed, to the new technology or factor of interest (eg from databases). no allocation of exposure is made by the researcher. best for study the effect of predictive risk factors on an outcome.
+specifically dependent continuant;crossover design;a controlled trial where each study participant has both therapies, e.g, is randomised to treatment a first, at the crossover point they then start treatment b. only relevant if the outcome is reversible with time, e.g, symptoms.
+specifically dependent continuant;nutritional researcher role;nutritional researcher role is the role of a researcher with specific training and expertise in the nutritional science field
+specifically dependent continuant;cross-sectional survey;a study that examines the relationship between diseases (or other health-related characteristics) and other variables of interest as they exist in a defined population at one particular time (ie exposure and outcomes are both measured at the same time). best for quantifying the prevalence of a disease or risk factor, and for quantifying the accuracy of a diagnostic test.
+specifically dependent continuant;case-control studies;patients with a certain outcome or disease and an appropriate group of controls without the outcome or disease are selected (usually with careful consideration of appropriate choice of controls, matching, etc) and then information is obtained on whether the subjects have been exposed to the factor under investigation.
+specifically dependent continuant;randomised controlled trial;an experimental comparison study in which participants are allocated to treatment/intervention or control/placebo groups using a random mechanism (see randomisation). best for study the effect of an intervention.
+generically dependent continuant;subject information collection data;a class which groups the data item collected as results from the subject information collection assay
+generically dependent continuant;rural diet;the diet characteristic of the lifestyle in isolated/rural areas, commonly in developing countries. it is mainly composed of naturally available food products, including fresh animal protein and vegetables while excluding industrially processed foods. nevertheless, it is common to use traditional food processing methods to improve nutrient availability, digestibility or to increase conservation time to avoid scarcity. these methods include soaking, fermentation, cooking, pounding, and sprouting.
+generically dependent continuant;vigorous physical activity by accelerometer;time spent in vigorous physical activity in minutes/day derived from accelerometer data
+generically dependent continuant;population regular diet;the regular course of eating and drinking adopted by a population in a certain geographical area, or in a certain cultural setting, or following certain common eating behaviour.
+generically dependent continuant;kosher diet;a diet consisting of kosher approved food.
+generically dependent continuant;globalized diet;the diet resulting from the lifestyle adaptation following the industrial revolution. it is often associated with western countries, but is increasingly becoming adopted also in other geographic areas. it is known to be rich in red and processed meats, sweets, fried foods, and refined grains while being poor in fruits, vegetables, legumes, fish, poultry, and whole grains. in terms of micronutrients, this diet is usually rich in salt, yet poor in other minerals and vitamins, whereas in terms of fats, it is high in saturated and trans-fatty acids, and low in mono- and polyunsaturated fatty acids. its fibre and complex carbohydrates contents are also very low due to the high consumption of refined sugars instead of whole-grain foods.
+generically dependent continuant;fasting status;fasting status before blood draw (measured in hours of fasting before blood draw) 1=less than 9 hours. 2=9 hours or more
+generically dependent continuant;recommended dietary allowance;an average daily nutrient intake level which is sufficient to meet the nutrient requirement of nearly all (97 to 98 percent) healthy individuals in a group.
+generically dependent continuant;calculated monounsaturated fatty acid intake;monounsaturated fatty acid intake per unit time
+generically dependent continuant;categories of physical activity level;categories of physical activity level 1=low. 2= medium. 3= high
+generically dependent continuant;non-organic agriculture diet;a diet consisting of food that may have been reared with the use of pesticides, herbicides or chemical fertilizers.
+generically dependent continuant;dietary regimen;a set of restrictions on food type ingestion and/or timing of food ingestion.
+generically dependent continuant;dietary assessment data;a class which groups the data item collected as results from the dietary assessment assay
+generically dependent continuant;dietary pattern by nutritional composition;a dietary pattern that define the quantity, variety or combination of different food in a diet by nutritional composition
+generically dependent continuant;study null nutritional diet;a dietairy pattern adhered to by a study control group. (possibly a placebo).
+generically dependent continuant;susceptibility biomarker;measurable indicator including genetic or acquired host factors and intrinsic factors, influencing the response of an individual to a (dietary) exposure.
+generically dependent continuant;short question name;a short text identifying the question
+generically dependent continuant;individual regular diet;the regular course of eating and drinking adopted by an organism.
+generically dependent continuant;fodmap diet;a diet involving the avoidance of fermentable oligo-di-monosaccharides and polyols.
+generically dependent continuant;acceptable macronutrient distribution range;a dietary reference intake data item which is a range of intake for a particular energy source (protein, fat, or carbohydrate), expressed as a percentage of total energy (kcal), that is associated with reduced risk of chronic disease while providing adequate intakes of essential nutrients.
+generically dependent continuant;lacto-ovo vegetarian dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a lacto-ovo vegetarian diet
+generically dependent continuant;fasting protocol;a protocol that specifies the timing of food consumption.
+generically dependent continuant;time since quitting smoking;for past smokers: time in years since quitting smoking
+generically dependent continuant;food choice;food choice refers to any decision an organism makes regarding food and diet. it both refers to the selection of specific foods to be consumed by an organism, from a variety of available options, and to the choices regarding quantity and mode of consumption of foods. food choice are direct consequence of the food management process, and depends on a variety of determinants of diet
+generically dependent continuant;high-carbohydrate diet dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a high-carbohydrate diet
+generically dependent continuant;literature database query;textual entity used to perform a specific literature search on databases (i.e. medline or web of science database search).
+generically dependent continuant;sampling identifier;the unique sampling event identifier for the sample collection producing the sample
+generically dependent continuant;infant breast milk diet;a diet consisting entirely of breast milk.
+generically dependent continuant;calculated fiber intake;fiber intake per unit time
+generically dependent continuant;dietary pattern data item;a data item recording data about a dietary pattern
+generically dependent continuant;low fat diet;a restricted-energy diet with less than 30% of energy from fat.
+generically dependent continuant;dietary reference intake;a data item which is a quantitative estimate of nutrient intake to be used as a reference value for planning and assessing diets for healthy people.
+generically dependent continuant;rural diet dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a rural diet
+generically dependent continuant;moderate physical activity by questionnaire;time spent in moderate physical activity in minutes/day derived from questionnaire data
+generically dependent continuant;event identifier name;a (short) alphanumeric string which identify the event/tretment
+generically dependent continuant;parmigiano reggiano recipe;parmigiano reggiano recipe includes and defines the set of ingredients and procedures that must be employed to obtain parmigiano reggiano cheese
+generically dependent continuant;non-beef diet;a diet that excludes food containing beef food products.
+generically dependent continuant;lacto-vegetarian dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a lacto-vegetarian diet
+generically dependent continuant;cross-sectional survey;a study that examines the relationship between diseases (or other health-related characteristics) and other variables of interest as they exist in a defined population at one particular time (ie exposure and outcomes are both measured at the same time). best for quantifying the prevalence of a disease or risk factor, and for quantifying the accuracy of a diagnostic test.
+generically dependent continuant;absolute start times;this field is usually 0 for the overall intervention but may be several time points for challenges, e.g. at 0 and 12 weeks.
+generically dependent continuant;diet;in nutrition, diet is the sum of food consumed by a person or other organism
+generically dependent continuant;lacto-ovo vegetarian diet;a diet that includes vegetarian, avian egg, and milk derived food.
+generically dependent continuant;research prescribed diet;a diet prescribed to a group in a research study.
+generically dependent continuant;number of bouts by questionnaire;number of physical activity bouts of moderate or vigorous physical activity of at least 10 minutes per day
+generically dependent continuant;high-carbohydrate diet;a diet which provides > 60% of total dietary energy from carbohydrates. it consists predominantly of high glycemic carbohydrates have detrimental metabolic effects
+generically dependent continuant;performance diet;a diet which has an athletic performance objective
+generically dependent continuant;vegan diet;a diet that excludes all animal products (including fish and seafood).
+generically dependent continuant;ketogenic diet dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a ketogenic diet
+generically dependent continuant;carnivorous diet;a diet of a carnivore, which focuses almost exclusively on the consumption of animal food sources.
+generically dependent continuant;daily food intake;an ingested food data set for a given day.
+generically dependent continuant;dietary pattern by digestive capability;a dietary pattern that define the quantity, variety or combination of different food in a diet by digestive capabilities.
+generically dependent continuant;calculated saturated fatty acid intake;saturated fatty acid intake per unit time
+generically dependent continuant;cohort study;data are obtained from groups who have been exposed, or not exposed, to the new technology or factor of interest (eg from databases). no allocation of exposure is made by the researcher. best for study the effect of predictive risk factors on an outcome.
+generically dependent continuant;organic agriculture diet;a diet consisting of food produced from organic agriculture (food that is grown without the use of synthetic fertilizers, sewage sludge, irradiation, genetic engineering, pesticides, or drugs.)
+generically dependent continuant;effect biomarker;an effect biomarker reflects the funciontal response of the human body to an exposure.
+generically dependent continuant;exposure biomarker;an exposure biomarker reflects the level of extrinsic variables that humans are exposed to, such as diets or food compounds, including nutrients and non-nutrients.
+generically dependent continuant;semi-vegetarian diet;primarily a plant-based diet but includes meat, dairy, eggs, poultry and fish on occasion or in small quantities
+generically dependent continuant;determinant of diet;a determinant of diet is any factor that drive the food choices of an organism
+generically dependent continuant;diet by nutritional composition;a diet defined by the nutritional presence or absence of types of food bioactive compounds.
+generically dependent continuant;omics data;a class which groups the data item collected as results from the analysis performed with an omics platform
+generically dependent continuant;diet by digestive capability;a diet that is defined by the biological, anatomical, and evolutionistic digestive capabilities of a given organism.
+generically dependent continuant;low fat diet dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a low fat diet
+generically dependent continuant;timing of food intake;the temporal aspect of a dietary pattern that details meal frequency or fasting as a daily or episodic activity.
+generically dependent continuant;ketogenic diet;a ketogenic diet is a high-fat, low-carbohydrate, adequate-protein diet that mimics a fasting state, resulting in the substitution of ketone bodies as a source of energy. the ketogenic diet can be used to reduce recurrent epileptic seizures in individuals with intractable epilepsy. intractable epilepsy is defined as epilepsy that failed to respond to three or more antiepileptic drugs. a high-fat, adequate-protein, low-carbohydrate diet. it is primarily used in medicine to treat difficult-to-control epilepsy in children
+generically dependent continuant;low-carbohydrate, high-protien, high fat diet dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a low-carbohydrate, high-protien, high fat diet
+generically dependent continuant;calculated total fat intake;total fat intake per unit time
+generically dependent continuant;meditteranean diet;a moderate-fat, restricted-calorie, mediterranean diet is rich in vegetables and low in red meat, with poultry and fish replacing beef and lamb.
+generically dependent continuant;ovo-vegetarian dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a ovo-vegetarian diet
+generically dependent continuant;average daily nutrient intake level;a dietary reference intake which is an average of daily nutrient intake values to be used as a reference for planning and assessing diets for healthy people.
+generically dependent continuant;texture modified diet;a diet containing carefully selected foods of an appropriate consistency which can be more easily chewed and managed by a person with dysphagia.
+generically dependent continuant;vegan dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a vegan diet
+generically dependent continuant;nci usual diet;a long-term average daily intake of nutrients and/or foods calculated according to a national cancer institute statistical model.
+generically dependent continuant;tolerable upper intake level;an average daily nutrient intake level which is the highest level that is likely to pose no risk of adverse health effects to almost all individuals in the general population.
+generically dependent continuant;objectively-reported diet;an ingested food data set which is observed by a researcher to have been consumed by a subject organism or population of organisms.
+generically dependent continuant;lacto-vegetarian diet;a diet that includes vegetarian and milk-derived food.
+generically dependent continuant;chemical biological data;a class which groups the data item collected as results from the chemical biological assay
+generically dependent continuant;descriptive dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in descriptive diet
+generically dependent continuant;proscribed dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a proscribed diet
+generically dependent continuant;estimated energy requirement;an average daily nutrient intake level which is predicted to maintain energy balance in healthy, normal weight individuals of a defined age, gender, weight, height, and level of physical activity consistent with good health.
+generically dependent continuant;coeliac diet;a diet designed to reduce the symptoms of coeliac disease which is caused by a reaction to gliadin (a gluten protein found in wheat) and similar proteins found in other crops.
+generically dependent continuant;ethnographic diet;a cultural or religious eating pattern.
+generically dependent continuant;ovo-vegetarian diet;a diet that includes vegetarian and avian egg derived food.
+generically dependent continuant;24-hour dietary recall;a structured interview intended to capture detailed information about all foods and beverages (and possibly, dietary supplements) consumed by the respondent in the past 24 hours, most commonly, from midnight to midnight the previous day. a key feature of the 24hr is that, when appropriate, the respondent is asked for more detailed information than first reported. for example, a respondent reporting chicken for dinner or a sandwich for lunch would be asked about the preparation method and type of bread. this open-ended response structure is designed to prompt respondents to provide a comprehensive and detailed report of all foods and beverages consumed. a 24h can also be filled at home by the responder, and be checked during an interview to further improve it with additional details
+generically dependent continuant;month of dietary assessment;month of dietary assessment counted from 1900. e.g. may 2011=1337 (2011-1900=111. 111x12 months/y= 1332. 1332 + 5 (may=05)= 1337)
+generically dependent continuant;dietary pattern by agriculture treatment;a dietary pattern that define the quantity, variety or combination of different food in a diet by agriculture treatment
+generically dependent continuant;gluten free dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a gluten free diet
+generically dependent continuant;information tab;informations tab. this class should not be used as an ontology term, it is included as a superclass for the purpose to give a better organization to the ontology.
+generically dependent continuant;diet by food texture;a diet defined by the food texture.
+generically dependent continuant;self-reported diet;an ingested food data set which is subjectively recorded or recalled by an individual consuming the food
+generically dependent continuant;ingested food data set;a dataset which contains a list of foods that an organism has ingested over some period of time.
+generically dependent continuant;calculated carbohydrate intake;carbohydrate intake per unit time
+generically dependent continuant;population dietary pattern;an eating pattern pertaining to a population or sub-population of organism. this can be used descriptively or prescriptively.
+generically dependent continuant;blood analytics;this class should not be used as an ontology term, it is included as a superclass for the purpose to give a better organization to the ontology pertinent to blood analystics assay
+generically dependent continuant;dietary pattern by food organism;a dietary pattern that define the quantity, variety or combination of different food in a diet by food organism
+generically dependent continuant;liquid diet;a full liquid diet is made up only of fluids and foods that are normally liquid and foods that turn to liquid when they are at room temperature. you can not eat solid foods when you are on a full liquid diet.
+generically dependent continuant;descriptive diet;a set of classes for the description of diet. a descriptive diet consists of some data set
+generically dependent continuant;number of bouts by accelerometer;number of bouts of moderate or vigorous physical activity per day
+generically dependent continuant;randomised controlled trial;an experimental comparison study in which participants are allocated to treatment/intervention or control/placebo groups using a random mechanism (see randomisation). best for study the effect of an intervention.
+generically dependent continuant;globalized diet dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a globalized diet
+generically dependent continuant;palatability;the palatability of a food refers to its capacity of triggering a reward (i.e. hedonic reward, or pleasure, via a stimulation of the dopamine reward pathway) upon consumption. this property can be related to various aspects of food, usually related to fats and sugars content.
+generically dependent continuant;crossover design;a controlled trial where each study participant has both therapies, e.g, is randomised to treatment a first, at the crossover point they then start treatment b. only relevant if the outcome is reversible with time, e.g, symptoms.
+generically dependent continuant;self-prescribed diet;a diet that an individual organism has chosen as a dietary pattern objective.
+generically dependent continuant;study intervention diet;a diet administered during an intervention study. it usually comprises the adoption of a certain nutritional intervention, intended as the prescription of consuming or not consuming certain food, and follows a precise study design. intervention studies usually compare at least two subgroups of a population, one control group receiving a null nutritional intervention, and one or more test groups receiving the intervention
+generically dependent continuant;individual dietary pattern;an eating pattern pertaining to a single organism (an instance of organism). this can be used descriptively or prescriptively.
+generically dependent continuant;dash diet;dietary approaches to stop hypertension (dash) trial, which demonstrated that consuming a diet rich in fruits, vegetables, and low-fat dairy products and reduced in saturated fat and cholesterol
+generically dependent continuant;low-carbohydrate, high-protien, high fat diet;low-carbohydrate diets restrict carbohydrate consumption relative to the average diet. foods high in carbohydrates (e.g., sugar, bread, pasta) are limited, and replaced with foods containing a higher percentage of fat and protein (e.g., meat, poultry, fish, shellfish, eggs, cheese, nuts, and seeds), as well as low carbohydrate foods (e.g. spinach, kale, chard, collards, and other fibrous vegetables).
+generically dependent continuant;physical activity from recreational or leisure-time activities by questionnaire;physical activity from recreational or leisure-time activities in met-hours/day derived from questionnaire data
+generically dependent continuant;prescribed dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a prescribed diet
+generically dependent continuant;month of blood draw;month of blood draw counted from 1900. e.g. may 2011=1337 (2011-1900=111. 111x12 = 1332. 1332 + 5 = 1337)
+generically dependent continuant;infant formula milk diet;a diet involving formula milk breast milk.
+generically dependent continuant;weight loss diet;a diet designed to reduce the presence of fat in an organism.
+generically dependent continuant;dash diet dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a dash diet
+generically dependent continuant;total physical activity by questionnaire;total physical activity in met-hours/day (without sedentary or sleeping time) derived from questionnaire data
+generically dependent continuant;light physical activity by accelerometer;time spent in light physical activity in minutes/day derived from accelerometer data
+generically dependent continuant;calculated polyunsaturated fatty acid intake;polyunsaturated fatty acid intake per unit time
+generically dependent continuant;vegetarian dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a vegetarian diet
+generically dependent continuant;clinically prescribed diet;a diet prescribed by a physician/ nutritionist to meet spe-cific nutritional needs of a person
+generically dependent continuant;proscribed diet;an eating pattern that excludes a given diet.
+generically dependent continuant;moderate physical activity by accelerometer;time spent in moderate physical activity in minutes/day derived from accelerometer data
+generically dependent continuant;diet by food organism;a diet defined by the food source organisms it allows or excludes.
+generically dependent continuant;average duration of bouts;average minutes per bout of moderate or vigorous physical activity per day
+generically dependent continuant;prescribed diet;a diet assigned as a dietary pattern objective to an individual organism or group.
+generically dependent continuant;adequate intake;an average daily nutrient intake level which is recommended based on observed or experimentally determined approximations or estimates of nutrient intake by a group (or groups) of apparently healthy people that are assumed to be adequate with respect to deficiency or disease criteria.
+generically dependent continuant;participants' identification number;aphanumeric string (1 to 8 digits) which univocally identify a partecipant/subject.
+generically dependent continuant;case-control studies;patients with a certain outcome or disease and an appropriate group of controls without the outcome or disease are selected (usually with careful consideration of appropriate choice of controls, matching, etc) and then information is obtained on whether the subjects have been exposed to the factor under investigation.
+generically dependent continuant;water activity in food;the ratio between the vapor pressure of the food, when in a completely undisturbed balance with the surrounding air media, and the vapor pressure of distilled water under identical conditions
+generically dependent continuant;pescetarian diet;a diet which includes vegetarian food as well as fish and seafood.
+generically dependent continuant;light physical activity by questionnaire;time spent in light physical activity in minutes/day derived from questionnaire data
+generically dependent continuant;omnivorous diet;a diet of an omivore, which includes both plant and animal food sources.
+generically dependent continuant;assay description;long text describing the assay used.
+generically dependent continuant;question type;type of question or question variable code
+generically dependent continuant;vigorous physical activity by questionnaire;time spent in vigorous physical activity in minutes/day derived from questionnaire data
+generically dependent continuant;halal diet;a diet consisting of halal approved food.
+generically dependent continuant;sedentary time by questionnaire;time spent sedentary (pc use, tv watching) in minutes/day derived from questionnaire data
+generically dependent continuant;dietary pattern by type of food;a dietary pattern that define the quantity, variety or combination of different food in a diet by type of food
+generically dependent continuant;vegetarian diet;a diet which focuses almost exclusively on the consumption of plants, fungi and/or lichen.
+generically dependent continuant;food frequency questionnaire;finite list of foods and beverages with response categories to indicate usual frequency of consumption over the time period queried. the time period can vary (from 1 week to 1 year and over). to assess the total diet, the number of foods and beverages queried typically ranges from 80 to 120. usual portion size can be asked separately for each food and beverage. alternatively, portion size can be combined with frequency information by asking respondents to translate usual consumption amount to number of specified units (e.g., spoon, cup, glass, etc). some questionnaires include portion size images in an attempt to enhance reporting accuracy. in addition to foods and beverages, ffqs often ask about the frequency of intake and dosages of dietary supplements.
+generically dependent continuant;herbivorous diet;a diet of a herbivore, which focuses almost exclusively on the consumption of plants, fungi and/or lichen.
+generically dependent continuant;gluten free;a diet which minimises or eliminates the consumption of gluten.
+generically dependent continuant;estimated average requirement;an average daily nutrient intake level which is estimated to meet the requirement of half the healthy individuals in a particular life stage and gender group.
+generically dependent continuant;sedentary time by accelerometer;time spent sedentary in minutes/day derived from accelerometer data
+generically dependent continuant;pescetarian dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a pescetarian diet
+generically dependent continuant;non-pork diet;a diet that excludes food containing swine food products.
+generically dependent continuant;diet by agriculture treatment;a diet which involves food produced under certain agricultural conditions.
+generically dependent continuant;food diary;a food diary is a record of eaten foods on a meal-by-meal, daily, or weekly basis. it is directly filled by the investigated subject, and it can include nutritional or other dietary information, organize and track foods by food group, and allows monitoring what, when, and how often the filling subject eats.
+generically dependent continuant;biomarker;an objective measurement to assess the exposure (including food intake), effect, or succeptibility of the human organism (or an animal etc.)
+generically dependent continuant;dietary pattern;dietary pattern represent the quantity, proportion, variety and combination of different foods and drinks consumed in meals, and the frequency with which they are habitually consumed.
+generically dependent continuant;semi-vegetarian dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a semi-vegetarian diet
+generically dependent continuant;diet by type of food;a diet that is defined by characteristics of ingested food.
+generically dependent continuant;waist:hip ratio;the ration between the circumference of the waist to that of the hips
+generically dependent continuant;high fat diet;a diet involving the a larger proportion of fat than normal.
+generically dependent continuant;physical activity assessment data;a class which groups the data item collected as results from the physical activity assay
+generically dependent continuant;calculated protein intake;protein intake in per unit time
+generically dependent continuant;daily average nutritional intake;a dataset containing the averaged daily intake of each of a variety of nutrients for an individual or organism population.
+generically dependent continuant;kefir recipe;kefir recipe includes and defines the set of ingredients and procedures that should be employed to obtain kefir
+generically dependent continuant;high fat diet dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a high fat diet
+generically dependent continuant;ingested food log;an ingested food data set of food consumption events detailing food ingested and the time of ingestion.
+generically dependent continuant;meditteranean diet dietary pattern;a dietary pattern that define the quantity, variety or combination of different food in a mediterranean diet
+generically dependent continuant;month of anthropometry assessment;month of anthropometry assessment counted from 1900. e.g. may 2011=1337 (2011-1900=111. 111x12 months/y= 1332. 1332 + 5 (may=05)= 1337)
+process;parmigiano reggiano maturation;the process during which the parmigiano reggiano cheese wheels are stored at 18-20 c for a minimum of 12 months giving rise to the ripened parmigiano reggiano
+process;blood analytics;this class should not be used as an ontology term, it is included as a superclass for the purpose to give a better organization to the ontology pertinent to blood analystics assay
+process;information tab;informations tab. this class should not be used as an ontology term, it is included as a superclass for the purpose to give a better organization to the ontology.
+process;intermittent fasting;intermittent fasting is a broad term that encompasses a variety of programs that manipulate the timing of eating occasions by utilizing short-term fasts with the intention of modulating body composition and/or overall health.
+process;seroepidemiologic studies;epidemiologic studies based on the detection through serological testing of characteristic change in the serum level of specific antibodies. latent subclinical infections and carrier states can thus be detected in addition to clinically overt cases.
+process;backslopping;the procedure in which a small amount of the finished or intermediate fermentation product is used to inoculate a new batch with the aim of starting a new fermentation process
+process;time-restricted feeding;a type of intermittent fasting process which allows ad libitum energy intake within controlled time frames, generally a 3-12 hour range each day.
+process;compliance assessment;indicate whethet the compliance was assessed or not
+process;fasting process;a food consumption process in which the timing of food and/or liquid ingestion is limited.
+process;milk coagulation;the process of destabilization of casein micelles, which flocculate and aggregate to form a gel enclosing the soluble milk components. it is caused by acidification, by enzymatic activities or by the combination of the two processes
+process;sampling method description;a long description of the sampling method used
+process;physical activity assessment;this class should not be used as an ontology term, it is included as a superclass for the purpose to give a better organization to the ontology of the terms pertinent to physical activity assessment assay
+process;food component metabolization;sum of the chemical changes occurring to nutrients and food component within the body. changes can be anabolic (constructive) or catabolic (destructive). anabolism converts simpler compounds into organized substances that the body can use. catabolism converts more organized substances into simpler compounds. in the oxidative or energetic catabolism, this is coupled with the production of atp
+process;month of physical activity assessment by questionnaire;month of physical activity assessment by questionnaire counted from 1900. e.g. may 2011=1337 (2011-1900=111. 111x12 months/y= 1332. 1332 + 5 (may=05)= 1337)
+process;sampling tab;sampling tab. this class should not be used as an ontology term, it is included as a superclass for the purpose to give a better organization to the ontology.
+process;eating;the consumption of edible substances. the act of eating: do not confuse with food (the substance eaten) or eating behavior (the manner of eating).
+process;assay type;assay type (i.e. clinical chemistry assay: standard kit #34567 from 'vendor' assayed on a cobas mira analyzer)
+process;randomization method;the name of the method used for randomization (obcs 0000089), if any randomization was adopted.
+process;food biomarker analysis assay;an assay that is aimed at discovering new potential metabolites as food consumption biomarkers, or to measure/validate known food consumption biomarkers in a biological sample (e.g. urine, blood, serum, feces).
+process;blinding method;if blinded experiment were conducted, indicate the method used for blinding
+process;nutritional research assay;any type of assay that can be performed in the context of a nutritional study
+process;mismanagement of food choice;a food choice management process resulting in unhealthy food choice
+process;dietary assessment;the process of collecting information on the diet/eating habits of a subject using a questionnaire.
+process;blinding;indicate whether blinded experiment were conducted or not
+process;subject information collection;an assay which purpose is to collect all the general information (e.g. anthropometric measurement) available on the subjects of nutritional studies
+process;drinking;the consumption of liquids. not for drinking alcohol or alcohol consumption ( = alcohol drinking). differentiate from drinking behavior.
+process;treatment descriptive name;an alphanumeric string which identify and describe the event/tretment
+process;curd cooking;a heating process in which the curd is cooked at defined temperature for a defined amount of time. as a result the curd sink to the bottom of the cauldron forming a single mass
+process;dietary assessment method;dietary assessment used for uploaded dietary variables 1=24-hour recall. 2=ffq. 3=food record. 4=other
+process;parmigiano reggiano fermentation;the set of reactions leading to the conversion of carbohydrates into organic acids by the enzymatic activity of starter microbes in the production of parmigiano reggiano. it can also be extended to the proteolitic and lipolytic reactions characterizing maturation and ripening steps.
+process;kefir fermentation;the set of reactions leading to the conversion of carbohydrates into organic acids, ethanol and co2 by the enzymatic activity of kefir microbiota
+process;food component absorption process;the whole of the processes by which food components released by food digestion are able to reach bloodstream
+process;organism food management process;the process an organism has which achieves a dietary pattern and involves food availability, physiological or psychological motivation, selection, episodic consumption, and digestion.
+process;short study name;a study short name is a short alphanumeric string used to abbreviate a study proper name (omiabis 0000037)
+process;food biomarker validation assay;an assay that is aimed at measuring the quantity (or presence) of food intake biomarkers in a biological sample (e.g. urine, blood, serum, feces) in order to evaluate the consumption of defined foods
+process;cheese shaping and salting;the process in which the cheese is placed in a mould giving rise to it its final shape, and immersed in a saturated solution of water and salt
+process;episodic food intake process;the process of ingesting food during a single eating and/or drinking session. this does not include the digestion process.
+process;fermentation ons;the set of reactions leading to the conversion of carbohydrates into organic acids, ethanol and co2 by the enzymatic activity in the absence of oxygen
+process;backslopping in parmigiano reggiano fermentation;the procedure in which a small amount of whey product of the parmigiano reggiano milk coagulation is used to inoculate a new batch with the aim of starting a new fermentation process
+process;physiology assay type;type of physiology assay performed
+process;technological processes during dairy food fermentation;this is a high-level term with the purpose of organization of more granular children term. should not be used in annotation, favoring more specific sub-classes
+process;fermented food ripening;a process in the cheese-making consisting of the storage of cheese in controlled temperature and condition, for defined amount of time. the process is associated to microbial activities such as proteases and lipases which change the morphology and physical texture of the cheese as well as develop taste and flavor of the final product
+process;parmigiano reggiano curd cooking;a heating process were curd is cooked at 55 c for 12 minutes, after which the cheesy granules sink to the bottom of the cauldron forming a single mass
+process;month of blood draw;month of blood draw counted from 1900. e.g. may 2011=1337 (2011-1900=111. 111x12 = 1332. 1332 + 5 = 1337)
+process;bakslopping;the addition of a small amount of a previously fermented batch to the raw food, with the aim of initiating a new fermentation process
+process;assay platform;platform used for the assay
+process;fasting status;fasting status before blood draw (measured in hours of fasting before blood draw) 1=less than 9 hours. 2=9 hours or more
+process;food digestion;digestion is the breakdown of large food molecules into small water-soluble food molecules. the breakdown is both mechanical and chemical (enzymatic digestion). during digestion, food components are released from the food matrix and may become bioaccessible.
+process;type of omics;type of omic assay performed (i.e. targeted metabolomics, untargeted metabolomics)
+process;cheese maturation;the process in which the shaped cheese is stored in controlled temperature condition and for defined amount of time to give rise to the ripened cheese
+process;food preparation;food preparation is the process in which food is made.
+process;event tab;events tab. this class should not be used as an ontology term, it is included as a superclass for the purpose to give a better organization to the ontology.
+process;chemical-biological assay;the process of collecting various chemical-biological data (e.g. blood analytics)
+process;study terminated;indicated whether the study is terminated or not
+process;omics technology assay;the process of collecting data from a sample using 'omic' technologies
+process;study sampling method;short description of the sampling method used (i.e. "needle" for blood drawn, or "direct sampling" for questionnaire)
+process;healthy management of food choice;a food choice management process resulting in healthy food choice
+process;food component absorption;process mainly occurring in the small intestine and allowing the passage of the biaoccessible food components from the gastro-intestinal lumen into the blood vessels. absorption occurs through either diffusion or active transport. the degree and rate at which a substance is absorbed and is made available at the site of physiological activity is called bioavailability
+process;food biomarker discovery assay;an assay that is aimed at measuring the quantity (or presence) of food related metabolites in a biological sample (e.g. urine, blood, serum, feces) in order to identify/discover new food intake biomarkers
+process;parmigiano reggiano shaping and salting;the process in which the cheese, wrapped in typical linen cloth, is placed in a mould that gives it its final shape and immersed in a saturated solution of water and salt.
+process;start tab;start tab. this class should not be used as an ontology term, it is included as a superclass for the purpose to give a better organization to the ontology.
+process;month of physical activity assessment by accelerometer;month of physical activity assessment by accelerometer counted from 1900. e.g. may 2011=1337 (2011-1900=111. 111x12 months/y= 1332. 1332 + 5 (may=05)= 1337)
+process;backslopping in kefir fermentation;the procedure in which a small amount of the finished or intermediate kefir is used to inoculate a new batch with the aim of starting a new fermentation process
+process;consortium;name of the consortium which the study refers to
+process;food choice management process;the food choice management process refers to the complex decision-making process an organism carry out to realize choices about which food to be consumed, and to the choices regarding quantity and mode of consumption of foods.

@@ -1,0 +1,14 @@
+set
+temporal-region
+space-region
+spatio-temporal-region
+measurement-unit
+abstract
+Nothing
+abstract-region
+quality-space
+proposition
+quale
+time-interval
+region
+physical-region

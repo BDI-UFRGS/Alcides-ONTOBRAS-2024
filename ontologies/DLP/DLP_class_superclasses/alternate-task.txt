@@ -1,0 +1,16 @@
+alternate-task
+Thing
+task
+elementary-task
+endurant
+particular
+non-physical-endurant
+branching-task
+course
+non-physical-object
+non-agentive-social-object
+social-object
+control-task
+case-task
+concept
+spatio-temporal-particular

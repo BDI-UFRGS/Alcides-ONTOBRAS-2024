@@ -1,0 +1,4 @@
+part;a portion of a natural object. 'they analyzed the river into three parts'. 'he needed a piece of granite'
+something;anything having existence (living or nonliving)
+entity;anything having existence (living or nonliving)
+piece;a portion of a natural object. 'they analyzed the river into three parts'. 'he needed a piece of granite'

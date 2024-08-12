@@ -1,0 +1,9 @@
+biological-object
+particular
+Thing
+physical-endurant
+physical-body
+endurant
+spatio-temporal-particular
+non-agentive-physical-object
+physical-object

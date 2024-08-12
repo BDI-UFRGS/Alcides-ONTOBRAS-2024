@@ -1,0 +1,13 @@
+status
+particular
+Thing
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+role
+agent-driven-role
+social-object
+concept
+endurant
+spatio-temporal-particular
+social-role

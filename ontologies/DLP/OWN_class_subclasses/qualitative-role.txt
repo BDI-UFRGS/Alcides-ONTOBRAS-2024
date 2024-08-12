@@ -1,0 +1,557 @@
+growth;"something grown or growing. 'a growth of hair'"
+trade expense;ordinary and necessary expenses incurred in a taxpayer's business or trade
+emolument;compensation received by virtue of holding an office or having employment (usually in the form of wages or fees). 'a clause in the u.s. constitution prevents sitting legislators from receiving emoluments from their own votes'
+prize;something given for victory or superiority in a contest or competition. 'the prize was a free trip to europe'
+crackerjack;something excellent of its kind. 'the bike was a jimdandy'
+item;"a distinct part that can be specified separately in a group of things that could be enumerated on a list. 'he noticed an item in the new york times'. 'she had several items on her shopping list'. 'the main point on the agenda was taken up first'"
+final payment;the final payment of a debt
+complex;a conceptual whole made up of complicated and related parts
+platoon;"a group of persons who are engaged in a common activity. 'platoons of tourists poured out of the busses'. 'the defensive platoon of the football team'"
+double time;a doubled wage (for working overtime)
+undercharge;a price that is too low
+bride gift;a wedding present to the bride
+price;cost of bribing someone: 'they say that every politician has a price'
+hanging wall;the upper wall of an inclined fault
+remains;"any object that is left unused or still extant. 'i threw out the remains of my dinner'"
+tuition;a fee paid for instruction (especially for higher education). 'tuition and room and board were more than __25,000'
+strike pay;money paid to strikers from union funds
+admission price;the fee charged for admission
+rate of payment;the amount of money paid out per unit time
+patrimony;an inheritance coming by right of birth (especially by primogeniture)
+pittance;an inadequate payment. 'they work all day for a mere pittance'
+legal fee;a fee paid for legal service
+hearth money;an annual contribution made by roman catholics to support the papal see
+buy;an advantageous purchase. 'she got a bargain at the auction'. 'the stock was a real buy at that price'
+travel allowance;a sum allowed for travel
+theorem;"an idea accepted as a demonstrable truth"
+prize;goods or money obtained illegally
+song;a very small sum. 'he bought it for a song'
+grant in aid;a grant to a person or school for some educational project
+bounty;payment or reward (esp from a government) for acts such as catching criminals or killing predatory animals or enlisting in the military
+docking fee;a fee charged for a vessel to use a dock
+giveaway;(informal) a gift of public land or resources for the private gain of a limited group
+incidental;(frequently plural) an expense not budgeted or not specified. 'he requested reimbursement of __7 for incidental expenses'
+dowry;money or property brought by a woman to her husband at marriage
+transfer payment;a public expenditure (as for unemployment compensation or veteran's benefits) that is not for goods and services
+requirement;"anything indispensable. 'food and shelter are necessities of life'. 'the essentials of the good life'. 'allow farmers to buy their requirements under favorable conditions'. 'a place where the requisites of water fuel and fodder can be obtained'"
+foreign aid;aid (such as economic or military assistance) provided to one nation by another
+remittal;a payment of money sent to a person in another place
+ingrowth;something that grows inward
+discount;an amount or percentage deducted
+transferred property;"a possession whose ownership changes or lapses"
+christmas box;(british) a present given at christmas for services during the year
+nonpayment;loss resulting from failure of a debt to be paid
+teacher;"a personified abstraction that teaches. 'books were his teachers' or 'experience is a demanding teacher'"
+whacker;something especially big or impressive of its kind
+installment plan;a system for paying for goods by installments
+sick pay;wages paid to an employee who is on sick leave
+operating expenses;the expense of maintaining property (e.g., paying property taxes and utilities and insurance). it does not include depreciation or the cost of financing or income taxes
+highlight;the most interesting or memorable part. 'the highlight of the tour was our visit to the vatican'
+rest;"something left after other parts have been taken away. 'there was no remainder'. 'he threw away the rest'"
+origination fee;a charge to a borrower (especially for a mortgage loan) to cover the costs of initiating the loan
+transferred possession;"a possession whose ownership changes or lapses"
+living wage;a wage sufficient for a worker and family to subsist comfortably
+bunce;a sudden unexpected piece of good fortune
+time and a half;a rate of pay that is 1.5 times the regular rate. for overtime work
+staple;"(usually plural) a necessary commodity for which demand is constant"
+jackpot;any outstanding award
+vagabond;"anything that resembles a vagabond in having no fixed place. 'pirate ships were vagabonds of the sea'"
+pay;something that remunerates. 'wages were paid by check'. 'he wasted his pay on drink'. 'they saved a quarter of all their earnings'
+admission;the fee charged for admission
+want;anything that is necessary but lacking. 'he had sufficient means to meet his simple needs'. 'i tried to supply his wants'
+archeological remains;a relic or impression of a plant or animal that existed in a past geological age
+salary;something that remunerates. 'wages were paid by check'. 'he wasted his pay on drink'. 'they saved a quarter of all their earnings'
+tip;a relatively small amount of money given for services rendered (as by a waiter)
+borrowing cost;the cost of borrowing something
+inventory item;an item listed in an inventory
+dividend;a bonus. something extra (especially a share of a surplus)
+contribution;a voluntary gift (as of money or service or ideas) made to some worthwhile cause
+pillage;goods or money obtained illegally
+grant;(law) a transfer of property by deed of conveyance
+forfeit;a penalty for a fault or mistake that involves losing or giving up something. 'the contract specified forfeits if the work was not completed on time'
+security deposit;the amount of collateral a customer deposits with a broker when borrowing from the broker to buy securities
+handling cost;the cost of handling (especially the cost of packaging and mailing an order)
+kernel;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+minor expense;(frequently plural) an expense not budgeted or not specified. 'he requested reimbursement of __7 for incidental expenses'
+award;something given for victory or superiority in a contest or competition. 'the prize was a free trip to europe'
+redress;a sum of money paid in compensation for loss or injury
+pay envelope;wages enclosed in an envelope for distribution to the wage earner
+premium;payment for insurance
+price of admission;the fee charged for admission
+repayment;payment of a debt or obligation
+smart money;(law) compensation in excess of actual damages (a form of punishment awarded in cases of malicious or willful misconduct)
+ransom money;money demanded for the return of a captured person
+hush money;a payment made to someone to insure that something is kept secret
+forfeit;something that is lost or surrendered as a penalty.
+trade discount;a discount from the list price of a commodity allowed by a manufacturer or wholesaler to a merchant
+price;the amount of money needed to purchase something. 'the price of gasoline'. 'he got his new car on excellent terms'. 'how much is the damage?'
+installment;a payment of part of a debt. usually paid at regular intervals
+jimdandy;something excellent of its kind. 'the bike was a jimdandy'
+compensation;something given to recompense for loss or injury
+discount rate;(us) the rate of interest set by the federal reserve that member banks are charged when they borrow money through the federal reserve system
+dockage;a fee charged for a vessel to use a dock
+component;something determined in relation to something that includes it. 'he wanted to feel a part of something bigger than himself'. 'i read a portion of the manuscript'. 'the smaller component is hard to reach'
+minimum wage;the lowest wage that an employer is allowed to pay. determined by contract or by law
+workmen s compensation;compensation for death or injury suffered by a worker in the course of his employment
+one;a single person or thing. 'he is the best one'. 'this is the one i ordered'
+fare;the sum charged for riding in a public conveyance
+stolen property;property that has been stolen
+swag;goods or money obtained illegally
+remission;a payment of money sent to a person in another place
+fee;a fixed charge for professional services
+steal;an advantageous purchase. 'she got a bargain at the auction'. 'the stock was a real buy at that price'
+birthday gift;a present given in celebration of a person's birthday
+reparation;compensation exacted from a defeated nation by the victors
+requisite;"anything indispensable. 'food and shelter are necessities of life'. 'the essentials of the good life'. 'allow farmers to buy their requirements under favorable conditions'. 'a place where the requisites of water fuel and fodder can be obtained'"
+nominal damages;(law) a trivial sum (usually 1.00) awarded as recognition that a legal injury was sustained (as for technical violations of a contract)
+christmas present;a present given at christmas time
+time plan;a system for paying for goods by installments
+admission charge;the fee charged for admission
+microfossil;a fossil that must be studied microscopically
+premium;payment or reward (esp from a government) for acts such as catching criminals or killing predatory animals or enlisting in the military
+guaranty;a collateral agreement to answer for the debt of another in case that person defaults
+theme;"a unifying idea that is a recurrent element in a literary or artistic work. 'it was the usual 'boy gets girl' theme'"
+cash;prompt payment for goods or services in currency or by check
+passion;any object of warm affection or devotion. 'the theater was her first love' or 'he has a passion for cock fighting'
+white elephant;"a valuable possession whole upkeep is expensive"
+lagniappe;a small gift (especially one given by a merchant to a customer who makes a purchase)
+perk;an incidental benefit awarded for certain types of employment (especially if it is regarded as a right). 'a limousine is one of the fringe benefits of the job'
+component part;something determined in relation to something that includes it. 'he wanted to feel a part of something bigger than himself'. 'i read a portion of the manuscript'. 'the smaller component is hard to reach'
+cynosure;something that strongly attracts attention (as the north star attracts mariners). 'let faith be your cynosure to walk by'
+purchase;something acquired by purchase
+godsend;a sudden unexpected piece of good fortune
+rebate;a refund of some fraction of the amount paid
+wall;"anything that suggests a wall in structure or effect. 'a wall of water'. 'a wall of smoke'. 'a wall of prejudice'"
+depreciation;decrease in value of an asset due to obsolescence or use
+costs;pecuniary reimbursement to the winning party for the expenses of litigation
+handling charge;the cost of handling (especially the cost of packaging and mailing an order)
+apanage;a grant (by a sovereign or a legislative body) of resources to maintain a dependent member of a ruling family
+soap;money offered as a bribe
+earnings;something that remunerates. 'wages were paid by check'. 'he wasted his pay on drink'. 'they saved a quarter of all their earnings'
+actual damages;(law) compensation for losses that can readily be proven to have occurred and for which the injured party has the right to be compensated
+composite;a conceptual whole made up of complicated and related parts
+support payment;a payment made by one person for the support of another
+nonremittal;loss resulting from failure of a debt to be paid
+loot;goods or money obtained illegally
+refund;money returned to a payer
+damages;a sum of money paid in compensation for loss or injury
+tontine;an annuity scheme wherein participants share certain benefits and on the death of any participant his benefits are redistributed among the remaining participants. can run for a fixed period of time or until the death of all but one participant
+lighterage;the charge for carrying goods in lighters
+deposit;money given as security for an article acquired for temporary use. 'his deposit was refunded when he returned the car'
+offertory;the offerings of the congregation at a religious service
+retainer;a fee charged for work done
+cost of living allowance;an allowance for changes in the consumer price index
+marrow;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+carrying charge;the opportunity cost of unproductive assets. the expense incurred by ownership
+damage;the amount of money needed to purchase something. 'the price of gasoline'. 'he got his new car on excellent terms'. 'how much is the damage?'
+position;an item on a list or in a sequence. 'in the second place'. 'moved from third to fifth position'
+payoff;the final payment of a debt
+bail bond;(criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial. 'the judge set bail at 10,000'. 'a 10,000 bond was furnished by an alderman'
+palimony;support paid by one half of an unmarried partnership after the relationship ends
+usury;an exorbitant or unlawful rate of interest
+whole;an assemblage of parts that is regarded as a single entity. 'how big is that part compared to the whole?'. 'the repairman simply replaced the unit'
+linage;a rate of payment for written material that is measured according to the number of lines submitted
+requittal;a justly deserved penalty
+lobbying expense;expenses incurred in promoting or evaluating legislation. 'many lobbying expenses are deductible by a taxpayer'
+primogeniture;right of inheritance belongs exclusively to the eldest son
+interest rate;the percentage of a sum of money charged for its use
+nonessential;"anything that is not essential. 'they discarded all their inessentials'"
+write down;reduction in the book value of an asset
+quintessence;the purest and most concentrated essence of something
+escheat;the property that reverts to the state
+payoff;payment made to a person in a position of trust to corrupt his judgment
+allowance;a sum granted as reimbursement for expenses
+expense;amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)
+general damages;(law) compensation for losses that can readily be proven to have occurred and for which the injured party has the right to be compensated
+agenda item;one of the items to be considered
+accretion;(law) an increase in a beneficiary's share in an estate (as when a co-beneficiary dies or fails to meet some condition or rejects the inheritance)
+issue;"an important question that is in dispute and must be settled. 'the issue could be settled by requiring public education for everyone'. 'politicians never discuss the real issues'"
+incentive;an additional payment to employees as a means of increasing output
+footwall;the lower wall of an inclined fault
+subpart;"a part of a part"
+commission;a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary). 'he works on commission'
+bid price;(on the stock exchange) the price at which a broker is willing to buy a certain security
+ground rent;payment for the right to occupy and improve a piece of land
+advance death benefit;a percentage of death benefits paid directly to policy holders having a short life expectancy (usually 6 months)
+backsheesh;a relatively small amount of money given for services rendered (as by a waiter)
+asking price;the price at which something is offered for sale
+marketing cost;the cost of marketing (e.g., the cost of transferring title and moving goods to the customer)
+pay rate;amount of money received per unit time. 'women's pay rate is lower than men's'
+rate of pay;amount of money received per unit time. 'women's pay rate is lower than men's'
+default;loss resulting from failure of a debt to be paid
+acquisition;something acquired. 'a recent acquisition by the museum'
+installment rate;the amount of money paid out per unit time
+addition;something added to what you have already. 'the librarian shelved the new accessions'. 'he was a new addition to the staff'
+birthday present;a present given in celebration of a person's birthday
+gravy;a sudden unexpected piece of good fortune
+factoid;a brief (usually one sentence and usually trivial) news item
+atonement;compensation for a wrong. 'we were unable to get satisfaction from the local store'
+operating cost;the expense of maintaining property (e.g., paying property taxes and utilities and insurance). it does not include depreciation or the cost of financing or income taxes
+hybrid;a composite of mixed origin. 'the vice-presidency is a hybrid of administrative and legislative offices'
+payola;a bribe given to a disc jockey to induce him to promote a particular record
+blood money;compensation paid to the family of a murdered person
+overhead;the expense of maintaining property (e.g., paying property taxes and utilities and insurance). it does not include depreciation or the cost of financing or income taxes
+security;property that your creditor can claim in case you default on your obligation. 'bankers are reluctant to lend without good security'
+mileage;a travel allowance at a given rate per mile traveled
+adjunct;something added to another thing but not an essential part of it
+porterage;the charge for carrying burdens by porters
+opportunity cost;cost in terms of foregone alternatives
+member;"anything that belongs to a set or class: 'snakes are members of the class reptilia'. 'members of the opposite sex'"
+wastage;anything lost by wear or waste
+line item;an item in an appropriation bill. 'some governors can veto line items in their state budgets'
+residue;"something left after other parts have been taken away. 'there was no remainder'. 'he threw away the rest'"
+half pay;reduced wage paid to someone who is not working full time
+essential;"anything indispensable. 'food and shelter are necessities of life'. 'the essentials of the good life'. 'allow farmers to buy their requirements under favorable conditions'. 'a place where the requisites of water fuel and fodder can be obtained'"
+premium;a fee charged for exchanging currencies
+tax rate;rate used to calculate tax liability
+windfall;a sudden unexpected piece of good fortune
+ammonite;one of the coiled chambered fossil shells of extinct mollusks
+cost overrun;excess of cost over budget. 'the cost overrun necessitated an additional allocation of funds in the budget'
+physical value;cost of reproducing physical property minus various allowances (especially depreciation)
+conversation piece;something interesting that stimulates conversation
+carfare;the fare charged for riding a bus or streetcar
+payment;a sum of money paid
+subscription;a payment for consecutive issues of a newspaper or magazine for a given period of time
+allowance;an amount added or deducted on the basis of qualifying circumstances. 'an allowance for profit'
+incidental;an item that is incidental
+offering;a contribution of money to a religious organization
+rate;amount of a charge or payment relative to some basis. 'a 10-minute phone call at that rate would cost __5'
+demurrage;a charge required as compensation for the delay of a ship or freight car or other cargo beyond its scheduled time of departure
+christmas gift;a present given at christmas time
+quittance;payment of a debt or obligation
+middling;"any commodity of intermediate quality or size (especially when coarse particles of ground wheat are mixed with bran)"
+corkage;a charge added at a restaurant for every bottle of wine served that was not bought on the premises
+kickback;a commercial bribe paid by a seller to a purchasing agent in order to induce the agent to enter into the transaction
+moving expense;the cost of moving your residence from one location to another
+train fare;the fare charged for riding a train
+wormcast;fossil trail of a worm
+freight;the charge for transporting something by common carrier. 'we pay the freight,' or 'the freight rate is usually cheaper'
+ribbon;"any long object resembling a thin line. 'a mere ribbon of land'. 'the lighted ribbon of traffic'. 'from the air the road was a gray thread'. 'a thread of smoke climbed upward'"
+extortion;an exorbitant charge
+water rate;(brit) rate per quarter for water from a public supply
+center;the object upon which interest and attention focuses. 'his stories made him the center of the party'
+scholarship;financial aid provided to a student on the basis of academic merit
+top of the line;"the best (most expensive) in a given line of merchandise"
+deposit;a partial payment made at the time of purchase. the balance to be paid later
+refresher;(british) a fee (in addition to that marked on the brief) paid to counsel in a case that lasts more than one day
+surcharge;an additional charge (as for items previously omitted or as a penalty for failure to exercise common caution or common skill)
+interest;a fixed charge for borrowing money. usually a percentage of the amount borrowed. 'how much interest do you pay on your mortgage?'
+pension;a monthly payment to someone who is retired from work
+postposition;the placing of a modifier after the word that it modifies in a sentence
+residual;"something left after other parts have been taken away. 'there was no remainder'. 'he threw away the rest'"
+anticipation;"some early entity whose type or style anticipates a later one. 'there were many anticipations of darwinian theory'. 'the hour glass was an anticipation of the clock'"
+ordinary annuity;an annuity paid in a series of more or less equal payments at the end of equally spaced periods
+jimhickey;something excellent of its kind. 'the bike was a jimdandy'
+retribution;a justly deserved penalty
+pipage;a fee charged for the use of pipes
+stuff;a critically important or characteristic component. 'suspense is the very stuff of narrative'
+ammonoid;one of the coiled chambered fossil shells of extinct mollusks
+relief;(law) redress awarded by a court. 'was the relief supposed to be protection from future harm or compensation for past injury?'
+change;a thing that is different. 'he inspected several changes before selecting one'
+necessity;"anything indispensable. 'food and shelter are necessities of life'. 'the essentials of the good life'. 'allow farmers to buy their requirements under favorable conditions'. 'a place where the requisites of water fuel and fodder can be obtained'"
+bestowal;a gift that is bestowed or conferred
+disbursement;amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)
+mulct;money extracted as a penalty
+rente;income from capital investment paid in a series of regular payments. 'his retirement fund was set up to be paid as an annuity'
+reproduction cost;cost of reproducing physical property minus various allowances (especially depreciation)
+nitty gritty;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+charge per unit;amount of a charge or payment relative to some basis. 'a 10-minute phone call at that rate would cost __5'
+tithe;an offering of a tenth part of some personal income
+cab fare;the fare charged for riding in a taxicab
+fixed charge;a periodic charge that does not vary with business volume (as insurance or rent or mortgage payments etc.)
+toll;a fee levied for the use of roads or bridges (used for maintenance)
+desideratum;something desired as a necessity. 'the desiderata for a vacation are time and money'
+sacrifice;a loss entailed by giving up or selling something at less than its value. 'he had to sell his car at a considerable sacrifice'
+bail;(criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial. 'the judge set bail at 10,000'. 'a 10,000 bond was furnished by an alderman'
+pith;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+meed;(archaic) a fitting reward
+business expense;ordinary and necessary expenses incurred in a taxpayer's business or trade
+seigniorage;charged by a government for coining bullion
+moon;"any object resembling a moon. 'he made a moon lamp that he used as a night light'. 'the clock had a moon that showed various phases'"
+pay packet;wages enclosed in an envelope for distribution to the wage earner
+bank discount;interest on an annual basis deducted in advance on a loan
+core;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+guerdon;a reward or payment
+moral hazard;the loss to an insurance company resulting from possible lack of prudence or honesty on the part of policyholders
+forfeiture;something that is lost or surrendered as a penalty.
+wedding present;a present given to someone getting married
+earnest money;money given by a buyer to a seller to bind a contract
+personal expense;the cost of personal or family living. 'some personal expenses are tax deductible'
+antipathy;the object of a feeling of intense aversion. something to be avoided. 'cats were his greatest antipathy'
+largesse;a gift or money given (as for service or out of benevolence). usually given ostentatiously
+disability benefit;insurance benefits paid in case of disability
+lineage;a rate of payment for written material that is measured according to the number of lines submitted
+horror;something that inspires horror. something horrible. 'the painting that others found so beautiful was a horror to him'
+place;"proper or appropriate position or location. 'a woman's place is no longer in the kitchen'"
+bride price;money or property given (in some societies) by the bridegroom to the family of his bride
+admission fee;the fee charged for admission
+dowery;money or property brought by a woman to her husband at marriage
+donation;a voluntary gift (as of money or service or ideas) made to some worthwhile cause
+freight rate;the charge for transporting something by common carrier. 'we pay the freight,' or 'the freight rate is usually cheaper'
+bank rate;the discount rate fixed by a central bank
+exchange rate;the charge for exchanging currency of one country for currency of another
+appanage;any customary and rightful perquisite appropriate to your station in life
+quodlibet;an issue that is presented for formal disputation
+fellowship;money granted (by a university or foundation or other agency) for advanced study or research
+margin;the amount of collateral a customer deposits with a broker when borrowing from the broker to buy securities
+token payment;a small payment made in acknowledgement of an obligation
+stock buyback;a corporation's purchase of its own outstanding stock. increases earnings/share so stock price rises (which can discourage a takeover attempt)
+necessary;"anything indispensable. 'food and shelter are necessities of life'. 'the essentials of the good life'. 'allow farmers to buy their requirements under favorable conditions'. 'a place where the requisites of water fuel and fodder can be obtained'"
+deduction;an amount or percentage deducted
+excursion rate;a reduced rate for a round-trip ticket
+leftover;a small part or portion that remains after the main part no longer exists
+found;food and lodging provided in addition to money. 'they worked for __30 and found'
+fucoid;a fossilized cast or impression of algae of the order fucales
+spoil;(usually plural) valuables taken by violence (especially in war). 'to the victor belong the spoils of the enemy'
+bonus;an additional payment to employees as a means of increasing output
+baksheesh;a relatively small amount of money given for services rendered (as by a waiter)
+heritage;a title or property that is inherited
+lot;"anything (straws or pebbles etc.) taken or chosen at random. 'the luck of the draw' or 'they drew lots for it'"
+medical expense;amount spent for diagnosis or treatment or prevention of medical problems
+licensing fee;a fee paid to the government for the privilege of being licensed to do something (as selling liquor or practicing medicine)
+organization expense;the cost (over a period of five years) of organizing a new corporation or partnership
+essence;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+devise;(law) a gift of real estate by will
+compound;a whole formed by a union of two or more elements or parts
+agio;a fee charged for exchanging currencies
+prebend;the stipend assigned by a cathedral to a canon
+counterbalance;a compensating equivalent
+center;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+surety;property that your creditor can claim in case you default on your obligation. 'bankers are reluctant to lend without good security'
+dower;money or property brought by a woman to her husband at marriage
+enrichment;a gift that significantly increases the recipient's wealth
+bond;(criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial. 'the judge set bail at 10,000'. 'a 10,000 bond was furnished by an alderman'
+motif;"a unifying idea that is a recurrent element in a literary or artistic work. 'it was the usual 'boy gets girl' theme'"
+treasure;"any possession that is highly valued by its owner. 'the children returned from the seashore with their shells and other treasures'"
+capital expenditure;the cost of long-term improvements
+ransom;money demanded for the return of a captured person
+gratuity;an award (as for meritorious service) given without claim or obligation
+reversionary annuity;an annuity payable to one person in the event that someone else is unable to receive it
+repayment rate;the amount of money paid out per unit time
+point;"a distinct part that can be specified separately in a group of things that could be enumerated on a list. 'he noticed an item in the new york times'. 'she had several items on her shopping list'. 'the main point on the agenda was taken up first'"
+forfeiture;a penalty for a fault or mistake that involves losing or giving up something. 'the contract specified forfeits if the work was not completed on time'
+treble damages;three times the amount that a court would normally find the injured party entitled to
+basic;"(usually plural) a necessary commodity for which demand is constant"
+entrance fee;the fee charged for admission
+carrying cost;the opportunity cost of unproductive assets. the expense incurred by ownership
+payment rate;the amount of money paid out per unit time
+cost;the total spent for goods or services including money and time and labor
+freightage;the charge for transporting something by common carrier. 'we pay the freight,' or 'the freight rate is usually cheaper'
+largess;a gift or money given (as for service or out of benevolence). usually given ostentatiously
+immediate payment;prompt payment for goods or services in currency or by check
+recompense;payment or reward (as for service rendered)
+price support;a government subsidy used to maintain prices at a certain level
+due;a payment that is due (e.g., as the price of membership). 'the society dropped him for non-payment of dues'
+compensatory damages;(law) compensation for losses that can readily be proven to have occurred and for which the injured party has the right to be compensated
+disbursal;amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)
+bargain;an advantageous purchase. 'she got a bargain at the auction'. 'the stock was a real buy at that price'
+annuity;income from capital investment paid in a series of regular payments. 'his retirement fund was set up to be paid as an annuity'
+carrying charge;charge made for carrying an account or for merchandise sold on an installment plan
+discount;interest on an annual basis deducted in advance on a loan
+outlay;money paid out
+parings;"a part that is pared or cut off. especially skin or peel"
+remittance;a payment of money sent to a person in another place
+sum;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+birthright;an inheritance coming by right of birth (especially by primogeniture)
+apanage;any customary and rightful perquisite appropriate to your station in life
+expenditure;money paid out
+remuneration;something that remunerates. 'wages were paid by check'. 'he wasted his pay on drink'. 'they saved a quarter of all their earnings'
+discount;a refund of some fraction of the amount paid
+reward;payment made in return for a service rendered
+subvention;grant of financial aid as from a government to an educational institution
+portage;the cost of carrying or transporting
+unit;"an individual or group or structure or other entity regarded as a structural or functional constituent of a whole. 'the reduced the number of units and installations'. 'the word is a basic linguistic unit'"
+guarantee;a collateral agreement to answer for the debt of another in case that person defaults
+merit pay;extra pay awarded to an employee on the basis of merit (especially to school teachers)
+bakshish;a relatively small amount of money given for services rendered (as by a waiter)
+belemnite;a conical calcareous fossil tapering to a point at one end and with a conical cavity at the other end containing (when unbroken) a small chambered phragmocone from the shell of any of numerous extinct cephalopods of the family belemnitidae
+down payment;a partial payment made at the time of purchase. the balance to be paid later
+center of attention;the object upon which interest and attention focuses. 'his stories made him the center of the party'
+absolute;"something that is conceived to be absolute. something that does not depends on anything else and is beyond human control. 'no mortal being can influence the absolute'"
+prize money;any money given as a prize
+unit cost;calculated cost for a given unit of a product
+world;"a part of the earth that can be considered separately. 'the outdoor world'. 'the world of insects'"
+purchase price;the price at which something is actually purchased
+perquisite;an incidental benefit awarded for certain types of employment (especially if it is regarded as a right). 'a limousine is one of the fringe benefits of the job'
+fine;money extracted as a penalty
+loss;something that is lost. 'the car was a total loss'. 'loss of livestock left the rancher bankrupt'
+place;"an abstract mental location. 'he has a special place in my thoughts'. 'a place in my heart'. 'a political system with no place for the less prominent groups'"
+annuity in advance;an annuity paid in a series of more or less equal payments at the beginning of equally spaced periods. 'rent payable in advance constitutes an annuity in advance for the landlord'
+charge;the price charged for some article or service. 'the admission charge'
+regular payment;a payment made at regular times
+survivorship annuity;an annuity payable to one person in the event that someone else is unable to receive it
+rate of depreciation;the rate at which the value of property is reduced. used to calculate tax deduction
+satisfaction;compensation for a wrong. 'we were unable to get satisfaction from the local store'
+rent;a regular payment by a tenant to a landlord for use of some property
+capital loss;the amount by which the purchase price of an asset exceeds the selling price
+sick benefit;(british) money paid (by the government) to someone who is too ill to work
+compound interest;interest calculated on both the principal and the accrued interest
+indemnity;a sum of money paid in compensation for loss or injury
+conscience money;payment made voluntarily to reduce guilt over dishonest dealings
+inwardness;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+disability payment;a monthly payment made to someone who has become disabled and is unable to work
+wedding gift;a present given to someone getting married
+love;any object of warm affection or devotion. 'the theater was her first love' or 'he has a passion for cock fighting'
+closing price;(on the stock exchange) the price of the last transaction completed during a day's trading session
+need;anything that is necessary but lacking. 'he had sufficient means to meet his simple needs'. 'i tried to supply his wants'
+catch;"anything that is caught (especially if it is worth catching). 'he shared his catch with the others'"
+infatuation;an object of extravagant short-lived passion
+stowage;the charge for stowing goods
+losses;something lost (especially money lost at gambling)
+overcompensation;excessive compensation
+item;"a small part that can be considered separately from the whole. 'it was perfect in all details'"
+retirement check;a monthly payment to someone who is retired from work
+deferred payment;arrangement for deferred payment for goods and services
+overcharge;a price that is too high
+peter s pence;an annual contribution made by roman catholics to support the papal see
+hypostasis;(metaphysics) essential nature or underlying reality
+insurance premium;payment for insurance
+hire purchase;a system for paying for goods by installments
+list price;the selling price of something as stated in a catalogue or price list
+cellarage;a charge for storing goods in a cellar
+item;"an individual unit. especially when included in a list or collection. 'they reduced the price on many items'"
+syndrome;a complex of concurrent things. 'every word has a syndrome of meanings'
+gift;something acquired without compensation
+sickness benefit;(british) money paid (by the government) to someone who is too ill to work
+unit;an assemblage of parts that is regarded as a single entity. 'how big is that part compared to the whole?'. 'the repairman simply replaced the unit'
+terms;the amount of money needed to purchase something. 'the price of gasoline'. 'he got his new car on excellent terms'. 'how much is the damage?'
+legacy;(law) a gift of personal property by will
+thank offering;an offering made as an expression of thanks
+bestowment;a gift that is bestowed or conferred
+booty;goods or money obtained illegally
+retirement fund;a monthly payment to someone who is retired from work
+offset;a compensating equivalent
+reimbursement;compensation paid (to someone) for damages or losses or money already spent etc.. 'he received reimbursement for his travel expenses'
+heirloom;something that has been in a family for generations
+assignment;(law) a transfer of property by deed of conveyance
+whole;"all of something including all its component elements or parts. 'europe as a whole'. 'the whole of american literature'"
+rent rebate;(british) a rebate on rent given by a local government authority
+selling price;the price at which something is offered for sale
+replacement cost;current cost of replacing a fixed asset with a new one of equal effectiveness
+blade;something long and thin resembling a blade of grass. 'a blade of lint on his suit'
+piece;an item that is an instance of some type. 'he designed a new piece of equipment' or 'she bought a lovely piece of china'
+taxi fare;the fare charged for riding in a taxicab
+punitive damages;(law) compensation in excess of actual damages (a form of punishment awarded in cases of malicious or willful misconduct)
+seasonal adjustment;a statistical adjustment made to accommodate predictable fluctuations as a function of the season of the year. 'seasonal adjustments for housing starts must be made in mid-winter'
+travel bargain;a bargain rate for travellers on commercial routes (usually air routes)
+expense;money spent to perform work and usually reimbursed by an employer. 'he kept a careful record of his expenses at the meeting'
+variable;"something that is likely to vary. something that is subject to variation. 'the weather is one variable to be considered'"
+consideration;a fee charged for work done
+residuum;"something left after other parts have been taken away. 'there was no remainder'. 'he threw away the rest'"
+royalty;payment to the holder of a patent or copyright or resource for the right to use their property
+adjustment;an amount added or deducted on the basis of qualifying circumstances. 'an allowance for profit'
+draw;"anything (straws or pebbles etc.) taken or chosen at random. 'the luck of the draw' or 'they drew lots for it'"
+recognizance;(law) a security entered into before a court with a condition to perform some act required by law. on failure to perform that act a sum is forfeited
+upset price;(in an auction) the minimum price at which a seller of property will entertain bids
+outgo;money paid out
+child support;court-ordered support paid by one spouse to the other who has custody of the children after the parents are separated
+detail;"a small part that can be considered separately from the whole. 'it was perfect in all details'"
+grant;any monetary aid
+overpayment;a payment larger than needed or expected
+budget items;the expense of maintaining property (e.g., paying property taxes and utilities and insurance). it does not include depreciation or the cost of financing or income taxes
+traineeship;financial aid that enables you to get trained for a specified job. 'the bill provided traineeships in vocational rehabilitation'
+penalty;a payment required for not fulfilling a contract
+nub;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+double damages;twice the amount that a court would normally find the injured party entitled to
+thing;"a special abstraction. 'a thing of the spirit'. 'things of the heart'"
+whopper;something especially big or impressive of its kind
+credit;arrangement for deferred payment for goods and services
+maintenance;court-ordered support paid by one spouse to another after they are separated
+bribe;payment made to a person in a position of trust to corrupt his judgment
+plunder;goods or money obtained illegally
+gift horse;a gift (usually of inferior quality) that should be accepted uncritically. 'it wasn't much, but don't look a gift horse in the mouth'
+thing;"an entity that is not named specifically. 'i couldn't tell what the thing was'"
+honorarium;a fee paid for a nominally free service
+prime interest rate;the interest rate on short-term loans that banks charge their commercial customers with high credit ratings
+exchange premium;a fee charged for exchanging currencies
+paring;"a part that is pared or cut off. especially skin or peel"
+production cost;combined costs of raw material and labor incurred in producing goods
+hole;"one unit of play from tee to green on a golf course. 'he played 18 holes'"
+viatical settlement;cash derived from sale of an insurance policy by a terminally ill policy holder
+gist;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+take home pay;what is left of your pay after deductions for taxes and dues and insurance etc
+stipend;a sum of money allotted on a regular basis. usually for some specific purpose
+disability check;a monthly payment made to someone who has become disabled and is unable to work
+aid;a gift of money to support a worthy person or cause
+accession;something added to what you have already. 'the librarian shelved the new accessions'. 'he was a new addition to the staff'
+tankage;the charge for storing something in tanks
+financial loss;loss of money or decrease in financial value
+write off;reduction in the book value of an asset
+agiotage;a fee charged for exchanging currencies
+entrance money;the fee charged for admission
+depreciation rate;the rate at which the value of property is reduced. used to calculate tax deduction
+depreciation charge;an amount periodically charged to expense or against revenue in compensation for depreciation of property
+footage;a rate of charging by the linear foot of work done
+simple interest;interest paid on the principle alone
+appanage;a grant (by a sovereign or a legislative body) of resources to maintain a dependent member of a ruling family
+wage;something that remunerates. 'wages were paid by check'. 'he wasted his pay on drink'. 'they saved a quarter of all their earnings'
+offer price;(on the stock exchange) the price at which a broker is willing to sell a certain security
+rate of exchange;the charge for exchanging currency of one country for currency of another
+remnant;a small part or portion that remains after the main part no longer exists
+underpayment;a payment smaller than needed or expected
+web;"an intricate network suggesting something that was formed by weaving or interweaving. 'the trees cast a delicate web of shadows over the lawn'"
+indemnification;a sum of money paid in compensation for loss or injury
+place;an item on a list or in a sequence. 'in the second place'. 'moved from third to fifth position'
+bus fare;the fare charged for riding a bus or streetcar
+expiation;compensation for a wrong. 'we were unable to get satisfaction from the local store'
+gratuity;a relatively small amount of money given for services rendered (as by a waiter)
+recognisance;(law) a security entered into before a court with a condition to perform some act required by law. on failure to perform that act a sum is forfeited
+residual;(often plural) a payment that is made to a performer or writer or director of a television show or commercial that is paid for every repeat showing. 'he could retire on his residuals'
+alimony;court-ordered support paid by one spouse to another after they are separated
+amends;a sum of money paid in compensation for loss or injury
+present;something presented as a gift. 'his tie was a present from his wife'
+bakshis;a relatively small amount of money given for services rendered (as by a waiter)
+heart;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+installment buying;a system for paying for goods by installments
+collateral;a security pledged for the repayment of a loan
+installation charge;the charge for installing something
+cost of living;average cost of basic necessities of life (as food and shelter and clothing). 'a rise in the cost of living reflects the rate of inflation'
+earnest;something of value given by one person to another to bind a contract
+blood money;paid to a hired murderer
+cover charge;a fixed charge by a restaurant or night club over and above the charge for food and drink
+portion;something determined in relation to something that includes it. 'he wanted to feel a part of something bigger than himself'. 'i read a portion of the manuscript'. 'the smaller component is hard to reach'
+particular;"a small part that can be considered separately from the whole. 'it was perfect in all details'"
+blood money;a reward for information about a murderer
+license tax;a fee paid to the government for the privilege of being licensed to do something (as selling liquor or practicing medicine)
+discount rate;interest on an annual basis deducted in advance on a loan
+unknown quantity;"a factor in a given situation whose bearing and importance is not apparent. 'i don't know what the new man will do. he's still an unknown quantity'"
+depreciation allowance;an allowance for loss due to depreciation
+death benefit;insurance or pension money payable to a beneficiary of a deceased
+subway fare;the fare charged for riding a subway train
+substance;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+losings;something lost (especially money lost at gambling)
+exemplary damages;(law) compensation in excess of actual damages (a form of punishment awarded in cases of malicious or willful misconduct)
+inheritance;a title or property that is inherited
+benefit;financial assistance in time of need
+distribution cost;any cost incurred by a producer or wholesaler or retailer or distributor (as for advertising and shipping etc)
+whole thing;an assemblage of parts that is regarded as a single entity. 'how big is that part compared to the whole?'. 'the repairman simply replaced the unit'
+object;"the focus of cognitions or feelings. 'objects of thought'. 'the object of my affection'"
+bequest;(law) a gift of personal property by will
+retirement benefit;a monthly payment to someone who is retired from work
+cost of living benefit;a benefit that goes to anyone whose money receipts increase automatically as prices rise
+inessential;"anything that is not essential. 'they discarded all their inessentials'"
+high spot;the most interesting or memorable part. 'the highlight of the tour was our visit to the vatican'
+benefaction;a contribution of money or assistance
+unit;a single undivided whole. 'an idea is not a unit that can be moved from one brain to another'
+delinquency;nonpayment of a debt when due
+amercement;money extracted as a penalty
+incidental expense;(frequently plural) an expense not budgeted or not specified. 'he requested reimbursement of __7 for incidental expenses'
+service charge;a percentage of a bill (as at a hotel or restaurant) added in payment for service
+subsidy;a grant paid by a government to an enterprise that benefits the public: 'a subsidy for research in artificial intelligence'
+wear and tear;decrease in value of an asset due to obsolescence or use
+fossil;a relic or impression of a plant or animal that existed in a past geological age
+restitution;a sum of money paid in compensation for loss or injury
+rack rent;an extortionate rent
+factory price;price charged for goods picked up at the factory
+thread;"any long object resembling a thin line. 'a mere ribbon of land'. 'the lighted ribbon of traffic'. 'from the air the road was a gray thread'. 'a thread of smoke climbed upward'"
+security blanket;(informal) anything that a person uses to reduce their anxiety
+land grant;a grant of public land (as to a railway or college)
+remainder;"something left after other parts have been taken away. 'there was no remainder'. 'he threw away the rest'"
+meat;"the choicest or most essential or most vital part of some idea or experience: 'the gist of the prosecutor's argument'. 'the nub of the story'"
+part;something determined in relation to something that includes it. 'he wanted to feel a part of something bigger than himself'. 'i read a portion of the manuscript'. 'the smaller component is hard to reach'
+news item;an item in a newspaper
+rate of interest;the percentage of a sum of money charged for its use
+fringe benefit;an incidental benefit awarded for certain types of employment (especially if it is regarded as a right). 'a limousine is one of the fringe benefits of the job'
+voice;"something suggestive of speech in being a medium of expression. 'the wee small voice of conscience'. 'the voice of experience'. 'he said his voices told him to do it'"
+borough english;a former english custom by which the youngest son inherited land to the exclusion of his older brothers
+wharfage;a fee charged for the use of a wharf

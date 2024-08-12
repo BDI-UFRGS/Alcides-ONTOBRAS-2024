@@ -1,0 +1,6 @@
+time-interval
+particular
+Thing
+abstract
+temporal-region
+region

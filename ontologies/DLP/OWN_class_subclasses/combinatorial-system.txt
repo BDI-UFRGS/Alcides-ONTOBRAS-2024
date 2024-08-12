@@ -1,0 +1,12 @@
+syntax;"the grammatical arrangement of words in sentences"
+rule of grammar;a linguistic rule for the syntax of grammatical utterances
+grammatical rule;a linguistic rule for the syntax of grammatical utterances
+phrase structure;"the grammatical arrangement of words in sentences"
+rule;"a rule describing (or prescribing) a linguistic practice"
+affixation;the result of adding an affix to a root word
+morphology;"the admissible arrangement of sounds in words"
+linguistic rule;"a rule describing (or prescribing) a linguistic practice"
+sentence structure;"the grammatical arrangement of words in sentences"
+syllable structure;"the admissible arrangement of sounds in words"
+word structure;"the admissible arrangement of sounds in words"
+sound structure;"the admissible arrangement of sounds in words"

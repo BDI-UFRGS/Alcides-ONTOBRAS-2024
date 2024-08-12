@@ -1,0 +1,68 @@
+quantity;"something that has a magnitude and can be represented in mathematical expressions by a constant or a variable"
+polynomial;a mathematical expression that is the sum of a number of terms
+biquadratic;a polynomial of the fourth degree
+term;any distinct quantity contained in a polynomial. 'the general term of an algebraic equation of the n-th degree'
+variant;a variable quantity that is random
+random variable;a variable quantity that is random
+quadratic;a polynomial of the second degree
+sum;a quantity obtained by addition
+binomial;a quantity expressed as a sum or difference of two terms
+parameter;a constant in the equation of a curve that can be varied to yield a family of similar curves
+parameter;a quantity (such as the mean or variance) that characterizes a statistical population and that can be estimated by calculations from sample data
+voter turnout;the total number of votes cast. 'they are hoping for a large vote'
+cross product;a vector that is the product of two other vectors
+exponential series;a series derived from the expansion of an exponential expression
+mathematical product;a quantity obtained by multiplication. 'the product of 2 and 3 is 6'
+scalar;a variable quantity that cannot be resolved into components
+correlative;either of two correlated variables
+series;the sum of a finite or infinite sequence of expressions
+multiple;the product of a quantity by an integer. '36 is a multiple of 9'
+product;a quantity obtained by multiplication. 'the product of 2 and 3 is 6'
+vector;a variable quantity that can be resolved into components
+numerical quantity;a quantity expressed as a number
+quotient;a quantity obtained by division
+quartic polynomial;a polynomial of the fourth degree
+degree of freedom;an unrestricted variable in a frequency distribution
+vote;the total number of votes cast. 'they are hoping for a large vote'
+constant quantity;a quantity that does not vary
+limit;"a mathematical value toward which a function goes as the independent variable approaches infinity"
+lowest common multiple;the smallest multiple that is exactly divisible by every member of a set of numbers. 'the least common multiple of 12 and 18 is 36'
+vector product;a vector that is the product of two other vectors
+dependent variable;a variable in a logical or mathematical expression whose value depends in the independent variable. if f(x)=y, y is the dependent variable
+argument;a variable in a logical or mathematical expression whose value determines the dependent variable. if f(x)=y, x is the independent variable
+quadruple;a quantity that is four times as great as another
+tensor;a generalization of the concept of a vector
+constant;a quantity that does not vary
+power series;the sum of terms containing successively higher integral powers of a variable
+variable quantity;a quantity that can assume any of a set of values
+geometric series;a geometric progression written as a sum
+proportional;one of the quantities in a mathematical proportion
+parametric quantity;a constant in the equation of a curve that can be varied to yield a family of similar curves
+resultant;a vector that is the sum of two or more other vectors
+degree of freedom;one of the minimum number of parameters needed to describe the state of a physical system
+convergency;the approach of an infinite series to a finite limit
+difference;a quantity obtained by subtraction. 'profit is a positive difference between income and expenses'
+amount;a quantity obtained by addition
+double;a quantity that is twice as great as another. '36 is the double of 18'
+value;a numerical quantity measured or assigned or computed. 'the value assigned was 16 milliseconds'
+range;the limits of the values a function can take. 'the range of this function is the interval from 0 to 1'
+triple;a quantity that is three times as great as another
+total;a quantity obtained by addition
+convergence;the approach of an infinite series to a finite limit
+variate;a variable quantity that is random
+biquadratic polynomial;a polynomial of the fourth degree
+limit point;"a mathematical value toward which a function goes as the independent variable approaches infinity"
+least common multiple;the smallest multiple that is exactly divisible by every member of a set of numbers. 'the least common multiple of 12 and 18 is 36'
+quadratic polynomial;a polynomial of the second degree
+variable;a quantity that can assume any of a set of values
+independent variable;a variable in a logical or mathematical expression whose value determines the dependent variable. if f(x)=y, x is the independent variable
+radius vector;a line connecting a point in space to the origin of a polar coordinate system
+scale value;a value on some scale of measurement
+radius vector;a line connecting a satellite to the center of the body around which it is rotating
+lcm;the smallest multiple that is exactly divisible by every member of a set of numbers. 'the least common multiple of 12 and 18 is 36'
+vector sum;a vector that is the sum of two or more other vectors
+correlate;either of two correlated variables
+point of accumulation;"a mathematical value toward which a function goes as the independent variable approaches infinity"
+fourier series;the sum of a series of trigonometric expressions. used in the analysis of periodic functions
+operand;a quantity upon which a mathematical operation is performed
+monic polynomial;a polynomial in one variable

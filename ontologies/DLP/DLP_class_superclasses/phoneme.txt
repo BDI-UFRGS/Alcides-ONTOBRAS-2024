@@ -1,0 +1,11 @@
+phoneme
+particular
+Thing
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+social-object
+information-object
+linguistic-object
+endurant
+spatio-temporal-particular

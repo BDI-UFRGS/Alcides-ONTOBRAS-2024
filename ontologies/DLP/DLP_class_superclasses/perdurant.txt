@@ -1,0 +1,4 @@
+perdurant
+particular
+Thing
+spatio-temporal-particular

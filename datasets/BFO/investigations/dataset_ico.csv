@@ -1,0 +1,254 @@
+independent continuant;human population;a population of human beings.
+independent continuant;residual clinical biospecimen;a material entity, collected during some health care process, that bears both a specimen role and an excess material role following some act of artifact modification.
+independent continuant;pregnant woman;a woman who is pregnant.
+independent continuant;patient;an agent who bears a patient role.
+independent continuant;contact person for questions about research;a person who is the contact for questions about research.
+independent continuant;nonprofit organization;an organization that is operated without the principal goal of making a financial profit.
+independent continuant;informed consent regulatory body;an organization charged with approving clinical study protocols and ensuring that applicable governing rules and laws are upheld.
+independent continuant;human subject unable to give informed consent;a human subject who is unable to give informed consent. in this case, another person is generally authorized to give consent on his behalf, e.g., parents or legal guardians of a child, though in this circumstance the child may be required to provide informed assent, and conservators for the mentally ill.
+independent continuant;jurisdiction;a site within which a deontic power may be realized, where that deontic power inheres in a formally created regulatory body.
+independent continuant;human subject consenter;a human subject who provides informed consent without a legal guardian.
+independent continuant;agent;a material entity (either a human being or an aggregate of humans such as an organization) which is active in a process or has the relevant capabilities of intentionality.
+independent continuant;consenter;an agent who, at some time, was the bearer of a consent power role, which was, in fact, realized in an act of informed consenting, and who, as a result of this act of informed consenting, now bears a consenter role.
+independent continuant;assenter;an agent who has communicated their assent.
+independent continuant;contact person in informed consent process;a person who can be contacted during an informed consent process.
+independent continuant;contact person for questions about research subject rights;a person who is the contact for questions about research subject right.
+independent continuant;institutional review board;a specially constituted organization comprised of medical, scientific and non-scientific members established and designated by an entity to ensure the protection of the rights, safety and well-being of human subjects recruited to participate in biomedical or behavioral research according to the requirements outlined in title 38, part 16 (same as title 45, part 46 and title 21, part 56) of the u.s. code of federal regulations. irb responsibility include but not limited to the reviewing, approving, and providing continuing review of trial protocol and amendments and of the methods and material to be used in obtaining and documenting informed consent of the trial. other equivalent committees with the same or similar functions are also considered to be irbs.
+independent continuant;repository of documents;a site where documents are preserved.
+independent continuant;research-related injury;a physical injury or illness that is a direct result of the treatment, or procedures required by the protocol, to which the subject would not have been exposed had they not participated in the study.
+independent continuant;profit organization;an organization which has the principle goal of earning financial profit.
+specifically dependent continuant;competency to consent;a capability to consent that is sufficiently robust as to pass the legal requirements of some jurisdiction.
+specifically dependent continuant;vulnerable individual role;a role that inheres in an agent or group of agents that is the output of a process during which the agent or group of agents is designated as belonging to a vulnerable group.
+specifically dependent continuant;data recipient role;a role which is realized in processes of data disclosure.
+specifically dependent continuant;candidate ineligible for study role;a role inhering in a participant who does not meet all eligibility criteria defined within the study protocol.
+specifically dependent continuant;human subject-specified contact person role;a contact person role that is the output of either a human subject or patient assigning that person as their point of contact.
+specifically dependent continuant;covered entity role;a role based on the health insurance portability and accountability act that inheres in individuals, organizations, and agencies that are also health care providers, health plans, or health care clearinghouse.
+specifically dependent continuant;regulatory oversight role;a role that inheres in a regulatory body that, if realized, is realized in some act of regulatory supervision.
+specifically dependent continuant;consenter role;a role that inheres in a patient or the legal guadian when he/she participates the consenting process.
+specifically dependent continuant;risk;a risk is a disposition or the potential future harm that may arise from some present action. it is often combined or confused with the probability of an event which is seen as undesirable.
+specifically dependent continuant;permission role;a deontic role that inheres in an agent and which permits certain actions.
+specifically dependent continuant;assenter role;a role that inheres in a human subject who participates in an assending process.
+specifically dependent continuant;investigator role;a role borne by an agent that, if realized, is realized in an investigation.
+specifically dependent continuant;capability to consent;a cognitive capability inhering in some agent, which may be realized in an act of consent.
+specifically dependent continuant;educational vulnerability;a vulnerability due to exposure to a harsh learning environment.
+specifically dependent continuant;eligibility of candidate participation;a role that represents the eligibility of a candidate according to a study protocol.
+specifically dependent continuant;consent power role;a deontic power role that may be realized in an act of consent that is a process part of an informed consent process.
+specifically dependent continuant;deontic power role;a deontic role that, if realized, is realized in the creation, modification, or revoking of other deontic roles.
+specifically dependent continuant;legally effective consented participant role;a role that inheres in a human being who participates in a consenting process and eventually becomes legally effectively consented.
+specifically dependent continuant;excess material role;a role inhering in some material entity that is realized in an act of artifact modification where the material entity is separated from another portion of material.
+specifically dependent continuant;minor role;a role inhering in a homo sapiens that, if realized, is realized within the organizational context of a legal jurisdiction, when the bearer fails to meet the legal threshold for adulthood.
+specifically dependent continuant;cognitive impairment;a disposition to abnormality realized in cognitive processes that are qualitatively below those of individuals belonging to some type, to which the bearer of the disposition also belongs.
+specifically dependent continuant;contact person role;a role inhering in a person who is a designated contact for some other agent.
+specifically dependent continuant;research subject role;a role that inheres in human being and is an output of some participation in a research study.
+specifically dependent continuant;eligibility screening role;a role that inheres in a person that, if realized, is realized in an eligibility screening process.
+specifically dependent continuant;witness role;a role inhering in an agent as a result of that agent having observed some process.
+specifically dependent continuant;candidate eligible for study role;a role inhering in a participant who meets all eligibility criteria defined within a study protocol.
+specifically dependent continuant;minimal risk;a risk that is equal or lesser than those ordinarily encountered in daily life or during the performance of routine physical or psychological examinations or tests.
+specifically dependent continuant;economic vulnerability;a vulnerability due to exposure to a depressed or impoverished economic environment.
+specifically dependent continuant;data administration function;an organizational function that involves the areas of information systems and computer science. and that may be realized in planning, organizing, describing, and controlling data resources.
+specifically dependent continuant;research assistant role;a role inhering in a homo sapiens that, if realized, is realized in assisting with a research process.
+specifically dependent continuant;prisoner role;a role inhering in a homo sapiens that is realized in a process of incarceration.
+specifically dependent continuant;legal guardian role;a role that inheres in an individual who is authorized under applicable state or local law to consent on behalf of a child or incapable person to general medical care including participation in clinical research.
+specifically dependent continuant;abused person role;a role inhering in a homo sapiens that, if realized, is realized in being a passive participant in some act of abuse process.
+specifically dependent continuant;legal representative role;a deontic role, which may be realized in an act of consent, where the bearer of the legal representative role consents on behalf of a person who lacks the capability to provide consent.
+specifically dependent continuant;organization-specified contact role;a role borne by a human being who is part of a group of individuals and acts as a contact person for the group.
+generically dependent continuant;informed consent form for qualitative study;an informed consent form that is used for a qualitative study.
+generically dependent continuant;informed consent form for human blood sample collection;an informed consent form that is specifically for human blood sample collection.
+generically dependent continuant;yes answer text entity;a filled multiple choice text entity that records a response indicating 'yes' to a multiple choice question.
+generically dependent continuant;informed assent form for cognitively impaired;an informed consent form that is adapted to the cognitive capacities of someone with significant mental impairment.
+generically dependent continuant;incomplete informed consent form;a document act input document that explains all relevant information to assist a human being in understanding the expectations and requirements of participation in a process, and whose purpose is to assist in obtaining consent.
+generically dependent continuant;informed assent form;a document that explains relevant information regarding the expectations and requirements of participation in a research study or clinical procedure, is adapted to the cognitive capacities of that individual so as to assist in that individual's understanding, and is designed to record the assent of that individual.
+generically dependent continuant;trigger condition directive;a directive information entity that describes some state of affairs such that, if that state of affairs holds, some other prescription follows.
+generically dependent continuant;effective date specification in informed consent form;a date specification in an informed consent form that specifies an effective date of an investigation.
+generically dependent continuant;informed consent form for human biospecimen collection;an informed consent form that documents a voluntary decision to deposit a human biospecimen.
+generically dependent continuant;part of informed consent form;a document that is a part of an informed consent form.
+generically dependent continuant;partially filled informed consent form;an informed consent form that has been partially filled with required contents.
+generically dependent continuant;informed consent form signed by human subject;an informed consent form that has been signed by a human subject
+generically dependent continuant;conditional informed consent rule;a rule in an informed consent regulatory document that prescribes an informed consent process and has part trigger condition description.
+generically dependent continuant;ethics directive;a directive information entity prescribes an ethical requirement.
+generically dependent continuant;institutional review board approval number;a review board approval number that is assigned by an institutional review board.
+generically dependent continuant;restriction directive;a directive information entity that prescribes actions that are impermissible.
+generically dependent continuant;description of financial risk;a description of risk that describes the magnitude of potential financial loss.
+generically dependent continuant;review board approval number;a character string that is assigned by a review board upon approval of a regulatory document.
+generically dependent continuant;liability directive;a directive information entity that prescribes the agent that is liable if a trigger condition is met.
+generically dependent continuant;description of incentive;a descriptive information content entity that describes an entity that provides positive motivation for some material entity.
+generically dependent continuant;conditional restriction directive;a conditional specification that prescirbes an impermissibility, should some trigger condition obtain.
+generically dependent continuant;description of coercion;a descriptive information content entity that describes expressions or implications of threat that may compel an agent to act out of fear against the agent's will.
+generically dependent continuant;starting date specification in informed consent form;a date specification in an informed consent form that specifies the starting date of an investigation.
+generically dependent continuant;future use directive;a directive information entity that prescribes the processes that involve some entity as a participant.
+generically dependent continuant;description of procedure for obtaining further information;a descriptive information content entity that describes some procedure for obtaining information only available at some future time.
+generically dependent continuant;description of future data use;a descriptive information content entity that describes how data will be used.
+generically dependent continuant;description of conditional compensation;a descriptive information content entity that describes the conditions under which compensation is due to some agent.
+generically dependent continuant;individually identifiable health information entity;a protected health information entity which identifies an individual. or with respect to which there is a reasonable basis to believe the information can be used to identify an individual.
+generically dependent continuant;complete informed consent form indicating consent;a document act input document that has, as part, an incomplete informed consent form, along with some additional parts, such as a signature, stamp, or initials, which serve as a record to an act of consent that had the incomplete informed consent form as a specified input.
+generically dependent continuant;owner role directive;a directive information entity that prescribes the owner role.
+generically dependent continuant;protection directive;a trigger condition directive that prescribes conditions for which a individual bears a vulnerability role or disposition of vulnerability, or a population of such individuals.
+generically dependent continuant;description of alternative;a descriptive information content entity that describes some process that may be elected.
+generically dependent continuant;protected health information entity;a health information entity which is created, received, stored, or transmitted by covered entities and their business associates in relation to the provision of healthcare, healthcare operations and payment for healthcare services.
+generically dependent continuant;informed consent rule specification;a directive information entity that specifies the deontic roles that are produced, revoked, or modified following a process of informed consent, where those deontic roles inhere in the human subject consenter signing an informed consent form, and the investigator or organization leading a research study or providing health care.
+generically dependent continuant;obligation directive;a directive information entity that prescribes an obligation that is realized a deontic role that is the output of a document act.
+generically dependent continuant;patient role directive;a role directive that prescribes the bearer of a patient role in a process.
+generically dependent continuant;informed consent form for clinical research involving children;an informed consent form for clinical study that involves children.
+generically dependent continuant;informed consent rule;a rule in an informed consent regulatory document that prescribes either an informed consent process or deontic roles inhering in agents that participate in an informed consent process.
+generically dependent continuant;health information entity;an information content entity which is created or received by a health care provider, health plan, public health authority, employer, life insurer, school or university, or health care clearinghouse. and relates to the past, present, or future physical or mental health or condition of any individual, the provision of health care to an individual, or the past, present, or future payment for the provision of health care to an individual.
+generically dependent continuant;signature section;a document part that is specified as a place to receive a signature.
+generically dependent continuant;temporal region identifier;a information content entity that designates a temporal region.
+generically dependent continuant;broad consent rule;a rule in an informed consent regulatory document that prescribes deontic roles that may be realized in an unspecified range of activities, or which is subject to few restrictions.
+generically dependent continuant;waiver document;a document designed for the purpose of assisting in an act of waiving, and which contains both some description of waiver and some waiver directive.
+generically dependent continuant;informed consent identification code;a data item consisting of a unique identification code designating an informed consent.
+generically dependent continuant;permission informed consent rule specification;an informed consent rule specification that specifies an optional course of action that is an option for a participant to take.
+generically dependent continuant;permission transfer directive;a directive information entity that prescribes the process of transferring a permission role from one bearer to another.
+generically dependent continuant;anonymized information content entity;an information content entity that has been processed to prevent the identification of the person with whom the data are associated, thereby enduring in a stasis of anonymization.
+generically dependent continuant;study protocol;a protocol that is formal plan of a research activity, including the objective, rationale, design, materials, and methods for the conduct of the activity.
+generically dependent continuant;description of research procedure;a descriptive information content entity that describes a research procedure.
+generically dependent continuant;informed consent form containing questionnaire;an informed consent form that contains a questionnaire section.
+generically dependent continuant;filled multiple choice text entity;a textual entity that is the recorded response to a multiple choice question.
+generically dependent continuant;clinical trial title;an investigation title that designates a clinical trial study, briefly identifying the purpose or design of the investigation.
+generically dependent continuant;vulnerable population directive;a directive information entity that prescribes some process in which vulnerable individuals participate.
+generically dependent continuant;no answer text entity;a filled multiple choice text entity that records a response indicating 'no' to a multiple choice question.
+generically dependent continuant;description of reputational risk;a description of risk that describes the magnitude or probability of damage to the reputation of an agent in a social context.
+generically dependent continuant;role directive;a directive information entity that prescribes some role.
+generically dependent continuant;secondary use objective specification;an objective specification that prescribes the participation of an information content entity or a material entity in a process prescirbed by a future invesitgation objective specification.
+generically dependent continuant;user input directive;a directive information entity that, when signed, stamped, or initialed realizes a deontic role as described by the document specifications, or specifications in another related document.
+generically dependent continuant;description of legal responsibility;a descriptive information content entity that describes legal responsibility that an entity has due to some risk.
+generically dependent continuant;description of waiver;a descriptive information content entity that describes a directive information content entity that can be ignored.
+generically dependent continuant;contact method description;a descriptive information content entity that describes a method of some act of communicating.
+generically dependent continuant;informed assent form for child or minor;an informed consent form that is adapted to the cognitive abilities and reading abilities child or minor.
+generically dependent continuant;recontact method directive;a document part that prescribes a method of contact in the future.
+generically dependent continuant;description of broad consent;a description of allowed action types that has in view a wide, unspecified range of action types, and is restricted only by a regulator body.
+generically dependent continuant;consent language directive;a directive information entity that prescribes the language that must be used in an informed consent process.
+generically dependent continuant;completely filled informed consent form;an informed consent form that has been filled with all required contents.
+generically dependent continuant;informed consent form for clinical study;an informed consent form that is used for a clinical study.
+generically dependent continuant;project duration specification;a temporal region identifier that designates a project duration.
+generically dependent continuant;description of collected biospecimens;a descriptive information content entity that describes biospecimens that have been collected.
+generically dependent continuant;eligibility questionnaire;a questionnaire whose purpose is to aid in identifying whether an agent is eligible to participate in a process.
+generically dependent continuant;informed consent form for vaccination;an informed consent form that contains sections specific to procedures in vaccination.
+generically dependent continuant;legal age;a temporal region identifier that designates the temporal region during which a living person is alive, and where the temporal region is such that the living person is qualified to exercise a deontic power within a legal jurisdiction.
+generically dependent continuant;description of medical procedure;a descriptive information content entity that describes a medical procedure.
+generically dependent continuant;genetic testing directive;a directive information entity that prescribes some act of genetic testing.
+generically dependent continuant;description of participation benefit;a descriptive information content entity that describes potential benefit or estimates the likelihood of benefit.
+generically dependent continuant;human subject research regulatory document;a regulatory document designed to prescribe research involving human subjects.
+generically dependent continuant;signed informed consent form;an informed consent form that has been signed by at least one participant.
+generically dependent continuant;description of collected information;a descriptive information content entity that describes information that may be collected or the processes of information collection.
+generically dependent continuant;regulatory document;a document that either prescribes actions or prescribes the permissions, obligations, restrictions, or protections relating to public or legal policy.
+generically dependent continuant;contact method directive;a directive information entity that prescribes methods for contacting an agent.
+generically dependent continuant;informed consent form for genetic study;an informed consent form that is designed for use in genetic studies.
+generically dependent continuant;description of future use;a descriptive information content entity that describes future use of material or information.
+generically dependent continuant;informed consent form for storage and future use of unused samples;an informed consent form that is used for a storage and future use of unused samples.
+generically dependent continuant;informed consent form for human urine biospecimen collection;an informed consent form designed for use in human urine collection.
+generically dependent continuant;directive about research of biospecimens;a directive information entity that prescribes some investigation of biospecimens.
+generically dependent continuant;description of participation risk;a descriptive information content entity that describes potential harm or estimates the likelihood of harm.
+generically dependent continuant;informed consent form;a document that explains all relevant information to assist a human being in understanding the expectations and requirements of participation in a process, and is an instrument in obtaining consent and, after having obtained consent, is a record that such a consent has occurred.
+generically dependent continuant;filled questionnaire;a questionnaire that is filled up with answers.
+generically dependent continuant;informed consent form for human saliva sample collection;an informed consent form for human sample collection that is specifically for human saliva sample collection.
+generically dependent continuant;description of consequences of voluntarily withdrawal;a descriptive information content entity that describes the negative impact or harm that may befall an agent who withdraws from an investigation.
+generically dependent continuant;investigation objective specification;an objective specification whose intended process endpoint is an investigation.
+generically dependent continuant;research method directive;a directive information entity that prescribes some research process.
+generically dependent continuant;regulatory oversight role directive;a role directive that prescirbes the bearer of a regulatory oversight role in a process.
+generically dependent continuant;limited data set;protected health information that excludes hipaa-specified identifiers of the individual or of relatives, employers, or household members of the individual.
+generically dependent continuant;obligation informed consent rule specification;an informed consent rule specification that specifies a course of action legally required to be taken.
+generically dependent continuant;confidentiality directive;a directive information entity that prescribes the nondisclosure of information.
+generically dependent continuant;consequent directive;a directive information entity that enumerates the results if a trigger condition describing failure to comply with a rule is met.
+generically dependent continuant;project end date specification;a date specification that designates the date when a project ends.
+generically dependent continuant;legally authorized representative role directive;a role directive that prescribes the bearer of a legally authorized representative role in process.
+generically dependent continuant;required informed consent element;a document part of an informed consent form for which an answer is required in order to complete the form.
+generically dependent continuant;investigator role directive;a role directive that prescribes the bearer of an investigator role in a process.
+generically dependent continuant;waiver directive;a directive information entity that prescribes an act of waiving.
+generically dependent continuant;withdrawal from participation directive;a directive information entity that prescribes some process for withdraw from another planned process.
+generically dependent continuant;allowed research scope in informed consent form;a directive information entity that specifies the scope of allowed research and is derived from a research protocol.
+generically dependent continuant;data sharing directive;a directive information entity that prescribes the information that is permitted to be shared or the processes for sharing that information.
+generically dependent continuant;investigator signature section in informed consent form;a signature section in an informed consent form that is specified as a place to receive a signature from an investigator.
+generically dependent continuant;signature;an information content entity that is a handwritten depiction of a name.
+generically dependent continuant;deontic power role directive;a directive information entity that prescribes a deontic power role or the process that realizes it.
+generically dependent continuant;disclosure directive;a directive information entity that prescribes information that must be revealed and prescribes to whom that information must be revealed.
+generically dependent continuant;date specification in informed consent form;a data item that indicates a date that specified on an informed consent form.
+generically dependent continuant;question textual entity;a textual entity that is a sentence in the interrogative mood.
+generically dependent continuant;optional informed consent element;a document part of an informed consent form for which an answer is not required in order to complete the form.
+generically dependent continuant;study duration measurement;a time measurement datum that measures the duration of a study.
+generically dependent continuant;option to check;an answer directive that is part of a document and whose filling in or leaving blank is incidental to the completion of the form.
+generically dependent continuant;informed consent regulatory document;a regulatory document designed to prescribe an informed consent process or inputs in an informed consent process.
+generically dependent continuant;contact directive;a directive information entity that prescribes a human being who is to bear a contact role.
+generically dependent continuant;informed consent form for qualitative research involving children;an informed consent form for qualitative study that involves children.
+generically dependent continuant;conditional obligation directive;a conditional specification that prescirbes an obligation, should some trigger condition obtain.
+generically dependent continuant;description of discomfort;a descriptive information content entity that describes an emotional state of mental or physical uneasiness.
+generically dependent continuant;description of future biospecimen use;a descriptive information content entity that describes how biospecimens will be used.
+generically dependent continuant;informed consent form signing date;a date specification that designates when an informed consent form was signed.
+generically dependent continuant;human subject signature section in informed consent form;a signature section in informed consent element that that is specified as a place to receive a signature from a human subject.
+generically dependent continuant;project starting date specification;a date specification that designates the date when a project begins.
+process;subject withdrawal with sample stored for unlimited time;a planned process that represents a study participant withdrawing from the study and agreeing to have the participant sample stored for unlimited time.
+process;clinical trial;a study that is a clinical trial that requires an informed consent process.
+process;informed consent process with assent;an informed consent process that has an act of communicating assent as a process part, where the person who provides the assent does not bear a competency to consent.
+process;stasis of regulation;a stasis of generically dependent continuant that has participant some information content entity and during which that information content entity is recognized within that jurisdiction and directs governance within that jurisdiction.
+process;secondary use;a planned process that involves a human biological specimen originally collected for the purpose of treatment or a different investigation.
+process;explaining study protocol to participant candidate;in order to make sure that the candidate is informed adequately from his or her perspective, the protocol of the study including the protocol of participating, for example, what kind of procedure the participant will be involved, how many scheduled visits will be explained.
+process;participant candidate making voluntary decision of acceptance;a process in which a candidate makes a voluntary decision to join a study, following their consideration of adequate information presented to them regarding the study and their participation in it.
+process;archiving signed informed consent form;a planned process that collect a signed informed consent form. during this process, the information is systematically kept in a repository.
+process;act of filling out form;a planned process of providing information according to prompts on a form.
+process;standard medical treatment;a treatment currently in wide use and approved by a regulatory body or health authority, considered to be effective in the treatment of a specific disease or condition.
+process;act of archiving informed consent;a planned process of storing the document output of an 'act of consent' for future use.
+process;explaining sample process and usage to participant candidate;in order to make sure that the candidate is informed adequately from his or her perspective, the process of collecting, storing or destroying the sample collected from the study subject is to be explained.
+process;act of abuse;a process of mistreating an entity such that the mistreated entity is harmed.
+process;cancer research investigation;an investigation that targets cancer research.
+process;signing an informed consent form;a social act that is a part of an informed consent process and has output of a signed informed consent form. the signing process leads to a legal obligation.
+process;act of communicating;a planned process in which some entity provides information to another entity.
+process;drug testing investigation;an investigation that targets drug testing.
+process;stasis of anonymization;a stasis of generically dependent continuant that has participant some information content entity which, during the stasis, is unable to be used to identify some agent which the information is about.
+process;withdrawing participation in study;a planned process in which an agent decides to discontinue further participation in a study.
+process;validating an informed consent form;a planned process that validates an informed consent form.
+process;explaining benefits of participation to participant candidate;the potential benefit to the study subject that may arise from participating the study research is to be explained to candidate
+process;explaining to participant candidate about the study participating information;a planned process that involves explanation to a human subject candidate with relevant study information, including study purpose, protocol, and human subject benefits and risks, that indicated in an informed consent form.
+process;subject withdrawal with sample stored for limited time;a planned process that represents a study participant withdrawing from the study and agreeing to have the participant sample stored for a limited time period.
+process;act of genetic testing;a planned process that involves the investigation of some sequence of dna.
+process;act of storing;a planned process that involves placing a material entity in some location in order to maintain possession of it.
+process;legally effective consenting;a planned process that results in a legally effective consent status.
+process;act of disclosure;an act of communicating in which information is shared, overriding or violating a judgment that the information should not be shared.
+process;act of canceling a permission;a planned process that revokes a permission role inhering in some agent.
+process;study requiring informed consent;an investigation that requires an informed consent process.
+process;nonprofit research investigation;an investigation that is conducted with a nonprofit purpose.
+process;act of removing identifiable information;an act of anonymization that alters an information content entity by removing information content which identifies that individual.
+process;filling informed consent form;a planned process that involves the filling of an informed consent form.
+process;act of storing signed informed consent form;an act of storing a complete informed consent form.
+process;act of data use;a planned process in which data is put to some use by an entity.
+process;act of authorizing;a planned process of making the decision of the competent authorities in form of a letter, document, or verbal or electronic form, that confirms that somebody has permission to do something or be somewhere, e.g. to realize a given project.
+process;explaining risks of participation to participant candidate;the potential future harm that may arise from participating the study research is to be explained to candidate
+process;explaining study purpose to participant candidate;as a partial process of inform the candidate about the study participating information, the purpose of the study will be explained to make sure that the candidate is informed adequately from his/her perspective.
+process;filling questionnaire;a planned process that involves the filling of a questionnaire form that includes a list of questions.
+process;act of selling;a planned process in which goods or services are exachanged for money.
+process;consenting to not to be informed about incidental finding;a planned process for a subject agrees not to be informed about any incidental finding.
+process;consenting in short form;an informed consent process in which the participant is not able to read and write in the language of the informed consent form, but is aided in understanding the informed consent process by a translation into the agent's native language.
+process;blood sample collecting;a biological sample collecting in which a blood sample from a subject is collected for testing.
+process;archiving signed scanned paper informed consent form;a process of storage of signed informed consent form when the form is in digital format.
+process;study termination;a process that terminates a study.
+process;act of data sharing;a planned process in which data possessed by one person or organization is shared with one or more other persons or organizations.
+process;act of anonymizing;a planned process that involves altering an information content entity that is associated with an individual, such that such association is lost or inaccessible.
+process;stasis of law;a stasis of regulation that has participant some information content entity and during which that information content entity is recognized as a law within the jurisdiction in which the stasis of regulation is occurring.
+process;ownership statis;a stasis in which an entity bears an ownership role.
+process;act of waiving;a social act of relinquishing a right, claim, or privilege.
+process;adult consent process;an informed consent process where the person who is being asked to consent is an adult.
+process;informed verbal consent;an informed consent process in which the participant communicates consent orally rather than by filling out and signing a written form.
+process;postmortem donation of biological specimen;a planned process in which an agent's designated biological specimen is collected after the death of the agent.
+process;authorization for release of confidential health information;an act of authorizing that is signed by a patient, or his legal representative, or clinical study participant for the use or disclosure of oral, written, or electronic form of confidential health information that identifies the individual and relates to the medical history, diagnosis, treatment, or prognosis of his condition.
+process;act of approving;a social act in which formal or official endorsement of some entity is communicated.
+process;approving an informed consent form;a planned process that approves an informed consent form.
+process;eligibility screening process;a planned process to screen the eligibility of a candidate for a study or procedure, verifying whether certain sufficient or necessary conditions for eligibility obtain.
+process;act of regulatory supervision;a planned process in which a regulatory body directs or monitors another planned process.
+process;act of declining to provide consent;a planned process in which a person decides not to provide consent.
+process;act of permitting;a social act in which an agent bearing a deontic power role and realizes that role in the creation of a permission role.
+process;act of storing a specimen;a planned process that involves placing a specimen in some location in order to maintain possession of it.
+process;act of informed consenting;an act of permitting that is a process part of some informed consent process.
+process;archiving signed electronic informed consent form;a planned process of storage of signed informed consent form when the form is in digital format.
+process;explaining record confidentiality to participant candidate;in order to enable the candidate to make voluntary decision, the options for enhancing the protection of confidentiality for participants who have contributed personal information to a study is to be explained.
+process;designing an informed consent form;a planned process that involves the design of an informed consent form.
+process;consenting not to have financial benefit;an informed consent for a subject agrees not to have financial benefit in the future.
+process;human research investigation;an investigation that involves human research.
+process;explaining to participant candidate in informed consent process;a planned process of communicating information about an informed consent process.
+process;tissue sample collecting;a biological sample collecting in which a tissue sample from a subject is collected for testing.
+process;act of using study participant data;a planned process that involves using data which was an output of a human being's participation in a study and which is about that human being.
+process;parental informed consent process;an informed consent process in which a parent reaches a decision concerning whether or not to grant consent on a minor's behalf, when the minor is incapable of providing consent for themselves.
+process;act of informing;a social act in which information that is thought to be true, salient, or which is held to have a high degree of certainty is communicated to an agent that previously lacked that information.
+process;explaining study derived data usage to participant candidate;in the case of promoting future data sharing, the usage of the data derived from a study is to be explained to the candidate.
+process;broad consent process;a planned process for an unspecified range of future research subject to a few content or process restrictions.
+process;act of communicating assent;an act of communicating one s agreement.
+process;for-profit research investigation;an investigation that is conducted with the purpose of earning a profit.
+process;biological sample collecting;a planned process in which a biological sample from a subject is collected for testing.
+process;act of contact for future research;a planned process in which an agent contacts a participant of an informed consent process regarding opportunities related to future research.

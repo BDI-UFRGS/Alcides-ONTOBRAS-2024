@@ -1,0 +1,12 @@
+commitment
+particular
+Thing
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+social-object
+description
+endurant
+spatio-temporal-particular
+modal-description
+cognitive-modal-description

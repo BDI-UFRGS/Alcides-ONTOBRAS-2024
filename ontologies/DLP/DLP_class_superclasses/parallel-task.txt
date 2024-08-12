@@ -1,0 +1,16 @@
+parallel-task
+Thing
+task
+elementary-task
+endurant
+particular
+non-physical-endurant
+branching-task
+course
+non-physical-object
+non-agentive-social-object
+concurrency-task
+social-object
+control-task
+concept
+spatio-temporal-particular

@@ -1,0 +1,11 @@
+taxonomic-collection
+particular
+Thing
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+simple-collection
+social-object
+endurant
+spatio-temporal-particular
+collection

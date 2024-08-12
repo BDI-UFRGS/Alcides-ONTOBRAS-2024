@@ -1,0 +1,6 @@
+cognitive-event
+event
+particular
+Thing
+perdurant
+spatio-temporal-particular

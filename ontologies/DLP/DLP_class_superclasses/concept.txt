@@ -1,0 +1,9 @@
+concept
+particular
+Thing
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+social-object
+endurant
+spatio-temporal-particular

@@ -1,0 +1,5 @@
+physical-region
+particular
+Thing
+abstract
+region

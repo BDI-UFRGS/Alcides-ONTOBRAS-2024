@@ -1,0 +1,498 @@
+hour angle;(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing. the right ascension for an observer at a particular location and time of day
+stokehold;(nautical) chamber or compartment in which the furnaces of a ship are stoked or fired
+axil;the upper angle between an axis and an offshoot such as a branch or leafstalk
+thumbhole;a hole made to fit the thumb (as in a bowling ball)
+stratum germinativum;the innermost layer of the epidermis
+interior angle;the angle inside two adjacent sides of a polygon
+bull;the center of a target
+celestial longitude;(astronomy) the angular distance eastward along the celestial equator from the vernal equinox to the intersection of the hour circle that passes through the body. expressed in hours and minutes and second. used with declination to specify positions on the celestial sphere. 'one hour of right ascension equals fifteen degrees'
+internal angle;the angle inside two adjacent sides of a polygon
+forge;a special hearth where metal is heated before shaping
+showerhead;a perforated nozzle that showers water on a bather
+stokehole;(nautical) chamber or compartment in which the furnaces of a ship are stoked or fired
+fire;a fireplace in which a fire is burning. 'they sat by the fire and talked'
+breech;where bullets are loaded
+farmyard;an area adjacent to farm buildings
+air hole;a hole that allows the passage of air
+lithosphere;the solid part of the earth
+resonator;a hollow chamber whose dimensions allow the resonant oscillation of electromagnetic or acoustic waves
+coop;made or wire or metal bars in which birds or animals are kept
+matrix;an enclosure within which something originates or develops (from the latin for womb)
+subarachnoid space;a space in the meninges beneath the arachnoid membrane and above the pia mater that contains the cerebrospinal fluid
+crotch;the angle formed by the inner sides of the legs where they join the human trunk
+hawsehole;anchor rope passes through this hole
+rotary;a road junction at which traffic streams circularly around a central island. 'the accident blocked all traffic at the rotary'
+ore bed;a stratum of ore
+acute angle;an angle less than 90 degrees
+a horizon;the top layer of a soil profile. usually contains humus
+centre of curvature;the center of the circle of curvature
+mouth;an opening that resembles a mouth (as of a cave or a gorge). 'he rode into the mouth of the canyon'. 'they built a fire at the mouth of the cave'
+reentrant angle;an interior angle of a polygon that is greater than 180 degrees
+stratosphere;the atmospheric layer between the troposphere and the mesosphere
+crater;a fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt
+gas oven;a cremation chamber fueled by gas
+mortise;a square hole made to receive a tenon and so to form a joint
+angle of dip;(physics) the angle that a magnetic needle makes with the plane of the horizon
+lattice;small opening (like a window in a door) through which business can be transacted
+b horizon;immediately below the a-horizon. contains deposits of organic matter leached from surface soils
+midst;the location of something surrounded by other things. 'in the midst of the crowd'
+nose;a projecting spout from which a fluid is discharged
+rear window;allows vision out of the back of the car
+mortice;a square hole made to receive a tenon and so to form a joint
+core;the central part of the earth
+burial vault;a burial chamber (usually underground)
+stall;small individual study area in a library
+rip;an opening made forcibly as by pulling apart. 'there was a rip in his pants'
+hole;an opening deliberately made in or through something
+thermosphere;the atmospheric layer between the mesosphere and the exosphere
+pen;an enclosure for confining livestock
+junction;"the place where two things come together"
+cuticle;the outer layer of the skin covering the exterior body surface of vertebrates
+peephole;a hole (in a door or an oven etc) through which you can peep
+coin slot;a slot through which coins can be inserted into a slot machine
+navel point;the center point or middle of something
+bull s eye;the center of a target
+keyhole;the hole where a key is inserted
+hole;an unoccupied space
+bullet hole;a hole made by a bullet passing through it
+c horizon;beneath the b-horizon and above the bedrock. consisting of weathered rock
+niche;a space set back or indented
+defile;a narrow pass (especially one between mountains)
+space;"an empty area (usually bounded in some way between things). 'the architect left space in front of the building'. 'they stopped at an open space in the jungle'. 'the space between his teeth'"
+inclination;(geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)
+pocket;an enclosed space
+playpen;a portable enclosure in which babies may be left to play
+hold;the space in a ship or aircraft for storing cargo
+corium;the deep vascular inner layer of the skin
+cavity resonator;a hollow chamber whose dimensions allow the resonant oscillation of electromagnetic or acoustic waves
+face angle;the angle formed by two edges of a polyhedral angle
+asthenosphere;the lower layer of the crust
+split;an opening made forcibly as by pulling apart. 'there was a rip in his pants'
+corncob;the hard cylindrical core that bears the kernels of an ear of corn
+apse;a domed or vaulted recess or projection on a building especially the east end of a church. usually contains the the altar
+angle of incidence;the angle that a line makes with a line perpendicular to the surface at the point of incidence
+salient angle;an angle pointing outward. an interior angle of a polygon that is less than 180 degrees
+fireplace;an open recess in a wall at the base of a chimney where a fire can be built
+stage right;the part of the stage on the actor's right
+cave;an underground enclosure with access from the surface of the ground or from the sea
+pallium;(zoology) a protective layer of epidermis in mollusks or brachiopods that secretes a substance forming the shell
+lead;the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)
+sepulture;a chamber that is used as a grave
+sheep pen;a pen for sheep
+optic disc;"the point where the optic nerve enters the retina. not sensitive to light"
+chap;a crack in a lip caused usually by cold
+malpighian layer;the innermost layer of the epidermis
+caisson;large watertight chamber used for construction under water
+angular distance;the angular separation between two objects as perceived by an observer. 'he recorded angular distances between the stars'
+spyhole;a hole (in a door or an oven etc) through which you can peep
+stratum;one of several parallel layers of material arranged one on top of another (such as a layer of tissue or cells in an organism)
+monro s foramen;the small opening (on both the right and left sides) that connects the third ventricle in the diencephalon with the lateral ventricle in the cerebral hemisphere
+geosphere;the solid part of the earth
+mantle;the layer of the earth between the crust and the core
+ear hole;a hole (as in a helmet) for sound to reach the ears
+stockyard;enclosure where cattle, pigs, horses, or sheep are kept temporarily
+vacuum;"a region empty of matter"
+focus;"a point of convergence of light (or other radiation) or a point from which it diverges"
+focal point;"a point of convergence of light (or other radiation) or a point from which it diverges"
+foramen magnum;the large opening at the base of the cranium through which the spinal cord passes
+rent;an opening made forcibly as by pulling apart. 'there was a rip in his pants'
+blank;a blank space or missing part
+soil horizon;a layer in a soil profile
+angle of view;the angle included by a photographic lens
+midpoint;"a point equidistant from the ends of a line or the extremities of a figure"
+chicken yard;an enclosed yard for keeping poultry
+tribune;the apse of a christian church that contains the bishop's throne
+chink;a narrow opening as e.g. between planks in a wall
+storage area;the space in a ship or aircraft for storing cargo
+sac;an enclosed space
+gun chamber;the part of a gun that receives the charge
+right angle;the 90 degree angle between two perpendicular lines
+abutment;"point of contact between two objects or parts"
+mausoleum;a large tomb, usually above ground
+plughole;(british) a hole into which a plug fits (especially a hole where water drains away)
+cremation chamber;a furnace where a corpse can be burned and reduced to ashes
+window;a transparent opening in a vehicle that allow vision out of the sides or back. usually is capable of being opened
+angle of attack;the acute angle between the direction of the undisturbed relative wind and the chord of an airfoil
+foramen;an opening or perforation through a bone or a membranous structure
+rodeo;an enclosure for cattle that have been rounded up
+neck;the part of a garment near the neck
+aperture;an opening. usually small
+gun muzzle;the open discharging end of a gun
+crossway;a place where one street or road crosses another
+wicket;small opening (like a window in a door) through which business can be transacted
+cow pen;an enclosure for cattle
+fold;a pen for sheep
+troposphere;the lowest atmospheric layer. from 4 to 11 miles high (depending on latitude)
+mesosphere;the atmospheric layer between the stratosphere and the thermosphere
+smoke hole;a vent (as in a roof) for smoke to escape
+meeting;"a place where two things come together. 'pittsburgh is located at the confluence of the allegheny and monongahela rivers'"
+vacuum chamber;a chamber from which nearly all matter (especially air) has been removed
+gap;a pass between mountain peaks
+perigon;an angle of 360 degrees
+interchange;a junction of highways on different levels that permits traffic to move from one to another without crossing traffic streams
+interstice;small opening between things
+throat;an opening in the vamp of a shoe at the instep
+angle;the space between two lines or planes that intersect. the inclination of one line to another. measured in degrees or radians
+external angle;the supplement of an interior angle of a polygon
+quarterlight;(british) a small pivoted window vent in the door of a car
+notch;"the location in a range of mountains of a geological formation that is lower than the surrounding peaks. 'we got through the pass before it started to snow'"
+porthole;an opening (in a wall or ship or armored vehicle) for firing through
+steam chest;the chamber from which steam is distributed to a cylinder
+fireroom;(nautical) chamber or compartment in which the furnaces of a ship are stoked or fired
+t junction;a junction where two roads or pipes etc meet to form a t
+midland;the interior part of a country
+confluence;"a place where two things come together. 'pittsburgh is located at the confluence of the allegheny and monongahela rivers'"
+paries;(anatomy) a layer (a lining or membrane) that encloses a structure. 'stomach walls'
+bay;a small recess opening off a larger room
+stuffing box;a small chamber in which packing is compressed around a shaft to form a seal
+bunghole;a hole in a barrel or cask. used to fill or empty it
+cookfire;a fire for cooking
+fowl run;an enclosed yard for keeping poultry
+thrust fault;an inclined fault in which the hanging wall appears to have been thrust upward with respect to the footwall
+finger hole;one of a series of holes in a woodwind instrument. pitch changes when a finger covers it
+rete malpighii;the innermost layer of the epidermis
+oil furnace;a furnace that burns oil
+mouth hole;a hole (as in a ski mask) for the mouth
+nucleus;(astronomy) the center of the head of a comet. consists of small solid particles of ice and frozen gas that vaporizes on approaching the sun to form the coma and tail
+wave angle;the angle of arrival (or departure) of a radio wave with respect to the axis of an antenna array
+thumbhole;the hole in a woodwind that is closed and opened with the thumb
+corral;an enclosure for cattle
+vault;a burial chamber (usually underground)
+view angle;the angle included by a photographic lens
+cockpit;an enclosure for cockfights
+apsis;a domed or vaulted recess or projection on a building especially the east end of a church. usually contains the the altar
+gulf;a deep wide chasm
+hydrosphere;the watery layer of the earth's surface. includes water vapor
+break;(geology) a fracture in the earth's crust with displacement of one side with respect to the other. 'they built it right on the san andreas fault'
+mouthpiece;the part of a wind instrument into which the player blows directly
+fault line;(geology) a fracture in the earth's crust with displacement of one side with respect to the other. 'they built it right on the san andreas fault'
+saddleback;a pass or ridge that slopes gently between two peaks (is shaped like a saddle)
+core;the region of a nuclear reactor containing the fissile material where the reaction takes place
+substratum;any stratum lying underneath another
+gap;an open or empty space in or between things. 'there was a small opening between the trees'. 'the explosion made a gap in the wall'
+lubber s hole;hole in a platform on a mast through which a sailor can climb without going out on the shrouds
+master cylinder;a cylinder that contains brake fluid that is compressed by a piston
+lacuna;a blank space or missing part
+volcano;a fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt
+electric arc furnace;a steel-making furnace in which an electric arc provides the source of heat
+enclosure;"a naturally enclosed space"
+pigpen;an enclosure for swine
+alcove;a small recess opening off a larger room
+sepulchre;a chamber that is used as a grave
+paddock;an enclosure where racehorses are saddled and paraded before a race
+cattle pen;an enclosure for cattle
+open fireplace;an open recess in a wall at the base of a chimney where a fire can be built
+neckline;the line formed by the edge of a garment around the neck
+cup;the hole (or metal container in the hole) on a golf green. 'he swore as the ball rimmed the cup and rolled away'. 'put the flag back in the cup'
+perforation;a line of small holes for tearing at a particular place
+bight;the middle part of a slack rope (as distinguished from its ends)
+bolt hole;a hole through which an animal may bolt when pursued into its burrow or den
+crack;a long narrow opening
+gravity fault;an inclined fault in which the hanging wall appears to have slipped down relative to the footwall
+reentering angle;an interior angle of a polygon that is greater than 180 degrees
+interventricular foramen;the small opening (on both the right and left sides) that connects the third ventricle in the diencephalon with the lateral ventricle in the cerebral hemisphere
+vacancy;an empty area or space. 'the huge desert voids'. 'the emptiness of outer space'
+critical angle;the smallest angle of incidence for which light is totally reflected
+mail slot;a slot (usually in a door) through which mail can be delivered
+sounding board;(music) a thin resonating board whose vibrations reinforce the sound of the instrument
+pore;a minute epidermal pore in a leaf or stem
+level crossing;the intersection of a railway and a road on the same level. barriers close road when trains pass
+crevice;a long narrow opening
+venthole;an opening for the escape of gas or air
+left;"location near or direction toward the left side. i.e. the side to the north when a person or object faces east: 'she stood on the left'"
+chasm;a deep opening in the earth's surface
+centre of gravity;the point within something at which gravity can be considered to act
+tropopause;the region of discontinuity between the troposphere and the stratosphere
+cavern;a large cave or a large chamber in a cave
+cage;made or wire or metal bars in which birds or animals are kept
+slit;a long narrow opening
+enclosed space;space that is surrounded by something
+pinfold;a pen where stray animals are confined
+fracture;(geology) a fracture in the earth's crust with displacement of one side with respect to the other. 'they built it right on the san andreas fault'
+lunette;oval or circular. to allow light into a dome or vault
+crevasse;a deep fissure
+rathole;a hole (as in the wall of a building) made by rats
+air lock;a chamber that provides access to space where air is under pressure
+coal seam;a seam of coal
+armhole;through which you put your arm and where sleeve can be attached
+crew neckline;a plain straight neck opening from shoulder to shoulder of sweaters
+centre;"a point equidistant from the ends of a line or the extremities of a figure"
+incidence angle;the angle that a line makes with a line perpendicular to the surface at the point of incidence
+inside;"the region that is inside of something"
+geological fault;(geology) a fracture in the earth's crust with displacement of one side with respect to the other. 'they built it right on the san andreas fault'
+outlet;an opening that permits escape or release. 'he blocked the way out'. 'the canyon had only one issue'
+stratum basale;the innermost layer of the epidermis
+button hole;buttons are pushed through it
+substrate;any stratum lying underneath another
+tokamak;a doughnut-shaped chamber used in fusion research. a plasma is heated and confined in a magnetic bottle
+wind gap;a pass in a mountain ridge with no stream flowing through it
+right ascension;(astronomy) the angular distance eastward along the celestial equator from the vernal equinox to the intersection of the hour circle that passes through the body. expressed in hours and minutes and second. used with declination to specify positions on the celestial sphere. 'one hour of right ascension equals fifteen degrees'
+hutch;a cage (usually made of wood and wire mesh) for small animals
+circle;a road junction at which traffic streams circularly around a central island. 'the accident blocked all traffic at the rotary'
+puncture;a small hole made by a sharp object
+cavity;space that is surrounded by something
+turning point;the intersection of two streets. 'standing on the corner watching all the girls go by'
+snow;a layer of snowflakes (white crystals of frozen water) covering the ground
+oblique angle;an angle that is not a right angle or a multiple of a right angle
+sack;an enclosed space
+micropyle;minute opening in the wall of an ovule through which the pollen tube enters
+car window;a window in a car
+port;an opening (in a wall or ship or armored vehicle) for firing through
+cleft;a long narrow opening
+vacuity;"a region empty of matter"
+pupil;contractile aperture in the iris of the eye
+magnetic dip;(physics) the angle that a magnetic needle makes with the plane of the horizon
+breach;an opening (especially a gap in a dike or fortification)
+sound hole;a hole in a soundboard (as of a violin) designed to resonate with the tones
+fissure;a long narrow opening
+nucleus;the positively charged dense center of an atom
+carrell;small individual study area in a library
+roundabout;a road junction at which traffic streams circularly around a central island. 'the accident blocked all traffic at the rotary'
+epidermis;the outer layer of the skin covering the exterior body surface of vertebrates
+thick;the location of something surrounded by other things. 'in the midst of the crowd'
+center;"a point equidistant from the ends of a line or the extremities of a figure"
+pneumatic caisson;large watertight chamber used for construction under water
+nasal canthus;the inner corner of the eye
+layer;"a relatively thin sheetlike expanse or region lying over or under another"
+mountain pass;"the location in a range of mountains of a geological formation that is lower than the surrounding peaks. 'we got through the pass before it started to snow'"
+bed;(geology) a stratum of rock (especially sedimentary rock). 'they found a bed of standstone'
+cavern;any large dark enclosed space. 'his eyes were dark caverns'
+creep;a pen that is fenced so that young animals can enter but adults cannot
+right stage;the part of the stage on the actor's right
+cutting angle;the angle between the face of a cutting tool and the surface of the work
+electric furnace;any furnace in which the heat is provided by an electric current
+pore;any tiny hole admitting passage of a liquid (fluid or gas)
+grille;small opening (like a window in a door) through which business can be transacted
+wall;(anatomy) a layer (a lining or membrane) that encloses a structure. 'stomach walls'
+angle of extinction;the angle from its axis that a crystal must be rotated before appearing maximally dark when viewed in polarized light
+finger hole;a hole for inserting a finger
+horizon;a specific layer or stratum of soil or subsoil in a vertical cross section of land
+angle of inclination;(geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)
+exit;an opening that permits escape or release. 'he blocked the way out'. 'the canyon had only one issue'
+enclosure;"a space that has been enclosed for some purpose"
+nozzle;a projecting spout from which a fluid is discharged
+carrefour;a place where one street or road crosses another
+knothole;a hole in a board where a knot came out
+muzzle;the open discharging end of a gun
+pass;"the location in a range of mountains of a geological formation that is lower than the surrounding peaks. 'we got through the pass before it started to snow'"
+grot;a small cave (usually with attractive features)
+pound;a public enclosure for stray or unlicensed dogs. 'unlicensed dogs will be taken to the pound'
+solid angle;an angle formed by three or more planes intersecting at a common point (the vertex)
+centroid;point representing the mean position of the matter in a body
+sepulcher;a chamber that is used as a grave
+magnetic inclination;(physics) the angle that a magnetic needle makes with the plane of the horizon
+ozone hole;an area of the ozone layer (near the poles) that is seasonally depleted of ozone
+pinprick;small puncture (as if made by a pin)
+mouthpiece;a part that goes over or into the mouth of a person. 'the mouthpiece of a respirator'
+pen;a portable enclosure in which babies may be left to play
+intake;an opening through which fluid is admitted to a tube or container
+rear of barrel;where bullets are loaded
+cylinder;within which piston moves
+fork;the angle formed by the inner sides of the legs where they join the human trunk
+stratum lucidum;the layer of epidermis immediately under the stratum corneum in the skin of the palms and soles
+hollow;a cavity or space in something. 'hunger had caused the hollows in their cheeks'
+left stage;the part of the stage on the actor's left
+opening;"a vacant or unobstructed space. 'they left a small opening for the cat at the bottom of the door'"
+col;a pass between mountain peaks
+abyss;a bottomless gulf or pit
+reflex angle;an angle greater than 180 degrees (but less than 360)
+void;an empty area or space. 'the huge desert voids'. 'the emptiness of outer space'
+railway junction;a junction where two or more railway lines meet or cross
+dip;(physics) the angle that a magnetic needle makes with the plane of the horizon
+crack;a narrow opening. 'he opened the window a crack'
+outfall;the outlet of a river or drain or other source of water
+exosphere;the outermost atmospheric layer
+squirrel cage;the cage is a cylindrical framework that rotates as a small animals runs inside it
+camera obscura;a darkened enclosure in which images of outside objects are projected through an aperture onto a facing surface
+water gap;a pass in a mountain ridge through which a stream flows
+issue;an opening that permits escape or release. 'he blocked the way out'. 'the canyon had only one issue'
+corner;the intersection of two streets. 'standing on the corner watching all the girls go by'
+center of gravity;the point within something at which gravity can be considered to act
+dermis;the deep vascular inner layer of the skin
+gorge;a narrow pass (especially one between mountains)
+fly;a garment closure (zipper or buttons) concealed by a fold of cloth
+crossing;a place where one street or road crosses another
+oil burner;a furnace that burns oil
+declination;(astronomy) the angular distance to a point on a celestial object measured north or south from the celestial equator. expressed in degrees. used with right ascension to specify positions on the celestial sphere
+antipodes;"any two places or regions on diametrically opposite sides of the earth. 'the north pole and the south pole are antipodes'"
+san andreas fault;a major geological fault in california. runs from san diego to san francisco. the source of serious earthquakes
+eyelet;a small hole (usually round and finished around the edges) in cloth or leather for the passage of a cord
+hearth;an open recess in a wall at the base of a chimney where a fire can be built
+stratum corneum;the outermost layer of the epidermis consisting of dead cells that slough off
+gunpoint;the muzzle's direction. 'he held me up at the point of a gun'
+soundbox;a resonating chamber in a musical instrument (as the body of a violin)
+sheepcote;a pen for sheep
+crossroad;a place where one street or road crosses another
+true anomaly;the angular distance of a point in an orbit past the point of periapsis measured in degrees
+inclined fault;a fault in which one side is above the other
+spout;an opening that allows the passage of liquids or grain
+corner;"the point where three areas or surfaces meet or intersect. 'the corners of a cube'"
+upper mantle;the upper part of the mantle
+hydraulic brake cylinder;a cylinder that contains brake fluid that is compressed by a piston
+dog pound;a public enclosure for stray or unlicensed dogs. 'unlicensed dogs will be taken to the pound'
+blind spot;"the point where the optic nerve enters the retina. not sensitive to light"
+firing chamber;the part of a gun that receives the charge
+crinion;"point where the hairline meets the midpoint of the forehead"
+plenum;an enclosed space in which the air pressure is higher than outside
+navel;the center point or middle of something
+cambium;the inner layer of the periosteum
+embrasure;an opening (in a wall or ship or armored vehicle) for firing through
+trichion;"point where the hairline meets the midpoint of the forehead"
+extinction angle;the angle from its axis that a crystal must be rotated before appearing maximally dark when viewed in polarized light
+intersection;a place where one street or road crosses another
+fault;(geology) a fracture in the earth's crust with displacement of one side with respect to the other. 'they built it right on the san andreas fault'
+bell;the flared opening of a tubular device
+aperture;an opening in something
+ha;(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing. the right ascension for an observer at a particular location and time of day
+piston chamber;within which piston moves
+dock;an enclosure in a court of law where the defendant sits during the trial
+split;a lengthwise crack in wood. 'he inserted the wedge into a split in the log'
+sheepfold;a pen for sheep
+dec;(astronomy) the angular distance to a point on a celestial object measured north or south from the celestial equator. expressed in degrees. used with right ascension to specify positions on the celestial sphere
+magnetic variation;the angle (at a particular location) between magnetic north and true north
+junction;"a place where two things come together. 'pittsburgh is located at the confluence of the allegheny and monongahela rivers'"
+blowhole;an opening for the escape of gas or air
+crypt;a cellar or vault or underground chamber (especially beneath a church)
+center of mass;point representing the mean position of the matter in a body
+lower mantle;the deeper part of the mantle
+normal fault;an inclined fault in which the hanging wall appears to have slipped down relative to the footwall
+vent;an opening for the escape of gas or air
+right;"location near or direction toward the right side. i.e. the side to the south when a person or object faces east: 'he stood on the right'"
+tear;an opening made forcibly as by pulling apart. 'there was a rip in his pants'
+leak;an accidental hole that allows something (fluid or light etc.) to enter or escape. 'one of the tires developed a leak'
+furnace;an enclosed chamber in which heat is produced to heat buildings, destroy refuse, smelt or refine ores, etc.
+latitude;the angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself
+embouchure;the part of a wind instrument into which the player blows directly
+exterior angle;the supplement of an interior angle of a polygon
+opening;an open or empty space in or between things. 'there was a small opening between the trees'. 'the explosion made a gap in the wall'
+compound;an enclosure of residences and other building (especially in the orient)
+crossing;"a point where two lines (paths or arcs etc.) intersect"
+temporal canthus;the outer corner of the eye
+charnel house;a vault or building where corpses or bones are deposited
+point;the muzzle's direction. 'he held me up at the point of a gun'
+polyhedral angle;the space enclosed by three or more planes that intersect in a vertex
+cubicle;small individual study area in a library
+posthole;a hole dug in the ground to hold a fence post
+celestial latitude;(astronomy) the angular distance to a point on a celestial object measured north or south from the celestial equator. expressed in degrees. used with right ascension to specify positions on the celestial sphere
+angle of refraction;the angle between a refracted ray and a line perpendicular to the surface between the two media at the point of refraction
+center of curvature;the center of the circle of curvature
+loophole;a small hole in a fortified wall. for observation or discharging weapons
+burial chamber;a chamber that is used as a grave
+tilt angle;the angle a rocket makes with the vertical as it curves along its trajectory
+magnetic declination;the angle (at a particular location) between magnetic north and true north
+nail hole;a hole left after a nail is removed
+post hole;a hole dug in the ground to hold a fence post
+pinhole;a small hole made by a pin
+rabbit hutch;a hutch for rabbits
+inclination;(astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees
+street corner;the intersection of two streets. 'standing on the corner watching all the girls go by'
+blast furnace;for smelting of iron from iron oxide ores. combustion is intensified by a blast of air
+kraal;an enclosure for livestock in southern africa
+hawse;anchor rope passes through this hole
+cove;small or narrow cave in the side of a cliff or mountain
+corner;"the point where two lines meet or intersect. 'the corners of a rectangle'"
+yard;an enclosure for animals (as chicken or livestock)
+buttonhole;buttons are pushed through it
+repository;a burial vault (usually for some famous person)
+core;the center of an object. 'do not eat the apple core'
+lock chamber;section of canal that can be closed to control the water level. used to raise or lower vessels that pass through it
+packing box;a small chamber in which packing is compressed around a shaft to form a seal
+gargoyle;a spout that terminates in a grotesquely carved figure of a person or animal
+corneum;the outermost layer of the epidermis consisting of dead cells that slough off
+az;the azimuth of a celestial body is the angle between the vertical plane containing it and the plane of the meridian
+way out;an opening that permits escape or release. 'he blocked the way out'. 'the canyon had only one issue'
+corn snow;granular snow formed by alternate thawing and freezing
+crematorium;a furnace where a corpse can be burned and reduced to ashes
+azimuth;the azimuth of a celestial body is the angle between the vertical plane containing it and the plane of the meridian
+cargo deck;the space in a ship or aircraft for storing cargo
+fenestella;oval or circular. to allow light into a dome or vault
+storm center;the central area or place of lowest barometric pressure within a storm
+grotto;a small cave (usually with attractive features)
+resonating chamber;a hollow chamber whose dimensions allow the resonant oscillation of electromagnetic or acoustic waves
+nombril;the center point on a shield
+bed;a stratum of ore or coal thick enough to be mined with profit. 'he worked in the coal beds'
+grade crossing;the intersection of a railway and a road on the same level. barriers close road when trains pass
+geological horizon;a layer of rock with a particular composition (especially of fossils). for dating the stratum
+stoma;a minute epidermal pore in a leaf or stem
+nacelle;a streamlined enclosure for an aircraft engine
+gap;a narrow opening. 'he opened the window a crack'
+stage left;the part of the stage on the actor's left
+recess;a space set back or indented
+barnyard;a yard adjoining a barn
+spherical angle;an angle formed at the intersection of the arcs of two great circles
+vent;a fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt
+pouch;an enclosed space
+fatigue crack;a crack in metal resulting from metal fatigue
+cofferdam;large watertight chamber used for construction under water
+firebox;a furnace (as on a steam locomotive) in which fuel is burned
+cranny;a small opening or crevice (especially in a rock face or wall)
+rift;a gap between cloud masses. 'the sun shone through a rift in the clouds'
+mouth;the opening of a jar or bottle. 'the jar had a wide mouth'
+horny layer;the outermost layer of the epidermis consisting of dead cells that slough off
+hole;an opening into or through something
+ra;(astronomy) the angular distance eastward along the celestial equator from the vernal equinox to the intersection of the hour circle that passes through the body. expressed in hours and minutes and second. used with declination to specify positions on the celestial sphere. 'one hour of right ascension equals fifteen degrees'
+foramen of monro;the small opening (on both the right and left sides) that connects the third ventricle in the diencephalon with the lateral ventricle in the cerebral hemisphere
+crematory;a furnace where a corpse can be burned and reduced to ashes
+ticket window;a window through which tickets are sold
+emptiness;an empty area or space. 'the huge desert voids'. 'the emptiness of outer space'
+crew neck;a plain straight neck opening from shoulder to shoulder of sweaters
+traffic circle;a road junction at which traffic streams circularly around a central island. 'the accident blocked all traffic at the rotary'
+birdcage;a cage in which a bird is kept
+chicken run;an enclosed yard for keeping poultry
+hyperbaric chamber;a room-sized chamber in which the oxygen pressure is above normal for the atmosphere. used in treating breathing disorders or carbon monoxide poisoning
+fly front;a garment closure (zipper or buttons) concealed by a fold of cloth
+saddle;a pass or ridge that slopes gently between two peaks (is shaped like a saddle)
+henyard;an enclosed yard for keeping poultry
+rear of tube;where bullets are loaded
+ozone layer;a layer in the stratosphere (at approximately 20 miles) that contains a concentration of ozone sufficient to block most ultraviolet radiation from the sun
+hawsepipe;anchor rope passes through this hole
+inclination;(physics) the angle that a magnetic needle makes with the plane of the horizon
+decolletage;a low-cut neckline on a woman's dress
+manhole;a hole (usually with a flush cover) through which a person can gain access to an underground structure
+bowels;the center of the earth
+rift;a narrow fissure in rock
+brake cylinder;a cylinder that contains brake fluid that is compressed by a piston
+carrel;small individual study area in a library
+vertical angle;either of two equal and opposite angles formed by the intersection of two straight lines
+abysm;a bottomless gulf or pit
+abdominal wall;a wall of the abdomen
+soundboard;(music) a thin resonating board whose vibrations reinforce the sound of the instrument
+helix angle;the constant angle at which a helix cuts the elements of a cylinder or cone
+incinerator;a furnace for incinerating (especially to dispose of refuse)
+pigsty;an enclosure for swine
+gunpoint;the open discharging end of a gun
+eye;a small hole or loop (as in a needle). 'the thread wouldn't go through the eye'
+seam;a stratum of ore or coal thick enough to be mined with profit. 'he worked in the coal beds'
+window;an opening that resembles a window in appearance or function. 'he could see them through a window in the trees'
+window;an open space in the wall of a building (usually to admit light and air). 'he stuck his head in the window'
+natural enclosure;"a naturally enclosed space"
+derma;the deep vascular inner layer of the skin
+cargo area;the space in a ship or aircraft for storing cargo
+stratum granulosum;the layer of epidermis just under the stratum corneum or (on the palms and soles) just under the stratum lucidum. contains cells (with visible granules) that die and move to the surface
+inclination of an orbit;(astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees
+lock;section of canal that can be closed to control the water level. used to raise or lower vessels that pass through it
+cloverleaf;an interchange that does not require left-hand turns
+cumberland gap;a pass through the cumberland mountains between virginia and kentucky that early settlers used in order to move west
+scissure;a long narrow opening
+obtuse angle;an angle between 90 and 180 degrees
+angle of reflection;the angle between a reflected ray and a line perpendicular to the reflecting surface at the point of incidence
+round angle;an angle of 360 degrees
+perforation;one of a series of small holes (especially such a series for separating a sheet into parts)
+slot;a small slit (as for inserting a coin or depositing mail)
+plane angle;an angle formed by two straight lines (in the same plane)
+airlock;a chamber that provides access to space where air is under pressure
+stassano furnace;a steel-making furnace in which an electric arc provides the source of heat
+slit;a narrow fissure
+swath;the space created by the swing of a scythe or the cut of a mowing machine
+barycenter;(astronomy) the common center of mass around which two or more bodies revolve
+plate;a rigid layer of the lithosphere that is believed to drift slowly
+sty;an enclosure for swine
+gas furnace;a furnace that burns gas
+storm centre;the central area or place of lowest barometric pressure within a storm
+monument;a burial vault (usually for some famous person)
+cupola;a vertical cylindrical furnace for melting iron for casting
+chamber;a natural or artificial enclosed space
+interior;"the region that is inside of something"
+canthus;either of the corners of the eye where the upper and lower eyelids meet
+mantle;(zoology) a protective layer of epidermis in mollusks or brachiopods that secretes a substance forming the shell
+charnel;a vault or building where corpses or bones are deposited

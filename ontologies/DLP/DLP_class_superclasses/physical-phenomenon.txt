@@ -1,0 +1,8 @@
+physical-phenomenon
+event
+accomplishment
+particular
+Thing
+perdurant
+spatio-temporal-particular
+phenomenon

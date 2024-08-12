@@ -1,0 +1,11 @@
+aggregate;a sum total of many miscellaneous things
+sum;"the final aggregate. 'the sum of all our troubles did not equal the misery they suffered'"
+totality;"the whole"
+total;"the whole"
+minority;"a group of people who differ racially or politically from a larger group of which it is a part"
+aggregate;"the whole"
+congeries;a sum total of many miscellaneous things
+conglomeration;a sum total of many miscellaneous things
+sum total;"the final aggregate. 'the sum of all our troubles did not equal the misery they suffered'"
+sum;"the whole"
+treasure trove;"any collection of valuables that is discovered. 'her book was a treasure trove of new ideas' or 'mother's attic was a treasure trove when we were looking for antiques'"

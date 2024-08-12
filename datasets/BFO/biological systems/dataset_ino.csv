@@ -1,0 +1,145 @@
+independent continuant;edge;an edge is an object that represents a graphic line that links two interactors in an interaction. 
+independent continuant;negative regulator;an interaction regulator that negatively regulates an interaction.
+independent continuant;activator;a positive interaction regulator that activates an interaction.
+independent continuant;input interactor;an interactor that is an input of an interaction.
+independent continuant;host;an organism bearing a host role.
+independent continuant;chemical reaction catalyst;an interactor that starts or speeds up a chemical reaction while undergoing no permanent change itself.
+independent continuant;positive regulator;an interaction regulator that positively regulates an interaction.
+independent continuant;node;a node is an object that represents an interactor in a graph of an interaction or interaction network.
+independent continuant;interactor;an interactor is a material entity that participates in an interaction.
+independent continuant;output interactor;an interactor that is an output of an interaction.
+independent continuant;interaction regulator;an interactor that regulates an interaction.
+specifically dependent continuant;chemical reaction catalyst role;an interactor role that is played by a material entity that starts or speeds up a chemical reaction while undergoing no permanent change itself.
+specifically dependent continuant;regulator role;an regulator role that is borne by a material entity that regulates an interaction.
+specifically dependent continuant;motivator role;an input interactor role that is borne by a material entity that motivates a process.
+specifically dependent continuant;output interactor role;an interactor role that is borne by a material entity that acts as an output of an interaction.
+specifically dependent continuant;hygiene factor role;an input interactor role that is borne by a material entity (e.g. status, job security, salary and fringe benefits) that do not motivate if present, but, if absent, result in demotivation.
+specifically dependent continuant;positive regulator role;an interactor role that is borne by a material entity that positively regulates an interaction.
+specifically dependent continuant;deactivator role;a negative regulator role that is borne by a material entity that deactivates, inhibits, blocks, or disrupts the action of a biological agent (e.g., enzyme).
+specifically dependent continuant;activator role;a positive regulator role that is borne by a material entity that activates an interaction.
+specifically dependent continuant;negative regulator role;an interactor role that is borne by a material entity that negatively regulates an interaction.
+specifically dependent continuant;interactor role;a role that is borne by a material entity to act as a participant in an interaction process.
+specifically dependent continuant;input interactor role;an interactor role that is borne by a material entity that acts as an input of an interaction.
+generically dependent continuant;mutual information network;an interaction network model that is represented by at least two mutual information interactions.
+generically dependent continuant;pathway step;an data item that indicates the step number of a pathway.
+generically dependent continuant;bayesian network;an interaction network model that is represented by a probabilistic graphical model (a type of statistical model) that represents a set of random variables and their conditional dependencies via a directed acyclic graph (dag).
+generically dependent continuant;interaction network model;an information content entity that models interaction network
+process;competition;an indirect association that one interactor competes with another interactor in a specfiic process. 
+process;regulation of transcription by binding to promoter;a regulation of transcription process that occurs through the binding to a promotor of a gene
+process;negative regulation of protein activity;a regulation of protein activitiy process that involves a negative regulation
+process;positive regulation of protein translation;a regulation of translation process that positively regulates protein translation level
+process;increase;a positive regulation that leads to the increase of a quality of an entity.
+process;downexpression;a gene expression that has decreased volume. 
+process;host cell-pathogen interaction;an host-pathogen interaction where the host is a cell.
+process;co-regulation;a regulation process that involves in two interactors co-regulate a third interactor. 
+process;neutralization;a biochemical reaction that one interactor neutrolizes another. 
+process;overexpression;a gene expression that has increased volume. 
+process;inhibition of protein activity;a negative regulation of protein activitiy process that involves an inhibition of a protein activity
+process;gene fusion;a genetic interaction that forms a hybrid gene formed from two previously separate genes. it can occur as the result of a translocation, interstitial deletion, or chromosomal inversion.
+process;precedence;an indirect association that one interactor is preceded by another interactor. 
+process;inhibition of gene transcription;a negative regulation of gene transcription process that specifiies the negative regulation being an inhibition.
+process;regulation of gene activation;a regulation process that regulates the activation of a gene so that the gene is expressed at a particular time
+process;cross-immunoprecipitation interaction;an immuno-precipitation that one interactor is precipitated based on an cross- immunological precipitation process.
+process;interference;a negative regulation that one interactor interferes a process. 
+process;interaction;interaction is a processual entity that has two or more participants (i.e., interactors) that have an effect upon one another. 
+process;accessory regulation;a positive regulation that one interactor facilitates a phenomenon such as a phenotype. this is an accessory effect not a major one. 
+process;conversion;a direct physical association that one interactor is converted from another interactor. 
+process;one-way interaction;a one-way interaction is an interaction that shows one direction between interactors.
+process;activation;a positive regulation that one interactor activates another. 
+process;activation of gene transcription by low level protein;an activation of gene transcription that is achieved by a low level of a protein
+process;controling;a regulation that one interactor controls the quality of another interactor to a specific range
+process;two-way interaction;a two-way interaction is an interaction that includes two different directions among two interactors. 
+process;recruitment;a positive regulation that leads the recruitment of one interactor from one location to another. 
+process;human molecular pathway;a pathway that exists in human body.
+process;activation of gene transcription;a positive regulation of gene transcription process that inviolves an activation of the gene transcription.
+process;bacterial conjugation;a cell-cell interaction that the transfers genetic material between bacterial cells by direct cell-to-cell contact or by a bridge-like connection between two cells.
+process;negative regulation of transcription by binding to promoter;a regulation of transcription by binding to promoter that is further classified as a positive regulation
+process;organism-environment interaction;an interaction that involves an organism and its environment as interactors
+process;genetic transduction;a cell-cell interaction that transfers viral, bacterial, or both bacterial and viral dna from one cell to another using a bacteriophage vector. 
+process;protein translation;a gene expression process that results in protein production from a gene dna sequence. 
+process;disruption;a negative regulation that results in a disruption.
+process;regulation of protein activity;a regulation process that regulates an activity of a protein
+process;regulation of protein location;a regulation process that regulates the location of a protein
+process;termination;a negative regulation that leads to a process termination.
+process;gene expression regulation;a regulation process that regulates gene expression level
+process;induction of production;an induction that leads to the production of an entity
+process;coimmunoprecipitation;a coprecipitation that occurs through an immunoprecipitation process.
+process;synergization;a regulation process that involves in two interactors that are synergized in affecting a phenomenon (e.g., phenotype).
+process;host-pathogen mutant interaction;an host-pathogen interaction where the pathogen is a gene mutant
+process;antigen-antibody interaction;a direct interaction where an antigen interacts with an antibody physically.
+process;organism-organism interaction;a biological interaction that occurs in the organism level. 
+process;stabilization;a postive interaction that one interactor increases the stability of another interactor. 
+process;gene transcription;an interaction process that creates a complementary rna copy of a sequence of dna.
+process;induction;a positive regulation that leads to the induction of a new interactor due to the presence of another interactor. 
+process;protein activation by mutant;an activation process where one protein is activated by a gene mutant
+process;protein heterodimerization;a protein dimerization where two proteins are different. 
+process;coprecipitation;a colocalization that two interactors are precipitated together.
+process;activation of gene transcription by phosphorylated protein;an activation of gene transcription that is achieved by a phosphorylated protein
+process;decrease;a negative regulation that results in the decrease of one interactor volume. 
+process;negative regulation;a regulation in which one interactor has a negative effect on another interactor 
+process;protein dimerization;a protein complex assembly that involves two proteins that form a dimer. 
+process;gene-protein interaction;an interaction that involves in a gene dna and a protein
+process;induction by binding to protein;an induction that is achieved by binding to a protein
+process;macrophage-pathogen interaction;an host cell-pathogen interaction where the host is a macrophage cell
+process;biochemical degradation;an enzymatic reaction that leads to the breakdown of a biochemical entity. 
+process;regulation of transcription;a gene expression regulation process that involves the regulation of a gene transcription.
+process;autophosphorylation;a phosphorylation process that adds a phosphate to a protein kinase (possibly affecting its activity) by virtue of its own enzymic activity. 
+process;up-regulation;a positive regulation that one interactor up-regulates another.
+process;deregulation;a negative regulation that results in the deregulation of one interactor on a process. 
+process;human biochemical reaction;a human molecular reaction that is specifically a biochemical reaction
+process;hydrogen binding;interaction leading to the formation of hydrogen bond between two molecules
+process;secretion;a translocation that one interactor secretes from the inside of another interactor
+process;protein activation;an activation process where one protein is activated by a material entity
+process;positive regulation of gene transcription;a regulation of transcription process that inviolves a positive regulation.
+process;immuno-precipitation;a translocation that one interactor is precipitated based on an immunological precipitation process.
+process;gene-enviroment interaction;an interaction that involves a gene and its environment (e.g., calcium in blood). 
+process;cell-environment interaction;an interaction that involves a cell and its environment as interactors
+process;human molecular conversion;a human molecular interaction where one molecule converts to another molecule.
+process;down-regulation;a negative regulation that one interactor down-regulates another.
+process;pathway;an interaction network that includes at least two interactions and has a start point(s) and an end point(s). 
+process;gene expression up-regulation;a positive regulation of gene expression process that up-regulates gene expression level
+process;antagonism;a biochemical binding where a substance binds to the same site an agonist would bind to without causing activation of the receptor
+process;protein homodimerization;a protein dimerization where two proteins are the same. 
+process;macrophage-pathogen protein-protein interaction;a macrophage-pathogen interaction that involves a macrophage protein and a pathogen protein.
+process;gene expression;a biological interaction that uses the information from a gene to synthesize a functional gene product. 
+process;macrophage-pathogen ppi inducing cell death;a macrophage-pathogen protein-protein interaction that induces cell death.
+process;negative regulation of protein translation;a negative regulation process that down-regulates protein translation level
+process;positive regulation of transcription by binding to promoter;a regulation of transcription by binding to promoter that is further classified as a positive regulation
+process;correlation;an indirect association that two interactors are correlated in a process without defined influence of each other. 
+process;macrophage-pathogen interaction;an host cell-pathogen interaction where the host cell is a macrophage.
+process;human molecular interaction;an interaction involving human molecules
+process;human molecular control interaction;a human molecular interaction where one molecule controls another molecule.
+process;translocation;a process that changes the location of a material entity.
+process;host gene mutant-pathogen interaction;an host-pathogen interaction where the host is a gene mutant
+process;gene activation;a positive regulation of gene expression process that activates a gene so that the gene is expressed at a particular time
+process;elimination;a negative regulation that one interactor eliminates another.
+process;up-regulation of secretion;an up-regulation that one interactor up-regulates the secretion of another interactor.
+process;host-pathogen interaction;an interaction that involves a host (host organism or host cell) and pathogen organism at a specific condition.
+process;activation of gene transcription by high level protein;an activation of gene transcription that is achieved by a high level of a protein
+process;promoter-based regulation of transcription;a regulation of transcription process through binding to a promoter or regulating the promoter binding activity
+process;regulation of translation;a gene expression regulation process that involves the regulation of a protein translation process.
+process;dominant regulation;a regulation that one interactor has a dominant effect on the quality of another interactor. this differs from the accessory regulation. 
+process;inactivation;a negative regulation that one interactor inactivates another.
+process;transactivation;a gene expression regulation that leads to an increased rate of gene expression triggered either by biological processes or by artificial means.
+process;destabilization;a negative regulation that results in a destabilization. 
+process;negative regulation of gene transcription;a negative regulation process that down-regulates gene expression level
+process;protein-protein interaction;an interaction between two proteins. 
+process;positive regulation of gene expression;a regulation process that positively regulates gene expression level
+process;impairment;a negative regulation that disables, damages, or impairs the functioning of another entity.
+process;negative regulation of gene expression;a regulation process that negatively regulates gene expression level
+process;positive regulation of protein activity;a regulation of protein activitiy process that involves a positive regulation
+process;regulation;a regulation represents a regulatory interaction between two interactors. 
+process;gene expression inhibition;a negative regulation process that inhibits gene expression level
+process;epithelial cell-pathogen interaction;an host cell-pathogen interaction where the host is an epithelial cell
+process;regulation of assembly;a regulation process where one gene product regulates an assembly process which forms an assembly having another gene product.
+process;export;a translocation that one interactor exports from one location
+process;co-regulation of transcription;a regulation of transcription process where two or more regulators regulate a gene transcription
+process;interaction network;interaction network is a process that includes a network of at least two interactions.
+process;cell-cell interaction;a biological interaction that involves two cells as interactors.
+process;import;a translocation that one interactor imports from one location
+process;gene-cell interaction;an interaction that includes a gene and a cell as interactors.
+process;inhibition;a negative regulation that one interactor inhibites another.
+process;cooperation;an indirect association that one interactor cooperates with another interactor in a specfiic process. 
+process;gene expression down-regulation;a negative regulation process that down-regulates gene expression level
+process;reactivation;an activation that repeats.
+process;attenuation;a negative regulation that attenuates the virulence of a pathogenic microbe. 

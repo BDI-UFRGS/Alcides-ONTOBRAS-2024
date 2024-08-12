@@ -1,0 +1,6 @@
+amount-of-matter
+particular
+Thing
+physical-endurant
+endurant
+spatio-temporal-particular

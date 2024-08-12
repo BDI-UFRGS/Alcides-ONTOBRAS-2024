@@ -1,0 +1,33 @@
+plutocracy;a political system governed by the wealthy people
+despotism;a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
+democracy;a political system governed by the people or their representatives
+republic;a political system governed by the people or their representatives
+dyarchy;an autocracy governed by two rulers
+totalitarianism;a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
+parliamentary monarchy;a monarchy having a parliament
+theocracy;a political unit governed by a deity (or by officials thought to be divinely guided)
+dictatorship;a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
+kingdom;a monarchy with a king or queen as head of state
+parliamentary democracy;a democracy having a parliament
+empire;a monarchy with an emperor as head of state
+one man rule;a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
+absolutism;a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
+stalinism;a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
+tyranny;a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
+technocracy;a form of government in which scientists and technical experts are in control
+political system;"the members of a social organization who are in power"
+monocracy;a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
+authoritarianism;a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
+hegemony;the domination of one state over its allies
+autarchy;a political system governed by a single individual
+autocracy;a political system governed by a single individual
+commonwealth;a political system governed by the people or their representatives
+oligarchy;a political system governed by a few people
+church state;a state ruled by religious authority
+shogunate;a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
+form of government;"the members of a social organization who are in power"
+constitutionalism;a constitutional system of government (usually with a written constitution)
+police state;a country that maintains repressive control over the people by means of police (especially secret police)
+diarchy;an autocracy governed by two rulers
+caesarism;a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
+monarchy;an autocracy governed by a monarch who usually inherits the authority

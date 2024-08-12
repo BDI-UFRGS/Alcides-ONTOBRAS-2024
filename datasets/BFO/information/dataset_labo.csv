@@ -1,0 +1,100 @@
+generically dependent continuant;laboratory test specimen id;a centrally registered identifier that denotes a particular specimen on which a laboratory test is intended to be executed or has already been executed.
+generically dependent continuant;platelets count result;une mesure qui sp cifie le nombre de plaquettes dans le sang d'une personne.
+generically dependent continuant;hemoglobin test result;a measurement datum which specifies the amount of hemoglobin in a person's blood.
+generically dependent continuant;sampling method specification;a data item intended to be a truthful statement about the sampling method used to extract a sample from an entity.
+generically dependent continuant;laboratory test specimen id;todo
+generically dependent continuant;identification d' chantillon d'examen de laboratoire;todo
+generically dependent continuant;red blood cell count result;une mesure qui sp cifie le nombre de cellules rouges dans le sang d'une personne.
+generically dependent continuant;identification d' chantillon d'examen de laboratoire;a centrally registered identifier that denotes a particular specimen on which a laboratory test is intended to be executed or has already been executed.
+generically dependent continuant;laboratory test objective specification;a health care objective specification that specifies why a laboratory test should be performed.
+generically dependent continuant;laboratory test directive item;an action specification that directs one or several laboratory tests and such that none of its proper parts directs some but not all of those laboratory tests.
+generically dependent continuant;scalar laboratory result;a laboratory result that has a scalar value specification.
+generically dependent continuant;red cell distribution width result;a measurement datum which specifies the range of variation of the size of red blood cell in a person's blood.
+generically dependent continuant;r sultat d'h matocrite;a measurement datum specifying how much of a person's blood is made of red blood cells.
+generically dependent continuant;upper bound inclusion specification;a range inclusion specification for the upper bound of a range.
+generically dependent continuant;mean platelet volume result;a measurement datum specifying the average size of the platetels in a person's blood.
+generically dependent continuant;sp cification de type d' chantillon;une donn e qui est suppos e tre une proposition vraie propos du type de l' chantillon pour lequel des tests ont t prescrits.
+generically dependent continuant;mean corpuscular volume result;a measurement datum specifying the average size of a person's red blood cells.
+generically dependent continuant;r sultat de volume corpusculaire moyen;une mesure qui sp cifie la taille moyenne des cellules rouges d'une personne.
+generically dependent continuant;groupement de r sultats pour un test de laboratoire;a laboratory test reporting information which reports on the test(s) directed by one laboratory test directive item.
+generically dependent continuant;information de r sultat pour un test de laboratoire (wip);une entit de contenu informationnel qui documente un ou plusieurs aspects d'un certain test de laboratoire.
+generically dependent continuant;sampling method specification;une donn e suppos e tre une proposition vraie propos de la m thode d' chantillonnage utilis e pour extraire un chantillon particulier d'une entit .
+generically dependent continuant;r sultat de test d'h moglobine;a measurement datum which specifies the amount of hemoglobin in a person's blood.
+generically dependent continuant;laboratory test specimen type specification;une donn e qui est suppos e tre une proposition vraie propos du type de l' chantillon pour lequel des tests ont t prescrits.
+generically dependent continuant;prescription de test de laboratoire;a health care prescription specifying the realization of one or several laboratory test(s).
+generically dependent continuant;r sultat de volume moyen des plaquettes;une mesure qui sp cifie la taille moyenne des plaquette du sang d'une personne.
+generically dependent continuant;r sultat de d nombrement de cellules rouges;une mesure qui sp cifie le nombre de cellules rouges dans le sang d'une personne.
+generically dependent continuant;mean corpuscular volume result;une mesure qui sp cifie la taille moyenne des cellules rouges d'une personne.
+generically dependent continuant;upper bound;a bound that is the upper bound of a range.
+generically dependent continuant;information de compte-rendu de test de laboratoire;an information content entity that encompasses all relevant information pertaining to a given laboratory test prescription.
+generically dependent continuant;laboratory result;a representation of an entity related to a specimen that is the output of a laboratory test.
+generically dependent continuant;reported laboratory test result normal range;a laboratory test result normal range that is reported in a laboratory test reporting item.
+generically dependent continuant;hemoglobin test result;une mesure qui sp cifie la quantit d'h moglobine dans le sang d'une personne.
+generically dependent continuant;range inclusion specification;an information content entity that specifies whether a cutoff value should be included or excluded in a range.
+generically dependent continuant;bound;a value specification that is the the lower bound or the upper bound of a range.
+generically dependent continuant;excluded upper bound inclusion specification;an upper bound inclusion specification specifying the upper bound is excluded.
+generically dependent continuant;range laboratory result;a laboratory result that is given as a range.
+generically dependent continuant;r sultat de d nombrement de cellules rouges;a measurement datum which specifies the number of red blood cell in a person's blood.
+generically dependent continuant;hematocrit result;a measurement datum specifying how much of a person's blood is made of red blood cells.
+generically dependent continuant;specimen characteristic specification;an information content entity that specifies a particular characteristic of a specimen or a class of characteristics of specimens.
+generically dependent continuant;laboratory test specimen specification;an information content entity that denotes a particular specimen on which a laboratory test is intended to be executed or has already been executed.
+generically dependent continuant;r sultat de volume corpusculaire moyen;a measurement datum specifying the average size of a person's red blood cells.
+generically dependent continuant;laboratory test reporting item;a laboratory test reporting information that is part of a laboratory test reporting group, that is about a laboratory test, and that mentions which characteristic of a specimen this test was supposed to assess, and a time at which this information was valid.
+generically dependent continuant;laboratory test specimen type specification;an information content entity about the type of the specimen to be used for some laboratory tests.
+generically dependent continuant;prescribed laboratory test complete reporting information;an information content entity that encompasses all relevant information pertaining to a given laboratory test prescription.
+generically dependent continuant;laboratory test result normal range upper bound;an upper bound value of a laboratory test result normal range.
+generically dependent continuant;platelets count result;a measurement datum which specifies the number of platelet cells in a person's blood.
+generically dependent continuant;prescription of laboratory test objective specification;a laboratory test objective specification that is a part of a laboratory test prescription.
+generically dependent continuant;red cell distribution width result;une mesure qui sp cifie l' tendue de la variation de la taille des cellules rouges dans le sang d'une personne.
+generically dependent continuant;laboratory result-based calculated data item;a calculated data item that is produced by a calculation process that has as input a laboratory result.
+generically dependent continuant;laboratory test definition range;a range of values asserted as possible valid values by the testing lab or the kit manufacturer.
+generically dependent continuant;r sultat de variation de taille des cellules rouges;a measurement datum which specifies the range of variation of the size of red blood cell in a person's blood.
+generically dependent continuant;laboratory test prescription;a health care prescription specifying the realization of one or several laboratory test(s).
+generically dependent continuant;valeur limite;a value specification that is the the lower bound or the upper bound of a range.
+generically dependent continuant;information de compte-rendu de test de laboratoire;todo
+generically dependent continuant;hematocrit result;une mesure qui sp cifie quelle portion du sang d'une personne est compos e de cellules rouges.
+generically dependent continuant;laboratory test start time specification;an information content entity that specifies at what time a laboratory test should start.
+generically dependent continuant;ratio laboratory result;a laboratory result that is given as a ratio.
+generically dependent continuant;laboratory test directive item group;an action specification that has as parts one or several laboratory test directive items, as well as possibly some statements specifying a starting condition, a stopping condiiton and a testing condition.
+generically dependent continuant;sp cification de m thode chantillonnage;a data item intended to be a truthful statement about the sampling method used to extract a sample from an entity.
+generically dependent continuant;r sultat de volume moyen des plaquettes;a measurement datum specifying the average size of the platetels in a person's blood.
+generically dependent continuant;r sultat de test d'h moglobine;une mesure qui sp cifie la quantit d'h moglobine dans le sang d'une personne.
+generically dependent continuant;laboratory test reporting information;une entit de contenu informationnel qui documente un ou plusieurs aspects d'un certain test de laboratoire.
+generically dependent continuant;excluded lower bound inclusion specification;a lower bound inclusion specification specifying the lower bound is excluded.
+generically dependent continuant;laboratory test result normal range lower bound;a lower bound value of a laboratory test result normal range.
+generically dependent continuant;laboratory test reporting group;a laboratory test reporting information which reports on the test(s) directed by one laboratory test directive item.
+generically dependent continuant;laboratory test status specification;a laboratory test reporting information that specifies the status of a laboratory test or a group of laboratory tests.
+generically dependent continuant;laboratory test result item;a laboratory test reporting item that includes the result of the laboratory test.
+generically dependent continuant;laboratory test result item;( revoir) une partie d'un document d'analyse de laboratoire qui sp cifie le r sultat d'un test sp cifique qui a t soit prescrit par une prescription de test de laboratoire, soit r alis comme cons quence d'une prescription de test de laboratoire.
+generically dependent continuant;textual laboratory result;a laboratory result that is given as a textual entity.
+generically dependent continuant;r sultat de d nombrement de plaquettes;une mesure qui sp cifie le nombre de plaquettes dans le sang d'une personne.
+generically dependent continuant;r sultat d'h matocrite;une mesure qui sp cifie quelle portion du sang d'une personne est compos e de cellules rouges.
+generically dependent continuant;sp cification de type d' chantillon;an information content entity about the type of the specimen to be used for some laboratory tests.
+generically dependent continuant;sp cification de m thode chantillonnage;une donn e suppos e tre une proposition vraie propos de la m thode d' chantillonnage utilis e pour extraire un chantillon particulier d'une entit .
+generically dependent continuant;included upper bound inclusion specification;an upper bound inclusion specification specifying the upper bound is included.
+generically dependent continuant;fully specified range value specification;a range value specification that specifies a lower and an upper bound and wether each bound is included or excluded.
+generically dependent continuant;prescribed laboratory test complete reporting information;todo
+generically dependent continuant;laboratory test reporting item time specification;a laboratory test reporting information that specifies a time at which a laboratory test reporting item was valid.
+generically dependent continuant;laboratory test reporting group;une partie d'un document d'analyse de laboratoire qui sp cifie des r sultats des tests.
+generically dependent continuant;groupement de r sultats pour un test de laboratoire;une partie d'un document d'analyse de laboratoire qui sp cifie des r sultats des tests.
+generically dependent continuant;lower bound;a bound that is the lower bound of a range.
+generically dependent continuant;information de r sultat pour un test de laboratoire (wip);an information content entity which reports on some aspect of a particular laboratory test.
+generically dependent continuant;lower bound inclusion specification;a range inclusion specification for the lower bound of a range.
+generically dependent continuant;interval-notation range inclusion specification;a range inclusion specification written with interval notation. there are only two individuals.
+generically dependent continuant;included lower bound inclusion specification;a lower bound inclusion specification specifying the lower bound is included.
+generically dependent continuant;range value specification;a value specification that has as part at least a lower bound or an upper bound.
+generically dependent continuant;laboratory test result normal range;a range of values asserted by the testing lab or the kit manufacturer to be normal based on a statistical treatment of values from a reference population.
+generically dependent continuant;ratio value specification;a value specification that specifies a ratio value, without any unit or with a dimensionless unit.
+generically dependent continuant;laboratory test report document;a document reporting on a laboratory test.
+generically dependent continuant;derived normalized range laboratory result;a range laboratory result that is represented in a normalized way and that is the result of the transformation of an original laboratory result.
+generically dependent continuant;range;a generically dependent continuant that specifies a lower bound and an upper bound. it can also specify whether each bound is included or not in the interval.
+generically dependent continuant;r sultat de variation de taille des cellules rouges;une mesure qui sp cifie l' tendue de la variation de la taille des cellules rouges dans le sang d'une personne.
+generically dependent continuant;red blood cell count result;a measurement datum which specifies the number of red blood cell in a person's blood.
+generically dependent continuant;mean platelet volume result;une mesure qui sp cifie la taille moyenne des plaquette du sang d'une personne.
+generically dependent continuant;calculated data item;a data item that was generated on the basis of a calculation.
+generically dependent continuant;laboratory test reporting information;an information content entity which reports on some aspect of a particular laboratory test.
+generically dependent continuant;r sultat de d nombrement de plaquettes;a measurement datum which specifies the number of platelet cells in a person's blood.
+generically dependent continuant;laboratory test specimen specification;une entit de contenu informationnel qui est propos d'une entit biologique particuli re ou d'une classe d'entit biologique sur laquelle quelqu'un a l'intention de prendre une mesure ou sur laquelle une mesure a d j t prise.
+generically dependent continuant;validated laboratory test;a completed laboratory test that has as specified output a laboratory finding.
+process;laboratory test;a measurement assay that has as input a specimen derived from an organism and that aims as having as output a data item that is about an entity related to the specimen.
+process;directed laboratory test group;a health care process assay that is the mereological sum of laboratory test(s) that are directed by a single prescription directive item.

@@ -1,0 +1,4 @@
+information-realization
+particular
+Thing
+spatio-temporal-particular

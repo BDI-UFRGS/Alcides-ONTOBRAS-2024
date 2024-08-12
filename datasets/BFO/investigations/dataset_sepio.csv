@@ -1,0 +1,30 @@
+specifically dependent continuant;agent role;a role borne by a person, group, organization, or information processing entity (e.g. software, algorithms) in virtue of its active participation in a process leading to some outcome (e.g the generation, modification, or provision of some entity).
+specifically dependent continuant;resource role;a role inhering in any material or information artifact that is used by an agent as specified input into a planned process.
+specifically dependent continuant;contributor role;a role borne by a person, group, organization, or information processing entity (e.g. software, algorithms) in virtue of its active participation in a process leading to some outcome (e.g the generation, modification, or provision of some entity).
+generically dependent continuant;statement;an information content entity expressing a declarative sentence that is either true or false.
+generically dependent continuant;record;a document containing a collection of data or statements about some entity.
+generically dependent continuant;study data set;a data set comprised of data items produced by a single research study.
+generically dependent continuant;confidence level;a data item that quantifies the level of confidence an agent has that a particular piece of information is true.
+generically dependent continuant;assertion;a statement made by a particular agent on a particular occasion that a particular proposition is true, based on the evaluation of one or more lines of evidence.
+generically dependent continuant;evidence line;an evidence line represents an independent and meaningful argument for or against a particular proposition, that is based on the interpretation of one or more pieces of information as evidence.
+generically dependent continuant;record;sio:000088
+generically dependent continuant;evidence strength;a data item that quantifies the degree of support an agent believes an evidence line to provide for a particular proposition.
+generically dependent continuant;assertion method;a directive information entity that specifies an algorithm or heuristics for evaluating evidence in the process of making an assertion.
+generically dependent continuant;evidence direction;a data item that indicates an agent's assessment of whether an evidence line supports or disputes a target proposition (or represents inconclusive evidence that is not sufficient for either).
+generically dependent continuant;evidence quality;a data item that indicates the quality of the data used as evidence by an agent making an assertion.
+generically dependent continuant;study finding;a statement describing the immediate results of a research study, describing what was directly observed, measured, or derived through mathematical calculation.
+generically dependent continuant;evidence item;an information content entity that is used as evidence to evaluate the validity of a target assertion or proposition.
+process;curation;a planned process in which existing data is collected, organized, and improved in preparation for subsequent use.
+process;reference population data study;a study based on analysis of data gathered from baseline studies of a population group of apparently unaffected individuals to assess allele frequencies
+process;provenance;the process history leading to the creation and current condition of an artifact.
+process;assertion process;an act of interpreting evidence to make an assertion of belief that a particular proposition is true
+process;literature-based study;a curation-based study that uses only one or more literature publication as input data source.
+process;clinical study;formal clinical study performed using cohorts of multiple patients
+process;patient phenotyping study;a study with the goal of assessing and documenting phenotypes exhibited by one or more patients.
+process;experimental model study;a research dtudy perfomred using an experimental model system such as a cell line, or model organism.
+process;research activity;a planned process executed in the performance of scientific research wherein systematic investigations are performed to establish facts and reach new conclusions about phenomena in the world.
+process;research study;a planned process that executes some study design or protocol to generate scientific data that is interpreted to test or generate a hypothesis.
+process;patient case study;a study that documents observations or findings from a single patent.
+process;primary research study;a study that involves primary research of subjects or specimens in a natural, cliniclal, or laboratory setting.
+process;secondary research study;a study based only on analysis of existing data, as found in artifacts such as community/curated databases, raw datasets, or publications.
+process;contribution;the actions taken by a particular agent in the creation, modification, assessment, or deprecation of an artifact.

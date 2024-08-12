@@ -1,0 +1,485 @@
+independent continuant;target population;an organism population that is the target for a disease control strategy.
+independent continuant;biotic ecosystem;the biotic ecosystem is the sum total of all organism populations in a particular geographical region.
+independent continuant;immune organism that acts like it is immune;an immune organism that acts as if it is immune (i.e., it does not seek vaccination or avoid contact with infectious organisms).
+independent continuant;contacted organism;an organism that is the bearer of a potentially infectious contact role during a potentially infectious contact process.
+independent continuant;immune organism;an organism that is the bearer of an immune resistance disposition.
+independent continuant;host;an organism of a particular biological taxon that is the site of reproduction of an organism of a different taxon.
+independent continuant;resistant organism;an organism that is the bearer of resistance to infection
+independent continuant;abiotic ecosystem element;a material entity that is part of an abiotic ecosystem.
+independent continuant;contaminated abiotic thing;an abiotic ecosystem element that is participant in some biological contamination process.
+independent continuant;abiotic ecosystem;the abiotic ecosystem is the sum total of all continuants in a geographical region that are not organisms, parts of organisms, or dependent continuants that inhere in organisms.
+independent continuant;exposed population;a population of host organisms undergoing infection and that are not infectious.
+independent continuant;immune population acting like immune;an immune population that acts as the members know they are immune (do not seek vaccination/antiviral treatment, etc.).
+independent continuant;infected organism;an infectious agent host who is not able to transmit the infection to another organism of the same species.
+independent continuant;seed site;a site that is the bearer of a role that is realized by the release of artificially-infected vectors for the purpose of infecting the local vector population with a certain pathogen.
+independent continuant;school student population;the collection of students administrated by exaclty one school organization.
+independent continuant;contaminated thing;an independent continuant that is the localization of a pathogen, but is not undergoing an infection.
+independent continuant;wolbachia release site;a seed site for a wolbachia control measure.
+independent continuant;atmosphere;a fiat object part that is in gaseous phase and that is the outer layer of an object in space and is held to the object by gravitational force
+independent continuant;susceptible population;a population of organisms that are all susceptible.
+independent continuant;susceptible organism;an organism that is the bearer of a susceptibility disposition.
+independent continuant;parasite;an organism participating in an ectosymbiotic or endosymbiotic parasitism as the organism that benefits.
+independent continuant;pathogen;an organism of a particular biological taxon that is the bearer of an infectious dispositions towards an organism of a different particular biological taxon.
+independent continuant;immune organism that acts like it is not immune;an immune organism that acts as if it is not immune (i.e., it seeks vaccination and/or avoids contact with infectious organisms).
+independent continuant;community;two or more distinct populations that are part of the same biotic ecosystem.
+independent continuant;infected population;a population of only infected members of one species.
+independent continuant;location of sampling process;a geographic region that contains a sampling process.
+independent continuant;ecosystem;the sum of all biotic and abiotic entities in a geographical region. 
+independent continuant;immune population;a population of organisms that are all immune.
+independent continuant;recovered organism;an organism that is the bearer of a naturally-acquired, active immune resistance to infection.
+independent continuant;contagious organism;a host who is able to transmit some infection to another organism.
+independent continuant;parasitoid;an organism participating in an ectosymbiotic or endosymbiotic parasitoidism as the organism that benefits.
+independent continuant;host population;a population of organisms some of which were susceptible to infection with a particular pathogen at some point in their lives.
+independent continuant;immune population acting like not immune;an immune population that acts as the members assume they are not immune (e.g. seek vaccination/antiviral treatment).
+independent continuant;contagious population;a population of host organisms undergoing infection that are contagious.
+specifically dependent continuant;resistance to infection;the dispostion of an organism of a particular biological taxon a that is realized by inhibiting the establishment of an infection by an organism of another particular biological taxon that bears an infectious disposition towards members of a
+specifically dependent continuant;infectious disease treatment efficacy;the disposition of one or more portions of material entity, when administered to a susceptible organism by a certain route and according to a certain schedule, to produce a structural change in an organism of a specific species, whereby this structural change serves as the physical basis of a protective resistance disposition.
+specifically dependent continuant;chemical resistance to infection;a resistance to infection that is conferred by the presence, in sufficient quantity, of a particular molecular entity that is not normally present in the organism.
+specifically dependent continuant;treatment contraindication;a contraindication that increases the risk of a treatment.
+specifically dependent continuant;disease surveillance capability;a disposition of a disease surveillance infrastructure to detect the outbreak of one particular disease in the geographical region the infrastructure aims to cover.
+specifically dependent continuant;immune resistance to infection;resistance to infection that is conferred by immune system/immune mechansisms.
+specifically dependent continuant;susceptibility;the ability to participate in infection acquisition as a host.
+specifically dependent continuant;infectious disease;a disease that inheres in a host and, when realized, is realized as a disease course that is causally preceded by an infection.
+specifically dependent continuant;acute respiratory illness;a clinical phenotype that is causally preceded by some infection or some adverse drug reaction. and that is accompanied by a fever greater than or equal to 37.8 degrees celsius, and a cough or sore throat.
+specifically dependent continuant;resistance to malaria infection;a resistance to infection by p. vivax, p. ovale, p. malariae, and/or p. falciparum.
+specifically dependent continuant;potentially infectious contact role;a role borne by an organism that is realized in a potentially infectious contact process.
+specifically dependent continuant;human monkeypox;a monkeypox disease inhering in a human being.
+specifically dependent continuant;deprecated homeostasis;a disposition of the whole organism (or of some causally relatively isolated part of the organism, such as a single cell) to regulate its bodily processes in such a way as (1) to maintain bodily qualities within a certain range or profile and (2) to respond successfully to departures from this range caused by internal influences or environmental influences such as poisoning.
+specifically dependent continuant;treatment surveillance capability;a disposition of a treatment surveillance infrastructure to detect individuals who have received treatment in the geographical region the infrastructure aims to cover.
+specifically dependent continuant;antiviral treatment efficacy;the infectious disease treatment efficacy of an antiviral drug.
+specifically dependent continuant;mechanical flight function;a function inhering in some device that is realized by some movement process in the atmosphere in which the device is participant in.
+specifically dependent continuant;vaccination efficacy;the infectious disease treatment efficacy of a vaccine.
+specifically dependent continuant;facultative role;a role borne by an organism in virtue of the fact that it is in intimate association with one or more organisms of different species, and is realized by bodily benefit to that organism as an occurrent part of a symbiosis with the other organisms. this bodily benefit takes the place of the organism or some relatively isolated part of the organism realizing some normal homeostasis disposition itself.
+specifically dependent continuant;efficacy;a disposition of an organism to (i) undergo some bodily benefit that (ii) is triggered by a planned process.
+specifically dependent continuant;drug treatment efficacy;the efficacy measured for some instance(s) of drug treatment for preventing or ameliorating some disease outcome.
+specifically dependent continuant;infectiousness;a disposition inhering in an organism of a particular biological taxon that is realized only by the organism participating in an infection as the reproducing organism inside another organism of a different particular biological taxon.
+specifically dependent continuant;naturally-acquired active immune resistance;an immune resistance to infection that is causally preceded by an infection and an immune response to that infection with the production of antibodies to antigens from the pathogen population participating in the infection.
+generically dependent continuant;data format validator;a software application that takes a data set as input and outputs a determination of whether the dataset is in compliance with one or more given data format specifications.
+generically dependent continuant;infectious disease forecaster;a simulation software application that has as output one or more predicted count data items that are about a host population and that predict how many infections will occur at or will have occurred at some temporal region relative to when the data items are created.
+generically dependent continuant;treatment surveillance trigger definition;an infectious disease control trigger definition for a reactive control measure based on the outcome of disease surveillance.
+generically dependent continuant;leakage rate of wolbachia infection in mosquito population infected with wolbachia;the rate at which offspring of the wolbachia-infected female mosquito subpopulation (of the overall mosquito population) are not infected with wolbachia.
+generically dependent continuant;travel recommendation control strategy;a travel-related infectious disease control strategy that has an action specification that is realized by making recommendations to travelers to either (1) avoid travel to an ecosystem with an ongoing infection such as an epidemic, (2) take precautions when traveling to such an ecosystem, (3) receive certain vaccinations prior to traveling to such an ecosystem, or (4) take certain medications when traveling to such an ecosystem
+generically dependent continuant;adult vector control strategy;a vector control strategy that is realized by reducing the number of adults in a vector population.
+generically dependent continuant;census;a data set of a specific entity in a specified region at a specified time.
+generically dependent continuant;vaccine identifier;an identifier that refers to a type of vaccine, i.e., one of a class of manufactured vaccines that public health would consider interchangable.
+generically dependent continuant;scenario date;an identifier that denotes a real date corresponding to simulator time zero.
+generically dependent continuant;unconditional probability distribution;an unconditional probability distribution is the probability distribution of an uncertain variable, u, implicitly incorporating the uncertainty introduced by any other relevant variables. mathematically, u s unconditional probability distribution is written {u | e}, where e represents the background state of information under which the distribution is assessed.
+generically dependent continuant;human daily movement data set;a data set that is about the human daily movement behavior of the individual huamns in a given population.
+generically dependent continuant;age range category;an information content entity specifying the upper and lower limit of a range of ages of continuants.
+generically dependent continuant;delay from symptoms to treatment;the duration between the appearance of symptoms of a disease and the start of a treatment.
+generically dependent continuant;apollo simulator configuration;a simulator configuration that start an apollo simulator.
+generically dependent continuant;uncertain duration;a duration that is specified as a probability distribution over a range of numbers.
+generically dependent continuant;control strategy stop time information;an information content entity that specifies the time at which an infectious disease control strategy ends.
+generically dependent continuant;prioritization scheme for control measure;an action specification that is part of an infectious disease control strategy that has at least one rule pertaining to some control measure.
+generically dependent continuant;probability of exit from a country is denied;the probability that exit is denied as part of a border control strategy.
+generically dependent continuant;infectious period duration;a duration of the parts of an infection during which the host bears an infectious disposition in a population of hosts.
+generically dependent continuant;simulation time step action specification;an action specification that specifies the length of the time steps interval assumed in a simulation.
+generically dependent continuant;population and environment census;a census that represents the biotic and abiotic elements of an ecosystem at simulator time zero.
+generically dependent continuant;population treatment census;a census about a particular medical treatment of a population.
+generically dependent continuant;temporal trigger definition;an infectious disease control trigger definition that is based on the passage of a specified interval of time.
+generically dependent continuant;sensitivity of case detection;the sensitivity of a system that classifies organisms into the binary categories of individual who meets the criteria of a particular case definition and individual who does not meet the criteria of a particular type of disease x.
+generically dependent continuant;larvicide control strategy;a vector control strategy that has an action specification that is realized by reducing the number of larval-stage organisms of a vector population.
+generically dependent continuant;phylogenetic tree constructor;a software application that implements an algorithm that has specified output a phylogenetic tree
+generically dependent continuant;epidemic peak intensity;a predicted data item that is about some aggregate of cases in an epidemic and whose value specification contains the maximum value in a data set that is about the epidemic.
+generically dependent continuant;treatment administration capacity schedule;a plan specification that specifies the capacity to administer a particular treatment over a specific temporal interval in a specified geographical region.
+generically dependent continuant;midas scenario;an ecosystem in which a population of hosts is undergoing at least one infection.
+generically dependent continuant;latitude and longitude coordinate pair;a data set that comprises exactly one latitude measurement datum and exactly one longitude measurement datum as its elements, and optiionally the geodetic datum used as the coordinate system for the measurements, and each of these measurements is about the same zero-dimensional geographical region.
+generically dependent continuant;metagenomics analysis software;a software application that has as part an objective specification that is achieved by only a metagenomics analysis.
+generically dependent continuant;reactive control measure operator;an epidemic simulator action specification that specifies the comparison operation to use to determine whether some value, relative to a threshold, is one that should trigger the implementation of a control measure.
+generically dependent continuant;antiviral identifier;a unique identifier that refers to an antiviral drug product
+generically dependent continuant;count of resistant population;the count of individuals in a resistant population (empirical or virtual).
+generically dependent continuant;simulation time step value;a numeral that is part of a simulation time step action specification.
+generically dependent continuant;simulator identifier;an identifier that refers to all version of a specific simulator.
+generically dependent continuant;time delay of treatment detection;the duration from the time an individual receives a treatment until the time a system designed to detect that the treatment occurred detects it in a population
+generically dependent continuant;software version identifier;an identifier that, as part of a complete software identifier, refers to one specific version of the software.
+generically dependent continuant;vaccination administration census;a population treatment census that is about one or more vaccinations of organisms in a population.
+generically dependent continuant;rxnorm drug concept identifier;an identifier curated by the national library of medicine as a unique string of integer numerals to be used as a standard way of denoting each concept in the rxnorm terminology.
+generically dependent continuant;date;a name of a temporal region that is systematized according to a particular calendar system, such as the gregorian calendar.
+generically dependent continuant;probability;a data item that is about a proposition and has a numeric value between 0 and 1, inclusive, that is the output of some process of inference, such that 1) logical falsehoods and logical truths are assigned a value of 0 and 1, respectively, while contingent propositions are assigned some intermediate value. and 2) the process of inference conforms with rules for the calculation of probabilities, and that any interpretation of probability must specify the extent to which probabilities might be used to constrain the degrees of belief of rational agents.
+generically dependent continuant;wolbachia release interval;a seed release interval for a wolbachia control measure.
+generically dependent continuant;disease transmission tree estimator;a software application that implements an algorithm that has specified output some transmission tree.
+generically dependent continuant;container reduction vector control strategy;a vector control strategy for mosquitoes that is realized by reducing the number of water-containing vessels in which mosquitoes can lay eggs.
+generically dependent continuant;vector control strategy;an infectious disease control strategy that has a vector control action specification as part.
+generically dependent continuant;case series data set;a data set that is the output of a case series investigation.
+generically dependent continuant;antiviral administration schedule;an action specification that tells the total number of antiviral doses available to be administered to a population during a specific time interval.
+generically dependent continuant;infectious disease nowcast objective specification;an infectious disease forecasting objective specification that is realized by the estimation of one or more predicted data items that are about some infection in ecosystem as they are occurring in real time, and is part of some infectious disease nowcasting software.
+generically dependent continuant;control strategy stand-down delay;a measurement datum of the time interval from the decision to cease an infectious disease control strategy to the time the control strategy ends expressed in number of time intervals.
+generically dependent continuant;number of artificially-infected vectors released per house;a vector control action specification that specifies the number of artificially-infected vectors to be released at each household.
+generically dependent continuant;census plan specification;a plan specification with a census objective specification.
+generically dependent continuant;vaccination compliance;the fraction expressing the probability that an organism who is eligible according to a particular vaccination policy will be consented for that vaccination.
+generically dependent continuant;vaccination dose schedule;an action specification comprising the number of doses and their timing for a vaccination of an individual organism against a specific infectious agent.
+generically dependent continuant;wolbachia effect on mating probability;an epidemic simulator actions specification that specifies the factor by which to multiply the mating probability of a male mosquito if it is infected with a wolbachia bacterium.
+generically dependent continuant;life stages with duration and mortality;a data structure that refers to (1) a subpopulation of a population based on life stage, (2) the rate of mortality of that subpopulation, and (3) the average duration of time that the individuals in the subpopulation spend in that life stage.
+generically dependent continuant;clear wolbachia upon vector migration;an epidemic simulator action specification that when set to true, results in the simuator clearing each simulated wolbachia-infected mosquito of its simulated wolbachia infection whenever it migrates out of the simulated population location.
+generically dependent continuant;contact tracing;an infectious disease control strategy that identifies and treats contacted organisms in a host population.
+generically dependent continuant;fulminant period duration;a duration that measures a temporal region occupied by a fulminant period.
+generically dependent continuant;laboratory testing facility census;a census of facilities that conduct clinical laboratory testing.
+generically dependent continuant;total disease cases;a count of the total number of diseased indivduals in a population during a particular time interval.
+generically dependent continuant;school transmission multiplier;an epidemic simulator action specification that specifies the factor by which to multiply the transmission coefficient for contacts that occur in a school.
+generically dependent continuant;control strategy response delay;a measurement datum of the time interval from the decision to implement an infectious disease control strategy to the start of the control strategy expressed in number of time intervals.
+generically dependent continuant;upper bound;an information content entity that delimits an interval data structure based on some value that is greater than or equal to all other values within that data structure.
+generically dependent continuant;ring diameter in meters;a scalar value specification that gives the diameter in meters of the circular area around which all organisms in a population are living will receive a vaccination as part of a ring vaccination control measure.
+generically dependent continuant;facility identifier;an identifier that denotes some architectural structure.
+generically dependent continuant;lower bound;an information content entity that delimits an interval data structure based on some value that is less than or equal to all other values within that data structure.
+generically dependent continuant;fixed duration;a duration that is specified as a single number.
+generically dependent continuant;population colonization census;a population census about the organisms specific to that population that were the host in some colonization acquisition.
+generically dependent continuant;joint probability distribution;in the study of probability, given at least two random variables x, y, ..., that are defined on a probability space, the joint probability distribution for x, y, ... is a probability distribution that gives the probability that each of x, y, ... falls in any particular range or discrete set of values specified for that variable.
+generically dependent continuant;simulation of antiviral control measure;the simulation of an antiviral control measure. 
+generically dependent continuant;antiviral compliance;the fraction expressing the probability that an organism will be consented to receive antiviral treatment when eligible.
+generically dependent continuant;number of wolbachia-infected mosquitoes released per house;a vector control action specification that specifies the number of wolbachia-infected adult mosquitoes to be released at each household for some wolbachia control measure.
+generically dependent continuant;insecticide-treated net control measure;an adult vector control strategy that has 1) an action specification that is realized by the use of insecticide-treated nets within households, and 2) an objective specification that is realized by preventing potentially infectious contacting between some mosquito vector and some human host.
+generically dependent continuant;quarantine period;the duration of some process wherein one or more potentially infectious contact organisms (i.e., contacted organisms) are under physical isolation from other organisms within a population.
+generically dependent continuant;carrying capacity per house;an epidemic simulator action specification that specifies the maximum number of larvae that can exist across all ovisites in a given house.
+generically dependent continuant;species of treated organism;a taxonomy identifier curated by the ncbi taxonomy database that specifies the taxonomic classification of some organism that is the recipient of some treatment.
+generically dependent continuant;scale-free network model;an algorithm that models some scale-free network.
+generically dependent continuant;transmission tree;a data structure that represents, for a particular infection in ecosystem, a subset of infected organisms and for each infected organism in the subset except the first one infected temporally, its infection acquisition from an infected host as a machine-readable link to that infected host.
+generically dependent continuant;case definition;an information content entity that specifies the criteria that an organism must meet to be considered to be in some abnormal state.
+generically dependent continuant;control strategy reactive endpoint fraction;a rule that is part of an infectious disease control strategy specification and specifies at which fraction of a population a control strategy is to be discontinued.
+generically dependent continuant;susceptible-infected-susceptible model;a compartmental disease transmission model that represents some infection in ecosystem in which there is only a susceptible population and an infectious population, such that individuals who aren't infectious are susceptible.
+generically dependent continuant;indoor residual spraying vector control strategy;a vector control strategy that is realized by spraying chemicals in a place to kill individuals of the vector population.
+generically dependent continuant;travel restriction control strategy;a travel-related infectious disease control strategy whose action specification is realized in restricting travel of organims from one ecosystem to another ecosystem
+generically dependent continuant;infection acquisition dataset;a dataset that is about infectious disease acquisitions at particular times and particular places.
+generically dependent continuant;complete software license identifier;an identifier that refers to a specific software license.
+generically dependent continuant;latent period duration;a duration of the time interval between the host acquiring an infection and the host bearing a contagiousness disposition during the same disease course within a population of hosts.
+generically dependent continuant;snomed concept identifier;an identifier curated by ihtsdo that refers to some representational unit within its class hierarchy.
+generically dependent continuant;time since time scale zero;the duration of time that has elapsed from the zero reference point to a later time on the time scale
+generically dependent continuant;epidemic peak week;a scalar value specification whose measurement unit label is 'week', and that is part of the epidemic peak intensity.
+generically dependent continuant;eggs per brood;an average value that specifies the number of eggs produced during one reproductive cycle for each individual female within a population.
+generically dependent continuant;duration;a measurement datum that quantifies a temporal region that is occupied by a processual entity.
+generically dependent continuant;standard deviation;a data item that specifies the dispersion of values around some parameter in a set of data, and whose values are standardized to express the same unit of measure as the parameter of interest.
+generically dependent continuant;minimum eggs per oviposition site;an epidemic simulator action specification that specifies the minimum number of eggs that any simulated female mosquito will oviposit during a gonotrophic cycle.
+generically dependent continuant;count of contacted population;the count of individuals in an exposed population (empirical or virtual).
+generically dependent continuant;infectious disease forecast objective specification;an objective specification that is realized by the estimation of one or more predicted data items that are about 1) some infection in ecosystem and 2) potential changes to its number of participants (e.g., individuals within a host population, individuals within a vector population) relative to a particular temporal region. and is part of some infectious disease forecasting software.
+generically dependent continuant;infection state data item;a data item that specifies the epidemiologically-relevant state of a host organism at a specific time with respect to infection with a particular pathogen.
+generically dependent continuant;maximum value;a data item that specifies the largest numerical value in a data set of scalar measurement data itmes.
+generically dependent continuant;school closure control strategy;a place closure control strategy whose action specification is realized in a school closure process.
+generically dependent continuant;deprecated infection case count;a count of individuals in a population who meet an infection case definition during a particular time interval.
+generically dependent continuant;mortality data;a data set that is about either some mortality rate or the death events themselves of some individuals of a given population of a particular biological taxon.
+generically dependent continuant;vector release site action specification;a vector control action specification that specifies the location of vector release sites according to some predetermined spatial interval.
+generically dependent continuant;discrete probability distribution;a probability distribution over a discrete random variable
+generically dependent continuant;synthetic ecosystem constructor;a software that when compiled and run, has specified output of an agent-level ecosystem data set.
+generically dependent continuant;vaccination preventable outcome;an objective specification that specifies the disease outcome a vaccination seeks to prevent.
+generically dependent continuant;obsolete vaccination efficacy measured;a data item specifying a measured vaccination efficacy.
+generically dependent continuant;simulation requester identifier;an identifier that refers to the legal person that commissions a simulation process.
+generically dependent continuant;antiviral efficacy delay;the value of the time interval between an organism's taking antivirals against a specific infectious agent and the organism s losing its infectious agent host role. 
+generically dependent continuant;vaccination administration capacity;an action specification giving the number of vaccinations possible in a population during a specific time interval.
+generically dependent continuant;close individual places independently strategy;a place-closure control strategy that decides on a case-by-case basis whether to close places of a certain type, as opposed to blanket policy that closes all places of a certain type at the same time.
+generically dependent continuant;vector control action specification;an action specification that is realized in reducing the number of infection acquistions in one population of a particular species from infectious hosts in a population of another particular species, called the "vector".
+generically dependent continuant;mean with standard deviation;a data structure that specifies both the sample mean and the standard deviation generated by the measurement process.
+generically dependent continuant;statistical confidence;a predicted data item that estimates how reliable some method of statistical inference will be at estimating the population parameter of interest.
+generically dependent continuant;two-strain susceptible-infectious-resistant model;a susceptible-infected-resistant model that represents exactly two infections in ecosystem by exactly two pathogens.
+generically dependent continuant;description;a textual entity that specifies characteristics of some entity.
+generically dependent continuant;total fatal disease cases;a data item that is the output of some infection case count and that represents the number of infectious disease cases that ended in death.
+generically dependent continuant;compiled software code;a software that is the specified output of some compilation of software process
+generically dependent continuant;rate of hydrological precipitation;a rate measurement datum that is the result of the measurement of the volume of water produced by some hydrological precipitation process at a particular geographical region divided by the number of temporal intervals of equal duration over which the precipitation occurred.
+generically dependent continuant;reactive control strategy threshold unit of measure;a unit of measure for a threshold in a reactive infectious disease control strategy.
+generically dependent continuant;population census;a census that is the outcome of a population survey.
+generically dependent continuant;control strategy dose schedule;an action specification comprising the number of doses and their timing for administering a substance to an individual organism to prevent the negative effects of a specific infectious agent to that organism.
+generically dependent continuant;zoo-prophylaxis control strategy;an infectious disease control strategy that attempts to prevent infection of susceptible human host organisms in a particular geographical region by increasing the population of domesticated animals in that region, such that less mosquitoes feed on humans.
+generically dependent continuant;continuous uniform distribution;the continuous uniform distribution or rectangular distribution is a family of symmetric probability distributions such that for each member of the family, all intervals of the same length on the distribution's support are equally probable.
+generically dependent continuant;simulation of disease;a representation of a disposition realized in a represented disease course that at least part of the simulated population is represented as participating in.
+generically dependent continuant;log normal distribution;a continuous parametric probability distribution that takes as its input a normally-distributed logarithmic function with mean and standard deviation .
+generically dependent continuant;fraction of vector adults affected;a measurement datum that is the fraction of a particular adult vector population that have undergone 1) infection acquisition with a pathogen, and 2) have experienced some outcome of the resulting infection.
+generically dependent continuant;epidemic threshold;a data item that specifies the number of susceptible organisms necessary for an epidemic to occur within a population.
+generically dependent continuant;copyright license;a document that is about the legal rights, claims, and obligations of a legal person (person or organization) under copyright law, and how that legal person intends for those rights, claims, and obligations to be handled/managed by users of the creative work to which this document is attached.
+generically dependent continuant;individual treatment strategy supply schedule unit of measure;the unit of measure for the supply schedule of an individual treatment.
+generically dependent continuant;confidence interval;a data item that specifies both an interval estimate centered around some sample statistic, and the probability that the process/method of obtaining the interval estimate's range of values will generate an interval that contains some unobserved population parameter of interest.
+generically dependent continuant;sensitivity of treatment detection;the sensitivity of a system that classifies organisms into the binary categories of having received a particular treatment and not having received a particular treatment.
+generically dependent continuant;location definition;an information content entity that specifies a geographical region by (1) listing the names of other geographical regions whose mereological sum constitutes it and optionally (2) listing the names of other geographical regions that are subsequently subtracted from the mereological sum.
+generically dependent continuant;apollo location code;an identifier that refers to a particular geographical region and that is constructed per guidelines of the apollo project.
+generically dependent continuant;orcid;an identifier curated by orcid, inc. to denote some academic author.
+generically dependent continuant;purely intentional entity;a generically dependent continuant which derives its existence and its entire endowment from an intending experience of consciousness (an "act") that is laden with determinate, uniformily structured content.
+generically dependent continuant;pubmed identifier;an identifier curated by the united states national library of medicine and national institutes of health that denotes some publication record in the medline database.
+generically dependent continuant;mean rate of hydrological precipitation;an average value that takes, as input, some set of rate of hydrological precipitation data that were recorded over a particular duration of time.
+generically dependent continuant;infectious disease control objective specification;an objective specification that is realized by processes that are able or likely to stop the spread of a disease in a population.
+generically dependent continuant;abiotic ecosystem census;a census of entities of a certain type or types in the abiotic ecosystem.
+generically dependent continuant;name of temporal interval;a name of temporal region that specifies a time span on a specified time scale by giving a start time and a duration.
+generically dependent continuant;infectious disease nowcaster;an infectious disease forecasting software application that predicts how many infections are occurring within the same temporal interval that the data items are being estimated.
+generically dependent continuant;simulated population location identifier;an identifier that refers to a geographical location to be used as location of a population in a simulation.
+generically dependent continuant;specificity of treatment detection;the specificity of a system that classifies organisms into the binary categories of having received a particular treatment and not having received a particular treatment.
+generically dependent continuant;drug identifier;an identifier that denotes a drug product.
+generically dependent continuant;simulation of vaccination control measure;a simulation of a vaccination control measure.
+generically dependent continuant;odor-baited trap control strategy;an adult vector control strategy that has 1) an action specification that is realized by the use of mosquito traps that leverage natural or synthetic human odors as bait, and 2) an objective specification that is realized by preventing potentially infectious contacting between some mosquito vector and some human host.
+generically dependent continuant;disease surveillance objective specification;an objective specification whose endpoint is human awareness of the level of a particular disease in a particular population of a given biological taxon during some time interval.
+generically dependent continuant;travel-related infectious disease control strategy;an infectious disease control strategy that has an objective specification of preventing infection acquisition by organisms traveling from one ecosystem to another ecosystem.
+generically dependent continuant;seed infections into vector population control measure;a vector control strategy that has 1) an action specification that is realized in releasing artificially-infected vector organisms into a vector population, and 2) an objective specification of spreading this infection throughtout the vector population.
+generically dependent continuant;cut-off point specification;an action specification that delineates some minimum value or maximum value for some test statistic within a continuous probability distribution that is meant to serve as a lower bound or upper bound, respectively, for some population or sample of interest.
+generically dependent continuant;complete software identifier;an identifier that refers to a specific piece of software.
+generically dependent continuant;basic reproduction number;the average number of transmissions of an infectious agent from an infectious organism to a susceptible organism within a completely susceptible population.
+generically dependent continuant;vector bite radius;a length measurement datum that specifies the radius of a circle, which is centered at a vector organism, for which there is a certain probability that the vector organism will bite a susceptible host.
+generically dependent continuant;disease transmission model;an algorithm that models the progress of a transmissible disease in a population.
+generically dependent continuant;simulation software application;a software application that provides a model of a real phenomenon based on a set of mathematical formulas.
+generically dependent continuant;potentially infectious contact data set;a data set that is about one or more potentially infectious contact processes in a population of host organisms.
+generically dependent continuant;place closure period;the duration from the closure of a place until the time when it is reopened.
+generically dependent continuant;count of contagious population;the count of individuals in a contagious population (empirical or virtual).
+generically dependent continuant;population infection and immunity census;a census that is the result of a population infection survey and a population immunity survey.
+generically dependent continuant;employment status data item;a data item that denotes some context in which an individual realizes some employee role if he or she is a member of the labor force, or the context in which he or she is not a member of the labor force according to certain prespecified conditions.
+generically dependent continuant;gonotrophic period duration;a time measurement datum of the length of the temporal interval occupied by a gonotropic period.
+generically dependent continuant;probability of infection over time;a conditional probability whose value is dependent upon the duration of some colonization or infection.
+generically dependent continuant;infection case list;a data set that is a collection of case records.
+generically dependent continuant;laboratory testing capacity;an action specification giving the number of laboratory tests of a certain type that it is possible to perform in a given population during a specific time interval.
+generically dependent continuant;count of simulated population;the count of (simulated organisms) in a simulated population.
+generically dependent continuant;software developer identifier;an identifier that refers to the legal person that creates and maintains software.
+generically dependent continuant;infectious disease forecast time specification;an action specification that specifies the duration of time that is to elapse between each calculation of each predicted data item that is the output of some infectious disease forecast.
+generically dependent continuant;population demographic census;a census that is the specific outcome of a population demographic survey.
+generically dependent continuant;simulator developer identifier;an identifier that refers to the legal person that creates and maintains a simulator.
+generically dependent continuant;count of disease cases;a count of individuals in a population who meet the criteria of some case definition during some time interval.
+generically dependent continuant;affinity for buildings;an information content entity that specifies the probability that a given mosquito realizes some disposition to seek out a building if it isn't seeking a host or ovisite.
+generically dependent continuant;name of a temporal boundary;a name of temporal region that designates a temporal boundary
+generically dependent continuant;control strategy start time information;an information content entity that specifies the start time of the implementation of a infectious disease control strategy.
+generically dependent continuant;abiotic ecosystem data set;a data set that is about some abiotic ecosystem or abiotic ecosystem element.
+generically dependent continuant;parametric probability distribution;a probability distribution where the probability of each outcome is the range of a function (whose domain is the outcomes) that is calculated using one or more constant values (called parameters).
+generically dependent continuant;probability of entry into a country is denied;the probability that entry is denied as part of a border control strategy.
+generically dependent continuant;contact definition;an information content entity that specifies which kinds of processes involving an interaction between a given organism and either (1) another, potentially infectious organism or (2) a contaminated environment have a sufficiently high probability of resultling in an infection acquisition by the organism to be of interest to an outbreak investigation.
+generically dependent continuant;scale-free network;a graph of vertices in which, for some fraction of vertices, p(k), the number of connections, k, varies as a power of some parameter, . in other words, p(k) ~ k^(- ), where 2 < < 3.
+generically dependent continuant;normal distribution;a continuous parametric probability distribution that is uniform. centered around the mean, parameter . and whose spread of standard deviations, parameter , adheres to the empirical rule.
+generically dependent continuant;minimum value;a data item that specifies the smallest numerical value in a data set of scalar measurement data items.
+generically dependent continuant;fraction of contaminated thing;a measurement datum that is the fraction of things of a particular type in a particular geographical region or site that are contaminated with a pathogen.
+generically dependent continuant;simulation time series;a time sampled measurement data set, where the position in the sequence of each data item corresponds to a specific time step of the simulation.
+generically dependent continuant;measured vaccination efficacy;a measurement datum that is about a vaccination efficacy and is the specified output of a vaccination efficacy study.
+generically dependent continuant;epidemic start week;a scalar value specification whose measurement unit label is 'week' and that is part of the first predicted data item that is greater than the epidemic threshold set for that data item.
+generically dependent continuant;vaccination efficacy inferred;a data item inferring a vaccination efficacy based on epidemiological data.
+generically dependent continuant;vaccination efficacy for simulator configuration;an information content entity that specifies the vaccination efficacy that is part of a simulator configuration.
+generically dependent continuant;ratio of outdoor to indoor ovisites;a data item that specifies, as a ratio, the total count of oviposition sites located externally to all places in a geographic region relative to the total count of oviposition sites located internally to some place in that geographic region.
+generically dependent continuant;liberal sick leave control strategy;an infectious disease conrol straegy that seeks to reduce disease transmission by offering employees extra paid time off to stay home, in an attempt to reduce contacts that transmit disease in the workplace.
+generically dependent continuant;treatment preventable outcome;an objective specification that specifies the disease outcome that a treatment seeks to prevent.
+generically dependent continuant;antiviral course;an action specification that tells how many doses of antiviral drug should be given to each individual that participates in the antiviral control measure.
+generically dependent continuant;hospital stay dataset;a dataset that is about two or more hospital stays involving two or more patients.
+generically dependent continuant;data service software;a software application that implements a data service.
+generically dependent continuant;disease identifier;an identifier that denotes a disease.
+generically dependent continuant;disease surveillance data;a data set that is about some disease surveillance.
+generically dependent continuant;mortality rate;a rate measurement datum that specifies the percentage of organisms within a population that have died over a given time interval.
+generically dependent continuant;mosquito mating probability;the probability that some male mosquito and some female mosquito within a certain distance of each other realize some disposition to reproduce with one another.
+generically dependent continuant;wolbachia vector control strategy;a vector control strategy that is realized by releasing individuals of the vector population infected with bacteria of the taxon wolbachia to inhibit reproduction of individuals in the vector population.
+generically dependent continuant;ovisite carrying capacity;a predicted data item that is the maximum value of larvae that some ovisite is capable of sustaining.
+generically dependent continuant;disease transmission model identifier;an identifier that refers to some disease transmission model model.
+generically dependent continuant;reproduction number;the average value of transmissions of the infectious agent from one infected organism to another, resulting in an infection. 
+generically dependent continuant;simulator configuration;an information content entity that contains everything a simulator needs to run, including the representation of a scenario.
+generically dependent continuant;apollo pathogen code;an information content entity that designates a biological taxon and optionally a clade of pathogens.
+generically dependent continuant;disease outcome with probability;a predicted data item expressing the probability that a disease outcome occurs during the disease course of an organism.
+generically dependent continuant;software license version identifier;an identifier that, as part of a complete software license identifier, refers to one specific version of the software license.
+generically dependent continuant;disease surveillance trigger definition;an infectious disease control trigger definition for a reactive control measure based on the outcome of disease surveillance.
+generically dependent continuant;transmission coefficient;an information content entity that represents the rate that an infection moves from infected individuals to susceptible individuals in a population.
+generically dependent continuant;border control strategy;a travel-related infectious disease control strategy that has an action specification that is realized in restricting movement of organisms across international borders.
+generically dependent continuant;human mobility data item;a data item that is about one or more instances of human travel, and that specifies the geographical start location, geographical end location, and the geographical regions visited throughout the process.
+generically dependent continuant;infectious disease control strategy trigger definition;a rule that specifies the event that, when it occurs, is the trigger to either start or stop an infectious disease control strategy.
+generically dependent continuant;vaccination identifier;a unique identifier that refers to a protocol for vaccinating one person
+generically dependent continuant;population dynamics model;an simulation software application that when realized simulates changes in the size and life stage distribution of a population or populations of organisms of a particular biological taxon.
+generically dependent continuant;oviposition site census;an abiotic ecosystem census of the locations where pregnant female mosquitos lay their eggs.
+generically dependent continuant;fraction reduction of larvae;a measurement datum that is the fraction of the larval subpopulation of a particular host population that has died due to some event in the population (e.g, due to a particular control measure).
+generically dependent continuant;school closure target facilities;an information content entity about educational institutions that is part of the action sepcification of a school closure control measure.
+generically dependent continuant;synthetic ecosystem data set;a data set that represents 1) one or more collections of organisms at some time and some geographical region. and optionally 2) the school facilities, workplace facilities, and health care facilities in that region.
+generically dependent continuant;laboratory test loinc identifier;a loinc identifier that refers to some clinical laboratory test conducted in a particular context..
+generically dependent continuant;infectious disease scenario;a dataset that represents at least one pathogen population (of a particular biological taxon) in one host population (of a particular biological taxon) in an ecosystem in a particular location at a particular point in time.
+generically dependent continuant;prodromal period duration;a duration that measures a temporal region occupied by a prodromal period.
+generically dependent continuant;target population definition;an information content entity that is part of an infectious disease control strategy and that specifies the intended population to which one or more interventions in the control strategy will be applied.
+generically dependent continuant;control strategy census;a census of infectious disease control strategies put into place to reduce infection acquisitions that are part of an infection in an ecosystem.
+generically dependent continuant;census reference date;a information content entity that specifies the date of a census.
+generically dependent continuant;transmission rate of pathogen to human from wolbachia-infected mosquito bites;the rate at which bites of mosquitoes infected with both wolbachia and a particular pathogen such as dengue result in an infection in a susceptible human host.
+generically dependent continuant;case isolation control strategy;an infectious disease control strategy that has an action specification that is realized in isolating organsims who are infectious.
+generically dependent continuant;susceptible-infected-resistant model;a compartmental disease transmission model that represents some infection in ecosystem in which there are compartments for susceptible individuals, infectious individuals, and recovered individuals, such that recovered individuals are immune to future infection.
+generically dependent continuant;movement speed;a rate measurement datum that specifies the ratio of distance travelled during a movement process to the duration of the time interval occupied by the process.
+generically dependent continuant;parameter estimation model;an algoirthm that is used to estimate the "true" values of certain parameters of disease transmission and/or forecasting.
+generically dependent continuant;software license;a copyright license that is about some software and contains one or more conditional specifications that specify the use and redistribution of the software.
+generically dependent continuant;treatment supply schedule;a schedule that specifies the availability of a particular drug over a specific temporal interval in a specified geographical region.
+generically dependent continuant;conditional probability;a probability whose value is dependent upon the occurrence, known or presumed, of some process.
+generically dependent continuant;treatment system logistics;an information content entity that specifies how many doses or courses of treatment, per a particular unit of time (typically one day), can be supplied for a given geographical region and/or how many of those doses or courses can subsequently be administered.
+generically dependent continuant;control strategy reactive start time information;a control strategy start time information item that is based on a condition that triggers the control strategy.
+generically dependent continuant;disease unique identifier;a unique identifier that refers to a disease.
+generically dependent continuant;loinc identifier;an identifier curated by the regenstrief institute to be used as a standard way of denoting each term in the loinc database.
+generically dependent continuant;ncbi taxon identifier;a taxonomy identifier curated by the ncbi taxonomy that designates a biological taxon.
+generically dependent continuant;simulation time step unit;a time unit that is part of a simulation time step action specification.
+generically dependent continuant;gamma distribution;the gamma distribution is a two-parameter family of continuous probability distributions
+generically dependent continuant;clade name;a taxonomy identifier that denotes a group of organisms or groups of organisms based on common ancestors.
+generically dependent continuant;census objective specification;an objective specification to observe all the organisms of a particular taxon in a particular geographical region or place and create a data set about them.
+generically dependent continuant;age data in age brackets data set;a data set consisting of measurements of age organized in age brackets.
+generically dependent continuant;network model;an algorithm that operates on a representation of some portion of reality and that representation has a structure with nodes that stand for certain entities and edges that state some direct or indirect relationship between pairs of entities.
+generically dependent continuant;epidemic data set;a data set about an instance of an epidemic.
+generically dependent continuant;antiviral supply schedule;an action specification giving the number of doses of an antiviral to be made available during a specific time interval. 
+generically dependent continuant;age in years datum;a time measurement datum that refers to the temporal interval occupied by the life course of some organism and that takes 'years' as its measurement unit label.
+generically dependent continuant;identifier of species of population;a taxonomy identifier curated by the national center for biotechnology information that specifies the taxonomic classification of some population of organisms.
+generically dependent continuant;weibull distribution;a continuous parametric probability distribution that gives the distribution of lifetimes of objects. it was originally proposed to quantify fatigue data, but it is also used in analysis of systems involving a "weakest link."
+generically dependent continuant;simulation of time step;a purely intentional entity that simulates a temporal interval of pre-specified length.
+generically dependent continuant;atmospheric data set;a data set that is about either the earth's atmosphere or some part of the earth's atmosphere.
+generically dependent continuant;mean air temperature;an average value that takes, as input, some set of air temperature measurement data that were recorded over a particular duration of time.
+generically dependent continuant;midas scenario representation;an information content entity that is about a midas scenario and contains population disease census data.
+generically dependent continuant;data visualization objective specification;an objective specification that is realized when a diagram is drawn from one or more data sets.
+generically dependent continuant;time between vector bites;a duration that measures the temporal interval between some vector bite n and some vector bite n+1.
+generically dependent continuant;fixed control strategy start time specification;an action specification that is part of a simulation software and specifies the time step numeral identifying the time step after which a simulation of a control strategy starts.
+generically dependent continuant;software license identifier;an identifier that refers to all versions of a specific software license.
+generically dependent continuant;simulation run length;the action specification that specifies the number of time steps a simulation is going to run.
+generically dependent continuant;shade affinity;an information content entity that specifies the probability that a given mosquito will realize a disposition to seek out a shaded environment when it isn't seeking a host or ovisite.
+generically dependent continuant;social interaction data item;a data item that is about one or more instances of social interaction between two or more individuals, and that specifies the temporal duration of interaction, spatial distance of individuals, geographical location of individuals, and the number of individuals participant in some social behavior(s).
+generically dependent continuant;household transmission multiplier;an epidemic simulator action specification that specifies the factor by which to multiply the transmission coefficient for contacts that occur in a household.
+generically dependent continuant;citation identifier;an identifier that is an integer numeral that denotes some citation.
+generically dependent continuant;transmission probability;the probability of the occurence of an infection acquisition from one infected organism to another when in contact.
+generically dependent continuant;identifier for species of case;a taxonomy identifier curated by the ncbi taxonomy database that has been used to identify the species of some organism that meets a case definition.
+generically dependent continuant;contaminated thing census;a census about contaminated things of a given type in an area of interest.
+generically dependent continuant;vaccine supply schedule;an action specification giving the number of doses of vaccine to be made available over a specific time period.
+generically dependent continuant;colonization duration;a duration that measures the temporal interval occupied by some colonization.
+generically dependent continuant;pathogen evolution model;a simulation software application that simulates the evolution over time of a particular pathogen of a particular biological taxon.
+generically dependent continuant;simulation;a purely intentional entity that simulates an entity and its properties. 
+generically dependent continuant;simulator time specification;an information content entity that specifies the length in time of a single simulator step (e.g., 1 day) and the requested run length of the simulation (number of steps).
+generically dependent continuant;climate data set;a data set that is an aggregate of data items that are about an environmental system process (e.g., hydrological precipitation) or a participant in an environmental system process.
+generically dependent continuant;place closure control strategy;an infectious disease control strategy that has an action specification that is realized in closing facilities where organisms congregate during times when the facilities normally would be open.
+generically dependent continuant;mean median minimum maximum summary statistics data structure;a data structure that holds the mean, median, minimum value, and maximum value of one set of measurement data.
+generically dependent continuant;duration of treatment course;a duration that measures the temporal interval occupied by a treatment course.
+generically dependent continuant;epidemic model;a disease transmission model whose concretization is realized as a simulation of infectious disease epidemic or infectious disease pandemic.
+generically dependent continuant;linear distance travelled between oviposits;an epidemic simulator action specification that specifies the linear distance a female mosquito will travel to find the next oviposition site after depositing some of its eggs at the previous one.
+generically dependent continuant;time scale name;an identifier that designates a scale according to which time is measured (e.g., gregorian calendar).
+generically dependent continuant;infectious disease control strategy;a plan specification whose objective specification is an infectious disease control objective specification.
+generically dependent continuant;census of vaccination supplies;a control strategy inventory census that counts available vaccine doses of one or more similar vaccines.
+generically dependent continuant;conditional probability distribution;a probability distribution of two jointly distributed random variables x and y, where y is know to be a particular value.
+generically dependent continuant;age-dependent fecundity reduction;a rate measurement datum that measures the percentage decrease per unit time (typically per day) in the number of offspring to which a female mosquito passes an infection with a particular pathogen (e.g., wolbachia).
+generically dependent continuant;contamination period duration;a duration that measures a temporal region occupied by some contamination.
+generically dependent continuant;simulator version identifier;an identifier that, as part of a complete simulator identifier, refers to one specific version of a simulator software.
+generically dependent continuant;susceptible-exposed-infectious-recovered model;a compartmental disease transmission model that represents some infection in ecosystem in which there are compartments for susceptible individuals, exposed individuals, infectious individuals, and immune inviduals, such that exposed individuals are infected but cannot transmit the pathogen.
+generically dependent continuant;weather data set;a data set about the earth's atmospheric weather
+generically dependent continuant;disease case identifier;an identifier that denotes an organism included in some infection case count.
+generically dependent continuant;gonotrophic cycle duration;the duration of the temporal interval occupied by a gonotropic period.
+generically dependent continuant;wolbachia prerelease larvicide vector control strategy;an larvicide vector control strategy that is used prior to a wolbachia vector control strategy to increase the percentage of the population that gets infected with wolbachia.
+generically dependent continuant;data visualizer;a software application that implements an algorithm that has some data visualizer software objective specification as part.
+generically dependent continuant;probability distribution;an information content entity that assigns a probability to each measurable subset of the possible outcomes of a random experiment, survey, or procedure of statistical inference. 
+generically dependent continuant;clear infection upon vector migration;an epidemic simulator action specification that, when set to true, results in the simulator clearing each simulated artificially-infected vector of its simulated infection whenever it migrates out of the simulated population location.
+generically dependent continuant;treatment facility census;a census that counts the number of treatment facilities of some kind in a particular geographical region.
+generically dependent continuant;infectious disease control strategy cover radius;a length measurement datum that specifies the radius of a circle that defines the geographical region in which some infectious disease control strategy will be implemented.
+generically dependent continuant;excess mortality dataset;a population mortality dataset that compares deaths in the population during one time interval to deaths in the population during a previous time interval and reports an estimate of how many more or less deaths occurred in the later time interval.
+generically dependent continuant;time step identifying numeral;a numeral that indexes a specific time step of a simulation.
+generically dependent continuant;simulated population;a simulation of a population or populations of organisms of a particular biological taxon that simulates a particular type of event or types of event that occur in a specified time interval.
+generically dependent continuant;control strategy inventory census;a census that is the outcome of assessing control-strategy-related facilities and supply chains.
+generically dependent continuant;infection case record;a data set whose data items are about a host and its participation in an infection and potentially other activities occuring in the same time interval as the infection.
+generically dependent continuant;workplace transmission multiplier;an epidemic simulator action specification that specifies the factor by which to multiply the transmission coefficient for contacts that occur in a workplace.
+generically dependent continuant;healthcare facility identifier;a healthcare facility identifier that refers to some architectural structure that is the bearer of some healthcare function.
+generically dependent continuant;migration speed;a rate measurement datum of that divides the total distance traveled during some migration process by the duration of the temporal interval occupied by that process.
+generically dependent continuant;vector bite probability;the probablity that a female mosquito feeds on or probes the host given an interaction between the mosquito and the host that brings them within a certain proximity (the bite radius).
+generically dependent continuant;identifier of species of diseased organism;a taxonomy identifier curated by the ncbi taxonomy database that has been used to specify the species of some organism in which some disease has been realized.
+generically dependent continuant;male mosquito mating radius;a length measurement datum that specifies the radius of a circle, which is centered at a male vector organism, for which there is some probability that it will mate with a female mosquito.
+generically dependent continuant;software license url;a unique resource locator that constitutes a reference to some software license.
+generically dependent continuant;wolbachia prerelease adult vector control strategy;an adult vector control strategy that is used prior to a wolbachia vector control strategy to increase the percentage of the adult population that gets infected with wolbachia.
+generically dependent continuant;simulation identifier numeral;a numeral that indexes a specific simulation.
+generically dependent continuant;taxonomy identifier;an identifier that denotes a biological taxonomic group.
+generically dependent continuant;number of doses in a treatment course;the count of the number of doses that are part of a treatment course.
+generically dependent continuant;specificity of case detection;the specificity of a system that classifies organisms into the binary categories of individual who meets the criteria of a particular case definition and individual who does not meet the criteria of a particular type of disease x.
+generically dependent continuant;school closure control strategy census;an infectious disease control strategy census that is about school closure infectious disease control strategies implemented in a particular geographical region.
+generically dependent continuant;wolbachia every nth site release action specification;a vector release site action specification for a wolbachia control measure.
+generically dependent continuant;heterogenous carrying capacity;a conditional specification for some epidemic simulator that is triggered by a boolean value that, if true, specifies that there is a non-uniform distribution of oviposition site carrying capacities in a simulated vector population.
+generically dependent continuant;fraction reduction of eggs;a measurement datum that is the fraction of eggs laid by a particular host population that has been destroyed and thus will not develop into a new member of the population.
+generically dependent continuant;contact isolation control measure;a case isolation control measure that has an action specification that is realized in preventing one or more infectious organisms from having physical contact with other organisms.
+generically dependent continuant;count of susceptible population;the count of individuals in a susceptible population (empirical or virtual).
+generically dependent continuant;schedule;a plan specification that specifies 1) the quantity of which some material entity will be allocated to the eventual realization of some action specification, and 2) the temporal regions in which each action specification is to be realized.
+generically dependent continuant;time delay to case detection;the duration from the time an organism satisfies a case definition until a process or system detects the organism as satisfying that case definition
+generically dependent continuant;mean with confidence interval;a data structure that specifies both the sample mean and the confidence interval generated by the measurement process.
+generically dependent continuant;metapopulation disease transmission model;a disease transmission model that is about two or more collections of organisms of a particular biological taxon in separate geographical locations and some geographical migration of organisms between them.
+generically dependent continuant;count of cases in an epidemic;a count of disease cases in an infected population that meet the case definition criteria within a particular epidemic interval.
+generically dependent continuant;seed release interval;a vector control action specification that is realized by releasing artificially-infected vector organisms at the specified time intervals.
+generically dependent continuant;voluntary household quarantine control strategy;an infectious disease control strategy whereby the household members of infectious indivduals voluntarily stay at home to avoid further potentially infectious contacts.
+generically dependent continuant;breteau index;the average number of water containers testing positive for the presence of a particular mosquito species, typically aedes aegyptii, per 100 households in the geographical region under surveillance.
+generically dependent continuant;contamination probability;the probability of the occurence of a contamination acquisition from either an infected organism or another contaminated thing.
+generically dependent continuant;agent-level ecosystem census;a census that is the specified output of a agent-level ecosystem data generation that had census data as an input.
+generically dependent continuant;reactive control strategy threshold;a data item that specifies the fraction of the population known to have undergone a specific event that results in starting or stopping an infectious disease control strategy.
+generically dependent continuant;count;a measurement datum that is the output of counting.
+generically dependent continuant;software identifier;an identifier that refers to all version of a specific software.
+generically dependent continuant;source code repository;a document that comprises at least one source code module and provenance data about who contributed the set of files making up the module(s), and optionally comprises also multiple versions of files with detailed change history about who committed files and when, a license for the software, readme files, documentation, executables, etc.
+generically dependent continuant;complete simulator identifier;an identifier that refers to a specific simulator.
+process;infection;a reproduction of a pathogen organism of a particular biological taxon in a tissue of a host organism from another taxon.
+process;disease outcome;a processual entity that is either the outcome of a disease course or a part of a disease course and has etiological relevance.
+process;vaccination;a treatment that consists of the administration of antigenic material to stimulate an individual's immune system to develop adaptive immunity to a pathogen.
+process;endosymbiosis;a symbiosis where one organism is physically contained within another organism (called the 'host').
+process;drug treatment;a treatment with a drug product.
+process;antiviral treatment;a treatment with an antiviral drug.
+process;facultative endosymbiotic commensalism;an endosymbiotic commensalism that realizes some facultative commensal role inhering in an organism that is also realized by a bodily benefit to that organism.
+process;endosymbiotic parasitism;an endosymbiosis that results in benefit to the parasite and harm to the host.
+process;individual mosquito reproduction;a multicellular organism reproduction that has as its agent a mosquito (taxon culicidae, id 7157)
+process;self-initiated travel avoidance behavior;individual human behavior that involves either 1) remaining in some susceptible population or some exposed population or 2) human movement away from or around an infectious population, in order to avoid being participant in some infection acquisition.
+process;geographical migration of organism;a behavior of one or more organisms that is characterized by the displacement from one geographic region to some target geographic region, and is the realization of either a biological function or (a concretization of) an objective specification.
+process;facultative ectosymbiotic parasitism;an ectosymbiotic parasitism that realizes some facultative parasite role inhering in an organism that is also realized by a bodily benefit to that organism.
+process;agonism;an ectosymbiosis that results in harm to one of the participating organisms and benefit to another participating organism.
+process;human daily movement;an individual human behavior that is the movements from one location to another throughout the day (e.g., work, home, stores, church, relatives' homes) in the areas adjacent to where the human lives at the time.
+process;infectious disease control strategy execution;a process that is applied to a population with the goal of preventing, or mitigating the severity of an infectious disease. 
+process;individual human behavior;an individual behavior of a human being.
+process;transient agonism;an agonism where the participating organisms maintain significant physical separation from one another through most or all of the interaction.
+process;software development;a planned process that has specified output a software product and that involves the creation of source code.
+process;symbiosis;an interspecies interaction between two or more organisms in intimate association.
+process;gonotrophic cycle;the process in a female mosquito of taking a blood meal, developing eggs, and laying the eggs (oviposition).
+process;facultative endosymbiotic parasitism;an endosymbiotic parasitism that realizes some facultative parasite role inhering in an organism that is also realized by a bodily benefit to that organism.
+process;prodromal period;a temporal part of a disease course that itself has a temporal part of becoming symptomatic, followed by another temporal part that is characterized by the organism experiencing mild, non-disease-specific symptoms.
+process;endosymbiotic mutualism;an endosymbiosis that results in benefit to all participating organisms.
+process;bodily benefit;a process that facilitates the realization of one or more normal homeostasis dispositions borne by an organism and/or one or more causally relatively isolated parts of the organism.
+process;predation;a non-intimate agonism in which the harm is fatal.
+process;prospective infectious disease nowcast;an infectious disease nowcast that has specified input some data set, the data items of which are about an infection in ecosystem that is current concomitant with the forecasting software s executable code being realized.
+process;wolbachia effect on female fecundity in mosquito population;a process of change in fecundity of females in a mosquito population that is the outcome of an infection in that population with a wolbachia bacteria population.
+process;infectious disease nowcast;an infectious disesae forecast that realizes some infectious disease nowcasting software.
+process;dataset creating;a planned process that has a data set as its specified output.
+process;obligatory endosymbiotic commensalism;an endosymbiotic commensalism that realizes a biological function that inheres in some proper part of the commensal organism that benefits.
+process;infection acquisition from infectious host;an infection acquisition whereby a susceptible host acquires an infection from an infectious host.
+process;ectosymbiosis;a symbiosis where the organisms that are interacting remain physically external to one another.
+process;potentially infectious sexual contacting;a sexual activity with at least one infectious host as participant where the infectious host(s) are infected with a pathogen that has a disposition to infect the tissues of the non-infected host that came into physical contact with the infectious host during the activity.
+process;facultative endosymbiotic parasitoidism;an endosymbiotic parasitoidism that realizes some facultative parasitoid role inhering in an organism that is also realized by a bodily benefit to that organism.
+process;infectiousness profile;a process profile that specifies the degree to which a host is likely to pass on an infection to a susceptible organism.
+process;infection acquisition from contaminated thing;an infection acquisition whereby a susceptible host acquires an infection from a contaminated thing.
+process;epidemic simulating;a simulating of a disease epidemic or pandemic.
+process;colonization acquisition;a biological process where a pathogen organism of a particular biological taxon enters into a host organism of a particular taxon and begins to undergo reproduction in a location external to tissues of the host
+process;becoming symptomatic;the process of an organism beginning to experience symptoms caused by a disease.
+process;facultative ectosymbiotic commensalism;an ectosymbiotic commensalism that realizes some facultative commensal role inhering in an organism that is also realized by a bodily benefit to that organism.
+process;population immunity survey;a population survey that assesses the level of immunity against a particular pathogen in a specified population.
+process;obligatory endosymbiotic parasitoidism;an endosymbiotic parasitoidism that realizes a biological function that inheres in some proper part of the parasitoid.
+process;census taking;a planned process that realizes a census plan specification.
+process;ectosymbiotic mutualism;an ectosymbiosis that results in benefit to all participating organisms.
+process;contamination;the process of existence without reproduction of a pathogen of a particular biological taxon in or on some material entity or the process of reproduction of a pathogen in or on a material entity that is not an organism.
+process;obligatory endosymbiotic mutualism;an endosymbiotic mutualism that realizes a biological function that inheres in some proper part of at least one of the organisms participating.
+process;simulating of process of type x;a planned process that (1) has at least one process part that has as participants representations of participants (in place of those participants) of processes of type x, and where all such process parts substitute for parts of processes of type x, and (2) is carried out for the purpose of planning for processes of type x, learning more about processes of type x, or teaching about processes of type x.
+process;population serology survey;a population survey that assesses the presence (plus or minus quantity) of antibody to a particular antigen in individuals in a population.
+process;antagonism;an ectosymbiosis that results in harm to all participating organisms.
+process;aggregate of disease courses;a process that (1) has as occurrent parts at least two disease courses that realize the same type of disease, and (2) has as participants two or more hosts that are members of a particular host population.
+process;creating a copyright license;a planned process that has a copyright license as its specified output.
+process;epidemic;a process whose beginning is demarcated by accelerating infection acquisition by one or more host species of a particular pathogen in a particular location and whose end is demarcated by the time when the rate of infection acquisition becomes constant.
+process;amensalism;an ectosymbiosis that results in harm to one of the participating organisms but neither harms nor benefits the other participating organisms.
+process;facultative endosymbiotic mutualism;an endosymbiotic mutualism that realizes some facultative mutualist role inhering in an organism that is also realized by a bodily benefit to that organism.
+process;compiling software;a planned process that converts human-written or curated software into a machine-executable or interpretable set of instructions.
+process;obligatory ectosymbiotic mutualism;an ectosymbiotic mutualism that realizes a biological function that inheres in some proper part of at least one of the organisms participating.
+process;infection in ecosystem;a process comprised of numerous infections and infection acquisitions with a particular pathogen in one or more populations of hosts.
+process;individual mosquito behavior;an individual behavior of a mosquito (organism of family culicidae).
+process;becoming asymptomatic;the process of an organism stopping to experience any symptoms caused by a disease.
+process;ectosymbiotic commensalism;an ectosymbiosis that results in benefit to one participating organism and neither harm nor benefit to the other participating organisms.
+process;wolbachia effect on egg mortality rate in mosquito population;a process of change in the egg mortality rate of a mosquito population that is the outcome of an infection in that population by a wolbachia bacteria population.
+process;human travel;a geographical migration of an organism belonging to the species homo sapiens.
+process;infection acquisition from vertical transmission;an infection acquisition from infectious host by an embryo, fetus, or baby from its infectious mother while in utero, in egg at any point prior to hatching (even after laying), or during childbirth.
+process;ectosymbiotic parasitoidism;an intimate agonism in which the harm is fatal to the host.
+process;intensive care unit encounter;an inpatient encounter in which the health care provider role is realized by some person employed by the intensive care department of some health care facility, and the patient role is realized by someone admitted to that intensive care department.
+process;population survey;a planned process involving counting numbers of a organism population, possibly including counting sub-populations fulfilling specific criteria.
+process;intimate agonism;an agonism where the participating organisms, although physically external to one another, nevertheless have close and persistent physical contact for most or all of the interaction.
+process;infection acquisition through sexual activity with infectious host;an infection acquistion from infectious host that is causally downstream of some potentially infectious sexual contacting
+process;human air travel;human travel that involves 1) movement from one geographical region to another through the air as a temporal proper part, and 2) the use of some processed material (e.g., airplane, hang glider) for propulsion that has some function of mechanical flight.
+process;one-way sensitivity analysis of a continuous variable;a data transformation that takes as its input exactly one continuous variable as a value and assesses whether any statistically significant change to that variable will produce some change to the model's output.
+process;infection in population;an infection in an ecosystem occurring in one population of organisms
+process;counting;the planned process of finding the number of elements in a finite set of objects.
+process;endosymbiotic parasitoidism;an endosymbiosis that results in benefit to the parasitoid and is fatal to the host.
+process;disease surveillance;a planned process that is the realization of a disease surveillance objective specification.
+process;facultative ectosymbiotic mutualism;an ectosymbiotic mutualism that realizes some facultative mutualist role inhering in an organism that is also realized by a bodily benefit to that organism.
+process;potentially infectious contacting;a biological process that brings the organism into sufficiently close physical proximity to a pathogen population, either in or on a contaminated thing or an infectious host, such that the organism is likely but not certain to acquire an infection with the pathogen.
+process;agent-level ecosystem data generation;a planned process that has one or more synthetic ecosystem datasets as output.
+process;obligatory ectosymbiotic parasitism;an ectosymbiotic parasitism that realizes a biological function that inheres in some proper part of the parasite.
+process;ectosymbiotic parasitism;an intimate agonism in which the harm is not fatal to the host.
+process;obligatory ectosymbiotic commensalism;an ectosymbiotic commensalism that realizes a biological function that inheres in some proper part of the commensal organism that benefits.
+process;obligatory ectosymbiotic parasitoidism;an ectosymbiotic parasitoidism that realizes a biological function that inheres in some proper part of the parasitoid.
+process;grazing;a non-intimate agonism in which the harm is not fatal.
+process;fulminant period;a temporal part of a disease course that 1) itself has a temporal part of becoming severely symptomatic, 2) terminates in either death or some bodily harm, and 3) has a sudden onset and short duration.
+process;obligatory endosymbiotic parasitism;an endosymbiotic parasitism that realizes a biological function that inheres in some proper part of the parasite.
+process;infection acquisition;the biological process of pathogen organism(s) of a particular biological taxon entering (the tissues of the body of) a host organism of another taxon from a contagious host or a contaminated thing and reproducing using host resources
+process;endosymbiotic commensalism;an endosymbiosis that results in benefit to one participating organism and neither harm nor benefit to the other participating organisms.
+process;vaccination efficacy study design execution;a study design execution that has as its specified output one or more measured vaccination efficacy data items
+process;becoming severely symptomatic;the process of an organism beginning to experience severe symptoms caused by a disease.
+process;colonization;a reproduction of a pathogen of a particular biological taxon inside a host organism of another taxon, without invasion of the tissues of the host.
+process;prospective infectious disease forecast;an infectious disease forecast that has specified input some data set, the data items of which are about an infection in ecosystem that is current concomitant with the forecasting software s executable code being realized.
+process;data parsing;a data transformation that has a dataset, encoded in a particular data format specification, as input and extracts certain elements or parts of the dataset, typically into the volatile memory of a computer.
+process;contamination acquisition;a biological process whereby an entity that is not in contact with a pathogen of a particular biological taxon begins to undergo contamination with that pathogen.
+process;facultative ectosymbiotic parasitoidism;an ectosymbiotic parasitoidism that realizes some facultative parasitoid role inhering in an organism that is also realized by a bodily benefit to that organism.
+process;incubation period;a process that is part of an infectious disease course, has the same beginning temporal boundary as the disease course, and has an ending temporal boundary at the onset of symptoms due to the infectious disease.
+process;facility survey;a planned process involving counting numbers of facilities in a specific region.
+process;infection acquistion from self colonization;an infection acquisition by which a pathogen organism from a particular biological taxon, which previously was participating in a colonization process in a host organism from another taxon, begins to invade the tissues of the same host organism and reproduce there.
+process;infectious disease forecast;a planned process that realizes some infectious disease forecasting software.
+process;wolbachia effect on adult mortality rate in mosquito population;a process of change in the adult mortality rate of a mosquito population that is the outcome of an infection in that population by a wolbachia bacteria population.
+process;bodily harm;a process that has as output a material entity that is the material basis for an abnormal homeostasis dispostion.
+process;wolbachia effect on larval mortality rate in mosquito population;a process of change in the larval mortality rate of a mosquito population that is the outcome of an infection in that population by a wolbachia bacteria population.
+process;case series;an investigation that realizes the concretization of some disease state design and that has as an occurrent part some population survey that has specified input some case definition.
+process;population infection survey;a population survey that counts the number of individuals in the population who are infected with a particular pathogen.

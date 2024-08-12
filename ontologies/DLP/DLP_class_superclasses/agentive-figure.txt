@@ -1,0 +1,11 @@
+agentive-figure
+agent
+figure
+particular
+Thing
+rational-agent
+non-physical-endurant
+non-physical-object
+social-object
+endurant
+spatio-temporal-particular

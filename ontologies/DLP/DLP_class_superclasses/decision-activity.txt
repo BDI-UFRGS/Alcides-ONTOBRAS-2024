@@ -1,0 +1,10 @@
+decision-activity
+event
+accomplishment
+planning-activity
+particular
+Thing
+activity
+perdurant
+action
+spatio-temporal-particular

@@ -1,0 +1,15 @@
+loop-for
+Thing
+task
+elementary-task
+endurant
+particular
+loop-task
+non-physical-endurant
+course
+non-physical-object
+non-agentive-social-object
+social-object
+control-task
+concept
+spatio-temporal-particular

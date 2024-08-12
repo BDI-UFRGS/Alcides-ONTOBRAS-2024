@@ -1,0 +1,6 @@
+depiction
+particular
+Thing
+information-realization
+physical-realization
+spatio-temporal-particular

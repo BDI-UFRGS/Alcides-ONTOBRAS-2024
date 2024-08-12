@@ -1,0 +1,159 @@
+organicism;theory that the total organization of an organism rather than the functioning of individual organs is the determinant of life processes
+mendelism;the theory of inheritance based on mendel's laws
+malady;any unwholesome or desperate condition. 'what maladies afflict our nation?'
+charles;the density of an ideal gas at constant pressure varies inversely with the temperature
+law of motion;one of three basic laws of classical mechanics
+kinetic theory;a theory that gases consist of small particles in random movement
+instance;a single item of information that is representative of a type. 'this patient provides a typical example of the syndrome'. 'there is a good example on page 10'
+structuralism;a sociological theory based on the premise that society comes before individuals
+theory of relativity;(physics) the theory that space and time are relative concepts rather than absolute concepts
+conjecture;a hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence). 'speculations about the outcome of the election'. 'he dismissed it as mere conjecture'
+special theory of relativity;a physical theory of relativity based on the assumption that the speed of light in a vacuum is a constant and the assumption that the laws of physics are invariant in all inertial systems
+law of action and reaction;action and reaction are equal and opposite
+information;knowledge acquired through study or experience or instruction
+presupposition;an assumption that is taken for granted
+germ theory;the theory that all contagious diseases are caused by microorganisms
+newton s second law;the rate of change of momentum is proportional to the imposed force and goes in the direction of the force
+planetesimal hypothesis;the theory that the solar system was formed by the gravitational accumulation of planetesimals
+darwinism;a theory of organic evolution claiming that new species arise and are perpetuated by natural selection
+presumption;an assumption that is taken for granted
+theory of evolution;a scientific theory of the origin of species of plants and animals
+law of equivalent proportions;(chemistry) law stating that the proportions in which two elements separately combine with a third element are also the proportions in which they combine together
+condition;"a mode of being or form of existence of a person or things: 'the human condition'"
+third law of motion;action and reaction are equal and opposite
+dalton s law;(chemistry and physics) law stating that the pressure exerted by a mixture of gases equals the sum of the partial pressures of the gases in the mixture. the pressure of a gas in a mixture equals the pressure it would exert if it occupied the same volume alone at the same temperature
+bernoulli s law;(statistics) law stating that a large number of items taken at random from a population will (on the average) have the population statistics
+causality;"the relation between causes and effects"
+dark;absence of moral or spiritual values. 'the powers of darkness'
+law of multiple proportions;(chemistry) law stating that when two elements can combine to form more than one compound the amounts of one of them that combines with a fixed amount of the other will exhibit a simple multiple relation
+newton s law of motion;one of three basic laws of classical mechanics
+wave theory;the theory that light is transmitted as waves
+law of large numbers;(statistics) law stating that a large number of items taken at random from a population will (on the average) have the population statistics
+law of independent assortment;each member of a pair of homologous chromosomes separates independently of the members of other pairs so the results are random
+atomic theory;a theory in which matter consists of atoms
+law of diminishing returns;a law affirming that to continue after a certain level of performance has been reached will result in a decline in effectiveness
+law of constant proportion;(chemistry) law stating that every pure substance always contains the same elements combined in the same proportions by weight
+lamarckism;a theory of organic evolution claiming that acquired characteristics are transmitted to offspring
+law of gravitation;(physics) the law that states any two bodies attract each other with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them
+stigmatism;"(optics) condition of an optical system (as a lens) in which light rays from a single point converge in a single focal point"
+gresham s law;bad money drives out good. given 2 coins of equal value in paying debts but unequal intrinsic value the weaker will circulate and the stronger will be hoarded
+corpuscular theory;the theory that light is transmitted as a stream of particles
+copernican system;copernicus' astronomical model in which the earth rotates around the sun
+supposition;a hypothesis that is taken for granted. 'any society is built upon certain assumptions'
+relativity;(physics) the theory that space and time are relative concepts rather than absolute concepts
+analogy;a theoretical account based on a similarity between the model and the phenomena that are to be explained. 'it was a computer simulation of problem solving'
+law of averages;a law affirming that in the long run probabilities will determine performance
+information theory;a statistical theory dealing with the limits and efficiency of information processing
+ohm s law;electric current is directly proportional to voltage and inversely proportional to resistance. i = e/r
+representative;a single item of information that is representative of a type. 'this patient provides a typical example of the syndrome'. 'there is a good example on page 10'
+model;a simplified description of a complex entity or process. 'the computer program was based on a model of the circulatory and respiratory systems'
+illustration;a single item of information that is representative of a type. 'this patient provides a typical example of the syndrome'. 'there is a good example on page 10'
+groundwork;the fundamental assumptions underlying an explanation. 'the whole argument rested on a basis of conjecture'
+keynesianism;the economic theories of john maynard keynes who advocated government monetary and fiscal programs intended to stimulate business activity and increase employment
+theory of games;a theory of competition stated in terms of gains and losses among opposing players
+structuralism;an anthropological theory that there are unobservable social structures that generate observable social phenomena
+theory of organic evolution;a scientific theory of the origin of species of plants and animals
+newton s first law;a body remains at rest or in motion with a constant velocity unless acted upon by an external force
+supersymmetry;a theory that tries to link the four fundamental forces. 'according to supersymmetry each force emerged separately during the big bang'
+gay lussac s law;the density of an ideal gas at constant pressure varies inversely with the temperature
+base;the fundamental assumptions underlying an explanation. 'the whole argument rested on a basis of conjecture'
+liberalism;an economic theory advocating free competition and a self-regulating market and the gold standard
+ethos;"the distinctive spirit of a people or an era. 'the greek ethos'"
+datum;an item of factual information derived from measurement or research
+game theory;a theory of competition stated in terms of gains and losses among opposing players
+fundament;the fundamental assumptions underlying an explanation. 'the whole argument rested on a basis of conjecture'
+atomic theory;a theory of the structure of the atom
+neo darwinism;a modern darwinian theory that explains new species in terms of genetic mutations
+nebular hypothesis;the theory that the solar system evolved from a hot gaseous nebula
+blastogenesis;theory that inherited characteristics are transmitted by germ plasm
+law of mass action;(chemistry) the law that states the rate of a chemical reaction is directly proportional to the molecular concentrations of the reacting substances
+speculation;a hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence). 'speculations about the outcome of the election'. 'he dismissed it as mere conjecture'
+illumination;a condition of spiritual awareness. divine illumination. 'follow god's light'
+precondition;an assumption that is taken for granted
+mendeleev s law;the principle that chemical properties of the elements are periodic functions of their atomic numbers
+hypothesis;"a concept that is not yet verified but that if true would explain certain facts or phenomena. 'he proposed a fresh theory of alkalis that later was accepted in chemical practices'"
+special relativity theory;a physical theory of relativity based on the assumption that the speed of light in a vacuum is a constant and the assumption that the laws of physics are invariant in all inertial systems
+first law of motion;a body remains at rest or in motion with a constant velocity unless acted upon by an external force
+pauli exclusion principle;no two electrons or protons or neutrons in a given system can be in states characterized by the same set of quantum numbers
+kepler s third law;a law stating that the ratio of the square of the revolutionary period (in years) to the cube of the orbital axis (in astronomical units) is the same for all planets
+foundation;the fundamental assumptions underlying an explanation. 'the whole argument rested on a basis of conjecture'
+periodic law;the principle that chemical properties of the elements are periodic functions of their atomic numbers
+boyle s law;the pressure of an ideal gas at constant temperature varies inversely with the volume
+newton s third law of motion;action and reaction are equal and opposite
+mariotte s law;the pressure of an ideal gas at constant temperature varies inversely with the volume
+ptolemaic system;ptolemy's model of the universe with the earth at the center
+neo lamarckism;a modern lamarckian theory emphasizing the importance of environmental factors in genetic changes and retaining the notion of the inheritance of acquired characters
+law;"a generalization based on recurring facts or events (in science or mathematics etc): 'the laws of thermodynamics"
+general theory of relativity;a generalization of special relativity to include gravity
+theory of inheritance;a theory of how characteristics of one generation are derived from earlier generations
+rule;a rule or law concerning a natural phenomenon or the function of a mechanical system: 'the principle of the conservation of mass'. 'the principle of jet propulsion'. 'the right-hand rule for inductive fields'
+kinetic theory of heat;a theory that the temperature of a body increases when kinetic energy increases
+newton s second law of motion;the rate of change of momentum is proportional to the imposed force and goes in the direction of the force
+economic theory;a theory of commercial activities (such as the production and consumption of goods)
+malthusian theory;malthus' theory that population increase would outpace increases in the means of subsistence
+assumption;a hypothesis that is taken for granted. 'any society is built upon certain assumptions'
+bohr theory;a theory of atomic structure that assumes an electron orbiting a nucleus can only be at certain energy levels
+reductionism;a theory that all complex systems can be completely understood in terms of their components
+undulatory theory;the theory that light is transmitted as waves
+newton s law;one of three basic laws of classical mechanics
+law;the density of an ideal gas at constant pressure varies inversely with the temperature
+exclusion principle;no two electrons or protons or neutrons in a given system can be in states characterized by the same set of quantum numbers
+monetarism;an economic theory holding that variations in unemployment and the rate of inflation are usually caused by changes in the supply of money
+astigmia;"(optics) defect in an optical system in which light rays from a single point fail to converge in a single focal point"
+framework;a simplified description of a complex entity or process. 'the computer program was based on a model of the circulatory and respiratory systems'
+law of nature;"a generalization based on recurring facts or events (in science or mathematics etc): 'the laws of thermodynamics"
+iniquity;absence of moral or spiritual values. 'the powers of darkness'
+kepler s law of planetary motion;(astronomy) one of three empirical laws of planetary motion stated by johannes kepler
+general relativity theory;a generalization of special relativity to include gravity
+newton s third law;action and reaction are equal and opposite
+all or none law;(neurophysiology) a nerve impulse resulting from a weak stimulus is just as strong as a nerve impulse resulting from a strong stimulus
+law of segregation;members of a pair of homologous chromosomes separate during the formation of gametes and are distributed to different gametes so that every gamete receives only one member of the pair
+law of effect;(psychology) the principle that behaviors are selected by their consequences. behavior having good consequences tends to be repeated whereas behavior that leads to bad consequences are not repeated
+law of equal areas;a law concerning the speed at which planets travel. a line connecting a planet to the sun will sweep out equal areas in equal times. 'kepler's second law means that a planet's orbital speed changes with its distance from the sun'
+simulation;a theoretical account based on a similarity between the model and the phenomena that are to be explained. 'it was a computer simulation of problem solving'
+law of definite proportions;(chemistry) law stating that every pure substance always contains the same elements combined in the same proportions by weight
+basic assumption;an assumption that is basic to an argument
+law of areas;a law concerning the speed at which planets travel. a line connecting a planet to the sun will sweep out equal areas in equal times. 'kepler's second law means that a planet's orbital speed changes with its distance from the sun'
+mendelianism;the theory of inheritance based on mendel's laws
+law of partial pressures;(chemistry and physics) law stating that the pressure exerted by a mixture of gases equals the sum of the partial pressures of the gases in the mixture. the pressure of a gas in a mixture equals the pressure it would exert if it occupied the same volume alone at the same temperature
+newton s law of gravitation;(physics) the law that states any two bodies attract each other with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them
+cornerstone;the fundamental assumptions underlying an explanation. 'the whole argument rested on a basis of conjecture'
+theory;"an organized system of accepted knowledge that applies in a variety of circumstances to explain a specific set of phenomena. 'true in fact and theory'"
+indeterminacy principle;the theory that it is impossible to measure both energy and time (or position and momentum) completely accurately at the same time
+constatation;an assumption that is basic to an argument
+harmonic law;a law stating that the ratio of the square of the revolutionary period (in years) to the cube of the orbital axis (in astronomical units) is the same for all planets
+special relativity;a physical theory of relativity based on the assumption that the speed of light in a vacuum is a constant and the assumption that the laws of physics are invariant in all inertial systems
+light;a condition of spiritual awareness. divine illumination. 'follow god's light'
+newton s first law of motion;a body remains at rest or in motion with a constant velocity unless acted upon by an external force
+possibility;"a concept that is not yet verified but that if true would explain certain facts or phenomena. 'he proposed a fresh theory of alkalis that later was accepted in chemical practices'"
+second law of motion;the rate of change of momentum is proportional to the imposed force and goes in the direction of the force
+relativity theory;(physics) the theory that space and time are relative concepts rather than absolute concepts
+kepler s second law;a law concerning the speed at which planets travel. a line connecting a planet to the sun will sweep out equal areas in equal times. 'kepler's second law means that a planet's orbital speed changes with its distance from the sun'
+malthusianism;malthus' theory that population increase would outpace increases in the means of subsistence
+kepler s first law;a law stating that the orbit of each planet is an ellipse with the sun at one focus of the ellipse
+dalton s law;(chemistry) law stating that when two elements can combine to form more than one compound the amounts of one of them that combines with a fixed amount of the other will exhibit a simple multiple relation
+kinetic theory of gases;a theory that gases consist of small particles in random movement
+scientific theory;a theory derived from or used in science
+wickedness;absence of moral or spiritual values. 'the powers of darkness'
+theory;"a concept that is not yet verified but that if true would explain certain facts or phenomena. 'he proposed a fresh theory of alkalis that later was accepted in chemical practices'"
+principle;a rule or law concerning a natural phenomenon or the function of a mechanical system: 'the principle of the conservation of mass'. 'the principle of jet propulsion'. 'the right-hand rule for inductive fields'
+conclusion;an intuitive assumption. 'jump to a conclusion'
+mendel s law;(genetics) one of two principles of heredity formulated by gregor mendel on the basis of his experiments with plants. the principles were limited and modified by subsequent genetic research
+example;a single item of information that is representative of a type. 'this patient provides a typical example of the syndrome'. 'there is a good example on page 10'
+given;an assumption that is taken for granted
+general relativity;a generalization of special relativity to include gravity
+darkness;absence of moral or spiritual values. 'the powers of darkness'
+data point;an item of factual information derived from measurement or research
+non sequitur;(logic) a conclusion that does not follow from the premises
+basis;the fundamental assumptions underlying an explanation. 'the whole argument rested on a basis of conjecture'
+quantum theory;a physical theory that certain properties occur only in discrete amounts (quanta)
+self evident truth;an assumption that is basic to an argument
+theoretical account;a simplified description of a complex entity or process. 'the computer program was based on a model of the circulatory and respiratory systems'
+astigmatism;"(optics) defect in an optical system in which light rays from a single point fail to converge in a single focal point"
+dalton s law of partial pressures;(chemistry and physics) law stating that the pressure exerted by a mixture of gases equals the sum of the partial pressures of the gases in the mixture. the pressure of a gas in a mixture equals the pressure it would exert if it occupied the same volume alone at the same temperature
+law of reciprocal proportions;(chemistry) law stating that the proportions in which two elements separately combine with a third element are also the proportions in which they combine together
+mean sun;a theoretical sun that moves along the celestial equator at a constant speed and completes its annual course in the same amount of time the real sun takes at variable speeds
+law of volumes;the density of an ideal gas at constant pressure varies inversely with the temperature
+utopia;"ideally perfect state. especially in its social and political and moral aspects"
+kepler s law;(astronomy) one of three empirical laws of planetary motion stated by johannes kepler
+uncertainty principle;the theory that it is impossible to measure both energy and time (or position and momentum) completely accurately at the same time

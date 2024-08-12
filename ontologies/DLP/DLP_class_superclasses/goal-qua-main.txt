@@ -1,0 +1,14 @@
+goal-qua-main
+Thing
+endurant
+modal-description
+goal
+cognitive-modal-description
+particular
+non-physical-endurant
+non-physical-object
+non-agentive-social-object
+social-object
+description
+spatio-temporal-particular
+desire

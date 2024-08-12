@@ -1,0 +1,808 @@
+pachytene;the third stage of the prophase of meiosis
+atavism;a reappearance of an earlier characteristic
+fall;a sudden drop from an upright position. 'he had a nasty spill on the ice'
+advent;(christian theology) the reappearance of jesus as judge for the last judgment
+finish;the absolute defeat and death of persons on one side of a conflict. 'it was a fight to the finish'. 'he will be the finish of me'
+resonance;a vibration of large amplitude produced by a relatively small vibration near the same frequency of vibration as the natural frequency of the resonating system
+rarefaction;a decrease in the density of something. 'a sound wave causes periodic rarefactions in its medium'
+conversion;an event that results in a transformation
+heartbeat;the rhythmic contraction and expansion of the arteries with each beat of the heart. 'he could feel the beat of her heart'
+convergence;"the occurrence of two or more things coming together"
+apogee;a final climactic stage. 'their achievements stand as a culmination of centuries of development'
+bane;something causes misery or death. 'the bane of my life'
+phenomenon;a remarkable development
+portent;a sign of something about to happen. 'he looked for an omen before going into battle'
+injury;a casualty to military personnel resulting from combat
+mischance;an instance of misfortune
+sequence;several repetitions of a melodic phrase in different keys
+tragedy;an event resulting in great loss and misfortune. 'the whole city was affected by the irremediable calamity'. 'the earthquake was a disaster'
+happy event;(informal) the live birth of a child
+manifestation;a clear appearance. 'a manifestation of great emotion'
+pulsation;the rhythmic contraction and expansion of the arteries with each beat of the heart. 'he could feel the beat of her heart'
+death;the event of dying or departure from life: 'her death came as a terrible shock'. 'upon your decease the capital will pass to your grandchildren'
+eclipse;one celestial body obscures another
+static;a crackling or hissing noise cause by electrical interference
+play;a weak and tremulous light. 'the shimmer of colors on iridescent feathers'. 'the play of light on the water'
+stand;an interruption of normal activity
+warpath;a course leading to warfare or battle
+close;the ending of a contest (as a race). 'it was an exciting finish'. 'i didn't stay for the close of the tournament'
+scourge;something causes misery or death. 'the bane of my life'
+flap;the motion made by flapping up and down
+mutation;the process or event of mutating
+difference;a variation that deviates from the standard or norm. 'the deviation from the mean'
+preliminary;"something that serves as a preceding event or introduces what follows. 'training is a necessary preliminary to employment'. 'drinks were the overture to dinner'"
+discomfit;a defeat in battle
+short circuit;electrical circuit is overloaded
+shear;(physics) a deformation of an object in which parallel planes remain parallel but are shifted in a direction parallel to themselves. 'the shear changed the quadrilateral into a parallelogram'
+embolism;occlusion of a blood vessel by an embolus (a loose clot or air bubble or other particle)
+migration;the periodic passage from one region to another for feeding or breeding
+split decision;a boxing decision in which the judges are not unanimous
+wave shape;the shape of a wave illustrated graphically by plotting the values of the period quantity against time
+algorithmic program;a precise rule (or set of rules) specifying how to solve some problem
+pulsing;(electronics) a sharp transient wave in the normal electrical state (or a series of such transients). 'the pulsations seemed to be coming from a star'
+destruction;an event that destroys something
+hiatus;an interruption in the intensity or amount of something
+ravage;(usually plural) a destructive action. 'the ravages of time'
+background signal;extraneous signals that can be confused with the phenomenon to be observed or measured. 'they got a bad connection and could hardly hear one another over the background signals'
+slack tide;the occurrence of relatively still water at the turn of the (low) tide
+menstrual cycle;a recurring cycle (beginning at menarche and ending at menopause) in which the endometrial lining of the uterus prepares for pregnancy. if pregnancy does not occur the lining is shed at menstruation. 'the average menstrual cycle is 28 days'
+training;the result of good upbringing (especially knowledge of correct social behavior). 'a woman of breeding and refinement'
+fate;"an event (or course of events) that will inevitably happen in the future"
+rebirth;the revival of learning and culture
+slack water;the occurrence of relatively still water at the turn of the (low) tide
+end;the concluding part of an event or occurrence: 'the end was exciting'. 'i had to miss the last of the movie'
+redundancy;repetition of an act needlessly
+thrashing;a sound defeat
+flesh wound;a wound that does not damage important internal organs or shatter any bones
+wrack;the destruction or collapse of something. 'wrack and ruin'
+debacle;a sudden and violent collapse
+nonevent;"an anticipated event that turns out to be far less significant than was expected"
+grand slam;winning all of the tricks in a hand of bridge
+air embolism;obstruction of the circulatory system caused by an air bubble as e.g. accidentally during surgery or hypodermic injection or as a complication from scuba diving
+metarule;a rule that describes how other rules should be used (as in ai)
+stroke;a sudden loss of consciousness resulting when the rupture or occlusion of a blood vessel leads to oxygen lack in the brain
+runaway;an easy victory
+preservation;an occurrence of improvement by virtue of preventing loss or injury or other change
+standing wave;a wave (as a sound wave in a chamber or an electromagnetic wave in a transmission line) in which the ratio of its instantaneous amplitude at one point to that at any other point does not vary with time
+boom;"a sudden happening that brings very good fortune"
+conjunction;(astronomy) apparent meeting or passing of two or more celestial bodies in the same degree of the zodiac
+embarrassment;some event that causes someone to be embarrassed. 'the outcome of the vote was an embarrassment for the liberals'
+disturbance;electrical or acoustic activity that can disturb communication
+landslide;an overwhelming electoral victory. 'roosevelt defeated hoover in a landslide'
+heuristic rule;a commonsense rule (or set of rules) intended to increase the probability of solving some problem
+malfunction;a failure to function normally
+equipment casualty;loss of military equipment
+mishap;an instance of misfortune
+leptotene;the first stage of the prophase of meiosis
+transition;an event that results in a transformation
+suspension;an interruption in the intensity or amount of something
+gravitation wave;(physics) a wave that is hypothesized to propagate gravity and to travel at the speed of light
+release;euphemistic expressions for death. 'thousands mourned his passing'
+disruption;an event that results in a displacement or discontinuity
+expense;a detriment or sacrifice. 'at the expense of'
+pileup;multiple collisions of vehicles
+visitation;an annoying or frustrating event. 'his mother-in-law's visits were a great trial for him'. 'life is full of tribulations'. 'a visitation of the plague'
+materialization;an appearance in bodily form (as of a ghost)
+even chance;an unpredictable phenomenon. 'it's a toss-up whether he will win or lose'
+cerebral thrombosis;a blood clot in a cerebral artery or vein
+operational damage;loss of military equipment in field operations
+atmospherics;a crackling or hissing noise cause by electrical interference
+low water;the lowest (farthest) ebb of the tide
+stage;"any distinct time period in a sequence of events. 'we are in a transitional stage in which many former ideas must be revised or rejected'"
+hell;a cause of difficulty and suffering. 'war is hell'. 'go to blazes'
+force majeure;a natural and unavoidable catastrophe that interrupts the expected course of events. 'he discovered that his house was not insured against acts of god'
+deformation;alteration in the shape or dimensions of an object as a result of the application of stress to it
+turn of events;an unforeseen development. 'events suddenly took an awkward turn'
+crash;(computer science) an event that causes a computer system to become inoperative. 'the crash occurred during a thunderstorm and the system has been down ever since'
+enfeeblement;serious weakening and loss of energy
+heart attack;a sudden severe instance of abnormal heart function
+mishap;an unpredictable outcome that is unfortunate. 'if i didn't have bad luck i wouldn't have any luck at all'
+alteration;"an event that occurs when something passes from one state or phase to another: 'the change was intended to increase sales'. 'this storm is certainly a change for the worse'"
+switch;an event in which one thing is substituted for another
+just deserts;an outcome in which virtue triumphs over vice (often ironically)
+goldmine;"a sudden happening that brings very good fortune"
+variance;an event that departs from expectations
+surcease;a stopping. 'a cessation of the thunder'
+blessed event;(informal) the live birth of a child
+telophase;the final stage of mitosis
+deal;the type of treatment received (especially as the result of an agreement). 'he got a good deal on his car'
+foregone conclusion;an inevitable event
+wonder;"something that causes feelings of wonder. 'the wonders of modern science'"
+chapter;a distinct period in history or in a person's life. 'the industrial revolution opened a new chapter in british history'. 'the divorce was an ugly chapter in their relationship'
+path;a course of conduct. 'the path of virtue'. 'we went our separate ways'. 'our paths in life led us apart'. 'genius usually follows a revolutionary path'
+ramification;a development that complicates a situation. 'the court's decision had many unforeseen ramifications'
+chance event;"anything that happens by chance without an apparent cause"
+adversity;a stroke of ill fortune. a calamitous event: 'a period marked by adversities'
+separation;coming apart
+rule;"(mathematics) a standard procedure for solving a class of problems. 'he determined the upper bound with descartes' rule of signs'. 'he gave us a general formula for attacking polynomials'"
+loosening;an occurrence of control or strength weakening. 'the relaxation of requirements': 'the loosening of his grip'. 'the slackening of the wind'
+thrombosis;the formation or presence of a thrombus (a clot of coagulated blood attached at the site of its formation)
+epidemic;a widespread outbreak of an infectious disease. many people are infected at the same time
+wages;a recompense for worthy acts or retribution for wrongdoing. 'the wages of sin is death'. 'virtue is its own reward'
+break;an unexpected piece of good luck. 'he finally got his big break'
+curse;something causes misery or death. 'the bane of my life'
+missfire;a failure to hit (or meet or find etc)
+destiny;"an event (or course of events) that will inevitably happen in the future"
+shift;a qualitative change
+strain;(physics) deformation of a physical body under the action of applied forces
+mimicry;the resemblance of an animal species to another species or to natural objects. provides concealment and protection from predators
+modification;"an event that occurs when something passes from one state or phase to another: 'the change was intended to increase sales'. 'this storm is certainly a change for the worse'"
+business cycle;recurring fluctuations in economic activity consisting of recession and recovery and growth and decline
+leap;an abrupt transition. 'a successful leap from college to the major leagues'
+waveform;the shape of a wave illustrated graphically by plotting the values of the period quantity against time
+trouble;"an event causing distress or pain. 'what is the trouble?'. 'heart trouble'"
+trial;an annoying or frustrating event. 'his mother-in-law's visits were a great trial for him'. 'life is full of tribulations'. 'a visitation of the plague'
+anticlimax;a disappointing decline after ad previous rise: 'the anticlimax of a brilliant career'
+taste;a brief experience of something. 'he got a taste of life on the wild side'. 'she enjoyed her brief taste of independence'
+blighty wound;a wound that would cause an english soldier to be sent home from service abroad
+rupture;a personal or social separation (as between opposing factions). 'they hoped to avoid a break in relations'
+miscreation;something abnormal or anomalous
+violent death;an event that causes someone to die
+vicissitude;a variation in circumstances or fortune at different times in your life or in the development of something. 'the project was subject to the usual vicissitudes of exploratory research'
+background radiation;radiation coming from sources other than those being observed
+transmigration;the passing of a soul into another body after death
+background;a person's social heritage: previous experience or training. 'he is a lawyer with a sports background'
+heuristic;a commonsense rule (or set of rules) intended to increase the probability of solving some problem
+warp;a moral or mental distortion
+outbreak;"a sudden violent spontaneous occurrence of an undesirable condition"
+meeting;a casual or unexpected convergence. 'he still remembers their meeting in paris'. 'there was a brief encounter in the hallway'
+implosion;a sudden inward collapse. 'the implosion of a light bulb'
+might have been;"an event that could have occurred but never did"
+miracle;"a marvellous event manifesting a supernatural act of god"
+whipping;a sound defeat
+reduplication;an act of duplicating
+closing curtain;the concluding part of any performance
+decision;the outcome of a game or contest: 'the team dropped three decisions in a row'
+rearing;the properties acquired as a consequence of the way you were treated as a child
+omen;a sign of something about to happen. 'he looked for an omen before going into battle'
+leap;a sudden and decisive increase. 'a jump in attendance'
+aeroembolism;obstruction of the circulatory system caused by an air bubble as e.g. accidentally during surgery or hypodermic injection or as a complication from scuba diving
+revivification;the coming again into activity and prominence
+concomitant;"an event or situation that happens at the same time as or in connection with another"
+annular eclipse;only a thin outer disk of the sun can be seen
+culmination;a final climactic stage. 'their achievements stand as a culmination of centuries of development'
+way;a course of conduct. 'the path of virtue'. 'we went our separate ways'. 'our paths in life led us apart'. 'genius usually follows a revolutionary path'
+payoff;a recompense for worthy acts or retribution for wrongdoing. 'the wages of sin is death'. 'virtue is its own reward'
+rack;the destruction or collapse of something. 'wrack and ruin'
+warping;a moral or mental distortion
+atrophy;any weakening or degeneration (especially through lack of use)
+rematch;something (especially a game) that is played again
+pity;an unfortunate development. 'it's a pity he couldn't do it'
+sublimation;(chemistry) a change directly from the solid to the gaseous state without becoming liquid
+onslaught;a sudden and severe onset of trouble
+deviation;a variation that deviates from the standard or norm. 'the deviation from the mean'
+faint;a spontaneous loss of consciousness caused by insufficient blood to the brain
+sine wave;a wave whose waveform resembles a sine curve
+spill;a sudden drop from an upright position. 'he had a nasty spill on the ice'
+milk leg;painful thrombosis of the femoral vein in the leg following childbirth
+prelude;"something that serves as a preceding event or introduces what follows. 'training is a necessary preliminary to employment'. 'drinks were the overture to dinner'"
+ruin;an event that results in destruction
+corollary;a practical consequence that follows naturally. 'blind jealousy is a frequent corollary of passionate love'
+salvo;an outburst resembling the discharge of firearms or the release of bombs
+transient;(physics) a short-lived oscillation in a system caused by a sudden change of voltage or current or load
+prolongation;the act of prolonging something. 'there was an indefinite prolongation of the peace talks'
+concretion;an increase in the density of something
+opening night;the first performance (as of a theatrical production). 'the opening received good critical reviews'
+copying;an act of copying
+overstrain;too much strain
+fluctuation;a wave motion. 'the fluctuations of the sea'
+departure;euphemistic expressions for death. 'thousands mourned his passing'
+dramatic event;an episode that is turbulent or highly emotional
+clonus;convulsion characterized by alternating contractions and relaxations
+fall;when a wrestler's shoulders are forced to the mat
+decease;the event of dying or departure from life: 'her death came as a terrible shock'. 'upon your decease the capital will pass to your grandchildren'
+low tide;the lowest (farthest) ebb of the tide
+drama;an episode that is turbulent or highly emotional
+nativity;the event of being born. 'they celebrated the birth of their first child'
+solar eclipse;the moon interrupts light from the sun
+menarche;the first occurrence of menstruation in a woman
+superior conjunction;(astronomy) the alignment of the earth and a planet on the opposite side of the sun
+nascency;the event of being born. 'they celebrated the birth of their first child'
+downfall;a sudden decline in strength or number or importance. 'the fall of the house of hapsburg'
+outcome;the situation that exists when something ends. 'he listened for the results on the radio'
+contraction;the process or result of becoming smaller or pressed together: 'the contraction of a gas on cooling'
+manna from heaven;"a sudden happening that brings very good fortune"
+fluttering;the motion made by flapping up and down
+sweep;winning all or all but one of the tricks in bridge
+human death;a death resulting from an accident or a disaster. 'a decrease in the number of automobile fatalities'
+accidental injury;an accident that results in physical damage or hurt
+expiration;euphemistic expressions for death. 'thousands mourned his passing'
+milestone;a significant event in your life (or in a project)
+rift;a personal or social separation (as between opposing factions). 'they hoped to avoid a break in relations'
+reprieve;an interruption in the intensity or amount of something
+coronary;obstruction of blood flow in a coronary artery by a blood clot (thrombus)
+shoo in;an easy victory
+victory;a successful ending of a struggle or contest. 'the general always gets credit for his army's victory'. 'the agreement was a triumph for common sense'
+luteal phase;the second half of the menstrual cycle after ovulation. the corpus luteum secretes progesterone which prepares the endometrium for the implantation of an embryo. if fertilization does not occur then menstrual flow begins
+fit;a sudden uncontrollable attack. 'a paroxysm of giggling'. 'a fit of coughing'
+fatal accident;an accident that causes someone to die
+augury;an event that is experienced as indicating important things to come. 'he hoped it was an augury'. 'it was a sign from god'
+apocalypse;a cosmic cataclysm in which god destroys the ruling powers of evil
+stunner;an unexpected and amazing event: 'the stunner was what happened on saturday'
+operational casualty;loss of military equipment in field operations
+epilepsia major;a seizure (or a type of epilepsy characterized by such seizures) during which the patient becomes unconscious and has convulsions over the entire body
+affliction;a cause of great suffering and distress
+bomb;an event that fails badly or is totally ineffectual. 'the first experiment was a real turkey'. 'the meeting was a dud as far as new business was concerned'
+auspice;a favorable omen
+repeating;the act of repeating
+blaze;a cause of difficulty and suffering. 'war is hell'. 'go to blazes'
+word of god;a manifestation of the mind and will of god
+systole;the contraction of the chambers of the heart (especially the ventricles) to drive blood into the aorta and pulmonary artery
+battle damage;loss of military equipment in battle
+waxing;a gradual increase in magnitude or extent. 'the waxing of the moon'
+prophase;the first stage of meiosis
+passing;euphemistic expressions for death. 'thousands mourned his passing'
+trip;an accidental misstep threatening (or causing) a fall. 'he blamed his slip on the ice'. 'the jolt caused many slips and a few spills'
+drubbing;a sound defeat
+bombshell;a shocking surprise. 'news of the attack came like a bombshell'
+takedown;(amateur wrestling) being brought to the mat from a standing position. 'a takedown counts two points'
+receding;a slow or gradual disappearance
+twinkle;a rapid change in brightness
+flutter;the motion made by flapping up and down
+act of god;a natural and unavoidable catastrophe that interrupts the expected course of events. 'he discovered that his house was not insured against acts of god'
+total eclipse;an eclipse as seen from a place where the eclipsed body is completely obscured
+departure;a variation that deviates from the standard or norm. 'the deviation from the mean'
+little slam;winning all but one of the tricks in a hand of bridge
+throwback;a reappearance of an earlier characteristic
+perseverance;the act of persevering
+debilitation;serious weakening and loss of energy
+renascence;the revival of learning and culture
+attack;a sudden occurrence of an uncontrollable condition. 'an attack of diarrhea'
+climax;the highest point of anything conceived of as growing or developing or unfolding: 'the climax of the artist's career'. 'in the flood tide of his success'
+revival;the coming again into activity and prominence
+education;the result of good upbringing (especially knowledge of correct social behavior). 'a woman of breeding and refinement'
+break;the occurrence of breaking. 'the break in the dam threatened the valley'
+bust;a complete failure. 'the play was a dismal flop'
+flood tide;the highest point of anything conceived of as growing or developing or unfolding: 'the climax of the artist's career'. 'in the flood tide of his success'
+scene;an incident (real or imaginary). 'their parting was a sad scene'
+fluke;a stroke of luck
+seizure;a sudden occurrence (or recurrence) of a disease. 'he suffered an epileptic seizure'
+start off;a start given to contestants. 'i was there with my parents at the kickoff'
+doomsday;an unpleasant or disastrous destiny. 'everyone was aware of the approaching doom but was helpless to avoid it'
+replication;the act of reproducing
+time;a person's experience on a particular occasion. 'he had a time holding back the tears' or 'they had a good time together'
+loss;the experience of losing a loved one. 'he sympathized on the loss of their grandfather'
+beat;the rhythmic contraction and expansion of the arteries with each beat of the heart. 'he could feel the beat of her heart'
+good luck;an unexpected piece of good luck. 'he finally got his big break'
+secretory phase;the second half of the menstrual cycle after ovulation. the corpus luteum secretes progesterone which prepares the endometrium for the implantation of an embryo. if fertilization does not occur then menstrual flow begins
+change;"an event that occurs when something passes from one state or phase to another: 'the change was intended to increase sales'. 'this storm is certainly a change for the worse'"
+apoplexy;a sudden loss of consciousness resulting when the rupture or occlusion of a blood vessel leads to oxygen lack in the brain
+gene mutation;a mutation due to an intramolecular reorganization of a gene
+misfire;an explosion fails to occur
+fatality;a death resulting from an accident or a disaster. 'a decrease in the number of automobile fatalities'
+square deal;fair treatment
+torment;a severe affliction
+overture;"something that serves as a preceding event or introduces what follows. 'training is a necessary preliminary to employment'. 'drinks were the overture to dinner'"
+periodic event;"an event that recurs at intervals"
+impairment;the occurrence of a change for the worse
+pulmonary embolism;blockage of the pulmonary artery by foreign matter or by a blood clot
+fall;a sudden decline in strength or number or importance. 'the fall of the house of hapsburg'
+primrose path;a life of ease and pleasure
+obliteration;the complete destruction of every trace of something
+formula;"(mathematics) a standard procedure for solving a class of problems. 'he determined the upper bound with descartes' rule of signs'. 'he gave us a general formula for attacking polynomials'"
+abortion;failure of a plan
+waterloo;a final crushing defeat
+debacle;a sound defeat
+second coming;(christian theology) the reappearance of jesus as judge for the last judgment
+pandemic;an epidemic that is geographically widespread. occurring throughout a region or even throughout the world
+mutilation;an injury that deprives you of a limb or other important body part
+dwindling away;a becoming gradually less. 'there is no greater sadness that the dwindling away of a family'
+tide;the periodic rise and fall of the sea level under the gravitational pull of the moon
+betterment;a change for the better. progress in development
+perseveration;the act of persevering
+deformation;a change for the worse
+respite;an interruption in the intensity or amount of something
+trade cycle;recurring fluctuations in economic activity consisting of recession and recovery and growth and decline
+setback;"an unfortunate happening that hinders of impedes. something that is thwarting or frustrating"
+halt;the event of something ending. 'it came to a stop at the bottom of the hill'
+revolution;a drastic and far-reaching change in ways of thinking and behaving. 'the industrial revolution was also a cultural revolution'
+telophase;the final stage of meiosis when the chromosomes move toward opposite ends of the nuclear spindle
+ravel;a row of unravelled stitches. 'she got a run in her stocking'
+emulation;effort to equal or surpass another
+ictus;a sudden occurrence (or recurrence) of a disease. 'he suffered an epileptic seizure'
+allomerism;(chemistry) variability in chemical composition without variation in crystalline form
+cardiac cycle;the complete cycle of events in the heart from the beginning of one heart beat to the beginning of the next. an electrical impulse in conducted through the heart muscle that constricts the atria which is followed by constriction of the ventricles. 'the cardiac cycle can be shown on an electrocardiogram'
+licking;an unsuccessful ending
+atmospheric static;a crackling or hissing noise cause by electrical interference
+exigency;a sudden unforeseen crisis (usually involving danger) that requires immediate action. 'he never knew what to do in an emergency'
+background;relatively unimportant or inconspicuous accompanying situation: 'when the rain came he could hear the sound of thunder in the background'
+adrenarche;the increase in activity of the adrenal glands just before puberty
+augmentation;the amount by which something increases
+phase;"any distinct time period in a sequence of events. 'we are in a transitional stage in which many former ideas must be revised or rejected'"
+infection;an incident is which an infectious disease is transmitted
+swoon;a spontaneous loss of consciousness caused by insufficient blood to the brain
+remission;an abatement in the manifestations of a disease. 'his cancer is in remission'
+radio noise;static at radio wavelengths
+power failure;supply of power fails
+materialisation;an appearance in bodily form (as of a ghost)
+bonanza;"a sudden happening that brings very good fortune"
+inferior conjunction;(astronomy) the alignment of the earth and a planet on the same side of the sun
+relaxation;an occurrence of control or strength weakening. 'the relaxation of requirements': 'the loosening of his grip'. 'the slackening of the wind'
+fortuity;"anything that happens by chance without an apparent cause"
+good fortune;a stroke of luck
+cataclysm;an event resulting in great loss and misfortune. 'the whole city was affected by the irremediable calamity'. 'the earthquake was a disaster'
+dud;an explosion fails to occur
+combat casualty;loss of military equipment in battle
+last;the concluding part of an event or occurrence: 'the end was exciting'. 'i had to miss the last of the movie'
+devastation;an event that results in total destruction
+recurrence;happening again (especially at regular intervals). 'the return of spring'
+damage;the occurrence of a change for the worse
+white leg;painful thrombosis of the femoral vein in the leg following childbirth
+cause celebre;any incident that attracts great public attention
+direct tide;the occurrence of high tide on one side of the earth coinciding with high tide on the opposite side
+inevitable accident;a natural and unavoidable catastrophe that interrupts the expected course of events. 'he discovered that his house was not insured against acts of god'
+fluctuation;an instance of change. the rate or magnitude of change
+metaphase;the second stage of mitosis
+knock;a bad experience. 'the school of hard knocks'
+high tide;the tide when the water is highest
+detriment;a damage or loss
+relief;a change for the better
+disembarrassment;something that extricates you from embarrassment
+delivery;the event of giving birth. 'she had a difficult delivery'
+miss;a failure to hit (or meet or find etc)
+road to damascus;a sudden turning point in a person's life (similar to the sudden conversion of the apostle paul on the road from jerusalem to damascus of arrest christians)
+conservation;an occurrence of improvement by virtue of preventing loss or injury or other change
+repetition;an event that repeats. 'the events today were a repeat of yesterday's'
+lessening;a change downward. 'there was a sharp drop-off in sales'
+damage;loss of military equipment
+good luck;a stroke of luck
+turn;an unforeseen development. 'events suddenly took an awkward turn'
+martyrdom;death that is imposed because of the person's adherence of a religious faith or cause
+convulsion;violent uncontrollable contractions of muscles
+accident;a mishap. especially one causing injury or death
+substitution;an event in which one thing is substituted for another
+severance;a personal or social separation (as between opposing factions). 'they hoped to avoid a break in relations'
+recrudescence;a return of something after a period of abatement. 'a recrudescence of racism'
+fair deal;fair treatment
+taking apart;the removal of limbs. being cut to pieces
+discrepancy;an event that departs from expectations
+drop off;a change downward. 'there was a sharp drop-off in sales'
+blow;"an unfortunate happening that hinders of impedes. something that is thwarting or frustrating"
+perpetuation;the act of prolonging something. 'there was an indefinite prolongation of the peace talks'
+adjustment;making or becoming suitable. adjusting to circumstances
+ruination;an event that results in destruction
+green revolution;the introduction of pesticides and high-yield grains and better management which greatly increased agricultural productivity
+straight and narrow;the way of proper and honest behavior. 'he taught his children to keep strictly to the straight and narrow'
+wound;a casualty to military personnel resulting from combat
+result;the situation that exists when something ends. 'he listened for the results on the radio'
+transmission;an incident is which an infectious disease is transmitted
+shipwreck;an accident that destroys a ship at sea
+highwater;the tide when the water is highest
+shrinking;process or result of becoming less or smaller: 'the material lost 2 inches per yard in shrinkage'
+algorithm;a precise rule (or set of rules) specifying how to solve some problem
+ending;"an event whose occurrence ends something. 'his death marked the ending of an era'"
+cycle;"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'
+flopping;the motion made by flapping up and down
+sound reproduction;the reproduction of sound
+day of reckoning;an unpleasant or disastrous destiny. 'everyone was aware of the approaching doom but was helpless to avoid it'
+diurnal variation;fluctuations that occur during each day
+fadeout;a gradual temporary loss of a transmitted signal due to electrical disturbances
+dud;an event that fails badly or is totally ineffectual. 'the first experiment was a real turkey'. 'the meeting was a dud as far as new business was concerned'
+accompaniment;"an event or situation that happens at the same time as or in connection with another"
+renaissance;the revival of learning and culture
+razing;the event of a structure being completely demolished and leveled
+duplication;the act of duplicating something. 'this kind of duplication is wasteful'
+development;a recent event that has some relevance for the present situation. 'recent developments in iraq'. 'what a revolting development!'
+disaster;an event resulting in great loss and misfortune. 'the whole city was affected by the irremediable calamity'. 'the earthquake was a disaster'
+ground noise;extraneous noise contaminating sound measurements that cannot be separated from the desired signal
+coincidence;an event that might have been arranged although it was really accidental
+z;the ending of a series or sequence. 'the alpha and the omega, the first and the last, the beginning and the end'--revelation
+luck;an unknown and unpredictable phenomenon that causes an event to result one way rather than another. 'bad luck caused his downfall'. 'it was a chance meeting'
+concentration;increase in density
+discomfiture;a defeat in battle
+stop;the event of something ending. 'it came to a stop at the bottom of the hill'
+round;"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'
+heuristic program;a commonsense rule (or set of rules) intended to increase the probability of solving some problem
+consequence;the outcome of an event especially as relative to an individual. 'that result is of no consequence'
+epiphany;a divine manifestation
+phase of cell division;a stage in meiosis or mitosis
+train;a series of consequences wrought by an event. 'it led to a train of disasters'
+rhythm;"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'"an interval during which a recurring sequence of events occurs. 'the neverending cycle of the seasons'
+offspring;something that comes into existence as a result. 'industrialism prepared the way for acceptance of the french revolution's various socialistic offspring'. 'this skyscraper is the solid materialization of his efforts'
+capsizing;(nautical) the event of a boat accidentally turning over in the water
+flare up;"a sudden violent happening. 'an outburst of heavy rain'. 'a burst of lightning'"
+flashing;a short vivid experience. 'a flash of emotion swept over him'. 'the flashings of pain were a warning'
+hysterics;an attack of hysteria
+unavoidable casualty;a natural and unavoidable catastrophe that interrupts the expected course of events. 'he discovered that his house was not insured against acts of god'
+birth;the event of being born. 'they celebrated the birth of their first child'
+brake failure;brakes fail to stop a vehicle
+straits;a difficult juncture. 'a pretty pass'. 'matters came to a head yesterday'
+flashback;an unexpected but vivid recurrence of a past experience (especially a recurrence of the effects of an hallucinogenic drug taken much earlier)
+heritage;"any attribute that passes from parent to offspring"
+slackening;an occurrence of control or strength weakening. 'the relaxation of requirements': 'the loosening of his grip'. 'the slackening of the wind'
+desolation;an event that results in total destruction
+smash up;a serious collision (especially of motor vehicles)
+reappearance;appearing again
+dawn;the earliest period: 'the dawn of civilization'. 'the morning of the world'
+idyll;an episode of such pastoral or romantic charm as to qualify as the subject of a poetic idyll
+abatement;an interruption in the intensity or amount of something
+point mutation;a mutation due to an intramolecular reorganization of a gene
+war cloud;an ominous sign that war threatens
+calamity;an event resulting in great loss and misfortune. 'the whole city was affected by the irremediable calamity'. 'the earthquake was a disaster'
+exit;euphemistic expressions for death. 'thousands mourned his passing'
+exhaustion;serious weakening and loss of energy
+playback;the act of reproducing recorded sound. 'he was allowed to hear the playback of his testimony'
+diplotene;the fourth stage of the prophase of meiosis
+send off;a start given to contestants. 'i was there with my parents at the kickoff'
+fender bender;a collision between motor vehicles that produces minor damage
+headroom;the capacity of a system to reproduce loud sounds without distortion
+recurrent event;"an event that recurs at intervals"
+ladder;a row of unravelled stitches. 'she got a run in her stocking'
+waning;a gradual decrease in magnitude or extent. 'the waning of his enthusiasm was obvious'. 'the waxing and waning of the moon'
+outrage;a disgraceful event
+reproduction;the act of reproducing
+cycle;a periodically repeated sequence of events: 'a cycle of reprisal and retaliation'
+reversal;"an unfortunate happening that hinders of impedes. something that is thwarting or frustrating"
+scandal;a disgraceful event
+eye opener;something surprising and revealing
+improvement;a change for the better. progress in development
+walloping;a sound defeat
+rout;a defeat in battle
+reincarnation;a second or new birth
+air wave;a sound wave that is transmitted via air
+miracle;"any amazing or wonderful occurrence"
+wave form;the shape of a wave illustrated graphically by plotting the values of the period quantity against time
+eventuality;"a possible event or occurrence or result"
+sorting algorithm;an algorithm for sort a list
+happy chance;an unexpected piece of good luck. 'he finally got his big break'
+epileptic seizure;convulsions accompanied by impaired consciousness
+luck;an unknown and unpredictable phenomenon that leads to a favorable outcome. 'it was my good luck to be there'. 'they say luck is a lady'. 'it was as if fortune guided his hand'
+collision;an accident resulting from violent impact of a moving object. 'three passengers were killed in the collision'. 'the collision of the two ships resulted in a serious oil spill'
+demolition;an event that destroys something
+sunset;the daily event of the sun sinking below the horizon
+downfall;failure that results in a loss of position or reputation
+grand mal;a seizure (or a type of epilepsy characterized by such seizures) during which the patient becomes unconscious and has convulsions over the entire body
+thunderclap;a shocking surprise. 'news of the attack came like a bombshell'
+chance;an unknown and unpredictable phenomenon that causes an event to result one way rather than another. 'bad luck caused his downfall'. 'it was a chance meeting'
+marvel;"something that causes feelings of wonder. 'the wonders of modern science'"
+martyrdom;any experience that causes intense suffering
+death knell;an omen of death or destruction
+permutation;an event in which one thing is substituted for another
+abidance;the act of abiding (enduring without yielding)
+nemesis;something causes misery or death. 'the bane of my life'
+morning;the earliest period: 'the dawn of civilization'. 'the morning of the world'
+injury;an accident that results in physical damage or hurt
+lengthening;the act of prolonging something. 'there was an indefinite prolongation of the peace talks'
+flop;a complete failure. 'the play was a dismal flop'
+abiotrophy;a loss of vitality and a degeneration of cells and tissues not due to any apparent injury
+alignment;(astronomy) apparent meeting or passing of two or more celestial bodies in the same degree of the zodiac
+prognostic;a sign of something about to happen. 'he looked for an omen before going into battle'
+transition;a change from one place or state or subject or stage to another
+reverse;"an unfortunate happening that hinders of impedes. something that is thwarting or frustrating"
+daily variation;fluctuations that occur between one day and the next
+detachment;coming apart
+throbbing;an instance of rapid strong pulsation (of the heart). 'he felt a throbbing in his head'
+breach;a personal or social separation (as between opposing factions). 'they hoped to avoid a break in relations'
+scintillation;a rapid change in brightness
+live birth;the birth of a living fetus
+show;(in horse racing) a finish in third place
+fitting;making or becoming suitable. adjusting to circumstances
+chapter;a series of related events forming an episode. 'a chapter of disasters'
+tie up;an interruption of normal activity
+fading away;gradually diminishing in brightness or loudness or strength
+surface noise;noise produced by the friction of the stylus of a record player moving over the rotating record
+slip;an accidental misstep threatening (or causing) a fall. 'he blamed his slip on the ice'. 'the jolt caused many slips and a few spills'
+fading;weakening in force or intensity: 'attenuation in the volume of the sound'
+miscarriage;failure of a plan
+sinking;a slow fall or decline (as for lack of strength). 'after several hours of sinking an unexpected rally rescued the market'. 'he could not control the sinking of his legs'
+second advent;(christian theology) the reappearance of jesus as judge for the last judgment
+imitation;the act of imitating
+short;electrical circuit is overloaded
+tin pest;the transformation of ordinary white tin into powdery gray tin a very cold temperatures
+annihilation;total destruction. 'bomb tests resulted in the annihilation of the atoll'
+degeneration;passing from a more complex to a simpler biological form
+contingency;"a possible event or occurrence or result"
+presage;a sign of something about to happen. 'he looked for an omen before going into battle'
+sideshow;a subordinate incident of little importance relative to the main event. 'instruction is not an educational sideshow'
+noise;electrical or acoustic activity that can disturb communication
+trouncing;a sound defeat
+compression;an increase in the density of something
+subsequence;something that follows something else
+materialization;something that comes into existence as a result. 'industrialism prepared the way for acceptance of the french revolution's various socialistic offspring'. 'this skyscraper is the solid materialization of his efforts'
+news event;"a newsworthy event"
+dismemberment;the removal of limbs. being cut to pieces
+kismet;(islamic) the will of allah
+opener;the first event in a series: 'she played chopin for her opener'. 'the season's opener was a game agains the yankees'
+high fidelity;the reproduction of sound with little or no distortion
+personnel casualty;military personnel lost by death or capture
+cessation;a stopping. 'a cessation of the thunder'
+pursuance;the continuance of something begun with a view to its completion
+karma;(hinduism and buddhism) the effects of a person's actions that determine his destiny in his next incarnation
+subsidence;an abatement in the manifestations of a disease. 'his cancer is in remission'
+crisis;a crucial stage or turning point in the course of something. 'after the crisis the patient either dies or gets better'
+tide;something that may increase or decrease (like the tides of the sea). 'a rising tide of popular interest'
+accident;"anything that happens by chance without an apparent cause"
+collapse;a mishap caused by something suddenly falling down or caving in
+cerebrovascular accident;a sudden loss of consciousness resulting when the rupture or occlusion of a blood vessel leads to oxygen lack in the brain
+crash;a serious accident (usually involving one or more vehicles). 'they are still investigating the crash of the twa plane'
+strengthening;becoming stronger
+sublimation;(psychology) modifying the natural expression of an impulse or instinct (especially a sexual one) to one that is socially acceptable
+oncoming;the beginning or early stages. 'the onset of pneumonia'
+shimmer;a weak and tremulous light. 'the shimmer of colors on iridescent feathers'. 'the play of light on the water'
+crucifixion;the death of jesus on the cross after he was condemned by the jews as a false messiah
+diastole;the widening of the chambers of the heart between two contractions when the chambers fill with blood
+service break;a game won on the opponent's service
+free living;a way of life given to easy indulgence of the appetites
+elaboration;the result of improving something. 'he described a refinement of this technique'
+jump;an abrupt transition. 'a successful leap from college to the major leagues'
+partial eclipse;an eclipse in which the eclipsed body is only partially obscured
+killing;an event that causes someone to die
+way of life;a course of conduct. 'the path of virtue'. 'we went our separate ways'. 'our paths in life led us apart'. 'genius usually follows a revolutionary path'
+head crash;(computer science) a crash of a read/write head in a hard disk drive (usually caused by contact of the head with the surface of the magnetic disk)
+malformation;something abnormal or anomalous
+pounding;an instance of rapid strong pulsation (of the heart). 'he felt a throbbing in his head'
+experience;"an event as apprehended. 'a surprising experience'. 'that painful experience certainly got our attention'"
+cycle;a single complete execution of a periodically repeated phenomenon: 'a year constitutes a cycle of the seasons'
+flash;a short vivid experience. 'a flash of emotion swept over him'. 'the flashings of pain were a warning'
+hi fi;the reproduction of sound with little or no distortion
+loss of consciousness;the occurrence of a loss of the ability to perceive and respond
+slaughter;a sound defeat
+changeover;an event that results in a transformation
+refinement;the result of improving something. 'he described a refinement of this technique'
+hardship;something that causes or entails suffering: 'i cannot thinking it a hardship that more more indulgence is allowed to men than to women'- james boswell. 'the many hardships of frontier life'
+attrition;a wearing down to weaken or destroy. 'a war of attrition'
+pulse;(electronics) a sharp transient wave in the normal electrical state (or a series of such transients). 'the pulsations seemed to be coming from a star'
+oscillation;(physics) a regular variation in value about a mean
+compression;the process or result of becoming smaller or pressed together: 'the contraction of a gas on cooling'
+sequel;something that follows something else
+coronary thrombosis;obstruction of blood flow in a coronary artery by a blood clot (thrombus)
+repeat;an event that repeats. 'the events today were a repeat of yesterday's'
+complication;a development that complicates a situation. 'the court's decision had many unforeseen ramifications'
+protraction;the act of prolonging something. 'there was an indefinite prolongation of the peace talks'
+transformation;a qualitative change
+finale;the concluding part of any performance
+decrease;a change downward. 'there was a sharp drop-off in sales'
+recovery;return to an original state. 'the recovery of the forest after the fire was surprisingly rapid'
+background;extraneous signals that can be confused with the phenomenon to be observed or measured. 'they got a bad connection and could hardly hear one another over the background signals'
+action replay;(television) showing again some action (especially sports action) that has been recorded on video tape
+raw deal;unfair treatment
+replacement;an event in which one thing is substituted for another
+breeding;the result of good upbringing (especially knowledge of correct social behavior). 'a woman of breeding and refinement'
+surprise;a sudden unexpected event
+breech delivery;delivery of an infant whose feet appear first
+ground swell;an obvious change of public opinion or political sentiment that occurs without leadership or overt expression. 'there was a ground swell of antiwar sentiment'
+transposition;an event in which one thing is substituted for another
+hap;an accidental happening. 'he recorded all the little haps and mishaps of his life'
+renewal;the act of renewing
+disintegration;total destruction. 'bomb tests resulted in the annihilation of the atoll'
+jump;a sudden and decisive increase. 'a jump in attendance'
+advance;a change for the better. progress in development
+vision;a religious or mystical experience of a supernatural appearance. 'he had a vision of the virgin mary'
+misfortune;unnecessary and unforeseen trouble
+repetition;the act of repeating
+curtain raising;the first performance (as of a theatrical production). 'the opening received good critical reviews'
+stall;a malfunction in the flight of an aircraft in which there is a sudden loss of lift that results in a downward plunge. 'the plane went into a stall and i couldn't control it'
+flood tide;the occurrence of incoming water (between a low tide and the following high tide)
+wreck;an accident that destroys a ship at sea
+fruit;the consequence of some effort or action. 'he lived long enough to see the fruit of his policies'
+return;happening again (especially at regular intervals). 'the return of spring'
+generalized seizure;a seizure (or a type of epilepsy characterized by such seizures) during which the patient becomes unconscious and has convulsions over the entire body
+cva;a sudden loss of consciousness resulting when the rupture or occlusion of a blood vessel leads to oxygen lack in the brain
+prophase;the first stage of mitosis
+inevitable;an unavoidable event. 'don't argue with the inevitable'
+revitalisation;the coming again into activity and prominence
+foreboding;an unfavorable omen
+impulse;(electronics) a sharp transient wave in the normal electrical state (or a series of such transients). 'the pulsations seemed to be coming from a star'
+rebirth;a second or new birth
+upbringing;properties acquired during a person's formative years
+flapping;the motion made by flapping up and down
+decision;(boxing) a victory won on points when no knockout has occurred: 'had little trouble in taking a unanimous decision over his opponent'
+disappearance;"the event of passing out of sight"
+encounter;a casual or unexpected convergence. 'he still remembers their meeting in paris'. 'there was a brief encounter in the hallway'
+enervation;serious weakening and loss of energy
+megadeath;the death of a million people. 'they calibrate the effects of atom bombs in megadeaths'
+bad luck;an unpredictable outcome that is unfortunate. 'if i didn't have bad luck i wouldn't have any luck at all'
+calvary;any experience that causes intense suffering
+tin disease;the transformation of ordinary white tin into powdery gray tin a very cold temperatures
+continuance;"the act of continuing or resuming an activity"
+sound wave;(acoustics) a wave that transmits sound
+slam;winning all or all but one of the tricks in bridge
+gravity wave;(physics) a wave that is hypothesized to propagate gravity and to travel at the speed of light
+wreck;a serious accident (usually involving one or more vehicles). 'they are still investigating the crash of the twa plane'
+kismat;(islamic) the will of allah
+thunderbolt;a shocking surprise. 'news of the attack came like a bombshell'
+increase;a change resulting in an increase. 'the fare increase is scheduled for next month'
+head;a difficult juncture. 'a pretty pass'. 'matters came to a head yesterday'
+defeat;an unsuccessful ending
+interference;electrical or acoustic activity that can disturb communication
+conclusion;"an event whose occurrence ends something. 'his death marked the ending of an era'"
+associate;any event that usually accompanies or is closely connected with another. 'first was the lightning and then its thunderous associate'
+persistence;the act of persevering
+breakdown;a cessation of normal operation. 'there was a power failure'
+coronary occlusion;occlusion of a coronary artery caused either by progressive atherosclerosis or by a blood clot
+lunar eclipse;the earth interrupts light shining on the moon
+iteration;doing or saying again
+prosecution;the continuance of something begun with a view to its completion
+catastrophe;an event resulting in great loss and misfortune. 'the whole city was affected by the irremediable calamity'. 'the earthquake was a disaster'
+outburst;"a sudden violent happening. 'an outburst of heavy rain'. 'a burst of lightning'"
+driftage;the deviation (by a vessel or aircraft) from its intended course due to drifting
+conjuncture;a critical combination of events or circumstances
+fall of man;(old testament) in judeo-christian mythology--when adam and eve ate of the fruit of the tree of knowledge of good and evil in the garden of eden god punished them by driving them out of the garden and into the world where they would be subject to sickness and pain and eventual death
+casualty;a decrease of military personnel or equipment
+loss;euphemistic expressions for death. 'thousands mourned his passing'
+undulation;(physics) a progressive disturbance propagated without displacement of the medium itself
+nurture;the properties acquired as a consequence of the way you were treated as a child
+continuation;"the act of continuing or resuming an activity"
+vanishing;a sudden or mysterious disappearance
+falling out;a personal or social separation (as between opposing factions). 'they hoped to avoid a break in relations'
+combat injury;a casualty to military personnel resulting from combat
+tribulation;an annoying or frustrating event. 'his mother-in-law's visits were a great trial for him'. 'life is full of tribulations'. 'a visitation of the plague'
+start;"the beginning of anything. 'it was off to a good start'"
+rush;a sudden burst of activity. 'come back after the rush'. 'he joined the gold rush'
+breech birth;delivery of an infant whose feet appear first
+poetic justice;an outcome in which virtue triumphs over vice (often ironically)
+sympathetic vibration;(physics) vibration produced by resonance
+cataplasia;(biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form
+divergence;a variation that deviates from the standard or norm. 'the deviation from the mean'
+raising;the properties acquired as a consequence of the way you were treated as a child
+failure;"an event that does not accomplish its intended purpose"
+landmark;an event marking a unique or important historical change or one on which important developments depend
+blackout;the failure of electric power for a general region
+tumble;a sudden drop from an upright position. 'he had a nasty spill on the ice'
+incident;"a single distinct event"
+shrinkage;process or result of becoming less or smaller: 'the material lost 2 inches per yard in shrinkage'
+diakinesis;the final stage of the prophase of meiosis
+replay;something (especially a game) that is played again
+variation;an instance of change. the rate or magnitude of change
+resuscitation;a revival of consciousness
+finish;the ending of a contest (as a race). 'it was an exciting finish'. 'i didn't stay for the close of the tournament'
+shame;an unfortunate development. 'it's a pity he couldn't do it'
+sacrifice;personnel that are sacrificed (e.g., surrendered or lost in order to gain an objective)
+omega;the ending of a series or sequence. 'the alpha and the omega, the first and the last, the beginning and the end'--revelation
+distortion;a change for the worse
+epilepsia minor;a seizure (or a type of epilepsy characterized by such seizures) of short duration characterized by momentary unconsciousness and local muscle spasms or twitching
+withering;any weakening or degeneration (especially through lack of use)
+xt;the presence of an unwanted signal via an accidental coupling
+smash;a serious collision (especially of motor vehicles)
+eradication;the complete destruction of every trace of something
+coup de theatre;a dramatic surprise
+pinch;a sudden unforeseen crisis (usually involving danger) that requires immediate action. 'he never knew what to do in an emergency'
+extermination;complete annihilation. 'they think a meteor cause the extinction of the dinosaurs'
+regeneration;the activity of spiritual or physical renewal
+appalling;an experience that appalls. 'is it better to view the appalling or merely hear of it?'
+pass;a difficult juncture. 'a pretty pass'. 'matters came to a head yesterday'
+monstrosity;something hideous or frightful. 'they regarded the atom bomb as a monstrosity'
+pass;one complete cycle of operations (as by a computer). 'it was not possible to complete the computation in a single pass'
+spot;a slight attack of illness. 'he has a touch of rheumatism'
+walkaway;an easy victory
+shipwreck;an irretrievable loss. 'that was the shipwreck of their romance'
+bad luck;unnecessary and unforeseen trouble
+small slam;winning all but one of the tricks in a hand of bridge
+matter of course;an inevitable event
+fortune;an unknown and unpredictable phenomenon that leads to a favorable outcome. 'it was my good luck to be there'. 'they say luck is a lady'. 'it was as if fortune guided his hand'
+condensation;the process or result of becoming smaller or pressed together: 'the contraction of a gas on cooling'
+ripple;(electronics) an oscillation of small amplitude imposed on top of a steady value
+crosstalk;the presence of an unwanted signal via an accidental coupling
+zygotene;the second stage of the prophase of meiosis
+abrupt change;"some occurrence that interrupts. 'the telephone is an annoying interruption'. 'there was a break in the action when a player was hurt'"
+appearance;"the event of coming into sight"
+place;(in horse racing) a finish in second place
+reversion;a reappearance of an earlier characteristic
+dislocation;an event that results in a displacement or discontinuity
+ordeal;a severe or trying experience
+puncture;loss of air pressure in a tire when a hole is made by some sharp object
+turkey;an event that fails badly or is totally ineffectual. 'the first experiment was a real turkey'. 'the meeting was a dud as far as new business was concerned'
+sequella;a secondary consequence
+paroxysm;a sudden uncontrollable attack. 'a paroxysm of giggling'. 'a fit of coughing'
+seiche;a wave on the surface of a lake or landlocked bay. caused by atmospheric or seismic disturbances
+denouement;the outcome of a complex sequence of events
+wave;(physics) a progressive disturbance propagated without displacement of the medium itself
+loss;military personnel lost by death or capture
+seedtime;any time of new development
+toss up;an unpredictable phenomenon. 'it's a toss-up whether he will win or lose'
+ground loop;a sharp uncontrollable turn made by an airplane while moving along the ground
+weakening;becoming weaker
+extinction;complete annihilation. 'they think a meteor cause the extinction of the dinosaurs'
+vibration;(physics) a regular variation in value about a mean
+romp;an easy victory
+cave in;the sudden collapse of something into a hollow beneath it
+dwindling;a becoming gradually less. 'there is no greater sadness that the dwindling away of a family'
+revitalization;the coming again into activity and prominence
+neap tide;a less than average tide occurring at the first and third quarters of the moon
+break;a personal or social separation (as between opposing factions). 'they hoped to avoid a break in relations'
+stationary wave;a wave (as a sound wave in a chamber or an electromagnetic wave in a transmission line) in which the ratio of its instantaneous amplitude at one point to that at any other point does not vary with time
+retrogression;passing from a more complex to a simpler biological form
+standstill;an interruption of normal activity
+fire;a severe trial. 'he went through fire and damnation'
+phlegmasia alba dolens;painful thrombosis of the femoral vein in the leg following childbirth
+aftermath;the outcome of an event especially as relative to an individual. 'that result is of no consequence'
+beat;a single pulsation of an oscillation produced by adding two waves of different frequencies. has a frequency equal to the difference between the two oscillations
+birthright;personal characteristics that are inherited at birth
+finis;the concluding part of any performance
+compaction;an increase in the density of something
+independence;the successful ending of the american revolution. 'they maintained close relations with england even after independence'
+metaphase;the second stage of meiosis
+sign;an event that is experienced as indicating important things to come. 'he hoped it was an augury'. 'it was a sign from god'
+apparition;an unexpected appearance or becoming visible. 'i was recalled to the present by the apparition of two cowboys riding toward me'
+harm;the occurrence of a change for the worse
+resurrection;revival from inactivity and disuse. 'it produced a resurrection of hope'
+burst;"a sudden violent happening. 'an outburst of heavy rain'. 'a burst of lightning'"
+moderation;a change for the better
+casualty;an accident that causes someone to die
+reiteration;doing or saying again
+misadventure;an instance of misfortune
+subsidence;the sudden collapse of something into a hollow beneath it
+densification;an increase in the density of something
+run;a row of unravelled stitches. 'she got a run in her stocking'
+ebbtide;the tide while water is flowing out
+curse;a severe affliction
+mischance;an unpredictable outcome that is unfortunate. 'if i didn't have bad luck i wouldn't have any luck at all'
+juncture;"an event that occurs at a critical time. 'at such junctures he always had an impulse to leave'. 'it was needed only on special occasions'"
+occlusion;closure or blockage of a blood vessel
+blow;an unpleasant or disappointing surprise. 'it came as a shock to learn that he was injured'. 'it was blow to their hopes of reconciliation'
+twist;an unforeseen development. 'events suddenly took an awkward turn'
+alpha;the beginning of a series or sequence. 'the alpha and omega, the first and the last, the beginning and the end'--revelations
+occasion;"an event that occurs at a critical time. 'at such junctures he always had an impulse to leave'. 'it was needed only on special occasions'"
+worst;the least favorable outcome. 'the worst that could happen'
+breakup;coming apart
+background noise;extraneous noise contaminating sound measurements that cannot be separated from the desired signal
+duplicating;the act of duplicating something. 'this kind of duplication is wasteful'
+safe period;that time during a woman's menstrual cycle during which conception is least likely to occur (usually immediately before of after menstruation)
+episode;"a happening that is distinctive in a series of related events"
+doom;an unpleasant or disastrous destiny. 'everyone was aware of the approaching doom but was helpless to avoid it'
+accommodation;making or becoming suitable. adjusting to circumstances
+checkmate;victory in a game of chess
+springtide;a greater than average tide occurring during the new and full moons
+syncope;a spontaneous loss of consciousness caused by insufficient blood to the brain
+high water;the tide when the water is highest
+replay;(television) showing again some action (especially sports action) that has been recorded on video tape
+neap;a less than average tide occurring at the first and third quarters of the moon
+kickoff;a start given to contestants. 'i was there with my parents at the kickoff'
+fiasco;a sudden and violent collapse
+recursion;(mathematics) an expression such that each term is generated by repeating a particular mathematical operation
+attenuation;weakening in force or intensity: 'attenuation in the volume of the sound'
+hazard;an unknown and unpredictable phenomenon that causes an event to result one way rather than another. 'bad luck caused his downfall'. 'it was a chance meeting'
+co occurrence;"an event or situation that happens at the same time as or in connection with another"
+population shift;a change in the relative numbers of the different groups of individuals making up a population
+equipment failure;a cessation of normal operation. 'there was a power failure'
+menstrual phase;the phase of the menstrual cycle during which the lining of the uterus is shed (the first day of menstrual flow is considered day 1 of the menstrual cycle)
+thromboembolism;occlusion by an embolus that has broken away from a thrombus
+turning point;an event marking a unique or important historical change or one on which important developments depend
+anaphase;the stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle
+sparkling;a rapid change in brightness
+petit mal;a seizure (or a type of epilepsy characterized by such seizures) of short duration characterized by momentary unconsciousness and local muscle spasms or twitching
+hurt;a damage or loss
+contagion;an incident is which an infectious disease is transmitted
+overturning;(nautical) the event of a boat accidentally turning over in the water
+triumph;a successful ending of a struggle or contest. 'the general always gets credit for his army's victory'. 'the agreement was a triumph for common sense'
+wrecking;the event of a structure being completely demolished and leveled
+derailment;an accident in which a train runs off its track
+emergency;a sudden unforeseen crisis (usually involving danger) that requires immediate action. 'he never knew what to do in an emergency'
+pulse;the rhythmic contraction and expansion of the arteries with each beat of the heart. 'he could feel the beat of her heart'
+resurgence;the coming again into activity and prominence
+inheritance;"any attribute that passes from parent to offspring"
+vanity fair;a vain and frivolous way of life especially in large cities (after a fair held in the town of vanity in pilgrim's progress)
+maiming;an injury that deprives you of a limb or other important body part
+opening;the first performance (as of a theatrical production). 'the opening received good critical reviews'
+throb;an instance of rapid strong pulsation (of the heart). 'he felt a throbbing in his head'
+transmutation;a qualitative change
+laugher;an easy victory
+happenstance;an event that might have been arranged although it was really accidental
+win;a finish in first place (as in a race or other competition). 'he was happy to get the win'
+pin;when a wrestler's shoulders are forced to the mat
+break;"some occurrence that interrupts. 'the telephone is an annoying interruption'. 'there was a break in the action when a player was hurt'"
+tin plague;the transformation of ordinary white tin into powdery gray tin a very cold temperatures
+engine failure;engine does not run
+course;"a mode of action. 'if you persist in that course you will surely fail'"
+nascence;the event of being born. 'they celebrated the birth of their first child'
+shock;an unpleasant or disappointing surprise. 'it came as a shock to learn that he was injured'. 'it was blow to their hopes of reconciliation'
+vis major;a natural and unavoidable catastrophe that interrupts the expected course of events. 'he discovered that his house was not insured against acts of god'
+fadeout;a slow or gradual disappearance
+dynamic headroom;the capacity of a system to reproduce loud sounds without distortion
+variant;an event that departs from expectations
+touch;a slight attack of illness. 'he has a touch of rheumatism'
+algorithmic rule;a precise rule (or set of rules) specifying how to solve some problem
+easing;a change for the better
+reward;a recompense for worthy acts or retribution for wrongdoing. 'the wages of sin is death'. 'virtue is its own reward'
+pulsation;(electronics) a sharp transient wave in the normal electrical state (or a series of such transients). 'the pulsations seemed to be coming from a star'
+anxiety attack;a sudden acute episode of intense anxiety and feelings of panic
+sunrise;the daily event of the sun rising above the horizon
+birthright;a right or privilege that you are entitled to at birth. 'free public education is the birthright of every american child'
+avalanche;"a sudden appearance of an overwhelming number of things. 'the program brought an avalanche of mail'"
+going;euphemistic expressions for death. 'thousands mourned his passing'
+pyrrhic victory;a victory that is won by incurring terrible losses
+fortune;an unknown and unpredictable phenomenon that causes an event to result one way rather than another. 'bad luck caused his downfall'. 'it was a chance meeting'
+concussion;injury to the brain caused by a blow. usually resulting in loss of consciousness
+rising tide;the occurrence of incoming water (between a low tide and the following high tide)
+interruption;"some occurrence that interrupts. 'the telephone is an annoying interruption'. 'there was a break in the action when a player was hurt'"
+onset;the beginning or early stages. 'the onset of pneumonia'

@@ -1,0 +1,7 @@
+communication-event
+event
+accomplishment
+particular
+Thing
+perdurant
+spatio-temporal-particular

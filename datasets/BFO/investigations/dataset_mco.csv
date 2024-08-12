@@ -1,0 +1,488 @@
+independent continuant;glycerol 1 g/l;colombos:glycerol:+1g/l
+independent continuant;synh medium;an artificial medium with a defined chemical composition designed to mimic afex-pretreated corn stover hydrolysate (acsh)
+independent continuant;glycerol 0.1 g/l;colombos:glycerol:+0.1g/l
+independent continuant;indole-3-acetic acid 0.5mm;colombos:iaa:0.5mm
+independent continuant;sodium chloride 5 m;colombos:nacl:2+3m
+independent continuant;lignotoxins medium;colombos:medium.lt
+independent continuant;ammonia fiber expansion corn stover hydrolysate;a hydrolysate prepared from corn stover pretreated by ammonia fiber expansion
+independent continuant;human urine;colombos:medium.real human
+independent continuant;ethanol 15% vol/vol;colombos:ethanol:15% volume/v
+independent continuant;human urine;colombos:medium.host individual
+independent continuant;hydrogen peroxide 30mm;colombos:h2o2:30mm
+independent continuant;enrofloxacin 128 g/ml;colombos:enrofloxacine:128 g/ml
+independent continuant;norfloxacin 1 g/ml;colombos:norfloxacin:1.000 g/ml
+independent continuant;hydrogen peroxide 1 mm;colombos:h2o2:1mm
+independent continuant;tellurite 0.05 g/ml;colombos:tellurite:0.05 g/ml
+independent continuant;n,n,n',n'-tetrakis(2-pyridylmethyl)ethylenediamine 10 m;colombos:tpen:10 m
+independent continuant;glyphosate 0.2 m;colombos:glyphosate:0.2m
+independent continuant;minimal defined medium;a defined microbiological culture medium that provides the minimum requirements (e.g., inorganic salts, but no amino acids) needed for growth of a particular bacterium or cell.
+independent continuant;ethanol 3% vol/vol;colombos:ethanol:3% volume/v
+independent continuant;glucose 2 mg/ml;colombos:glucose:2 g/l
+independent continuant;indole 0.5m;colombos:indole:0.5m
+independent continuant;glycine betaine 1mm;colombos:glycine betaine:1mm
+independent continuant;acetate 2 g/l;colombos:acetate:2 g/l
+independent continuant;norfloxacin 0.05 g/ml;colombos:norfloxacin:0.050 g/ml
+independent continuant;potassium cyanide 100 m;colombos:kcn:100 m
+independent continuant;nalidixic acid 100 g/ml;colombos:nalidixic acid:100 g/ml
+independent continuant;natural medium;a liquid or solid substance or entity that naturally exists, where microorganims are able to grow.
+independent continuant;kanamycin 30 g/ml;colombos:kanamycin:30 g/ml
+independent continuant;mannose 1%;colombos:manose:1%
+independent continuant;iron(2+) sulfate (anhydrous) 50 m;colombos:feso4:50um
+independent continuant;hydrogen peroxide 0.01 mm;colombos:h2o2:0.01mm
+independent continuant;glycerol 0.68 g/l;colombos:glycerol:0.68g/l
+independent continuant;hydrogen peroxide 10mm;colombos:h2o2:10mm
+independent continuant;sodium chloride 1.37 m;colombos:nacl:1.37m
+independent continuant;sodium chloride 10 m;colombos:nacl:10m
+independent continuant;sodium chloride 0.55 m;colombos:nacl:0.55m
+independent continuant;nitrate 0.01 m;colombos:nitrate:0.01m
+independent continuant;nalidixic acid 10 g/ml;colombos:nalidixic acid:10 g/ml
+independent continuant;sodium chloride 2 m;colombos:nacl:2m
+independent continuant;osmoprotectants medium;colombos:medium.osmoprotectants
+independent continuant;norfloxacin 2.5 g/ml;colombos:norfloxacin:2.5 g/ml
+independent continuant;mitomycin c 0.3 m;colombos:mmc:0.3 g/ml
+independent continuant;gentamycin 5 g/ml;colombos:gentamicin:5 g/ml
+independent continuant;mops rich medium;colombos:medium.mops rich
+independent continuant;penassay broth;colombos:medium.penassay
+independent continuant;formate 0.02 m;colombos:formate:0.02m
+independent continuant;nitrate 0.02 m;colombos:nitrate:0.02m
+independent continuant;titanium dioxide nanoparticle 100 mg/l;colombos:nanoparticles.tio2:100mg/l
+independent continuant;mevalonate 0.01 m;colombos:mevalonate:0.01m
+independent continuant;alanine 2 g/l;colombos:alanine:2 g/l
+independent continuant;nalidixic acid 2 g/ml;colombos:nalidixic acid:2 g/ml
+independent continuant;sodium chloride 3.5 m;colombos:nacl:2+1.5m
+independent continuant;sodium chloride 0.3 m;colombos:nacl:0.3m
+independent continuant;ethanol 4% vol/vol;colombos:ethanol:4% volume/v
+independent continuant;rich medium;nutrient media contain all the elements that most bacteria need for growth and are non-selective, so they are used for the general cultivation and maintenance of bacteria kept in laboratory culture collections
+independent continuant;artificial medium;a culture medium made specifically for the grow, storage, isolation, identification or transportation of microorganisms.
+independent continuant;serine hydroxamate 0.5mg/ml;colombos:shx:0.5mg/ml
+independent continuant;sodium benzoate 0.5% vol/vol;colombos:sodium benzoate:0+0.5% vol/vol
+independent continuant;glycerol 0.001 g/l;colombos:glycerol:0.001g/l
+independent continuant;hydrogen peroxide 5.88mm;colombos:h2o2:5.88mm
+independent continuant;mevalonate 0.02 m;colombos:mevalonate:0.02m
+independent continuant;bicozamycin 100 mcg/ml;colombos:bicyclomycin:100mcg/ml
+independent continuant;kanamycin 5 g/ml;colombos:kanamycin:5 g/ml
+independent continuant;ammonia fiber expansion corn stover hydrolysate;colombos:medium.acsh:+1
+independent continuant;erythromycin 0.075 g/l;colombos:erythromycin:0.075 g/l
+independent continuant;cefotaxime 0.13 g/ml;colombos:cefotaxime:0.13 g/ml
+independent continuant;cefsulodin 60 g/ml;colombos:cefsulodin:60 g/ml
+independent continuant;ethanol 2% vol/vol;colombos:ethanol:2% volume/v
+independent continuant;tellurite 16 gml;colombos:tellurite:0.5 g/ml
+independent continuant;tetracycline 0.25 g/ml;colombos:tetracycline:0.25 g/ml
+independent continuant;amoxicillin 1 g/ml;colombos:amoxicillin:1 g/ml
+independent continuant;bicozamycin 10 mcg/ml;colombos:bicyclomycin:10mcg/ml
+independent continuant;pyruvate 2 g/l;colombos:pyruvate:2g/l
+independent continuant;pantothenic acid 1mg/l;colombos:pantothenic acid:1mg/l
+independent continuant;corm 3 100 m;colombos:corm-3:100um
+independent continuant;octanoic acid 10 mm;colombos:octanoic acid:10mm
+independent continuant;butan-1-ol 0.8% vol/vol;colombos:butanol:0.8volume %
+independent continuant;biological entity;a biological entity is a heterogeneous substance that contains genomic material or is the product of a biological process.
+independent continuant;ethanol 1.5% vol/vol;colombos:ethanol:1.5% volume/v
+independent continuant;enrofloxacin 0.125 g/ml;colombos:enrofloxacine:0.125 g/ml
+independent continuant;human urine;colombos:medium.human urine
+independent continuant;mecillinam 0.3 g/ml;colombos:mecillinam:0.3 g/ml
+independent continuant;sodium chloride 1 m;colombos:nacl:1m
+independent continuant;hydrogen peroxide 1 mm;colombos:h2o2:+1mm
+independent continuant;tetracycline 16 g/ml;colombos:tetracycline:16 g/ml
+independent continuant;cccp 800 m;colombos:cccp:800 m
+independent continuant;norfloxacin 0.075 g/ml;colombos:norfloxacin:0.075 g/ml
+independent continuant;mannose 1%;colombos:manose:+1%
+independent continuant;sodium chloride 4.5 m;colombos:nacl:2+2.5m
+independent continuant;indole 1 mm;colombos:indole:0.1mm
+independent continuant;butan-1-ol 0.9% vol/vol;colombos:butanol:0.9volume %
+independent continuant;carbon dioxide 5% vol;colombos:co2:5%vol
+independent continuant;glucose 8.8 g/l;colombos:glucose:8.8 g/l
+independent continuant;sucrose 1250 mm;colombos:sucrose:1250mm
+independent continuant;sodium chloride 5.5 m;colombos:nacl:2+3.5m
+independent continuant;lactose 0.15%;colombos:lactose:0.15%
+independent continuant;isopentenol 0.2% vol/vol;colombos:isopentenol:0.2vol%
+independent continuant;norfloxacin 0.025 g/ml;colombos:norfloxacin:0.025 g/ml
+independent continuant;cisplatin 150 m;colombos:cisplatin:150um
+independent continuant;cefsulodin 10 g/ml;colombos:cefsulodin:10 g/ml
+independent continuant;azlocillin 10 g/ml;colombos:azlocillin:10 g/ml
+independent continuant;isopropyl beta-d-thiogalactopyranoside 2 mm;colombos:iptg:2mm
+independent continuant;hydrogen peroxide 20mm;colombos:h2o2:20mm
+independent continuant;bicozamycin 25 mcg/ml;colombos:bicyclomycin:25mcg/ml
+independent continuant;glycerol 0.4 g/l;colombos:glycerol:4g/l
+independent continuant;hydrogen peroxide 0.3mm;colombos:h2o2:0.3mm
+independent continuant;synh medium;colombos:medium.synh
+independent continuant;benzalconium chloride 50 ppm;colombos:benzalkonium chloride:50ppm
+independent continuant;mecillinam 0.03 g/ml;colombos:mecillinam:0.03 g/ml
+independent continuant;le392 conditioned medium;conditioned medium containing biologically active components obtained from e. coli strain le392
+independent continuant;lignotoxins medium;an artificial medium made up of inhibitory compounds that are lignin derivatives resulting from pretreatment and enzymatic hydrolysis of lignocellulose (lignotoxins)
+independent continuant;ampicillin 5 g/ml;colombos:ampicilin:5 g/ml
+independent continuant;ampicillin 20 g/ml;colombos:ampicilin:20 g/ml
+independent continuant;glycerol 0.4 g/l;colombos:glycerol:0.4g/l
+independent continuant;isopropyl beta-d-thiogalactopyranoside 1 mm;colombos:iptg:1mm
+independent continuant;sodium chloride 4 m;colombos:nacl:4m
+independent continuant;manganese(ii) chloride 0.00001 m;colombos:mncl2:0.00001m
+independent continuant;butan-1-ol 1% vol/vol;colombos:butanol:1volume %
+independent continuant;indole 1 mm;colombos:indole:1mm
+independent continuant;galactose 4 g/l;colombos:galactose:4g/l
+independent continuant;hydrogen peroxide 2mm;colombos:h2o2:2mm
+independent continuant;glycerol 0.4 g/l;colombos:glycerol:+4 g/lg/l
+independent continuant;ethanol 20% vol/vol;colombos:ethanol:20% volume/v
+independent continuant;autoinducer-2 0.1 mm;colombos:auto inducer 2:0.1mm
+independent continuant;peroxynitrite 300 m;colombos:peroxynitrite:300 m
+independent continuant;ammonia fiber expansion corn stover hydrolysate;colombos:medium.acsh
+independent continuant;poor medium;minimal salts plus glycerol and fumarate
+independent continuant;glycerol 2 g/l;colombos:glycerol:2g/l
+independent continuant;isobutanol 0.5% vol/vol;colombos:isobutanol:0.5%volume/vo
+independent continuant;isobutanol 1% vol/vol;colombos:isobutanol:1%volume/vo
+specifically dependent continuant;ldra overexpression mutant;colombos:ldra b4419.overexpression
+specifically dependent continuant;ldha knockout mutant;colombos:ldha.deletion
+specifically dependent continuant;ygiw knockout mutant;colombos:ygiw b3024.deletion
+specifically dependent continuant;d82g variant of gyra;colombos:gyra b2231.d82g variant
+specifically dependent continuant;ihfa knockout mutant;colombos:ihfa b1712.deletion
+specifically dependent continuant;nusa knockout mutant;colombos:nusa b3169.deletion
+specifically dependent continuant;trpr knockout mutant;colombos:trpr b4393.deletion
+specifically dependent continuant;od550;colombos:od550
+specifically dependent continuant;lsrr knockout mutant;colombos:lsrr b1512.deletion
+specifically dependent continuant;narx knockout mutant;colombos:narx b1222.deletion
+specifically dependent continuant;rraa overexpression mutant;colombos:rraa b3929.overexpression
+specifically dependent continuant;hha24e9 variant of hha;colombos:hha b0460.24e9 variant
+specifically dependent continuant;qor knockout mutant;colombos:qor b4051.deletion
+specifically dependent continuant;ygin knockout mutant;colombos:ygin b3029.deletion
+specifically dependent continuant;cysq knockout mutant;colombos:cysq b4214.deletion
+specifically dependent continuant;mqsa overexpression mutant;colombos:mqsa b3021.overexpression
+specifically dependent continuant;spef knockout mutant;colombos:spef b0693.deletion
+specifically dependent continuant;rimi overexpression mutant;colombos:rimi b4373.overexpression
+specifically dependent continuant;ph 8.5;colombos:ph:7+1.5
+specifically dependent continuant;dpia overexpression mutant;colombos:dpia b0620.overexpression
+specifically dependent continuant;phoq knockout mutant;colombos:phoq b1129.deletion
+specifically dependent continuant;cadb knockout mutant;colombos:cadb b4132.deletion
+specifically dependent continuant;od600 of 0.15;colombos:od600:0.15
+specifically dependent continuant;od600 of 4.8;colombos:od600:0.5+4.3
+specifically dependent continuant;nrdb overexpression mutant;colombos:nrdb b2235.overexpression
+specifically dependent continuant;od600 of 1.1;colombos:od600:1.1
+specifically dependent continuant;dnaj knockout mutant;colombos:dnaj b0015.deletion
+specifically dependent continuant;appy knockout mutant;colombos:appy b0564.deletion
+specifically dependent continuant;ycfr knockout mutant;colombos:ycfr b1112.deletion
+specifically dependent continuant;lrp knockout mutant;colombos:lrp b0889.deletion
+specifically dependent continuant;growth rate of 0.3 h-1;colombos:growth rate:+0.3h-1
+specifically dependent continuant;ph 5.5;colombos:ph:7-1.5
+specifically dependent continuant;bglj knockout mutant;colombos:bglj.deletion
+specifically dependent continuant;soxr knockout mutant;colombos:soxr b4063.deletion
+specifically dependent continuant;mqsr overexpression mutant;colombos:mqsr b3022.overexpression
+specifically dependent continuant;yjjp knockout mutant;colombos:yjjp.deletion
+specifically dependent continuant;yoeb overexpression mutant;colombos:yoeb b4539.overexpression
+specifically dependent continuant;mntr knockout mutant;colombos:mntr b0817.deletion
+specifically dependent continuant;phoh knockout mutant;colombos:phoh b1020.deletion
+specifically dependent continuant;od600 of 2.4;colombos:od600:2.4
+specifically dependent continuant;fklb overexpression mutant;colombos:fklb b4207.overexpression
+specifically dependent continuant;growth rate of 0.2 h-1;colombos:growth rate:0.1+0.1h-1
+specifically dependent continuant;dnaa overexpression mutant;colombos:dnaa b3702.overexpression
+specifically dependent continuant;ph 4.5;colombos:ph:7-2.5
+specifically dependent continuant;od600 of 0.3;colombos:od600:0.6-0.3
+specifically dependent continuant;58.0 c;colombos:temperature:37+21 c
+specifically dependent continuant;norr knockout mutant;colombos:norr b2709.deletion
+specifically dependent continuant;dinj overexpression mutant;colombos:dinj b0226.overexpression
+specifically dependent continuant;gyri overexpression mutant;colombos:gyri b2009.overexpression
+specifically dependent continuant;od600 of 0.3;colombos:od600:0.5-0.2
+specifically dependent continuant;muri overexpression mutant;colombos:muri b3967.overexpression
+specifically dependent continuant;30.0 c;colombos:temperature:37-7 c
+specifically dependent continuant;sucb knockout mutant;colombos:sucb b0727.deletion
+specifically dependent continuant;od600 of 1.0;colombos:od600:1.0
+specifically dependent continuant;growth rate of 0.48 h-1;colombos:growth rate:0.11+0.37h-1
+specifically dependent continuant;gadw knockout mutant;colombos:gadw b3515.deletion
+specifically dependent continuant;gcvt knockout mutant;colombos:gcvt b2905.deletion
+specifically dependent continuant;phob knockout mutant;colombos:phob b0399.deletion
+specifically dependent continuant;bcp overexpression mutant;colombos:bcp b2480.overexpression
+specifically dependent continuant;hha13d6 variant of hha;colombos:hha b0460.13d6 variant
+specifically dependent continuant;23.0 c;colombos:temperature:30-7 c
+specifically dependent continuant;spea knockout mutant;colombos:spea b2938.deletion
+specifically dependent continuant;dinp overexpression mutant;colombos:dinp b0231.overexpression
+specifically dependent continuant;34.0 c;colombos:temperature:34 c
+specifically dependent continuant;pnp knockout mutant;colombos:pnp b3164.deletion
+specifically dependent continuant;phou knockout mutant;colombos:phou b3724.deletion
+specifically dependent continuant;eno knockout mutant;colombos:eno b2779.deletion
+specifically dependent continuant;hcar knockout mutant;colombos:hcar b2537.deletion
+specifically dependent continuant;od600 of 0.03;colombos:od600:0.03
+specifically dependent continuant;ghos overexpression mutant;colombos:ghos b4128.overexpression
+specifically dependent continuant;mine overexpression mutant;colombos:mine b1174.overexpression
+specifically dependent continuant;seqa knockout mutant;colombos:seqa b0687.deletion
+specifically dependent continuant;fis knockout mutant;colombos:fis b3261.deletion
+specifically dependent continuant;rstb overexpression mutant;colombos:rstb b1609.overexpression
+specifically dependent continuant;ph 5.5;colombos:ph:5.5
+specifically dependent continuant;2-1 variant of mqsr;colombos:mqsr b3022.2-1 variant
+specifically dependent continuant;mpra overexpression mutant;an overexpression mutant in which mpra is expressed at higher levels than the wild type
+specifically dependent continuant;suca knockout mutant;colombos:suca b0726.deletion
+specifically dependent continuant;od600 of 2.7;colombos:od600:0.5+2.2
+specifically dependent continuant;yceb knockout mutant;colombos:yceb b1063.deletion
+specifically dependent continuant;adia knockout mutant;colombos:adia b4117.deletion
+specifically dependent continuant;growth rate of 0.21 h-1;colombos:growth rate:0.11+0.10h-1
+specifically dependent continuant;mpra overexpression mutant;colombos:emrr.overexpression
+specifically dependent continuant;growth rate of 0.26 h-1;colombos:growth rate:0.11+0.15h-1
+specifically dependent continuant;galf overexpression mutant;colombos:galf b2042.overexpression
+specifically dependent continuant;qsec knockout mutant;colombos:qsec b3026.deletion
+specifically dependent continuant;od600 of 0.35;colombos:od600:0.35
+specifically dependent continuant;rpoe overexpression mutant;colombos:rpoe b2573.overexpression
+specifically dependent continuant;ph 7.6;colombos:ph:7.6
+specifically dependent continuant;bdca knockout mutant;colombos:yjgi-b4249.deletion
+specifically dependent continuant;grxa knockout mutant;colombos:grxa b0849.deletion
+specifically dependent continuant;accd overexpression mutant;colombos:accd b2316.overexpression
+specifically dependent continuant;xylr overexpression mutant;colombos:xylr.overexpression
+specifically dependent continuant;aeration;a physical quality that inheres in a bearer by virtue of the amount of oxygen or air the bearer contains
+specifically dependent continuant;patz knockout mutant;colombos:patz-b2584.deletion
+specifically dependent continuant;cpxr overexpression mutant;colombos:cpxr b3912.overexpression
+specifically dependent continuant;ph 11.8;colombos:ph:7+4.8
+specifically dependent continuant;rpon knockout mutant;colombos:rpon b3202.deletion
+specifically dependent continuant;acca overexpression mutant;colombos:acca b0185.overexpression
+specifically dependent continuant;rng knockout mutant;colombos:rng b3247.deletion
+specifically dependent continuant;lon overexpression mutant;colombos:lon b0439.overexpression
+specifically dependent continuant;dppc knockout mutant;colombos:dppc b3542.deletion
+specifically dependent continuant;growth rate of 0.11 h-1;colombos:growth rate:0.11h-1
+specifically dependent continuant;60.0 c;colombos:temperature:37+23 c
+specifically dependent continuant;fis overexpression mutant;colombos:fis b3261.overexpression
+specifically dependent continuant;mind overexpression mutant;colombos:mind b1175.overexpression
+specifically dependent continuant;growth rate of 0.2 h-1;colombos:growth rate:0.2h-1
+specifically dependent continuant;ruvc overexpression mutant;colombos:ruvc b1863.overexpression
+specifically dependent continuant;od600 of 0.6;colombos:od600:0.6
+specifically dependent continuant;hslj knockout mutant;colombos:hslj b1379.deletion
+specifically dependent continuant;rraa knockout mutant;colombos:rraa b3929.deletion
+specifically dependent continuant;rcsb knockout mutant;colombos:rcsb.deletion
+specifically dependent continuant;od600;an optical density that specifies the amount of light of 600 nm of wavelenght the bearer is able to transmit
+specifically dependent continuant;ph 5.3;colombos:ph:5.3
+specifically dependent continuant;planktonic growth;colombos:growth.planktonic
+specifically dependent continuant;growth rate of 0.4 h-1;colombos:growth rate:0.1+0.3h-1
+specifically dependent continuant;nsrr knockout mutant;colombos:nsrr-b4178.deletion
+specifically dependent continuant;nupc overexpression mutant;colombos:nupc b2393.overexpression
+specifically dependent continuant;od600 of 15;colombos:od600:15
+specifically dependent continuant;rhlb knockout mutant;colombos:rhlb b3780.deletion
+specifically dependent continuant;dini overexpression mutant;colombos:dini b1061.overexpression
+specifically dependent continuant;ydcr knockout mutant;colombos:ydcr b1439.deletion
+specifically dependent continuant;leuo overexpression mutant;colombos:leuo.overexpression
+specifically dependent continuant;growth rate of 0.3 h-1;colombos:growth rate:0.2+0.1h-1
+specifically dependent continuant;cspf overexpression mutant;colombos:cspf b1558.overexpression
+specifically dependent continuant;crp overexpression mutant;colombos:crp b3357.overexpression
+specifically dependent continuant;133 variant of fhla;colombos:fhla b2731.133 variant
+specifically dependent continuant;ymgb knockout mutant;colombos:ymgb b1166.deletion
+specifically dependent continuant;ph 7.4;colombos:ph:7.4
+specifically dependent continuant;growth rate of 0.6 h-1;colombos:growth rate:0.1+0.5h-1
+specifically dependent continuant;menc overexpression mutant;colombos:menc b2261.overexpression
+specifically dependent continuant;od600 of 1.0;colombos:od600:0.5+0.5
+specifically dependent continuant;ruva overexpression mutant;colombos:ruva b1861.overexpression
+specifically dependent continuant;ph 3.5;colombos:ph:3.5
+specifically dependent continuant;od600 of 0.1;colombos:od600:0.1
+specifically dependent continuant;ph 5.7;colombos:ph:7-1.3
+specifically dependent continuant;rne knockout mutant;colombos:rne b1084.deletion
+specifically dependent continuant;tnaa knockout mutant;colombos:tnaa b3708.deletion
+specifically dependent continuant;37.0 c;colombos:temperature:37 c
+specifically dependent continuant;hdeb knockout mutant;colombos:hdeb b3509.deletion
+specifically dependent continuant;gcvp knockout mutant;colombos:gcvp b2903.deletion
+specifically dependent continuant;yncc knockout mutant;colombos:yncc b1450.deletion
+specifically dependent continuant;yjjq knockout mutant;colombos:yjjq.deletion
+specifically dependent continuant;od600 of 0.05;colombos:od600:0.05
+specifically dependent continuant;uspa overexpression mutant;colombos:uspa b3495.overexpression
+specifically dependent continuant;ph 5.0;colombos:ph:5
+specifically dependent continuant;71.0 c;colombos:temperature:37+34 c
+specifically dependent continuant;sdia knockout mutant;colombos:sdia b1916.deletion
+specifically dependent continuant;mnme knockout mutant;colombos:mnme b3706.deletion
+specifically dependent continuant;kdpe knockout mutant;colombos:kdpe b0694.deletion
+specifically dependent continuant;hmp knockout mutant;colombos:hmp b2552.deletion
+specifically dependent continuant;ybjn overexpression mutant;colombos:ybjn-b0853.overexpression
+specifically dependent continuant;od600 of 10;colombos:od600:4+6
+specifically dependent continuant;growth rate of 0.7 h-1;colombos:growth rate:0.1+0.6h-1
+specifically dependent continuant;sped knockout mutant;colombos:sped b0120.deletion
+specifically dependent continuant;od600 of 4;colombos:od600:4
+specifically dependent continuant;grea overexpression mutant;colombos:grea b3181.overexpression
+specifically dependent continuant;fadr overexpression mutant;colombos:fadr b1187.overexpression
+specifically dependent continuant;mazf knockout mutant;colombos:mazf b2782.deletion
+specifically dependent continuant;od600 of 0.6;colombos:od600:0.5+0.1
+specifically dependent continuant;crp knockout mutant;colombos:crp b3357.deletion
+specifically dependent continuant;ribb knockout mutant;colombos:ribb b3041.deletion
+specifically dependent continuant;metj knockout mutant;colombos:metj b3938.deletion
+specifically dependent continuant;overexpression mutant;colombos:gral.overexpression
+specifically dependent continuant;od600 of 0.4;colombos:od600:0.4
+specifically dependent continuant;reca overexpression mutant;colombos:reca b2699.overexpression
+specifically dependent continuant;mcrc overexpression mutant;colombos:mcrc b4345.overexpression
+specifically dependent continuant;rela knockout mutant;colombos:rela b2784.deletion
+specifically dependent continuant;oxyr knockout mutant;colombos:oxyr b3961.deletion
+specifically dependent continuant;trpa knockout mutant;colombos:trpa.b1260.deletion
+specifically dependent continuant;od600 of 0.3;colombos:od600:0.3
+specifically dependent continuant;narl knockout mutant;colombos:narl b1221.deletion
+specifically dependent continuant;lexa knockout mutant;colombos:lexa b4043.deletion
+specifically dependent continuant;yfjf overexpression mutant;colombos:yfjf b2618.overexpression
+specifically dependent continuant;ph 5.7;colombos:ph:5.3+0.4
+specifically dependent continuant;uvra overexpression mutant;colombos:uvra b4058.overexpression
+specifically dependent continuant;od536 of 0.1;colombos:od536:0.1
+specifically dependent continuant;od600 of 0.2;colombos:od600:0.2
+specifically dependent continuant;ubie knockout mutant;colombos:ubie b3833.deletion
+specifically dependent continuant;ptsn knockout mutant;colombos:ptsn b3204.deletion
+specifically dependent continuant;rsea knockout mutant;colombos:rsea b2572.deletion
+specifically dependent continuant;accb overexpression mutant;colombos:accb b3255.overexpression
+specifically dependent continuant;dpia overexpression mutant;colombos:dpia b0620.overexpressionx2
+specifically dependent continuant;cada knockout mutant;colombos:cada b4131.deletion
+specifically dependent continuant;rimo knockout mutant;colombos:rimo.deletion
+specifically dependent continuant;hsca overexpression mutant;colombos:hsca b2526.overexpression
+specifically dependent continuant;25.0 c;colombos:temperature:37-12 c
+specifically dependent continuant;hha overexpression mutant;colombos:hha b0460.overexpression
+specifically dependent continuant;ylih knockout mutant;colombos:ylih b0836.deletion
+specifically dependent continuant;growth rate of 0.46 h-1;colombos:growth rate:0.46h-1
+specifically dependent continuant;spec knockout mutant;colombos:spec b2965.deletion
+specifically dependent continuant;k57n variant of h-ns;colombos:hns b1237.k57n variant
+specifically dependent continuant;greb overexpression mutant;colombos:greb b3406.overexpression
+specifically dependent continuant;crcb overexpression mutant;colombos:crcb b0624.overexpression
+specifically dependent continuant;narp knockout mutant;colombos:narp b2193.deletion
+specifically dependent continuant;rutr knockout mutant;colombos:rutr b1013.deletion
+specifically dependent continuant;yebf overexpression mutant;colombos:yebf b1847.overexpression
+specifically dependent continuant;umud overexpression mutant;colombos:umud b1183.overexpression
+specifically dependent continuant;crl knockout mutant;colombos:crl b0240.deletion
+specifically dependent continuant;lexa overexpression mutant;colombos:lexa b4043.overexpression
+specifically dependent continuant;sula overexpression mutant;colombos:sula b0958.overexpression
+specifically dependent continuant;od600 of 0.25;colombos:od600:0.25
+specifically dependent continuant;gadb knockout mutant;colombos:gadb b1493.deletion
+specifically dependent continuant;od650;an optical density that specifies the amount of light of 650 nm of wavelenght the bearer is able to transmit
+specifically dependent continuant;growth rate of 0.31 h-1;colombos:growth rate:0.11+0.20h-1
+specifically dependent continuant;32.0 c;colombos:temperature:32 c
+specifically dependent continuant;hda knockout mutant;colombos:had b2496.deletion
+specifically dependent continuant;hns knockout mutant;colombos:hns b1237.deletion
+specifically dependent continuant;acee knockout mutant;colombos:acee b0114.deletion
+specifically dependent continuant;hdea knockout mutant;colombos:hdea b3510.deletion
+specifically dependent continuant;od600 of 0.7;colombos:od600:0.7
+specifically dependent continuant;sgrr knockout mutant;colombos:sgrr b0069.deletion
+specifically dependent continuant;cra knockout mutant;colombos:cra.deletion
+specifically dependent continuant;growth rate of 0.1 h-1;colombos:growth rate:0.1h-1
+specifically dependent continuant;stpa knockout mutant;colombos:stpa b2669.deletion
+specifically dependent continuant;ihfb knockout mutant;colombos:ihfb b0912.deletion
+specifically dependent continuant;33.0 c;colombos:temperature:33 c
+specifically dependent continuant;hfq knockout mutant;colombos:hfq b4172.deletion
+specifically dependent continuant;od536;colombos:od536
+specifically dependent continuant;muts knockout mutant;colombos:muts b2733.deletion
+specifically dependent continuant;sgrs knockout mutant;colombos:sgrs b4577.deletion
+specifically dependent continuant;cysb knockout mutant;colombos:cysb b1275.deletion
+specifically dependent continuant;spee knockout mutant;colombos:spee b0121.deletion
+specifically dependent continuant;dppa knockout mutant;colombos:dppa b3544.deletion
+specifically dependent continuant;growth rate of 0.3 h-1;colombos:growth rate:0.3h-1
+specifically dependent continuant;leuo overexpression mutant;an overexpression mutant in which leuo is expressed at higher levels than in the wild type
+specifically dependent continuant;od600;colombos:od600
+specifically dependent continuant;ycao knockout mutant;colombos:ycao.deletion
+specifically dependent continuant;yjir knockout mutant;colombos:yjir b4340.deletion
+specifically dependent continuant;od600 of 4.7;colombos:od600:0.5+4.2
+specifically dependent continuant;45.0 c;colombos:temperature:37+8 c
+specifically dependent continuant;reca knockout mutant;colombos:reca b2699.deletion
+specifically dependent continuant;luxs knockout mutant;colombos:luxs b2687.deletion
+specifically dependent continuant;lon knockout mutant;colombos:lon b0439.deletion
+specifically dependent continuant;sdia overexpression mutant;colombos:sdia b1916.overexpression
+specifically dependent continuant;ybjn knockout mutant;colombos:ybjn-b0853.deletion
+specifically dependent continuant;gyra overexpression mutant;colombos:gyra b2231.overexpression
+specifically dependent continuant;dppf knockout mutant;colombos:dppf b3540.deletion
+specifically dependent continuant;growth rate of 0.4 h-1;colombos:growth rate:0.11+0.29h-1
+specifically dependent continuant;ppsa knockout mutant;colombos:ppsa b1702.deletion
+specifically dependent continuant;growth rate of 0.08 h-1;colombos:growth rate:0.11-0.03h-1
+specifically dependent continuant;od600 of 1.5;colombos:od600:0.3+1.2
+specifically dependent continuant;argr knockout mutant;colombos:argr b3237.deletion
+specifically dependent continuant;dksa knockout mutant;colombos:dksa b0145.deletion
+specifically dependent continuant;dnan overexpression mutant;colombos:dnan b3701.overexpression
+specifically dependent continuant;16.0 c;colombos:temperature:37-21 c
+specifically dependent continuant;od600 of 0.1;colombos:od600:0.5-0.4
+specifically dependent continuant;rpos knockout mutant;colombos:rpos b2741.deletion
+specifically dependent continuant;grxa knockout mutant;colombos:gss b2988.deletion
+specifically dependent continuant;speb knockout mutant;colombos:speb b2937.deletion
+specifically dependent continuant;rsd overexpression mutant;colombos:rsd b3995.overexpression
+specifically dependent continuant;od600 of 0.8;colombos:od600:0.8
+specifically dependent continuant;creb knockout mutant;colombos:creb b4398.deletion
+specifically dependent continuant;ph 8.7;colombos:ph:5+3.7
+specifically dependent continuant;ph 7.0;colombos:ph:5.5+1.5
+specifically dependent continuant;fola overexpression mutant;colombos:fola b0048.overexpression
+specifically dependent continuant;trpe knockout mutant;colombos:trpe b1264.deletion
+specifically dependent continuant;od600 of 1.6;colombos:od600:1.6
+specifically dependent continuant;yjbj knockout mutant;colombos:yjbj b4045.deletion
+specifically dependent continuant;30.0 c;colombos:temperature:30 c
+specifically dependent continuant;melr knockout mutant;colombos:melr b4118.deletion
+specifically dependent continuant;gadx knockout mutant;colombos:gadx b3516.deletion
+specifically dependent continuant;growth rate of 0.39 h-1;colombos:growth rate:0.46-0.07h-1
+specifically dependent continuant;growth rate of 0.2 h-1;colombos:growth rate:0.46-0.26h-1
+specifically dependent continuant;patz knockout mutant;colombos:pflb.deletion
+specifically dependent continuant;rele overexpression mutant;colombos:rele b1563.overexpression
+specifically dependent continuant;hha knockout mutant;colombos:hha b0460.deletion
+specifically dependent continuant;mazf overexpression mutant;colombos:mazf b2782.overexpression
+specifically dependent continuant;od600 of 1.7;colombos:od600:0.5+1.2
+specifically dependent continuant;cueo knockout mutant;colombos:cueo b0123.deletion
+specifically dependent continuant;fhla knockout mutant;colombos:fhla b2731.deletion
+specifically dependent continuant;flhd knockout mutant;colombos:flhd b1892.deletion
+specifically dependent continuant;od600 of 0.4;colombos:od600:0.5-0.1
+specifically dependent continuant;mqsr knockout mutant;colombos:mqsr b3022.deletion
+specifically dependent continuant;cobb knockout mutant;colombos:cobb-b1120.deletion
+specifically dependent continuant;42.0 c;colombos:temperature:37+5 c
+specifically dependent continuant;accc overexpression mutant;colombos:accc b3256.overexpression
+specifically dependent continuant;fur knockout mutant;colombos:fur b0683.deletion
+specifically dependent continuant;dam overexpression mutant;colombos:dam b3387.overexpression
+specifically dependent continuant;hlpa overexpression mutant;colombos:hlpa.overexpression
+specifically dependent continuant;cpxa knockout mutant;colombos:cpxa b3911.deletion
+specifically dependent continuant;50.0 c;colombos:temperature:37+13 c
+specifically dependent continuant;od600 of 0.5;colombos:od600:0.5
+specifically dependent continuant;growth rate of 0.36 h-1;colombos:growth rate:0.11+0.25h-1
+specifically dependent continuant;ldcc knockout mutant;colombos:ldcc b0186.deletion
+specifically dependent continuant;ph 7.0;colombos:ph:5+2
+specifically dependent continuant;growth rate of 0.3 h-1;colombos:growth rate:0.1+0.2h-1
+specifically dependent continuant;mgrr knockout mutant;colombos:mgrr b4698.deletion
+specifically dependent continuant;od600 of 1.5;colombos:od600:1.5
+specifically dependent continuant;pgi knockout mutant;colombos:pgi b4025.deletion
+specifically dependent continuant;15.0 c;colombos:temperature:37-22 c
+specifically dependent continuant;optical density;a physical quality that inheres in a bearer by virtue of the amount of light that the bearer of the quality is able to transmit
+specifically dependent continuant;zipa overexpression mutant;colombos:zipa b2412.overexpression
+specifically dependent continuant;ph 7.0;colombos:ph:7
+specifically dependent continuant;iscr knockout mutant;colombos:iscr b2531.deletion
+specifically dependent continuant;nrda overexpression mutant;colombos:nrda b2234.overexpression
+specifically dependent continuant;pyrc overexpression mutant;colombos:pyrc b1062.overexpression
+specifically dependent continuant;cnu knockout mutant;colombos:cnu b1625.deletion
+specifically dependent continuant;spy knockout mutant;colombos:spy b1743.deletion
+specifically dependent continuant;26.0 c;colombos:temperature:26 c
+specifically dependent continuant;od600 of 1.7;colombos:od600:1.7
+specifically dependent continuant;qseb knockout mutant;colombos:qseb b3025.deletion
+specifically dependent continuant;25.0 c;colombos:temperature:25 c
+specifically dependent continuant;arca knockout mutant;colombos:arca b4401.deletion
+specifically dependent continuant;20.0 c;colombos:temperature:20 c
+specifically dependent continuant;od600 of 4.5;colombos:od600:0.5+4.0
+specifically dependent continuant;gcvr overexpression mutant;colombos:gcvr b2479.overexpression
+specifically dependent continuant;bglj overexpression mutant;colombos:bglj.overexpression
+specifically dependent continuant;ychh knockout mutant;colombos:ychh b1205.deletion
+specifically dependent continuant;nusg knockout mutant;colombos:nusg b3982.deletion
+specifically dependent continuant;od536;an optical density that specifies the amount of light of 536 nm of wavelenght the bearer is able to transmit
+specifically dependent continuant;dam knockout mutant;colombos:dam b3387.deletion
+specifically dependent continuant;leuo knockout mutant;colombos:leuo.deletion
+specifically dependent continuant;od600 of 0.9;colombos:od600:0.9
+specifically dependent continuant;ycad knockout mutant;colombos:ycad b0898.deletion
+specifically dependent continuant;hold overexpression mutant;colombos:hold b4372.overexpression
+specifically dependent continuant;od600 of 0.95;colombos:od600:0.95
+specifically dependent continuant;dppb knockout mutant;colombos:dppb b3543.deletion
+specifically dependent continuant;rece knockout mutant;colombos:rece b1350.deletion
+specifically dependent continuant;rpos overexpression mutant;colombos:rpos b2741.overexpression
+specifically dependent continuant;spot knockout mutant;colombos:spot b3650.deletion
+specifically dependent continuant;growth rate of 0.4 h-1;colombos:growth rate:0.4h-1
+specifically dependent continuant;43.0 c;colombos:temperature:30+13 c
+specifically dependent continuant;rpos knockout mutant;a knockout mutant in which the function of rpos gene has been disrupted
+specifically dependent continuant;menb overexpression mutant;colombos:menb b2262.overexpression
+specifically dependent continuant;ycep knockout mutant;colombos:ycep b1060.deletion
+specifically dependent continuant;dppd knockout mutant;colombos:dppd b3541.deletion
+specifically dependent continuant;glrr knockout mutant;colombos:qsef.deletion
+specifically dependent continuant;fnr knockout mutant;colombos:fnr b1334.deletion
+specifically dependent continuant;rpoh overexpression mutant;colombos:rpoh b3461.overexpression
+specifically dependent continuant;mcrb overexpression mutant;colombos:mcrb b4346.overexpression
+specifically dependent continuant;ihfb overexpression mutant;colombos:ihfb b0912.overexpression
+specifically dependent continuant;lexa knockout mutant;colombos:lexa3.deletion
+specifically dependent continuant;yqhc knockout mutant;colombos:yqhc-b3010.deletion
+specifically dependent continuant;dnat overexpression mutant;colombos:dnat b4362.overexpression
+specifically dependent continuant;od600 of 1.3;colombos:od600:0.5+0.8
+specifically dependent continuant;growth rate of 0.4 h-1;colombos:growth rate:0.2+0.2h-1
+specifically dependent continuant;lsrk knockout mutant;colombos:lsrk b1511.deletion
+specifically dependent continuant;growth rate of 0.29 h-1;colombos:growth rate:0.46-0.17h-1
+specifically dependent continuant;biological quality;a biological quality is a quality held by a biological entity.
+specifically dependent continuant;taba knockout mutant;colombos:yjgk.deletion
+specifically dependent continuant;sbcb overexpression mutant;colombos:sbcb b2011.overexpression
+specifically dependent continuant;od600 of 10;colombos:od600:10
+specifically dependent continuant;35.7 c;colombos:temperature:35.7 c
+specifically dependent continuant;phop knockout mutant;colombos:phop b1130.deletion
+specifically dependent continuant;hcar overexpression mutant;colombos:hcar b2537.overexpression
+specifically dependent continuant;od550;an optical density that specifies the amount of light of 550 nm of wavelenght the bearer is able to transmit
+specifically dependent continuant;maze knockout mutant;colombos:maze-b2783.deletion
+specifically dependent continuant;era overexpression mutant;colombos:era b2566.overexpression
+specifically dependent continuant;od600 of 2;colombos:od600:2
+specifically dependent continuant;gene variant mutant;a mutant genotype in which one or more genes can have modifications (subtitutions, indels, partial truncations, etc), but they conserve functionality
+specifically dependent continuant;soxs knockout mutant;colombos:soxs b4062.deletion
+specifically dependent continuant;flhc knockout mutant;colombos:flhc b1891.deletion
+specifically dependent continuant;42.0 c;colombos:temperature:30+12 c
+process;heat stress treatment;colombos:heatshock
+process;agitation;moving back and forth or with an irregular, rapid, or violent action
+process;treatment;a process in which the act is intended to modify or alter some other material entity,
+process;experimental process;a process performed as part of an experiment or wider study, i.e. intentionally designed.
