@@ -16,11 +16,10 @@ The study particularly focuses on the Gene Ontology (GO) and Chemical Entities o
 
 ## Repository Structure
 
-- `code/`: Contains the Python scripts and Jupyter notebooks used for preprocessing, training, and evaluating the models.
-- `data/`: Includes the datasets used for the experiments, with entities from the GO and ChEBI ontologies.
-- `results/`: Outputs from the experiments, including classification metrics and confusion matrices.
-- `paper/`: The full paper presented at ONTOBRAS 2024, available for reference.
-
+- `log/`: Contains the output results of all experiments considering all domains and domain ontologies.
+- `datasets/`: Includes the datasets used for the experiments, with entities from the GO and ChEBI ontologies.
+- `confusion matrix/`: Contains the output confusion matrixes of all experiments considering all domains and domain ontologies.
+- The rest of the folder contains the required packages to perform the experiments
 ## Installation
 
 To replicate the experiments, clone the repository and install the required dependencies:
