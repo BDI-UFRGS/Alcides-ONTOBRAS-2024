@@ -75,11 +75,13 @@ class BFODatasetBuilder:
         if copula_index is None:
             return None
         
-        # Find the genus phrase (usually a noun phrase after the copula)
+        # Find the genus phrase - a noun phrase after the copula
         genus_phrase = []
         for token in doc[copula_index + 1:]:
             if token.pos_ in ["NOUN", "ADJ", "DET"]:
                 genus_phrase.append(token.text)
+            elif token.dep_ in ["relcl", "acl", "advcl"]:
+                break
             elif genus_phrase:
                 break
 
