@@ -1,0 +1,50 @@
+{
+    "independent continuant": {
+        "precision": 0.2923309670662167,
+        "recall": 0.8351063829787234,
+        "f1-score": 0.43306611499008707,
+        "support": 3008.0
+    },
+    "specifically dependent continuant": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+    },
+    "generically dependent continuant": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+    },
+    "process": {
+        "precision": 0.9840233398166157,
+        "recall": 0.7532435306628855,
+        "f1-score": 0.8533049554252671,
+        "support": 28210.0
+    },
+    "micro avg": {
+        "precision": 0.7734196992383309,
+        "recall": 0.7611313985521174,
+        "f1-score": 0.7672263480787859,
+        "support": 31218.0
+    },
+    "macro avg": {
+        "precision": 0.3190885767207081,
+        "recall": 0.39708747841040226,
+        "f1-score": 0.32159276760383854,
+        "support": 31218.0
+    },
+    "weighted avg": {
+        "precision": 0.9173755514498657,
+        "recall": 0.7611313985521174,
+        "f1-score": 0.8128129818193659,
+        "support": 31218.0
+    },
+    "samples avg": {
+        "precision": 0.7611313985521174,
+        "recall": 0.7611313985521174,
+        "f1-score": 0.7611313985521174,
+        "support": 31218.0
+    }
+}

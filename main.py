@@ -1,7 +1,7 @@
 from dataset.dlp import DLPDatasetBuilder
 from dataset.bfo import BFODatasetBuilder
 from encoder.embedding import EmbeddingGenerator
-from experiment.per_ontology import PerOntologyToTLP, PerFileExperiment
+from experiment.per_ontology import PerOntologyToTLP, PercentagePerOntologyToTLP
 from experiment.per_tlp import PerTLPExperiment
 from experiment.per_domain import PerDomainExperiment
 from experiment.cross_domain import CrossDomainExperiment
@@ -30,7 +30,7 @@ dlp_domains = ['WN', 'WIKI']
 
 # DLPDatasetBuilder(file_dir='datasets\\DLP\WIKI.csv', output_dir='input_dataset\\dlp', target_classes=dlp_target_classes)
 # DLPDatasetBuilder(file_dir='datasets\\DLP\WN.csv', output_dir='input_dataset\\dlp', target_classes=dlp_target_classes)
-BFODatasetBuilder(folder_dir='datasets\\BFO', output_dir='input_dataset\\bfo', target_classes=bfo_target_classes)
+# BFODatasetBuilder(folder_dir='datasets\\BFO', output_dir='input_dataset\\bfo', target_classes=bfo_target_classes)
 
 
 # EmbeddingGenerator(input_dir='input_dataset\\bfo', output_dir='embedding_dataset\\bfo')
@@ -53,7 +53,8 @@ BFODatasetBuilder(folder_dir='datasets\\BFO', output_dir='input_dataset\\bfo', t
 # CrossDomainExperiment(tlp='bfo')
 
 
-# PerOntologyToTLP(tlp='bfo')
+PercentagePerOntologyToTLP(tlp='bfo', dataset_name='go')
+# PercentagePerOntologyToTLP(tlp='bfo', dataset_name='chebi')
 
 # from plot.bar_chat import Bar
 

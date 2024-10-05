@@ -64,7 +64,7 @@ class Experiment:
 
         knn = NearestNeighbors(n_neighbors=5)
         knn.fit(list(X_train['embedding']))
-        print(X_train)
+        # print(X_train)
         # Find the 5 closest training instances for each test sample
 
         # for x_test in X_test:
@@ -119,7 +119,7 @@ class Experiment:
 
         knn = NearestNeighbors(n_neighbors=5)
         knn.fit(list(X_train['embedding']))
-        print(X_train)
+        # print(X_train)
         # Find the 5 closest training instances for each test sample
 
         # for x_test in X_test:
@@ -172,7 +172,7 @@ class Experiment:
     def _train_test_split(self, X: pd.DataFrame, y: pd.DataFrame, test_size: float):
         
         columns = X.columns
-
+        np.random.seed(0)
         X_train, y_train, X_test, y_test = iterative_train_test_split(X.values, y, test_size=test_size)
         
         return pd.DataFrame(X_train, columns=columns), y_train, pd.DataFrame(X_test, columns=columns), y_test 
