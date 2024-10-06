@@ -69,56 +69,134 @@ import os
 import json
 import matplotlib.pyplot as plt
 
+ontology = 'go'
 # Path to the folder containing JSON files
-folder_path = 'log\wrong\chebi'
+wrong_folder_path = f'log\wrong\{ontology}'
+correcly_folder_path = f'log\correctly\{ontology}'
 
 # Function to read all JSON files from a folder
-def load_json_files(folder_path):
+def load_correctly_json_files():
     data_list = []
-    for file_name in os.listdir(folder_path):
-        if file_name.endswith('.json'):
-            file_path = os.path.join(folder_path, file_name)
-            with open(file_path, 'r') as file:
+    for i in range(0, 100):
+        file_path = os.path.join(correcly_folder_path, f'right_ontology_{ontology.upper()}_{i}.json')
+
+        with open(file_path, 'r') as file:
                 data = json.load(file)
                 data_list.append(data)
     return data_list
 
+def load_wrong_json_files():
+    data_list = []
+    for i in range(0, 100):
+        file_path = os.path.join(wrong_folder_path, f'wrong_ontology_{ontology.upper()}_{i}.json')
+
+        with open(file_path, 'r') as file:
+                data = json.load(file)
+                data_list.append(data)
+    return data_list
+
+
 # Function to calculate proportions for each dataset
-def calculate_proportion(data, keys):
-    total = sum(data.values())
+def calculate_proportion(data, keys, total):
+    # total = sum(data.values())
     # Ensure we assign 0 to missing keys
     proportions = {key: data.get(key, 0) / total for key in keys}
     return proportions
 
 # Load all datasets from the folder
-datasets = load_json_files(folder_path)
+wrong_datasets = load_wrong_json_files()
+correcly_datasets = load_correctly_json_files()
+
+target_dataset = correcly_datasets
 
 # Get all unique keys (ontologies) across all datasets
-all_keys = sorted(set().union(*[dataset.keys() for dataset in datasets]))
+keys = set()
 
-# Calculate proportions for each dataset
-proportions = [calculate_proportion(dataset, all_keys) for dataset in datasets]
+for dataset in wrong_datasets:
+    for key in dataset.keys():
+        keys.add(key)
 
-# Prepare data for plotting
-proportions_common = [[proportion[key] for key in all_keys] for proportion in proportions]
+for dataset in correcly_datasets:
+    for key in dataset.keys():
+        keys.add(key)
+
+all_keys = sorted(keys, reverse=False)
+
+total = [sum(wrong_dataset.values()) + sum(correcly_dataset.values()) for wrong_dataset, correcly_dataset in zip(wrong_datasets, correcly_datasets)]
+
+proportions = [calculate_proportion(dataset, all_keys, t) for dataset, t in zip(target_dataset, total)]
+
+print(total[12])
+
+classified_totals = {key: sum(dataset.get(key, 0) for dataset in target_dataset) for key in all_keys}
+
+top_6_ontologies = sorted(classified_totals, key=classified_totals.get, reverse=True)[:10]
+
+# Filter the proportions for only the top 6 ontologies
+filtered_keys = [key for key in top_6_ontologies if any(proportions[dataset_idx][key] > 0 for dataset_idx in range(len(wrong_datasets)))]
+
+# Calculate proportions for the filtered ontologies
+proportions_common = [[proportion[key] for key in filtered_keys] for proportion in proportions]
 
 # Create a plot
-x = range(1, len(datasets) + 1)  # Datasets indices (1, 2, 3, ..., n)
+x = range(1, len(wrong_datasets) + 1)  # Datasets indices (1, 2, 3, ..., n)
 
-fig, ax = plt.subplots(figsize=(12, 8))
+fig, ax = plt.subplots(figsize=(6, 5))
 
 # Plot lines for each ontology
-for i, ontology in enumerate(all_keys):
-    ax.plot(x, [proportions_common[dataset_idx][i] for dataset_idx in range(len(datasets))], label=ontology)
+for i, ontology in enumerate(filtered_keys):
+    ax.plot(x, [proportions_common[dataset_idx][i] for dataset_idx in range(len(wrong_datasets))], label=ontology)
 
 # Labeling
 ax.set_xlabel('Datasets')
 ax.set_ylabel('Proportion')
-ax.set_title('Ontology Proportions Across Datasets')
-# ax.set_xticks(x)
-# ax.set_xticklabels([f'Dataset {i+1}' for i in range(len(datasets))])
+ax.set_title('Top 6 Ontology Proportions Across Datasets')
+ax.set_ylim((0, 1))
 
 # Show legend and plot
 ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.tight_layout()
 plt.show()
+
+
+
+
+
+
+
+# filtered_keys = [
+#     key for key in all_keys
+#     if any(proportions[dataset_idx][key] > 0 for dataset_idx in range(len(target_dataset)))
+# ]
+
+
+# # Calculate proportions for each dataset
+
+# # Prepare data for plotting
+# proportions_common = [[proportion[key] for key in filtered_keys] for proportion in proportions]
+
+# # Create a plot
+# x = range(1, len(target_dataset) + 1)  # Datasets indices (1, 2, 3, ..., n)
+
+# fig, ax = plt.subplots(figsize=(6, 5))
+
+# # Plot lines for each ontology
+# # for i, ontology in enumerate(all_keys):
+# #     ax.plot(x, [proportions_common[dataset_idx][i] for dataset_idx in range(len(target_dataset))], label=ontology)
+
+# for i, ontology in enumerate(filtered_keys):
+#     ax.plot(x, [proportions_common[dataset_idx][i] for dataset_idx in range(len(target_dataset))], label=ontology)
+
+
+
+# # Labeling
+# ax.set_xlabel('Datasets')
+# ax.set_ylabel('Proportion')
+# ax.set_title('Ontology Proportions Across Datasets')
+# # ax.set_xticks(x)
+# # ax.set_xticklabels([f'Dataset {i+1}' for i in range(len(datasets))])
+# ax.set_ylim((0, 1))
+# # Show legend and plot
+# ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+# plt.tight_layout()
+# plt.show()
